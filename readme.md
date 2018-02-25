@@ -4,7 +4,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ## Table of contents
 
-* [English language](#english-language)
+* [English](#english)
   * [Facebook](#facebook)
   * [YouTube](#youtube)
   * [Twitter](#twitter)
@@ -49,7 +49,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [cars.com](#carscom)
   * [Garbarino](#garbarino)
   * [Miscellaneous](#miscellaneous)
-* [Russian language](#russian-language)
+* [Russian](#russian)
   * [Медуза](#Медуза)
   * [Flocktory](#flocktory-1)
   * [Бюро Горбунова](#Бюро-Горбунова)
@@ -59,7 +59,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Яндекс.Деньги](#ЯндексДеньги)
 * [License](#license)
 
-## English language
+## English
 
 ### [Facebook](https://facebook.com)
 
@@ -274,7 +274,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChromeLabs/discovery/issues/1)
 * [Case study: improving a popular library’s size for webpack users](https://iamakulov.com/notes/polished-webpack)
 
-## Russian language
+## Russian
 
 ### [Медуза](https://meduza.io/)
 
