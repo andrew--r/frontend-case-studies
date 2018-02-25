@@ -1,4 +1,6 @@
-# Frontend case studies
+![Frontend case studies logo](assets/logo.png)
+
+## Table of contents
 
 * [English language](#english-language)
 * [Russian language](#russian-language)
