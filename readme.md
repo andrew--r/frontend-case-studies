@@ -1,0 +1,261 @@
+# Frontend case studies
+
+* [English language](#english-language)
+* [Russian language](#russian-language)
+
+## English language
+
+### [Facebook](https://facebook.com)
+
+* [This browser tweak saved 60% of requests to Facebook](https://code.facebook.com/posts/557147474482256)
+* [Building High-Quality JavaScript Tools](https://developers.facebook.com/videos/f8-2017/building-high-quality-javascript-tools)
+* [Facebook has 30,000 react components. How do you manage large project directories with many components?](https://www.reddit.com/r/reactjs/comments/6al7h2/facebook_has_30000_react_components_how_do_you/dhgruqh/)
+* [React 16: A look inside an API-compatible rewrite of our frontend UI library](https://code.facebook.com/posts/1716776591680069)
+* [Behind the Scenes: Improving the React Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html)
+* [Design Systems & Tools at Facebook](https://vimeo.com/242899818)
+* [Building the F8 App with React Native](http://makeitopen.com)
+* [The technology behind preview photos](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/)
+
+### [YouTube](https://www.youtube.com)
+
+* [Polymer @ YouTube](https://youtu.be/tNulrEbTQf8)
+
+### [Twitter](https://twitter.com)
+
+* [View Source: Twitter.com](https://pusher.com/sessions/meetup/viennajs/view-source-twittercom)
+* [How we built Twitter Lite](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite.html)
+* [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+* [Infinite List and React](http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
+* [The Twitter Lite team about their use of Node.js](https://youtu.be/iWXC5VCfQHI)
+
+### [eBay](https://www.ebay.com)
+
+* [eBay’s Font Loading Strategy](https://www.ebayinc.com/stories/blogs/tech/ebays-font-loading-strategy)
+* [Beyond HTTPS](https://www.ebayinc.com/stories/blogs/tech/beyond-https/)
+* [Building a UI Component in 2017 and Beyond](https://www.ebayinc.com/stories/blogs/tech/building-a-ui-component-in-2017-and-beyond)
+* [The Future of Marko](https://www.ebayinc.com/stories/blogs/tech/the-future-of-marko/)
+* [The Path to JavaScript Next](https://www.ebayinc.com/stories/blogs/tech/the-path-to-javascript-next/)
+* [How Our CSS Framework Helps Enforce Accessibility](https://www.ebayinc.com/stories/blogs/tech/how-our-css-framework-helps-enforce-accessibility/)
+* [Mobile First - A Retrospective](https://www.ebayinc.com/stories/blogs/tech/mobile-first-a-retrospective/)
+
+### [Slack](https://slack.com)
+
+* [Rebuilding slack.com](https://slack.engineering/rebuilding-slack-com-b124c405c193)
+* [TypeScript at Slack](https://slack.engineering/typescript-at-slack-a81307fa288d)
+* [Rebuilding Slack’s Emoji Picker in React](https://slack.engineering/rebuilding-slacks-emoji-picker-in-react-bfbd8ce6fbfe)
+* [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
+* [Localizing Slack](https://slack.engineering/localizing-slack-680c4bc7f45a)
+* [Reducing Slack’s memory footprint](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
+
+### [LinkedIn](https://www.linkedin.com)
+
+* [Ember Timer Leaks: The Bad Apples in Your Test Infrastructure](https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks)
+* [Sleek and Fast: Speeding Up your Fat Web Client](https://engineering.linkedin.com/blog/2017/10/sleek-and-fast--speeding-up-your-fat-web-client)
+* [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
+
+### [Airbnb](https://www.airbnb.com)
+
+* [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
+
+### [GitHub](https://github.com)
+
+* [GitHub's post-CSP journey](https://githubengineering.com/githubs-post-csp-journey/)
+* [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
+* [Shipping system fonts to GitHub.com](http://markdotto.com/2018/02/07/github-system-fonts/)
+
+### [GitLab](https://gitlab.com)
+
+* [Our big Frontend plan revealed](https://about.gitlab.com/2017/02/06/vue-big-plan/): long term plan to make GitLab as fast and performant as possible with Vue and webpack
+* [Why We Chose Vue.js](https://youtu.be/ioogrvs2Ejc)
+* [How we do Vue: one year later](https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/)
+* [How GitLab switched to Headless Chrome for testing](https://about.gitlab.com/2017/12/19/moving-to-headless-chrome)
+
+### [Stack Overflow](https://stackoverflow.com)
+
+* [HTTPS on Stack Overflow: The End of a Long Road](https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow)
+
+### [GOV.UK](https://www.gov.uk)
+
+* [Accessibility for developers: building a frontend that everyone can use](https://frontendne.co.uk/talks/accessibility-for-developers-building-a-frontend-that-everyone-can-use)
+
+### [The Guardian](https://www.theguardian.com/)
+
+* [What we learnt from our mistakes in 2016](https://www.theguardian.com/info/developer-blog/2016/dec/18/what-we-learnt-from-our-mistakes-in-2016)
+
+### [BBC](http://www.bbc.com)
+
+* [Redefining the BBC News core experience](https://wildlyinaccurate.com/redefining-the-bcc-news-core-experience/)
+* [HTTP/2 is easy, just turn it on…](https://medium.com/bbc-design-engineering/http-2-is-easy-just-turn-it-on-34baad2d1fb1)
+
+### [The New York Times](https://www.nytimes.com)
+
+* [React, Relay and GraphQL: Under the Hood of The Times Website Redesign](https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764)
+
+### [The Times & The Sunday Times](https://www.thetimes.co.uk)
+
+* [Building the UI for the new The Times website](https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e)
+
+### [Financial Times](https://www.ft.com)
+
+* [What happens when you visit ft.com?](https://medium.com/ft-product-technology/making-a-request-to-the-financial-times-b2119a2f422d)
+
+### [Condé Nast](http://www.condenast.com)
+
+* [The Why and How of Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
+
+### [Netflix](https://netflix.com)
+
+* [Making Netflix.com Faster](https://medium.com/netflix-techblog/making-netflix-com-faster-f95d15f2e972)
+* [Netflix's approach to ES6 feature detection](https://gist.github.com/DaBs/89ccc2ffd1d435efdacff05248514f38)
+* [Shop Talk podcast #264: React with Netflix](https://shoptalkshow.com/episodes/264-react-netflix)
+
+### [Uber](https://www.uber.com)
+
+* [Javascript @ Uber](https://youtu.be/JWFyH13_I3o)
+* [Building m.uber: Engineering a High-Performance Web App for the Global Market](https://eng.uber.com/m-uber)
+
+### [Tinder](https://tinder.com)
+
+* [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+
+### [Shopify](https://shopify.com)
+
+* [Building Shopify mobile with native and web technology](https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-mobile-with-native-and-web-technology)
+* [How 17 lines of code improved shopify.com loading by 50%](https://shopifyengineering.myshopify.com/blogs/engineering/how-17-lines-of-code-improved-shopify-com-loading-by-50)
+
+### [Flipkart](https://www.flipkart.com)
+
+* [Building Flipkart Lite: A Progressive Web App](https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883)
+
+### [Pinterest](https://pinterest.com)
+
+* [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+
+### [Reddit](https://about.reddit.com)
+
+* [Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/)
+
+### [Dropbox](https://www.dropbox.com)
+
+* [Dropbox new homepage](http://tannergodarzi.com/projects/dropbox-homepage.html)
+
+### [stripe](https://stripe.com)
+
+* [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
+
+### [repl.it](https://repl.it)
+
+* [Modular, fast, small: how we built a server-rendered IDE](https://repl.it/site/blog/ide)
+* [Infinite Loops](https://repl.it/site/blog/infinite-loops)
+
+### [Figma](https://www.figma.com)
+
+* [WebAssembly cut Figma’s load time by 3x](https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164)
+
+### [Superhuman](https://superhuman.com)
+
+* [Delightful search: more than meets the eye](https://blog.superhuman.com/delightful-search-more-than-meets-the-eye-d3fa2e3ef3b6)
+
+### [Algolia](https://www.algolia.com)
+
+* [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed)
+
+### [grammarly](https://www.grammarly.com)
+
+* [Building Browser Extensions At Scale](https://tech.grammarly.com/blog/building-browser-extensions-at-scale)
+
+### [Ele.me](ele.me)
+
+* [Upgrading Ele.me to Progressive Web App](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)
+
+### [Snipkart](https://snipcart.com)
+
+* [The Story of our Progressive Migration from Backbone to Vue.js](https://snipcart.com/blog/progressive-migration-backbone-vuejs-refactoring)
+
+### [Flocktory](https://www.flocktory.com)
+
+* [Third party libraries](http://slonoed.net/third-party-js)
+
+### [Product Hunt](https://www.producthunt.com)
+
+* [React @ProductHunt](https://youtu.be/F38nRMktS9Q)
+
+### [AdRoll](https://www.adroll.com)
+
+* [How to Run a Front-End Infrastructure Team](http://tech.adroll.com/blog/frontend/2017/08/29/how-to-run-a-front-end-infrastructure-team.html)
+
+### [Reaktor](https://reaktor.com/)
+
+* [Refactoring 30000 lines of JS with types](https://www.reaktor.com/blog/refactoring-30000-lines-js-types/)
+
+### [Aha!](https://www.aha.io)
+
+* [How I Convinced Our CTO to Switch From CoffeeScript to ES6](https://blog.aha.io/coffescript-to-es6)
+
+### [This Also](http://thisalso.com)
+
+* [Fixing HTML Video on Mobile](https://medium.com/this-also/whitewater-9b47f1e32ffe)
+
+### [Roompact](https://roompact.com)
+
+* [Elm In Production: 25,000 Lines Later](https://charukiewi.cz/posts/elm/)
+
+### [De Voorhoede](https://www.voorhoede.nl)
+
+* [Why our website is faster than yours](https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours)
+
+### [cars.com](https://www.cars.com)
+
+* [How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js](https://modernweb.com/cars-com-nodejs)
+
+### [Garbarino](garbarino.com)
+
+* [Building a PWA in Argentina](https://medium.com/@leopittelli/building-a-pwa-in-argentina-3ac669eabbeb)
+
+### Miscellaneous
+
+* [PWA Stats](https://www.pwastats.com)
+* [Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChromeLabs/discovery/issues/1)
+* [Case study: improving a popular library’s size for webpack users](https://iamakulov.com/notes/polished-webpack)
+
+## Russian language
+
+### [Медуза](https://meduza.io/)
+
+* [AMP, Instant Articles, Instant View, whut?](http://telegra.ph/AMP-Instant-Articles-Instant-View-whut-11-23)
+* [Подкасты «Медузы»](https://dev.meduza.io/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D1%8B-eff4c68d24f2)
+* [Как использовать кастомные шрифты в вебе и не сойти с ума](https://dev.meduza.io/%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5-%D1%88%D1%80%D0%B8%D1%84%D1%82%D1%8B-%D0%B2-%D0%B2%D0%B5%D0%B1%D0%B5-%D0%B8-%D0%BD%D0%B5-%D1%81%D0%BE%D0%B9%D1%82%D0%B8-%D1%81-%D1%83%D0%BC%D0%B0-9ba8a2998bcc)
+* [Веб-пуш уведомления в Медузе](https://dev.meduza.io/%D0%B2%D0%B5%D0%B1-%D0%BF%D1%83%D1%88-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B5-4d10fd4e1d7f)
+
+### [Flocktory](https://www.flocktory.com)
+
+* [Разработка сторонних библиотек](http://slonoed.net/razrabotka-storonnih-bibliotek)
+
+### [Бюро Горбунова](https://bureau.ru)
+
+* [Как в книгах Бюро тяжёлые картинки выгружаются из памяти, чтобы браузер не тормозил](https://bureau.ru/bb/soviet/20170629)
+
+### [Сбербанк](http://sberbank.ru/)
+
+* [За закрытой дверью фронтенда Единой фронтальной системы (ЕФС)](https://habrahabr.ru/company/efs/blog/325916/)
+* [Redux как сердце архитектуры фронтенда Единой фронтальной системы](https://habrahabr.ru/company/efs/blog/328012/)
+* [Работа с периферией из JavaScript: от теории к практике](https://habrahabr.ru/company/efs/blog/330374/)
+
+### [2ГИС](https://2gis.ru)
+
+* [Дели — сокращай, или как мы делали мобильный 2ГИС Онлайн](https://habrahabr.ru/company/2gis/blog/333016/)
+* [Этажи: 3D-навигация на WebGL в 2gis.ru](https://habrahabr.ru/company/2gis/blog/282207/)
+* [Тестируем вёрстку правильно](https://habrahabr.ru/company/2gis/blog/277457/)
+* [TARS, сделай уровень frontend-рутины 0%](https://habrahabr.ru/company/2gis/blog/254105/)
+
+### [Альфа-Банк](https://alfabank.ru)
+
+* [Предъявите паспорт](https://habrahabr.ru/company/alfa/blog/335892/)
+* [БЭМ + React: гибкая архитектура дизайн-системы](https://habrahabr.ru/company/alfa/blog/340522/)
+* [Изоморфное приложение React JS + Spring Boot](https://habrahabr.ru/company/alfa/blog/340776/)
+
+### [Яндекс.Деньги](http://money.yandex.ru/)
+
+* [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/)
+* [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/)
+* [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/)
