@@ -4,6 +4,7 @@
 
 * [English language](#english-language)
 * [Russian language](#russian-language)
+* [License](#license)
 
 ## English language
 
@@ -261,3 +262,7 @@
 * [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/)
 * [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/)
 * [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/)
+
+## License
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
