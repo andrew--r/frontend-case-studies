@@ -1,5 +1,7 @@
 ![Frontend case studies logo](assets/logo.png)
 
+Articles like “Building a simple todo list with [framework or technology name]” won't teach you how that framework or technology solves real-world problems and works at a large scale. This document is a curated list of technical talks and articles about real-world enterprise frontend development.
+
 ## Table of contents
 
 * [English language](#english-language)
