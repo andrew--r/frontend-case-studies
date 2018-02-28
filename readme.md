@@ -155,6 +155,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Financial Times](https://www.ft.com)
 
 * [What happens when you visit ft.com?](https://medium.com/ft-product-technology/making-a-request-to-the-financial-times-b2119a2f422d)
+* [Speeding up without slowing down](https://ldnwebperf.org/sessions/speeding-up-without-slowing-down/)
+* [Can't You Just Make It More like Bootstrap?](https://vimeo.com/226575101)
+* [YES, your site too can (and should) be accessible](https://www.youtube.com/watch?v=H4FzW9oFObs)
+* [Free-market software development](http://matt.chadburn.co.uk/notes/teams-as-services.html)
 
 ### [Condé Nast](http://www.condenast.com)
 
