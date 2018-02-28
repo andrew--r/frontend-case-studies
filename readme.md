@@ -40,6 +40,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Snipkart](#snipkart)
   * [Flocktory](#flocktory)
   * [Product Hunt](#product-hunt)
+  * [Conductor](#conductor)
   * [AdRoll](#adroll)
   * [Reaktor](#reaktor)
   * [Aha!](#aha)
@@ -239,6 +240,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [AdRoll](https://www.adroll.com)
 
 * [How to Run a Front-End Infrastructure Team](http://tech.adroll.com/blog/frontend/2017/08/29/how-to-run-a-front-end-infrastructure-team.html)
+
+### [Conductor](https://www.conductor.com/)
+
+* [Painless Migration From Backbone to React/Redux](https://www.youtube.com/watch?v=d8oBIzIgVMA)
 
 ### [Reaktor](https://reaktor.com/)
 
