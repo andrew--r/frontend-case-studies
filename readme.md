@@ -225,7 +225,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Building Browser Extensions At Scale](https://tech.grammarly.com/blog/building-browser-extensions-at-scale)
 
-### [Ele.me](https://www.ele.me/home/)
+### [Ele.me](https://www.ele.me)
 
 * [Upgrading Ele.me to Progressive Web App](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)
 
