@@ -58,6 +58,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [2ГИС](#2ГИС)
   * [Альфа-Банк](#Альфа-Банк)
   * [Яндекс.Деньги](#ЯндексДеньги)
+  * [Badoo](#badoo)
 * [License](#license)
 
 ## English
@@ -325,6 +326,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/)
 * [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/)
 * [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/)
+
+### [Badoo](https://badoo.com)
+
+* [Многоязычный Badoo: «трудности перевода»](https://habrahabr.ru/company/badoo/blog/223767)
+* [Специфика верстки мультиязычных веб-приложений](https://tech.badoo.com/ru/presentation/23/speczifika-verstki-multiyazychnyx-veb-prilozhenij)
+* [Как собрать статистику с веб-сайта и не набить себе шишек](https://habrahabr.ru/company/badoo/blog/325062/)
 
 ## License
 
