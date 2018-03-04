@@ -63,6 +63,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Wrike](#wrike)
   * [Tinkoff](#tinkoff)
   * [Avito](#avito)
+  * [Яндекс](#Яндекс)
 * [License](#license)
 
 ## English
@@ -357,6 +358,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Фронтенд в Avito](https://youtu.be/OFKbwNc8AIw)
 * [Фронтенд для миллионов](https://youtu.be/hwQVbyKcRnA)
 * [Дизайн-платформа в Avito](https://youtu.be/7vY3_vPipW8)
+
+### [Яндекс](https://www.yandex.ru/)
+
+* [Accessibility. Как мы делаем Яндекс доступным людям с ограниченными возможностями и почему считаем это важным](https://habrahabr.ru/company/yandex/blog/258477/)
+* [Как инкрементальные обновления влияют на скорость загрузки. Опыт Яндекс.Почты](https://habrahabr.ru/company/yandex/blog/242503/)
+* [Как создавалась карта с голосами болельщиков для Олимпиады](https://habrahabr.ru/company/yandex/blog/335982/)
+* [Лекция Виталия Харисова «10k» про лёгкую версию поиска для медленных соединений и способы оптимизации кода, позволяющие уложиться в 10 килобайт](https://habrahabr.ru/company/yandex/blog/336952/)
+* [Как мы делали «нарратив» – новый формат публикаций в Яндекс.Дзене](https://habrahabr.ru/company/yandex/blog/349220/)
 
 ## License
 
