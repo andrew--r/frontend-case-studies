@@ -60,6 +60,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Яндекс.Деньги](#ЯндексДеньги)
   * [Badoo](#badoo)
   * [Skyeng](#skyeng)
+  * [Wrike](#wrike)
 * [License](#license)
 
 ## English
@@ -337,6 +338,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Skyeng](https://skyeng.ru)
 
 * [Переход с AngularJS на Angular: цели, планы и правила переноса элементов](https://habrahabr.ru/company/skyeng/blog/348356)
+
+### [Wrike](https://www.wrike.com)
+
+* [Чем плох JavaScript в большом проекте? С какими проблемами мы столкнулись и как их решали](https://habrahabr.ru/company/wrike/blog/277255/)
+* [Два года с Dart: о том, как мы пишем на языке, который ежегодно «хоронят»](https://habrahabr.ru/company/wrike/blog/330832/)
 
 ## License
 
