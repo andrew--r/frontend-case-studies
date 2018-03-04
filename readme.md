@@ -59,6 +59,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Альфа-Банк](#Альфа-Банк)
   * [Яндекс.Деньги](#ЯндексДеньги)
   * [Badoo](#badoo)
+  * [Skyeng](#skyeng)
 * [License](#license)
 
 ## English
@@ -332,6 +333,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Многоязычный Badoo: «трудности перевода»](https://habrahabr.ru/company/badoo/blog/223767)
 * [Специфика верстки мультиязычных веб-приложений](https://tech.badoo.com/ru/presentation/23/speczifika-verstki-multiyazychnyx-veb-prilozhenij)
 * [Как собрать статистику с веб-сайта и не набить себе шишек](https://habrahabr.ru/company/badoo/blog/325062/)
+
+### [Skyeng](https://skyeng.ru)
+
+* [Переход с AngularJS на Angular: цели, планы и правила переноса элементов](https://habrahabr.ru/company/skyeng/blog/348356)
 
 ## License
 
