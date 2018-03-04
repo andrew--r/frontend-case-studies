@@ -62,6 +62,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Skyeng](#skyeng)
   * [Wrike](#wrike)
   * [Tinkoff](#tinkoff)
+  * [Avito](#avito)
 * [License](#license)
 
 ## English
@@ -350,6 +351,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Создание Tinkoff Design System. Первые шаги](https://habrahabr.ru/company/tinkoff/blog/326782/)
 * [Создание Tinkoff Design System. UI Kit, версионирование и витрина компонентов](https://habrahabr.ru/company/tinkoff/blog/339660/)
 * [Как мы разрабатываем новый фронтенд Tinkoff.ru](https://habrahabr.ru/company/tinkoff/blog/303580/)
+
+### [Avito](https://www.avito.ru/)
+
+* [Фронтенд в Avito](https://youtu.be/OFKbwNc8AIw)
+* [Фронтенд для миллионов](https://youtu.be/hwQVbyKcRnA)
+* [Дизайн-платформа в Avito](https://youtu.be/7vY3_vPipW8)
 
 ## License
 
