@@ -61,6 +61,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Badoo](#badoo)
   * [Skyeng](#skyeng)
   * [Wrike](#wrike)
+  * [Tinkoff](#tinkoff)
 * [License](#license)
 
 ## English
@@ -343,6 +344,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Чем плох JavaScript в большом проекте? С какими проблемами мы столкнулись и как их решали](https://habrahabr.ru/company/wrike/blog/277255/)
 * [Два года с Dart: о том, как мы пишем на языке, который ежегодно «хоронят»](https://habrahabr.ru/company/wrike/blog/330832/)
+
+### [Tinkoff](https://www.tinkoff.ru/)
+
+* [Создание Tinkoff Design System. Первые шаги](https://habrahabr.ru/company/tinkoff/blog/326782/)
+* [Создание Tinkoff Design System. UI Kit, версионирование и витрина компонентов](https://habrahabr.ru/company/tinkoff/blog/339660/)
+* [Как мы разрабатываем новый фронтенд Tinkoff.ru](https://habrahabr.ru/company/tinkoff/blog/303580/)
 
 ## License
 
