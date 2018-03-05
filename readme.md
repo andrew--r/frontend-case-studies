@@ -49,6 +49,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [De Voorhoede](#de-voorhoede)
   * [cars.com](#carscom)
   * [Garbarino](#garbarino)
+  * [Myntra](#myntra)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -185,6 +186,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Tinder](https://tinder.com)
 
 * [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+* [Building Tinder Online](https://medium.com/@roderickhsiao/building-tinder-online-a447e6c0265e)
 
 ### [Shopify](https://shopify.com)
 
@@ -284,6 +286,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Garbarino](garbarino.com)
 
 * [Building a PWA in Argentina](https://medium.com/@leopittelli/building-a-pwa-in-argentina-3ac669eabbeb)
+
+### [Myntra](https://www.myntra.com)
+
+* [Myntra’s Web UI Journey — AMP and PWA](https://medium.com/@nvkudva/myntras-web-ui-journey-amp-and-pwa-77b87523ee7d)
 
 ### Miscellaneous
 
