@@ -246,7 +246,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Product Hunt](https://www.producthunt.com)
 
-* [React @ProductHunt](https://youtu.be/F38nRMktS9Q)
+* [React @ Product Hunt](https://youtu.be/F38nRMktS9Q)
+* [GraphQL @ Product Hunt](https://www.youtube.com/watch?v=H0YCeHeHbr0)
 
 ### [AdRoll](https://www.adroll.com)
 
