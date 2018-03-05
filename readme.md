@@ -1,6 +1,6 @@
 ![Frontend case studies logo](assets/logo.png)
 
-Articles like “Building a simple todo list with [framework or technology name]” won't teach you how that framework or technology solves real-world problems and works at a large scale. This document is a curated list of technical talks and articles about real-world enterprise frontend development.
+Articles like “Building a simple todo list with [framework or technology name]” won’t teach you how that framework or technology solves real-world problems and works at a large scale. This document is a curated list of technical talks and articles about real-world enterprise frontend development.
 
 ## Table of contents
 
@@ -37,7 +37,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Algolia](#algolia)
   * [grammarly](#grammarly)
   * [Ele.me](#eleme)
-  * [Snipkart](#snipkart)
+  * [Snipcart](#snipcart)
   * [Flocktory](#flocktory)
   * [Product Hunt](#product-hunt)
   * [Conductor](#conductor)
@@ -236,7 +236,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Upgrading Ele.me to Progressive Web App](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)
 
-### [Snipkart](https://snipcart.com)
+### [Snipcart](https://snipcart.com)
 
 * [The Story of our Progressive Migration from Backbone to Vue.js](https://snipcart.com/blog/progressive-migration-backbone-vuejs-refactoring)
 
