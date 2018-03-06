@@ -281,7 +281,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js](https://modernweb.com/cars-com-nodejs)
 
-### [Garbarino](garbarino.com)
+### [Garbarino](https://www.garbarino.com/)
 
 * [Building a PWA in Argentina](https://medium.com/@leopittelli/building-a-pwa-in-argentina-3ac669eabbeb)
 
