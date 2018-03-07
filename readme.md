@@ -49,6 +49,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [De Voorhoede](#de-voorhoede)
   * [cars.com](#carscom)
   * [Garbarino](#garbarino)
+  * [Myntra](#myntra)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -64,6 +65,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Tinkoff](#tinkoff)
   * [Avito](#avito)
   * [Яндекс](#Яндекс)
+  * [ВКонтакте](#ВКонтакте)
 * [License](#license)
 
 ## English
@@ -185,6 +187,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Tinder](https://tinder.com)
 
 * [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+* [Building Tinder Online](https://medium.com/@roderickhsiao/building-tinder-online-a447e6c0265e)
 
 ### [Shopify](https://shopify.com)
 
@@ -285,6 +288,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Building a PWA in Argentina](https://medium.com/@leopittelli/building-a-pwa-in-argentina-3ac669eabbeb)
 
+### [Myntra](https://www.myntra.com)
+
+* [Myntra’s Web UI Journey — AMP and PWA](https://medium.com/@nvkudva/myntras-web-ui-journey-amp-and-pwa-77b87523ee7d)
+
 ### Miscellaneous
 
 * [PWA Stats](https://www.pwastats.com)
@@ -367,6 +374,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Как создавалась карта с голосами болельщиков для Олимпиады](https://habrahabr.ru/company/yandex/blog/335982/)
 * [Лекция Виталия Харисова «10k» про лёгкую версию поиска для медленных соединений и способы оптимизации кода, позволяющие уложиться в 10 килобайт](https://habrahabr.ru/company/yandex/blog/336952/)
 * [Как мы делали «нарратив» – новый формат публикаций в Яндекс.Дзене](https://habrahabr.ru/company/yandex/blog/349220/)
+
+### [ВКонтакте](https://vk.com)
+
+* [React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw)
 
 ## License
 
