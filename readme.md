@@ -377,7 +377,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [ВКонтакте](https://vk.com)
 
-* [Тимофей Чаптыков — React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw)
+* [React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw)
 
 ## License
 
