@@ -50,6 +50,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [cars.com](#carscom)
   * [Garbarino](#garbarino)
   * [Myntra](#myntra)
+  * [ThomasNet](#thomasnet)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -287,6 +288,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Garbarino](https://www.garbarino.com/)
 
 * [Building a PWA in Argentina](https://medium.com/@leopittelli/building-a-pwa-in-argentina-3ac669eabbeb)
+
+### [ThomasNet](https://www.thomasnet.com/)
+
+* [How We Adopted CSS Grid at Scale](https://julian.is/article/css-grid-at-scale/)
 
 ### [Myntra](https://www.myntra.com)
 
