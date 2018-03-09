@@ -67,6 +67,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Avito](#avito)
   * [Яндекс](#Яндекс)
   * [ВКонтакте](#ВКонтакте)
+  * [Setka](#setka)
 * [License](#license)
 
 ## English
@@ -383,6 +384,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [ВКонтакте](https://vk.com)
 
 * [React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw)
+
+### [Setka](https://setka.io/)
+
+* [Разработка Rich Text Editor: проблемы и решения](https://habrahabr.ru/company/oleg-bunin/blog/350252/)
 
 ## License
 
