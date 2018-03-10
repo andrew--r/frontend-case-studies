@@ -207,6 +207,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Reddit](https://about.reddit.com)
 
 * [Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/)
+* [How We Built r/Place](https://redditblog.com/2017/04/13/how-we-built-rplace/)
 
 ### [Dropbox](https://www.dropbox.com)
 
