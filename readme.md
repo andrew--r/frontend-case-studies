@@ -51,6 +51,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Garbarino](#garbarino)
   * [Myntra](#myntra)
   * [ThomasNet](#thomasnet)
+  * [Lyft](#lyft)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -299,6 +300,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Myntra](https://www.myntra.com)
 
 * [Myntra’s Web UI Journey — AMP and PWA](https://medium.com/@nvkudva/myntras-web-ui-journey-amp-and-pwa-77b87523ee7d)
+
+### [Lyft](https://lyft.com)
+
+* [TypeScript at Lyft](https://eng.lyft.com/typescript-at-lyft-64f0702346ea)
 
 ### Miscellaneous
 
