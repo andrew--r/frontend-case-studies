@@ -36,6 +36,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Figma](#figma)
   * [Superhuman](#superhuman)
   * [Algolia](#algolia)
+  * [Yelp](#yelp)
   * [grammarly](#grammarly)
   * [Ele.me](#eleme)
   * [Snipcart](#snipcart)
@@ -240,6 +241,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Algolia](https://www.algolia.com)
 
 * [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed)
+
+### [Yelp](https://www.yelp.com)
+
+* [CSS in the Age of React: How We Traded the Cascade for Consistency](https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html)
 
 ### [grammarly](https://www.grammarly.com)
 
