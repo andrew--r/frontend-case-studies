@@ -31,6 +31,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Reddit](#reddit)
   * [Dropbox](#dropbox)
   * [stripe](#stripe)
+  * [Unsplash](#unsplash)
   * [repl.it](#replit)
   * [Figma](#figma)
   * [Superhuman](#superhuman)
@@ -218,6 +219,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [stripe](https://stripe.com)
 
 * [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
+
+### [Unsplash](https://unsplash.com)
+
+* [How we gradually migrated to TypeScript at Unsplash](https://medium.com/unsplash/how-we-gradually-migrated-to-typescript-at-unsplash-7a34caa24ef1)
 
 ### [repl.it](https://repl.it)
 
