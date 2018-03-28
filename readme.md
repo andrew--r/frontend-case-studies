@@ -157,6 +157,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Redefining the BBC News core experience](https://wildlyinaccurate.com/redefining-the-bcc-news-core-experience/)
 * [HTTP/2 is easy, just turn it on…](https://medium.com/bbc-design-engineering/http-2-is-easy-just-turn-it-on-34baad2d1fb1)
+* [How BBC Interactive Content Works Across AMP, Apps, And The Web](https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/)
 
 ### [The New York Times](https://www.nytimes.com)
 
