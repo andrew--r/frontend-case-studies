@@ -54,6 +54,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Myntra](#myntra)
   * [ThomasNet](#thomasnet)
   * [Lyft](#lyft)
+  * [CodeSandbox](#codesandbox)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -315,6 +316,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Lyft](https://lyft.com)
 
 * [TypeScript at Lyft](https://eng.lyft.com/typescript-at-lyft-64f0702346ea)
+
+### [CodeSandbox](https://codesandbox.io/)
+
+* [Lessons learned refactoring Codesandbox.io from Redux to Cerebral](https://medium.com/p/40e9a5646281)
 
 ### Miscellaneous
 
