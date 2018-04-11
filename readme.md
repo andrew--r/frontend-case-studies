@@ -55,6 +55,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [ThomasNet](#thomasnet)
   * [Lyft](#lyft)
   * [CodeSandbox](#codesandbox)
+  * [npm](#npm)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -320,6 +321,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [CodeSandbox](https://codesandbox.io/)
 
 * [Lessons learned refactoring Codesandbox.io from Redux to Cerebral](https://medium.com/p/40e9a5646281)
+
+### [npm](https://www.npmjs.com)
+
+* [Re-inventing npmjs.com](http://blog.npmjs.org/post/172567815935/re-inventing-npmjscom)
 
 ### Miscellaneous
 
