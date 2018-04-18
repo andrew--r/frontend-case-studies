@@ -56,6 +56,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Lyft](#lyft)
   * [CodeSandbox](#codesandbox)
   * [npm](#npm)
+  * [Line](#line)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -325,6 +326,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [npm](https://www.npmjs.com)
 
 * [Re-inventing npmjs.com](http://blog.npmjs.org/post/172567815935/re-inventing-npmjscom)
+
+### [line](https://line.me)
+
+* [LINE MANGA: Smooth page transition with Page Stack](https://engineering.linecorp.com/en/blog/detail/200)
+* [Easy code-splitting with grow-loader](https://engineering.linecorp.com/en/blog/detail/235)
 
 ### Miscellaneous
 
