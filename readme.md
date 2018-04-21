@@ -76,6 +76,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Яндекс](#Яндекс)
   * [ВКонтакте](#ВКонтакте)
   * [Setka](#setka)
+  * [Mail.Ru](#mailru)
 * [License](#license)
 
 ## English
@@ -384,6 +385,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Предъявите паспорт](https://habrahabr.ru/company/alfa/blog/335892/)
 * [БЭМ + React: гибкая архитектура дизайн-системы](https://habrahabr.ru/company/alfa/blog/340522/)
 * [Изоморфное приложение React JS + Spring Boot](https://habrahabr.ru/company/alfa/blog/340776/)
+* [Атомарные SPA](https://youtu.be/pkHWttaktWk)
 
 ### [Яндекс.Деньги](http://money.yandex.ru/)
 
@@ -396,6 +398,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Многоязычный Badoo: «трудности перевода»](https://habrahabr.ru/company/badoo/blog/223767)
 * [Специфика верстки мультиязычных веб-приложений](https://tech.badoo.com/ru/presentation/23/speczifika-verstki-multiyazychnyx-veb-prilozhenij)
 * [Как собрать статистику с веб-сайта и не набить себе шишек](https://habrahabr.ru/company/badoo/blog/325062/)
+* [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc)
 
 ### [Skyeng](https://skyeng.ru)
 
@@ -433,6 +436,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Setka](https://setka.io/)
 
 * [Разработка Rich Text Editor: проблемы и решения](https://habrahabr.ru/company/oleg-bunin/blog/350252/)
+
+### [Mail.Ru](https://mail.ru)
+
+* [Архитектура фронтенда крупного проекта, как она есть](https://youtu.be/J08UOAJdjWc)
 
 ## License
 
