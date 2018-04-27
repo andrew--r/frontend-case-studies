@@ -349,6 +349,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [PWA Stats](https://www.pwastats.com)
 * [Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChromeLabs/discovery/issues/1)
 * [Case study: improving a popular library’s size for webpack users](https://iamakulov.com/notes/polished-webpack)
+* [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/)
 
 ## Russian
 
