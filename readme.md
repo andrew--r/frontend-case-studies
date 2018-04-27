@@ -6,6 +6,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [English](#english)
   * [Facebook](#facebook)
+  * [Google](#google)
   * [YouTube](#youtube)
   * [Twitter](#twitter)
   * [eBay](#ebay)
@@ -92,6 +93,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Design Systems & Tools at Facebook](https://vimeo.com/242899818)
 * [Building the F8 App with React Native](http://makeitopen.com)
 * [The technology behind preview photos](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/)
+
+### [Google](https://google.com)
+
+* [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 
 ### [YouTube](https://www.youtube.com)
 
