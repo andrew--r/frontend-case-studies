@@ -393,6 +393,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [За закрытой дверью фронтенда Единой фронтальной системы (ЕФС)](https://habrahabr.ru/company/efs/blog/325916/)
 * [Redux как сердце архитектуры фронтенда Единой фронтальной системы](https://habrahabr.ru/company/efs/blog/328012/)
 * [Работа с периферией из JavaScript: от теории к практике](https://habrahabr.ru/company/efs/blog/330374/)
+* [Как работают приложения Сбербанк Онлайн: Workflow API и фрэймворки](https://habr.com/company/sberbank/blog/353746/)
 
 ### [2ГИС](https://2gis.ru)
 
