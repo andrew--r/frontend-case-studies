@@ -196,6 +196,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [A faster FT.com](http://engineroom.ft.com/2016/04/04/a-faster-ft-com)
 * [SVG icons are easy but the fallbacks aren't](https://www.maketea.co.uk/2015/12/14/svg-icons-are-easy-but-the-fallbacks-arent.html)
 * [An outbreak of Accessibility anti-patterns](https://medium.com/ft-product-technology/an-outbreak-of-accessibility-anti-patterns-e73577242ee8)
+* [Improving the cache performance of The Polyfill Service](https://jakechampion.name/improving-cache-performance-polyfillio/)
 
 ### [Condé Nast](http://www.condenast.com)
 
