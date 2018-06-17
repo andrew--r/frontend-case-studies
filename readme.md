@@ -66,6 +66,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [18F](#18f)
   * [Artsy](#artsy)
   * [Medium](#medium)
+  * [Mixpanel](#mixpanel)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -418,6 +419,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Simple Style Sheets, Or How to Improve Your Sleep by Dropping the Cascade](https://medium.engineering/simple-style-sheets-c3b588867899)
 * [The case of the eternal blur: a bug hunt horror novella](https://medium.engineering/the-case-of-the-eternal-blur-ab350b9653ea)
 * [2 Fast 2 Furious: migrating Medium’s codebase without slowing down](https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4)
+
+### [Mixpanel](https://mixpanel.com/)
+
+* [Straightening our Backbone: A lesson in event-driven UI development](https://engineering.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/)
+* [Making Web Components Work, or: How We Learned to Stop Worrying and Love the DOM](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 
 ### Miscellaneous
 
