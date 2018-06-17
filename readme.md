@@ -206,9 +206,19 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Netflix](https://netflix.com)
 
+* [HTML5 Video Playback UI](https://medium.com/netflix-techblog/html5-video-playback-ui-62cfdd9b5d19)
+* [Improving the performance of our JavaScript inheritance model](https://medium.com/netflix-techblog/improving-the-performance-of-our-javascript-inheritance-model-af376d75665)
+* [Node.js in Flames](https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4)
 * [Making Netflix.com Faster](https://medium.com/netflix-techblog/making-netflix-com-faster-f95d15f2e972)
 * [Netflix's approach to ES6 feature detection](https://gist.github.com/DaBs/89ccc2ffd1d435efdacff05248514f38)
 * [Shop Talk podcast #264: React with Netflix](https://shoptalkshow.com/episodes/264-react-netflix)
+* [Localization Technologies at Netflix](https://medium.com/netflix-techblog/localization-technologies-at-netflix-d033e7b13cf)
+* [Crafting a high-performance TV user interface using React](https://medium.com/netflix-techblog/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)
+* [Pass the Remote: User Input on TV Devices](https://medium.com/netflix-techblog/pass-the-remote-user-input-on-tv-devices-923f6920c9a8)
+* [Integrating imperative APIs into a React application](https://medium.com/netflix-techblog/integrating-imperative-apis-into-a-react-application-1257e1b45ac6)
+* [JSON Graph: Reactive REST at Netflix](https://youtu.be/hOE6nVVr14c)
+* [Performance Signup in React & Transactional Apps with Redux](https://youtu.be/V8oTJ8OZ5S0)
+
 
 ### [Uber](https://www.uber.com)
 
