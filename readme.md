@@ -67,6 +67,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Artsy](#artsy)
   * [Medium](#medium)
   * [Mixpanel](#mixpanel)
+  * [Mixmax](#mixmax)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -426,6 +427,17 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Straightening our Backbone: A lesson in event-driven UI development](https://engineering.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/)
 * [Making Web Components Work, or: How We Learned to Stop Worrying and Love the DOM](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
+
+### [Mixmax](https://mixmax.com/)
+
+* [How we built ‘instant’ autocomplete for Mixmax](https://mixmax.com/blog/autocomplete-search-performance)
+* [React without Redux: how we moved from Backbone to React without rewriting](https://mixmax.com/blog/backbone-to-react-without-rewriting)
+* [Using CORS policies to implement CSRF protection](https://mixmax.com/blog/modern-csrf)
+* [Handling 3rd-party JavaScript with Rollup: how and when to leave JS out of the bundle](https://mixmax.com/blog/rollup-externals)
+* [Precisely observing structural page changes](https://mixmax.com/blog/precisely-observing-structural-page-changes)
+* [Yarn-ifying Mixmax: why and how we moved from npm to Yarn](https://mixmax.com/blog/yarn-ifying-mixmax)
+* [To Yarn and Back (to npm) Again](https://mixmax.com/blog/to-yarn-and-back-again-npm)
+* [Choosing (and using) Javascript static typing: how Mixmax Engineering adopted Flow](https://mixmax.com/blog/flow-vs-typescript)
 
 ### Miscellaneous
 
