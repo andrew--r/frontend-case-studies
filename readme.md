@@ -158,6 +158,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [GitHub's post-CSP journey](https://githubengineering.com/githubs-post-csp-journey/)
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 * [Shipping system fonts to GitHub.com](http://markdotto.com/2018/02/07/github-system-fonts/)
+* [How GitHub is using Web Components in production](https://www.webcomponents.org/community/articles/interview-with-joshua-peek)
 
 ### [GitLab](https://gitlab.com)
 
