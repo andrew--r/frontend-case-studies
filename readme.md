@@ -369,6 +369,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [npm](https://www.npmjs.com)
 
 * [Re-inventing npmjs.com](http://blog.npmjs.org/post/172567815935/re-inventing-npmjscom)
+* [JavaScript Usage by Industry](https://blog.npmjs.org/post/175311966445/javascript-usage-by-industry)
 
 ### [Line](https://line.me)
 
