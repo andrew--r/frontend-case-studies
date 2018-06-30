@@ -493,6 +493,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/)
 * [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/)
 * [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/)
+* [Фронтенд как у сына маминой подруги](https://habr.com/company/yamoney/blog/354416/)
+* [Реактивный фронтенд. История о том, как мы снова всё переписали](https://habr.com/company/yamoney/blog/414183/)
 
 ### [Badoo](https://badoo.com)
 
