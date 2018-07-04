@@ -71,7 +71,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [TinyMCE](#tinymce)
   * [Instagram](#instagram)
   * [Wix](#wix)
-  * [Walmart Labs](#walmartlabs)
+  * [Walmart Labs](#walmart-labs)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
