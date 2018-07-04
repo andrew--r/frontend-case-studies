@@ -70,6 +70,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Mixmax](#mixmax)
   * [TinyMCE](#tinymce)
   * [Instagram](#instagram)
+  * [Wix](#wix)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -452,6 +453,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Instagram](https://www.instagram.com/)
 
 * [React Native at Instagram](https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7)
+
+### [Wix](https://www.wix.com/)
+
+* [Taking CSS To Scale: A Pragmatic Approach](https://www.wix.engineering/blog/taking-css-to-scale-a-pragmatic-approach)
+* [The Story of Making Wix Accessible](https://www.wix.engineering/blog/the-story-of-making-wix-accessible)
+* [Improving load time for 100 million websites](https://youtu.be/FKpShne3I4E)
+* [Building a React Native App for 80 Million Users](https://youtu.be/abSNo2P9mMM)
 
 ### Miscellaneous
 
