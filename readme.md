@@ -71,6 +71,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [TinyMCE](#tinymce)
   * [Instagram](#instagram)
   * [Wix](#wix)
+  * [Walmart Labs](#walmartlabs)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -460,6 +461,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [The Story of Making Wix Accessible](https://www.wix.engineering/blog/the-story-of-making-wix-accessible)
 * [Improving load time for 100 million websites](https://youtu.be/FKpShne3I4E)
 * [Building a React Native App for 80 Million Users](https://youtu.be/abSNo2P9mMM)
+
+### [Walmart Labs](https://www.walmartlabs.com/)
+
+* [Cutting Dev Time in Half With Invalid User Input Prevention](https://medium.com/walmartlabs/cutting-dev-time-in-half-with-invalid-user-input-prevention-bea29ea315c)
+* [Migrating Angular 1.x apps to React — The Hybrid Way!](https://medium.com/walmartlabs/migrating-angular-1-x-apps-to-react-the-hybrid-way-3267ccf33755)
+* [Migrating Large Enterprise to NodeJS](https://medium.com/walmartlabs/migrating-large-enterprise-to-nodejs-6c38523d2b33)
+* [React Native at WalmartLabs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560)
 
 ### Miscellaneous
 
