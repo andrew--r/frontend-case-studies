@@ -69,6 +69,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Mixpanel](#mixpanel)
   * [Mixmax](#mixmax)
   * [TinyMCE](#tinymce)
+  * [Instagram](#instagram)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -446,6 +447,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [TinyMCE is going mobile](https://go.tinymce.com/blog/tinymce-is-going-mobile/)
 * [Benefits of gradual strong typing in JavaScript](https://go.tinymce.com/blog/benefits-of-gradual-strong-typing-in-javascript/)
+
+
+### [Instagram](https://www.instagram.com/)
+
+* [React Native at Instagram](https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7)
 
 ### Miscellaneous
 
