@@ -74,6 +74,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Walmart Labs](#walmart-labs)
   * [Bloomberg](#bloomberg)
   * [Discord](#discord)
+  * [Soundcloud](#soundcloud)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -479,6 +480,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Using React Native: One Year Later](https://blog.discordapp.com/using-react-native-one-year-later-91fd5e949933)
 * [Lessons from migrating a large codebase to React 16](https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6)
+
+### [SoundCloud](https://soundcloud.com/)
+
+* [Front-end JavaScript bug tracking](https://developers.soundcloud.com/blog/front-end-javascript-bug-tracking)
+* [Building The Next SoundCloud](https://developers.soundcloud.com/blog/building-the-next-soundcloud)
+* [Smooth image loading by upscaling](https://developers.soundcloud.com/blog/smooth-image-loading-by-upscaling)
+* [React Native at SoundCloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
 
 ### Miscellaneous
 
