@@ -72,6 +72,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Instagram](#instagram)
   * [Wix](#wix)
   * [Walmart Labs](#walmart-labs)
+  * [Bloomberg](#bloomberg)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -468,6 +469,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Migrating Angular 1.x apps to React — The Hybrid Way!](https://medium.com/walmartlabs/migrating-angular-1-x-apps-to-react-the-hybrid-way-3267ccf33755)
 * [Migrating Large Enterprise to NodeJS](https://medium.com/walmartlabs/migrating-large-enterprise-to-nodejs-6c38523d2b33)
 * [React Native at WalmartLabs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560)
+
+### [Bloomberg](https://www.bloomberg.com/)
+
+* [How Bloomberg Used React Native to Develop its new Consumer App](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/)
 
 ### Miscellaneous
 
