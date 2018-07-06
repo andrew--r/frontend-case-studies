@@ -76,7 +76,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Discord](#discord)
   * [Soundcloud](#soundcloud)
   * [Udacity](#udacity)
-  * [Microsoft To-Do](#microsoft-todo)
+  * [Microsoft To-Do](#microsoft-to-do)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -95,7 +95,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [ВКонтакте](#ВКонтакте)
   * [Setka](#setka)
   * [Mail.Ru](#mailru)
-  * [Microsoft To-Do](#microsoft-todo-1)
+  * [Microsoft To-Do](#microsoft-to-do-1)
 * [License](#license)
 
 ## English
