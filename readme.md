@@ -75,6 +75,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Bloomberg](#bloomberg)
   * [Discord](#discord)
   * [Soundcloud](#soundcloud)
+  * [Udacity](#udacity)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -488,6 +489,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Building The Next SoundCloud](https://developers.soundcloud.com/blog/building-the-next-soundcloud)
 * [Smooth image loading by upscaling](https://developers.soundcloud.com/blog/smooth-image-loading-by-upscaling)
 * [React Native at SoundCloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud)
+
+### [Udacity](https://www.udacity.com/)
+
+* [How a Fixed-Width Button Can Get Your Company Trending on Reddit for All the Wrong Reasons: A Front-End Developer Tale](https://engineering.udacity.com/how-a-fixed-width-button-can-get-your-company-trending-on-reddit-for-all-the-wrong-reasons-a-front-6214280888ab)
+* [Udacity’s Front-End Tech Stack](https://engineering.udacity.com/udacitys-front-end-tech-stack-b19dae07f0ac)
+* [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
 
 ### Miscellaneous
 
