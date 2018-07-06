@@ -76,6 +76,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Discord](#discord)
   * [Soundcloud](#soundcloud)
   * [Udacity](#udacity)
+  * [Microsoft To-Do](#microsoft-todo)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -94,6 +95,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [ВКонтакте](#ВКонтакте)
   * [Setka](#setka)
   * [Mail.Ru](#mailru)
+  * [Microsoft To-Do](#microsoft-todo-1)
 * [License](#license)
 
 ## English
@@ -496,6 +498,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Udacity’s Front-End Tech Stack](https://engineering.udacity.com/udacitys-front-end-tech-stack-b19dae07f0ac)
 * [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
 
+### [Microsoft To-Do](https://to-do.microsoft.com/)
+
+* [How We React at Microsoft To-Do](https://youtu.be/CWxc3AYja1I)
+
 ### Miscellaneous
 
 * [PWA Stats](https://www.pwastats.com)
@@ -598,6 +604,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Mail.Ru](https://mail.ru)
 
 * [Архитектура фронтенда крупного проекта, как она есть](https://youtu.be/J08UOAJdjWc)
+
+### [Microsoft To-Do](https://to-do.microsoft.com/)
+
+* [Как Microsoft To-Do использует React](https://youtu.be/ZdrnIUgeDAs)
 
 ## License
 
