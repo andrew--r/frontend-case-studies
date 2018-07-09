@@ -77,6 +77,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Soundcloud](#soundcloud)
   * [Udacity](#udacity)
   * [Microsoft To-Do](#microsoft-to-do)
+  * [Safety Culture](#safety-culture)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -502,6 +503,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
 * [How We React at Microsoft To-Do](https://youtu.be/CWxc3AYja1I)
+
+### [Safety Culture](https://safetyculture.com/)
+
+* [Why we moved our graphQL server from Node.js to Golang](https://medium.com/safetycultureengineering/why-we-moved-our-graphql-server-from-node-js-to-golang-645b00571535)
 
 ### Miscellaneous
 
