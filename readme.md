@@ -78,6 +78,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Udacity](#udacity)
   * [Microsoft To-Do](#microsoft-to-do)
   * [Safety Culture](#safety-culture)
+  * [Kickstarter](#kickstarter)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -507,6 +508,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Safety Culture](https://safetyculture.com/)
 
 * [Why we moved our graphQL server from Node.js to Golang](https://medium.com/safetycultureengineering/why-we-moved-our-graphql-server-from-node-js-to-golang-645b00571535)
+
+### [Kickstarter](https://www.kickstarter.com/)
+
+* [Namespacing Actions for Redux](https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1)
 
 ### Miscellaneous
 
