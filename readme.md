@@ -595,6 +595,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Фронтенд в Avito](https://youtu.be/OFKbwNc8AIw)
 * [Фронтенд для миллионов](https://youtu.be/hwQVbyKcRnA)
 * [Дизайн-платформа в Avito](https://youtu.be/7vY3_vPipW8)
+* [Скриншоты как сервис](https://youtu.be/B_gLzbgJo98)
 
 ### [Яндекс](https://www.yandex.ru/)
 
