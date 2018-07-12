@@ -179,6 +179,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Why We Chose Vue.js](https://youtu.be/ioogrvs2Ejc)
 * [How we do Vue: one year later](https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/)
 * [How GitLab switched to Headless Chrome for testing](https://about.gitlab.com/2017/12/19/moving-to-headless-chrome)
+* [How we iterated and improved our frontend team culture](https://about.gitlab.com/2018/06/26/iterating-improving-frontend-culture/)
 
 ### [Stack Overflow](https://stackoverflow.com)
 
