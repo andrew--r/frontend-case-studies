@@ -98,6 +98,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Setka](#setka)
   * [Mail.Ru](#mailru)
   * [Microsoft To-Do](#microsoft-to-do-1)
+  * [RAMBLER&Co](#ramblerco)
 * [License](#license)
 
 ## English
@@ -621,6 +622,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
 * [Как Microsoft To-Do использует React](https://youtu.be/ZdrnIUgeDAs)
+
+### [RAMBLER&Co](https://rambler-co.ru/)
+
+* [Как мы разогнали мобильную Lenta.ru до скорости света](https://habr.com/company/rambler-co/blog/280602/)
+* [Проектирование дизайн-системы Рамблера](https://youtu.be/ZxmcIpmenoY)
+* [Опыт Rambler Group: как мы начали полностью контролировать формирование и поведение фронтовых React компонентов](https://habr.com/company/rambler-co/blog/417023/)
 
 ## License
 
