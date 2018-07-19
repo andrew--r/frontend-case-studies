@@ -166,6 +166,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Turbocharged JavaScript Refactoring with Codemods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9)
 * [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c): [The Technology](https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838), [Building a Cross-Platform Mobile Team](https://medium.com/airbnb-engineering/building-a-cross-platform-mobile-team-3e1837b40a88), [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a), [What’s Next for Mobile at Airbnb
 ](https://medium.com/airbnb-engineering/whats-next-for-mobile-at-airbnb-5e71618576ab)
+* [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9)
 
 ### [GitHub](https://github.com)
 
