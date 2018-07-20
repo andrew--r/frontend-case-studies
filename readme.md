@@ -118,6 +118,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Google](https://google.com)
 
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+* [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1)
 
 ### [YouTube](https://www.youtube.com)
 
