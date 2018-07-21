@@ -80,6 +80,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Safety Culture](#safety-culture)
   * [Kickstarter](#kickstarter)
   * [Gusto](#gusto)
+  * [Skillshare](#skillshare) 
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -524,6 +525,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Evolving JavaScript Part 1: Goodbye Backbone](https://engineering.gusto.com/evolving-javascript-part-1-goodbye-backbone/)
 * [Evolving JavaScript Part 2: Hello React](https://engineering.gusto.com/evolving-javascript-part-2-hello-react/)
 * [Evolving JavaScript Part 3: Building a React Application](https://engineering.gusto.com/evolving-javascript-part-3-building-a-react-application/)
+
+### [Skillshare](https://skillshare.com/)
+
+* [How We Ditched Redux for MobX](https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b)
 
 ### Miscellaneous
 
