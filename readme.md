@@ -274,6 +274,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [How we switched our template rendering engine to React](https://medium.com/@Pinterest_Engineering/how-we-switched-our-template-rendering-engine-to-react-a799a3d540b0)
 * [Introducing Bonsai: an open source Webpack analyzer](https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984)
 * [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
+* [A one year PWA retrospective](https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
 
 ### [Reddit](https://about.reddit.com)
 
