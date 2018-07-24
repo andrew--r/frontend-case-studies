@@ -312,6 +312,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Yelp](https://www.yelp.com)
 
+* [Whoa! That Embedded Web View Looks Hot in Your iOS App!](https://engineeringblog.yelp.com/2013/11/whoa-that-embedded-web-view-looks-hot-in-your-ios-app.html)
 * [CSS in the Age of React: How We Traded the Cascade for Consistency](https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html)
 
 ### [grammarly](https://www.grammarly.com)
