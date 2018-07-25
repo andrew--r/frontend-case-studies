@@ -219,6 +219,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Can't You Just Make It More like Bootstrap?](https://vimeo.com/226575101)
 * [YES, your site too can (and should) be accessible](https://www.youtube.com/watch?v=H4FzW9oFObs)
 * [Free-market software development](http://matt.chadburn.co.uk/notes/teams-as-services.html)
+* [Tips for in-house teams in a free market software culture](http://engineroom.ft.com/2017/12/01/tips-for-in-house-teams-in-a-free-market-software-culture/)
 * [A faster FT.com](http://engineroom.ft.com/2016/04/04/a-faster-ft-com)
 * [SVG icons are easy but the fallbacks aren't](https://www.maketea.co.uk/2015/12/14/svg-icons-are-easy-but-the-fallbacks-arent.html)
 * [An outbreak of Accessibility anti-patterns](https://medium.com/ft-product-technology/an-outbreak-of-accessibility-anti-patterns-e73577242ee8)
