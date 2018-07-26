@@ -224,6 +224,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [SVG icons are easy but the fallbacks aren't](https://www.maketea.co.uk/2015/12/14/svg-icons-are-easy-but-the-fallbacks-arent.html)
 * [An outbreak of Accessibility anti-patterns](https://medium.com/ft-product-technology/an-outbreak-of-accessibility-anti-patterns-e73577242ee8)
 * [Improving the cache performance of The Polyfill Service](https://jakechampion.name/improving-cache-performance-polyfillio/)
+* [Building The New Financial Times Web App](https://www.smashingmagazine.com/2013/05/building-the-new-financial-times-web-app-a-case-study/a)
 
 ### [Condé Nast](http://www.condenast.com)
 
@@ -276,6 +277,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Introducing Bonsai: an open source Webpack analyzer](https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984)
 * [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
 * [A one year PWA retrospective](https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05)
+* [Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study](https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/)
 
 ### [Reddit](https://about.reddit.com)
 
