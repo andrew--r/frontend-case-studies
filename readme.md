@@ -591,6 +591,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/)
 * [Фронтенд как у сына маминой подруги](https://habr.com/company/yamoney/blog/354416/)
 * [Реактивный фронтенд. История о том, как мы снова всё переписали](https://habr.com/company/yamoney/blog/414183/)
+* [Jenkins на службе фронтенд-разработки](https://youtu.be/DA_R8mIaRJg)
 
 ### [Badoo](https://badoo.com)
 
