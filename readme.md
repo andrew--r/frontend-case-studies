@@ -100,7 +100,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Setka](#setka)
   * [Mail.Ru](#mailru)
   * [Microsoft To-Do](#microsoft-to-do-1)
-  * [Rambler Group](#ramblergroup)
+  * [Rambler Group](#rambler-group)
 * [License](#license)
 
 ## English
