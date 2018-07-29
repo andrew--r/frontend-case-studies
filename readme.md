@@ -457,6 +457,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Mixmax](https://mixmax.com/)
 
+* [Scaling Mixmax: Front-end performance](https://mixmax.com/blog/scaling-mixmax-front-end)
 * [How we built ‘instant’ autocomplete for Mixmax](https://mixmax.com/blog/autocomplete-search-performance)
 * [React without Redux: how we moved from Backbone to React without rewriting](https://mixmax.com/blog/backbone-to-react-without-rewriting)
 * [Using CORS policies to implement CSRF protection](https://mixmax.com/blog/modern-csrf)
