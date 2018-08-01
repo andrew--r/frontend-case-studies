@@ -82,6 +82,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Gusto](#gusto)
   * [Skillshare](#skillshare)
   * [Internet Archive](#internet-archive)
+  * [in der Apotheke](#in-der-apotheke)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -541,6 +542,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Internet Archive](https://archive.org/)
 
 * [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773)
+
+### [in der Apotheke](https://www.inderapotheke.de/)
+
+* [Farewell, Google Maps](https://www.inderapotheke.de/blog/farewell-google-maps)
 
 ### Miscellaneous
 
