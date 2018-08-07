@@ -227,6 +227,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [An outbreak of Accessibility anti-patterns](https://medium.com/ft-product-technology/an-outbreak-of-accessibility-anti-patterns-e73577242ee8)
 * [Improving the cache performance of The Polyfill Service](https://jakechampion.name/improving-cache-performance-polyfillio/)
 * [Building The New Financial Times Web App](https://www.smashingmagazine.com/2013/05/building-the-new-financial-times-web-app-a-case-study/a)
+* [This one line of Javascript made FT.com 10 times slower](https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f)
 
 ### [Condé Nast](http://www.condenast.com)
 
