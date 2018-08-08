@@ -83,6 +83,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Skillshare](#skillshare)
   * [Internet Archive](#internet-archive)
   * [in der Apotheke](#in-der-apotheke)
+  * [Wingify](#wingify)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -548,6 +549,19 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [in der Apotheke](https://www.inderapotheke.de/)
 
 * [Farewell, Google Maps](https://www.inderapotheke.de/blog/farewell-google-maps)
+
+### [Wingify](https://wingify.com/)
+
+* [How We Made The Animated A/B Testing Guide](https://engineering.wingify.com/posts/making-of-abtesting-scrollmation/)
+* [Getting 60 FPS using Chrome devtools](https://engineering.wingify.com/posts/getting-60fps-using-devtools/)
+* [Overcoming the Challenges of Performance Testing Single-page Apps](https://engineering.wingify.com/posts/performance-testing/)
+* [jQuery Promises: The answer to PostMessage's asynchrony](https://engineering.wingify.com/posts/jquery-promises-with-postmessage/)
+* [Testing AngularJS Apps End to End Using Protractor](https://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/)
+* [A layout trick](https://engineering.wingify.com/posts/layout-trick/)
+* [Speeding Up VWO](https://engineering.wingify.com/posts/speeding-up-vwo/)
+* [Migrating towards Yarn and Webpack](https://engineering.wingify.com/posts/migrating-towards-yarn-webpack/)
+* [Why we've removed Inheritance/Extend from SASS & you should do the same!](https://engineering.wingify.com/posts/sass-inheritance-removal/)
+* [Automated Heatmap Verification E2E using Selenium and Canvas](https://engineering.wingify.com/posts/automated-heatmap-verification/)
 
 ### Miscellaneous
 
