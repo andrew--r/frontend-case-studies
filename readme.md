@@ -265,6 +265,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Building Shopify mobile with native and web technology](https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-mobile-with-native-and-web-technology)
 * [How 17 lines of code improved shopify.com loading by 50%](https://shopifyengineering.myshopify.com/blogs/engineering/how-17-lines-of-code-improved-shopify-com-loading-by-50)
+* [Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2)
 
 ### [Flipkart](https://www.flipkart.com)
 
