@@ -135,6 +135,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 * [Infinite List and React](http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
 * [The Twitter Lite team about their use of Node.js](https://youtu.be/iWXC5VCfQHI)
+* [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/)
 
 ### [eBay](https://www.ebay.com)
 
