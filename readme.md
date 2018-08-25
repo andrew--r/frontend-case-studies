@@ -105,6 +105,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Mail.Ru](#mailru)
   * [Microsoft To-Do](#microsoft-to-do-1)
   * [Rambler Group](#rambler-group)
+  * [Netcracker](#netcracker)
 * [License](#license)
 
 ## English
@@ -691,6 +692,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Проектирование дизайн-системы Рамблера](https://youtu.be/ZxmcIpmenoY)
 * [Опыт Rambler Group: как мы начали полностью контролировать формирование и поведение фронтовых React компонентов](https://habr.com/company/rambler-co/blog/417023/)
 * [Apollo: 9 месяцев — полет нормальный](https://habr.com/company/rambler-co/blog/418417/)
+
+### [Netcracker](https://www.netcracker.com/)
+
+* [Микросервисный фронтенд — современный подход к разделению фронта](https://habr.com/company/netcracker/blog/420753/)
+* [Выбранный UI-фреймворк – вред. Архитектурные требования – профит](https://habr.com/company/netcracker/blog/333734/)
 
 ## License
 
