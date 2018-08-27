@@ -501,6 +501,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Migrating Angular 1.x apps to React — The Hybrid Way!](https://medium.com/walmartlabs/migrating-angular-1-x-apps-to-react-the-hybrid-way-3267ccf33755)
 * [Migrating Large Enterprise to NodeJS](https://medium.com/walmartlabs/migrating-large-enterprise-to-nodejs-6c38523d2b33)
 * [React Native at WalmartLabs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560)
+* [Primer on Front End Automation](https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1)
 
 ### [Bloomberg](https://www.bloomberg.com/)
 
