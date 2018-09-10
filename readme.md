@@ -581,7 +581,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [How to test accessibility of emails](https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4)
 * [Better video previews for email](https://cm.engineering/better-video-previews-for-email-12432ce71846)
 
-### Flickr (https://www.flickr.com/)
+### [Flickr](https://www.flickr.com/)
 
 * [Lessons Learned from the Flickr Touch Lightbox](http://code.flickr.net/2011/07/20/lessons-learned-from-the-flickr-touch-lightbox/)
 * [Creating an interface for geofences](http://code.flickr.net/2011/09/06/creating-an-interface-for-geofences/)
