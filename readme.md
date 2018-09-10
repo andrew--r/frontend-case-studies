@@ -85,6 +85,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [in der Apotheke](#in-der-apotheke)
   * [Wingify](#wingify)
   * [Campaign Monitor](#campaign-monitor)
+  * [Flickr](#flickr)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -487,7 +488,6 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [TinyMCE is going mobile](https://go.tinymce.com/blog/tinymce-is-going-mobile/)
 * [Benefits of gradual strong typing in JavaScript](https://go.tinymce.com/blog/benefits-of-gradual-strong-typing-in-javascript/)
 
-
 ### [Instagram](https://www.instagram.com/)
 
 * [React Native at Instagram](https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7)
@@ -580,6 +580,19 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Fixing bugs with Outlook specific CSS](https://cm.engineering/fixing-bugs-with-outlook-specific-css-f4b8ae5be4f4)
 * [How to test accessibility of emails](https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4)
 * [Better video previews for email](https://cm.engineering/better-video-previews-for-email-12432ce71846)
+
+### Flickr (https://www.flickr.com/)
+
+* [Lessons Learned from the Flickr Touch Lightbox](http://code.flickr.net/2011/07/20/lessons-learned-from-the-flickr-touch-lightbox/)
+* [Creating an interface for geofences](http://code.flickr.net/2011/09/06/creating-an-interface-for-geofences/)
+* [Raising the bar on web uploads](http://code.flickr.net/2012/04/25/raising-the-bar-on-web-uploads/)
+* [Building an HTML5 Photo Editor](http://code.flickr.net/2012/04/18/building-an-html5-photo-editor/)
+* [Building The Flickr Web Uploadr: The Grid](http://code.flickr.net/2012/05/11/building-the-flickr-web-uploadr-the-grid/)
+* [Parsing Exif client-side using JavaScript](http://code.flickr.net/2012/06/01/parsing-exif-client-side-using-javascript-2/)
+* [Adventures in Jank Busting: Parallax, performance, and the new Flickr Home Page](http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/)
+* [Building Flickr’s new Hybrid Signed-Out Homepage](http://code.flickr.net/2014/04/23/building-flickrs-new-hybrid-signed-out-homepage/)
+* [Perceptual Image Compression at Flickr](http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/)
+* [Introducing yakbak: Record and playback HTTP interactions in NodeJS](http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/)
 
 ### Miscellaneous
 
