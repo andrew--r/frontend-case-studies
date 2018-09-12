@@ -86,6 +86,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Wingify](#wingify)
   * [Campaign Monitor](#campaign-monitor)
   * [Flickr](#flickr)
+  * [ezCater](#ezcater)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -594,6 +595,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Building Flickr’s new Hybrid Signed-Out Homepage](http://code.flickr.net/2014/04/23/building-flickrs-new-hybrid-signed-out-homepage/)
 * [Perceptual Image Compression at Flickr](http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/)
 * [Introducing yakbak: Record and playback HTTP interactions in NodeJS](http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/)
+
+### [ezCater](https://www.ezcater.com/)
+
+* [The case against React snapshot testing](https://engineering.ezcater.com/the-case-against-react-snapshot-testing)
 
 ### Miscellaneous
 
