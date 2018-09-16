@@ -87,6 +87,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Campaign Monitor](#campaign-monitor)
   * [Flickr](#flickr)
   * [ezCater](#ezcater)
+  * [Thread](#thread)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -599,6 +600,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [ezCater](https://www.ezcater.com/)
 
 * [The case against React snapshot testing](https://engineering.ezcater.com/the-case-against-react-snapshot-testing)
+
+### [Thread](https://www.thread.com/)
+
+* [Dealing with legacy code in React](https://thread.engineering/dealing-with-legacy-code-in-react-18bc0c039e8b)
+* [Searching and sorting text with diacritical marks in JavaScript](https://thread.engineering/searching-and-sorting-text-with-diacritical-marks-in-javascript-45afef20e7f2)
 
 ### Miscellaneous
 
