@@ -88,6 +88,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Flickr](#flickr)
   * [ezCater](#ezcater)
   * [Thread](#thread)
+  * [blogfoster](#blogfoster)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -605,6 +606,15 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Dealing with legacy code in React](https://thread.engineering/dealing-with-legacy-code-in-react-18bc0c039e8b)
 * [Searching and sorting text with diacritical marks in JavaScript](https://thread.engineering/searching-and-sorting-text-with-diacritical-marks-in-javascript-45afef20e7f2)
+
+### [blogfoster](http://www.blogfoster.com/)
+
+* [Jumpstart to React+Redux Development](http://engineering.blogfoster.com/jumpstart-to-react-redux-development/)
+* [Centralized ESLint Configuration](http://engineering.blogfoster.com/centralized-eslint-configuration/)
+* [Redux For Better in-App Analytics](http://engineering.blogfoster.com/redux-for-better-in-app-analytics/)
+* [Managing Complexity in Redux: Higher-Order Reducers and Async State](http://engineering.blogfoster.com/managing-complexity-in-redux-higher-order-reducers-and-async-state/)
+* [How We Simplified our Tooling Setup for Node.js Projects](http://engineering.blogfoster.com/how-we-simplified-our-tooling-setup-for-node-js-projects/)
+* [How to Use the Power of Jest’s Snapshot Testing Without Using Jest](http://engineering.blogfoster.com/how-to-use-the-power-of-jests-snapshot-testing-without-using-jest/)
 
 ### Miscellaneous
 
