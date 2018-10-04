@@ -307,7 +307,19 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Dropbox](https://www.dropbox.com)
 
+* [Dropbox dives into CoffeeScript](https://blogs.dropbox.com/tech/2012/09/dropbox-dives-into-coffeescript/)
+* [Some love for JavaScript applications](https://blogs.dropbox.com/tech/2012/08/some-love-for-javascript-applications-2/)
+* Content Security Policy at Dropbox: [On Reporting and Filtering](https://blogs.dropbox.com/tech/2015/09/on-csp-reporting-and-filtering/), [Unsafe-inline and nonce deployment](https://blogs.dropbox.com/tech/2015/09/unsafe-inline-and-nonce-deployment/), [The Unexpected Eval](https://blogs.dropbox.com/tech/2015/09/csp-the-unexpected-eval/), [Third Party Integrations and Privilege Separation](https://blogs.dropbox.com/tech/2015/09/csp-third-party-integrations-and-privilege-separation/)
+* [Enabling HTTP/2 for Dropbox web services: experiences and observations](https://blogs.dropbox.com/tech/2016/05/enabling-http2-for-dropbox-web-services-experiences-and-observations/)
+* [Annotations on Document Previews](https://blogs.dropbox.com/tech/2016/11/annotations-on-document-previews/)
+* [Preventing cross-site attacks using same-site cookies](https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/)
+* [Deploying Brotli for static content](https://blogs.dropbox.com/tech/2017/04/deploying-brotli-for-static-content/)
+* [Dropbox Paper: Emojis and Exformation](https://blogs.dropbox.com/tech/2017/11/dropbox-paper-emojis-and-exformation/)
+* [Improving Document Preview Performance](https://blogs.dropbox.com/tech/2017/12/improving-document-preview-performance/)
+* [How we’re winning the battle against flaky tests](https://blogs.dropbox.com/tech/2018/05/how-were-winning-the-battle-against-flaky-tests/)
+* [Migrating from Underscore to Lodash](https://blogs.dropbox.com/tech/2018/09/migrating-from-underscore-to-lodash/)
 * [Dropbox new homepage](http://tannergodarzi.com/projects/dropbox-homepage.html)
+* [Translating Dropbox](https://blogs.dropbox.com/tech/2011/04/hello-world/)
 
 ### [stripe](https://stripe.com)
 
