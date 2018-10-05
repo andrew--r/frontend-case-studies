@@ -757,6 +757,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Проектирование дизайн-системы Рамблера](https://youtu.be/ZxmcIpmenoY)
 * [Опыт Rambler Group: как мы начали полностью контролировать формирование и поведение фронтовых React компонентов](https://habr.com/company/rambler-co/blog/417023/)
 * [Apollo: 9 месяцев — полет нормальный](https://habr.com/company/rambler-co/blog/418417/)
+* [Маршрутизация в большом приложении на React](https://habr.com/company/rambler-co/blog/424025/)
 
 ### [Netcracker](https://www.netcracker.com/)
 
