@@ -91,6 +91,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [blogfoster](#blogfoster)
   * [Carbon Five](#carbon-five)
   * [The Wall Street Journal](#the-wall-street-journal)
+  * [Electronic Arts](#electronic-arts)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -641,6 +642,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [The Wall Street Journal](https://www.wsj.com)
 
 * [Making WSJ.com more accessible](https://matthewstrom.com/writing/wsj-accessibility.html) and [WSJ.com Accessibility Guidelines](https://matthewstrom.com/pages/wsj-accessibility-guidelines)
+
+### [Electronic Arts](https://www.ea.com)
+
+* [Building UI at Enterprise Scale with Web Components](https://youtu.be/FJ2KEvzlyo4)
 
 ### Miscellaneous
 
