@@ -524,6 +524,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [React Native at WalmartLabs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560)
 * [Primer on Front End Automation](https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1)
 * [Lazy Loading Images with IntersectionObserver](https://medium.com/walmartlabs/lazy-loading-images-intersectionobserver-8c5bff730920)
+* [Midway: Walmart’s mocking journey…](https://medium.com/walmartlabs/midway-walmarts-mocking-journey-84c34fcc4593)
 
 ### [Bloomberg](https://www.bloomberg.com/)
 
