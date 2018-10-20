@@ -93,6 +93,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [The Wall Street Journal](#the-wall-street-journal)
   * [Electronic Arts](#electronic-arts)
   * [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
+  * [Zynga](#zynga)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -651,6 +652,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Australian Broadcasting Corporation](http://abc.net.au/)
 
 * [Composing Components](https://developers.digital.abc.net.au/2018/09/28/composing-components/)
+
+### [Zynga](https://www.zynga.com/)
+
+* [Why & How Words With Friends Is Adopting React Native](https://medium.com/zynga-engineering/why-how-words-with-friends-is-adopting-react-native-b24a405f421c)
 
 ### Miscellaneous
 
