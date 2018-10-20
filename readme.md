@@ -422,6 +422,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Lyft](https://lyft.com)
 
 * [TypeScript at Lyft](https://eng.lyft.com/typescript-at-lyft-64f0702346ea)
+* [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
 
 ### [CodeSandbox](https://codesandbox.io/)
 
