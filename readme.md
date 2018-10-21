@@ -94,6 +94,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Electronic Arts](#electronic-arts)
   * [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
   * [Zynga](#zynga)
+  * [Zajno](#zajno)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -657,6 +658,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Zynga](https://www.zynga.com/)
 
 * [Why & How Words With Friends Is Adopting React Native](https://medium.com/zynga-engineering/why-how-words-with-friends-is-adopting-react-native-b24a405f421c)
+
+### [Zajno](https://zajno.com/)
+
+* [Visualizing money: how we explained a complex financial product using animation](https://medium.com/zajnocrew/visualizing-money-how-we-explained-a-complex-financial-product-using-animation-3ee8b3e4277e)
 
 ### Miscellaneous
 
