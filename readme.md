@@ -95,6 +95,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
   * [Zynga](#zynga)
   * [Zajno](#zajno)
+  * [PayPal](#paypal)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -662,6 +663,18 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Zajno](https://zajno.com/)
 
 * [Visualizing money: how we explained a complex financial product using animation](https://medium.com/zajnocrew/visualizing-money-how-we-explained-a-complex-financial-product-using-animation-3ee8b3e4277e)
+
+### [PayPal](https://www.paypal.com)
+
+* [Less is more: reducing thousands of PayPal buttons into a single iframe, using zoid](https://medium.com/@bluepnume/less-is-more-reducing-thousands-of-paypal-buttons-into-a-single-iframe-using-xcomponent-d902d71d8875)
+* [Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout](https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef)
+* [Dependency injection in Angular isn’t worth it. More lessons learned from scaling PayPal Checkout](https://medium.com/@bluepnume/dependency-injection-in-angular-isn-t-worth-it-more-lessons-learned-from-scaling-paypal-checkout-2189ec9c21a0)
+* [Auto-shrink-wrapping in PayPal Checkout, and how it’s saved us more than once](https://medium.com/@bluepnume/how-we-manage-sane-tagging-releasing-and-shrink-wrapping-for-paypal-checkout-d1e37f20533a)
+* [Safari’s new third party tracking rules, and enabling cross-domain data storage](https://medium.com/@bluepnume/safaris-new-tracking-rules-and-enabling-cross-domain-data-storage-85241eea7483)
+* [Reinventing cross-origin requests, without CORS](https://medium.com/@bluepnume/reinventing-cross-origin-requests-without-cors-b9c4cb645376)
+* [Introducing PayPal’s open-source cross-domain javascript suite](https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d)
+* [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
+
 
 ### Miscellaneous
 
