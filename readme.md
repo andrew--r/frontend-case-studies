@@ -769,6 +769,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Как создавалась карта с голосами болельщиков для Олимпиады](https://habrahabr.ru/company/yandex/blog/335982/)
 * [Лекция Виталия Харисова «10k» про лёгкую версию поиска для медленных соединений и способы оптимизации кода, позволяющие уложиться в 10 килобайт](https://habrahabr.ru/company/yandex/blog/336952/)
 * [Как мы делали «нарратив» – новый формат публикаций в Яндекс.Дзене](https://habrahabr.ru/company/yandex/blog/349220/)
+* [Бэкенд для фронтенда, или как в Яндекс.Маркете создают API без костылей](https://habr.com/company/yandex/blog/428141/)
 
 ### [ВКонтакте](https://vk.com)
 
