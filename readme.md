@@ -96,6 +96,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Zynga](#zynga)
   * [Zajno](#zajno)
   * [PayPal](#paypal)
+  * [1Password](#1password)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -676,6 +677,9 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Introducing PayPal’s open-source cross-domain javascript suite](https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d)
 * [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 
+### [1Password](https://1password.com/)
+
+* [From dark to light and back again](https://blog.1password.com/from-dark-to-light-and-back-again/)
 
 ### Miscellaneous
 
