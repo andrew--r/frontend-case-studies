@@ -478,7 +478,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Exploration: Front-end JavaScript at Artsy in 2017](http://artsy.github.io/blog/2017/02/05/Front-end-JavaScript-at-Artsy-2017/)
 * [Modernizing Force](http://artsy.github.io/blog/2017/09/05/Modernizing-Force/)
 * [React Native, 2 years later](http://artsy.github.io/blog/2018/03/17/two-years-of-react-native/)
-
+* [Keeping Artsy's dependencies up to date](http://artsy.github.io/blog/2018/11/26/keeping-dependencies-updated/)
+* [Switch from Capybara Webkit to Chrome](http://artsy.github.io/blog/2018/11/27/switch-from-capybara-webkit-to-chrome/)
 
 ### [Medium](https://medium.com/)
 
