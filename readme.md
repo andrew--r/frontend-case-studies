@@ -491,6 +491,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Simple Style Sheets, Or How to Improve Your Sleep by Dropping the Cascade](https://medium.engineering/simple-style-sheets-c3b588867899)
 * [The case of the eternal blur: a bug hunt horror novella](https://medium.engineering/the-case-of-the-eternal-blur-ab350b9653ea)
 * [2 Fast 2 Furious: migrating Medium’s codebase without slowing down](https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4)
+* [GraphQL Server Design @ Medium](https://medium.engineering/graphql-server-design-medium-34862677b4b8)
 
 ### [Mixpanel](https://mixpanel.com/)
 
