@@ -97,6 +97,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Zajno](#zajno)
   * [PayPal](#paypal)
   * [1Password](#1password)
+  * [Checkbot](#checkbot)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -682,6 +683,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [1Password](https://1password.com/)
 
 * [From dark to light and back again](https://blog.1password.com/from-dark-to-light-and-back-again/)
+
+### [Checkbot](https://www.checkbot.io/)
+
+* [Scalable & lightweight web screenshots with SVG](https://www.checkbot.io/article/web-page-screenshots-with-svg/)
 
 ### Miscellaneous
 
