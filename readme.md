@@ -481,6 +481,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [React Native, 2 years later](http://artsy.github.io/blog/2018/03/17/two-years-of-react-native/)
 * [Keeping Artsy's dependencies up to date](http://artsy.github.io/blog/2018/11/26/keeping-dependencies-updated/)
 * [Switch from Capybara Webkit to Chrome](http://artsy.github.io/blog/2018/11/27/switch-from-capybara-webkit-to-chrome/)
+* [GraphQL Stitching 101](http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
 
 ### [Medium](https://medium.com/)
 
