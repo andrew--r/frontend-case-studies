@@ -382,6 +382,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [AdRoll](https://www.adroll.com)
 
+* [Lazy loading Backbone collections with Promises](http://tech.adroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html)
+* [Rollup: Shared UI components at AdRoll](http://tech.adroll.com/blog/frontend/2015/11/05/rollup-shared-ui-components.html)
+* [Rollup: How we use React.js and npm to share UI code at AdRoll](http://tech.adroll.com/blog/frontend/2015/11/12/rollup-react-and-npm-at-adroll.html)
+* [Rollup: What we have learned from sharing UI code at AdRoll](http://tech.adroll.com/blog/frontend/2015/11/19/rollup-major-learnings.html)
+* [How to Create a Style Guide: Start with a UI Framework](http://tech.adroll.com/blog/product/2016/07/29/how-to-create-a-style-guide.html)
+* [gulp-react-docs: From propTypes to Markdown in 3 seconds](http://tech.adroll.com/blog/frontend/2015/12/21/gulp-react-docs.html)
 * [How to Run a Front-End Infrastructure Team](http://tech.adroll.com/blog/frontend/2017/08/29/how-to-run-a-front-end-infrastructure-team.html)
 
 ### [Conductor](https://www.conductor.com/)
