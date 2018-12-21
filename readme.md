@@ -332,6 +332,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [stripe](https://stripe.com)
 
 * [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
+* [A new approach to mocking GraphQL data: how we power React component tests and examples at Stripe](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491)
 
 ### [Unsplash](https://unsplash.com)
 
