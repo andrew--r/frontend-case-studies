@@ -98,6 +98,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [PayPal](#paypal)
   * [1Password](#1password)
   * [Checkbot](#checkbot)
+  * [Spotify](#spotify)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -695,6 +696,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Checkbot](https://www.checkbot.io/)
 
 * [Scalable & lightweight web screenshots with SVG](https://www.checkbot.io/article/web-page-screenshots-with-svg/)
+
+### [Spotify](https://www.spotify.com)
+
+* [Spotify Wrapped 2018 — Technical Case Study](https://medium.com/@activetheory/spotify-wrapped-2018-technical-case-study-5b7cfb7e9d3a)
 
 ### Miscellaneous
 
