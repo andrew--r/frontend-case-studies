@@ -274,7 +274,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Integrating imperative APIs into a React application](https://medium.com/netflix-techblog/integrating-imperative-apis-into-a-react-application-1257e1b45ac6)
 * [JSON Graph: Reactive REST at Netflix](https://youtu.be/hOE6nVVr14c)
 * [Performance Signup in React & Transactional Apps with Redux](https://youtu.be/V8oTJ8OZ5S0)
-
+* [Implementing Japanese Subtitles on Netflix](https://medium.com/netflix-techblog/implementing-japanese-subtitles-on-netflix-c165fbe61989)
+* [Pseudo Localization @ Netflix](https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe)
 
 ### [Uber](https://www.uber.com)
 
