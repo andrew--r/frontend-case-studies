@@ -766,6 +766,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Специфика верстки мультиязычных веб-приложений](https://tech.badoo.com/ru/presentation/23/speczifika-verstki-multiyazychnyx-veb-prilozhenij)
 * [Как собрать статистику с веб-сайта и не набить себе шишек](https://habrahabr.ru/company/badoo/blog/325062/)
 * [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc)
+* [Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде](https://habr.com/company/badoo/blog/434448/)
 
 ### [Skyeng](https://skyeng.ru)
 
