@@ -99,6 +99,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [1Password](#1password)
   * [Checkbot](#checkbot)
   * [Spotify](#spotify)
+  * [Lucidchart](#lucidchart)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -702,6 +703,22 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Spotify](https://www.spotify.com)
 
 * [Spotify Wrapped 2018 — Technical Case Study](https://medium.com/@activetheory/spotify-wrapped-2018-technical-case-study-5b7cfb7e9d3a)
+
+### [Lucidchart](https://www.lucidchart.com/)
+
+* [IE10: How does it really stack up?](https://www.lucidchart.com/techblog/2012/11/14/ie10-how-does-it-really-stack-up/)
+* [Atomic CSS as a tool set](https://www.lucidchart.com/techblog/2014/01/31/atomic-css-tool-set/)
+* [The Definitive Guide to Copying and Pasting in JavaScript](https://www.lucidchart.com/techblog/2014/12/02/definitive-guide-copying-pasting-javascript/)
+* [Big content in a little canvas](https://www.lucidchart.com/techblog/2015/05/19/big-content-in-a-little-canvas/)
+* [Improving Angular 2 Load Times and a 29KB Hello World App](https://www.lucidchart.com/techblog/2016/09/26/improving-angular-2-load-times/)
+* [Angular 2 and Observables: Data Sharing in a Multi-View Application](https://www.lucidchart.com/techblog/2016/11/08/angular-2-and-observables-data-sharing-in-a-multi-view-application/)
+* [Using Angular 2 Components In a Non-Angular App](https://www.lucidchart.com/techblog/2017/04/10/using-angular-2-components-in-a-non-angular-app/)
+* [How to handle folder uploads in Angular 2+](https://www.lucidchart.com/techblog/2018/01/03/folder-upload-in-an-angular-app/)
+* [JavaScriptCore – The Holy Grail of Cross Platform](https://www.lucidchart.com/techblog/2018/02/14/javascriptcore-the-holy-grail-of-cross-platform/)
+* [How to Actually Improve Type Safety with the TypeScript Strict Flags](https://www.lucidchart.com/techblog/2018/06/20/how-to-actually-improve-type-safety-with-the-typescript-strict-flags/)
+* [Converting 600k lines to TypeScript in 72 hours](https://www.lucidchart.com/techblog/2017/11/16/converting-600k-lines-to-typescript-in-72-hours/)
+* [ZoneTracker: Tracking JavaScript Performance with Zone.js](https://www.lucidchart.com/techblog/2018/11/09/tracking-javascript-performance-zone-js/)
+* [JavaScriptCore—10 Months Later](https://www.lucidchart.com/techblog/2019/01/03/javascriptcore-10-months-later/)
 
 ### Miscellaneous
 
