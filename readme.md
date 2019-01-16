@@ -100,6 +100,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Checkbot](#checkbot)
   * [Spotify](#spotify)
   * [Lucidchart](#lucidchart)
+  * [Spectrum](#spectrum)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -720,6 +721,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Converting 600k lines to TypeScript in 72 hours](https://www.lucidchart.com/techblog/2017/11/16/converting-600k-lines-to-typescript-in-72-hours/)
 * [ZoneTracker: Tracking JavaScript Performance with Zone.js](https://www.lucidchart.com/techblog/2018/11/09/tracking-javascript-performance-zone-js/)
 * [JavaScriptCore—10 Months Later](https://www.lucidchart.com/techblog/2019/01/03/javascriptcore-10-months-later/)
+
+### [Spectrum](https://spectrum.chat/)
+
+* [Tech Choices I Regret at Spectrum](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
 
 ### Miscellaneous
 
