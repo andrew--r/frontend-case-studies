@@ -493,6 +493,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Keeping Artsy's dependencies up to date](http://artsy.github.io/blog/2018/11/26/keeping-dependencies-updated/)
 * [Switch from Capybara Webkit to Chrome](http://artsy.github.io/blog/2018/11/27/switch-from-capybara-webkit-to-chrome/)
 * [GraphQL Stitching 101](http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
+* [GraphQL: Union vs. Interface](http://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/)
 
 ### [Medium](https://medium.com/)
 
