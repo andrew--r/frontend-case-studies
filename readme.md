@@ -102,6 +102,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Lucidchart](#lucidchart)
   * [Spectrum](#spectrum)
   * [MemSQL](#memsql)
+  * [Verve](#verve)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -730,6 +731,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [MemSQL](https://www.memsql.com)
 
 * [Porting 30K lines of code from Flow to TypeScript](https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/)
+
+### [Verve](https://verve.co)
+
+* [GraphQL: A Retrospective](https://verve.co/engineering/graphql-a-retrospective/)
 
 ### Miscellaneous
 
