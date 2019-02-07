@@ -832,6 +832,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Лекция Виталия Харисова «10k» про лёгкую версию поиска для медленных соединений и способы оптимизации кода, позволяющие уложиться в 10 килобайт](https://habrahabr.ru/company/yandex/blog/336952/)
 * [Как мы делали «нарратив» – новый формат публикаций в Яндекс.Дзене](https://habrahabr.ru/company/yandex/blog/349220/)
 * [Бэкенд для фронтенда, или как в Яндекс.Маркете создают API без костылей](https://habr.com/company/yandex/blog/428141/)
+* [React & БЭМ – официальная коллаборация. Часть историческая](https://habr.com/en/company/yandex/blog/438598/)
 
 ### [ВКонтакте](https://vk.com)
 
