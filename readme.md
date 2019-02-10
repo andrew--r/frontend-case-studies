@@ -281,6 +281,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Performance Signup in React & Transactional Apps with Redux](https://youtu.be/V8oTJ8OZ5S0)
 * [Implementing Japanese Subtitles on Netflix](https://medium.com/netflix-techblog/implementing-japanese-subtitles-on-netflix-c165fbe61989)
 * [Pseudo Localization @ Netflix](https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe)
+* [Delivering Meaning with Previews on Web](https://medium.com/netflix-techblog/delivering-meaning-with-previews-on-web-3cedc0341b9e)
+* [Enhancing the Netflix UI Experience with HDR](https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8)
+* [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
+* [Modernizing the Web Playback UI](https://medium.com/netflix-techblog/modernizing-the-web-playback-ui-1ad2f184a5a0)
 
 ### [Uber](https://www.uber.com)
 
