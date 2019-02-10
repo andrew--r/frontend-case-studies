@@ -124,6 +124,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Microsoft To-Do](#microsoft-to-do-1)
   * [Rambler Group](#rambler-group)
   * [Netcracker](#netcracker)
+  * [HeadHunter](#headhunter)
 * [License](#license)
 
 ## English
@@ -862,6 +863,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Микросервисный фронтенд — современный подход к разделению фронта](https://habr.com/company/netcracker/blog/420753/)
 * [Выбранный UI-фреймворк – вред. Архитектурные требования – профит](https://habr.com/company/netcracker/blog/333734/)
+
+### [HeadHunter](https://hh.ru/)
+
+* [Нянчим проект на React-redux с пелёнок](https://habr.com/ru/company/hh/blog/310524/)
+* [Качество кода фронтенда в HH](https://habr.com/ru/company/hh/blog/438812/)
 
 ## License
 
