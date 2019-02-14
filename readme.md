@@ -103,6 +103,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Spectrum](#spectrum)
   * [MemSQL](#memsql)
   * [Verve](#verve)
+  * [Khan Academy](#khan-academy)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -741,6 +742,18 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Verve](https://verve.co)
 
 * [GraphQL: A Retrospective](https://verve.co/engineering/graphql-a-retrospective/)
+
+### [Khan Academy](http://khanacademy.org/)
+
+* [tota11y - an accessibility visualization toolkit](http://engineering.khanacademy.org/posts/tota11y.htm)
+* [Babel in Khan Academy's i18n Toolchain](http://engineering.khanacademy.org/posts/i18n-babel-plugin.htm)
+* [Fun with slope fields, css and react](http://engineering.khanacademy.org/posts/fun-with-slopfields.htm)
+* [Copy-pasting more than just text](http://engineering.khanacademy.org/posts/copy-pasting-more-than-just-text.htm)
+* [i18nize-templates: Internationalization After the Fact](http://engineering.khanacademy.org/posts/i18nize-templates.htm)
+* [Schrödinger's deploys no more: how we update translations](http://engineering.khanacademy.org/posts/translation-server.htm)
+* [Forgo JS packaging? Not so fast](http://engineering.khanacademy.org/posts/js-packaging-http2.htm)
+* [Inline CSS at Khan Academy: Aphrodite](http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm)
+* [Creating Query Components with Apollo](http://engineering.khanacademy.org/posts/creating-query-components-with-apollo.htm)
 
 ### Miscellaneous
 
