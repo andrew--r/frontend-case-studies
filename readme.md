@@ -314,7 +314,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Demystifying SEO with experiments](https://medium.com/@Pinterest_Engineering/demystifying-seo-with-experiments-a183b325cf4c)
 * [How we made JavaScript testing 15x faster](https://medium.com/@Pinterest_Engineering/how-we-made-javascript-testing-15x-faster-5ba35b5d3947)
 * [Making Pinterest HTTPS](https://medium.com/@Pinterest_Engineering/making-pinterest-https-637ec925a8ad)
-* [Migrating Pinterest profiles to React](https://medium.com/@Pinterest_Engineering/migrating-pinterest-profiles-to-react-479f4f7306aa)
+* [Migrating Pinterest profiles to React](https://medium.com/@Pinterest_Engineering/migrating-pinterest-profiles-to-react-479f4f7306aa) ([video](https://youtu.be/dx9ZlpUx59I))
 * [How we switched our template rendering engine to React](https://medium.com/@Pinterest_Engineering/how-we-switched-our-template-rendering-engine-to-react-a799a3d540b0)
 * [Introducing Bonsai: an open source Webpack analyzer](https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984)
 * [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
