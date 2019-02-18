@@ -503,6 +503,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Switch from Capybara Webkit to Chrome](http://artsy.github.io/blog/2018/11/27/switch-from-capybara-webkit-to-chrome/)
 * [GraphQL Stitching 101](http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/)
 * [GraphQL: Union vs. Interface](http://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/)
+* [From TSLint to ESLint, or How I Learned to Lint GraphQL Code](http://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/)
 
 ### [Medium](https://medium.com/)
 
