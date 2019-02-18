@@ -104,6 +104,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [MemSQL](#memsql)
   * [Verve](#verve)
   * [Khan Academy](#khan-academy)
+  * [Cloudflare](#cloudflare)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -756,6 +757,15 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Migrating to a Mobile Monorepo for React Native](http://engineering.khanacademy.org/posts/react-native-monorepo.htm)
 * [Inline CSS at Khan Academy: Aphrodite](http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm)
 * [Creating Query Components with Apollo](http://engineering.khanacademy.org/posts/creating-query-components-with-apollo.htm)
+
+### [Cloudflare](https://www.cloudflare.com/)
+
+* [How we built Origin CA: Web Crypto](https://blog.cloudflare.com/how-we-built-origin-ca-web-crypto/)
+* [Going Global - a Localization Case Study at Cloudflare](https://blog.cloudflare.com/going-global-a-localization-case-study-at-cloudflare/)
+* [How we made our page-load optimisations even faster](https://blog.cloudflare.com/making-page-load-even-faster/)
+* [Open Sourcing CloudFlare’s UI Framework](https://blog.cloudflare.com/cf-ui/)
+* [Real URLs for AMP Cached Content Using Cloudflare Workers](https://blog.cloudflare.com/real-urls-for-amp-cached-content-using-cloudflare-workers/)
+* [Fast Google Fonts with Cloudflare Workers](https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/)
 
 ### Miscellaneous
 
