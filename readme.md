@@ -105,6 +105,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Verve](#verve)
   * [Khan Academy](#khan-academy)
   * [Cloudflare](#cloudflare)
+  * [Palantir](#palantir)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -766,6 +767,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Open Sourcing CloudFlare’s UI Framework](https://blog.cloudflare.com/cf-ui/)
 * [Real URLs for AMP Cached Content Using Cloudflare Workers](https://blog.cloudflare.com/real-urls-for-amp-cached-content-using-cloudflare-workers/)
 * [Fast Google Fonts with Cloudflare Workers](https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/)
+
+### [Palantir](https://www.palantir.com/)
+
+* [Scaling product design with Blueprint](https://medium.com/palantir/scaling-product-design-with-blueprint-25492827bb4a)
+* [TSLint in 2019](https://medium.com/palantir/tslint-in-2019-1a144c2317a9)
 
 ### Miscellaneous
 
