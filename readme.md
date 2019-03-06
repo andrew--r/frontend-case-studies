@@ -106,6 +106,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Khan Academy](#khan-academy)
   * [Cloudflare](#cloudflare)
   * [Palantir](#palantir)
+  * [Insider Inc.](#insider-inc)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -772,6 +773,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 * [Scaling product design with Blueprint](https://medium.com/palantir/scaling-product-design-with-blueprint-25492827bb4a)
 * [TSLint in 2019](https://medium.com/palantir/tslint-in-2019-1a144c2317a9)
+
+### [Insider Inc.](https://www.insider-inc.com/)
+
+* [How to style different sites with one CSS collection](https://medium.com/insider-inc-engineering/how-to-style-different-sites-with-one-css-collection-6f33126d4cdb)
+* [Why we got rid of all our front-end and back-end engineers](https://medium.com/insider-inc-engineering/why-we-got-rid-of-all-our-front-end-and-back-end-engineers-f9c06034548)
+* [Delightful ways to write reusable CSS using subclasses](https://medium.com/insider-inc-engineering/delightful-ways-to-write-reusable-css-using-subclasses-903e90c9cf87)
 
 ### Miscellaneous
 
