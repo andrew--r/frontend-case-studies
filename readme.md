@@ -820,6 +820,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [TARS, сделай уровень frontend-рутины 0%](https://habrahabr.ru/company/2gis/blog/254105/)
 * [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/company/2gis/blog/358148/)
 * [Справа налево. Как перевернуть интерфейс сайта под RTL](https://habr.com/company/2gis/blog/416635/)
+* [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/)
 
 ### [Альфа-Банк](https://alfabank.ru)
 
