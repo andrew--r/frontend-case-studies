@@ -108,6 +108,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Palantir](#palantir)
   * [Insider Inc.](#insider-inc)
   * [REA Group](#rea-group)
+  * [Badoo](#badoo)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -117,7 +118,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [2ГИС](#2ГИС)
   * [Альфа-Банк](#Альфа-Банк)
   * [Яндекс.Деньги](#ЯндексДеньги)
-  * [Badoo](#badoo)
+  * [Badoo](#badoo-1)
   * [Skyeng](#skyeng)
   * [Wrike](#wrike)
   * [Tinkoff](#tinkoff)
@@ -789,6 +790,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Singletons Suck (aka Flux to Redux)](https://www.rea-group.com/blog/singletons-suck-aka-flux-to-redux/)
 - [ReactJS Performance Debugging (aka The Magic of Reselect Selectors)](https://www.rea-group.com/blog/reactjs-performance-debugging-aka-the-magic-of-reselect-selectors/)
 - [My Journey in a UI Project (aka front-end is the new back-end)](https://www.rea-group.com/blog/my-journey-in-a-ui-project-aka-front-end-is-the-new-back-end/)
+
+### [Badoo](https://badoo.com)
+
+* [How to teach a web app to speak 100 languages: the specifics of localisation](https://badootech.badoo.com/how-to-teach-a-web-app-to-speak-100-languages-the-specifics-of-localisation-514f13ed235c)
+* [The painless way to collect statistics from a web-site](https://badootech.badoo.com/the-painless-way-to-collect-statistics-from-a-web-site-cadc6aa67688)
+* [Translating interfaces into almost fifty languages: Sketch](https://badootech.badoo.com/translating-interfaces-into-almost-fifty-languages-sketch-dc196cf23ee5)
+* [Translating Dust templates to JSX](https://badootech.badoo.com/translating-dust-templates-to-jsx-bed273ef41de)
+* Optical alignment for frontend developers: [why is it not the same as it is for designers](https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-i-why-it-is-not-the-same-as-for-designers-a082ffca1d3b) and [how can the process be automated](https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-ii-how-can-the-process-be-automated-e41d8de2b18f)
+* [Covering A/B tests with UI tests: how to avoid getting tangled up in your own code](https://badootech.badoo.com/covering-ab-tests-with-ui-testing-1df5401ff0e1)
+* Generating multi-brand multi-platform icons with Sketch and a Node.js script: [from the idea to the assets Sketch files](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part1-82f438c7e16c) and [the build script and the generation of the assets](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part2-8d02e8bb915a)
 
 ### Miscellaneous
 
