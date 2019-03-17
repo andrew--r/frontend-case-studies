@@ -606,6 +606,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Evolving JavaScript Part 1: Goodbye Backbone](https://engineering.gusto.com/evolving-javascript-part-1-goodbye-backbone/)
 * [Evolving JavaScript Part 2: Hello React](https://engineering.gusto.com/evolving-javascript-part-2-hello-react/)
 * [Evolving JavaScript Part 3: Building a React Application](https://engineering.gusto.com/evolving-javascript-part-3-building-a-react-application/)
+* [Taking off with Apollo](https://engineering.gusto.com/taking-off-with-apollo/)
+* [How I fell out of love with HOCs](https://engineering.gusto.com/how-i-fell-out-of-love-with-hocs/)
 
 ### [Skillshare](https://skillshare.com/)
 
