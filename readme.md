@@ -855,6 +855,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Как собрать статистику с веб-сайта и не набить себе шишек](https://habrahabr.ru/company/badoo/blog/325062/)
 * [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc)
 * [Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде](https://habr.com/company/badoo/blog/434448/)
+* Sketch + Node.js: генерируем иконки для множества платформ и брендов. [Часть 1](https://habr.com/ru/company/badoo/blog/441898/) и [часть 2](https://habr.com/ru/company/badoo/blog/442886/)
 
 ### [Skyeng](https://skyeng.ru)
 
