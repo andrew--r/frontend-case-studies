@@ -794,11 +794,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Badoo](https://badoo.com)
 
 * [How to teach a web app to speak 100 languages: the specifics of localisation](https://badootech.badoo.com/how-to-teach-a-web-app-to-speak-100-languages-the-specifics-of-localisation-514f13ed235c)
+* Hot localisations update: [part 1](https://badootech.badoo.com/hot-localisations-update-part-1-86fc013d6327), [part 2](https://badootech.badoo.com/part2-hot-localisations-update-12272511df0c)
 * [The painless way to collect statistics from a web-site](https://badootech.badoo.com/the-painless-way-to-collect-statistics-from-a-web-site-cadc6aa67688)
 * [Translating interfaces into almost fifty languages: Sketch](https://badootech.badoo.com/translating-interfaces-into-almost-fifty-languages-sketch-dc196cf23ee5)
 * [Translating Dust templates to JSX](https://badootech.badoo.com/translating-dust-templates-to-jsx-bed273ef41de)
 * Optical alignment for frontend developers: [why is it not the same as it is for designers](https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-i-why-it-is-not-the-same-as-for-designers-a082ffca1d3b) and [how can the process be automated](https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-ii-how-can-the-process-be-automated-e41d8de2b18f)
+* From zero to Cosmos: [part 1](https://badootech.badoo.com/from-zero-to-cosmos-part-1-2d080fe35bf2), [part 2](https://badootech.badoo.com/from-zero-to-cosmos-part-2-97929e13f839), [part 3](https://badootech.badoo.com/from-zero-to-cosmos-part-3-95e2c98c45a6)
 * [Covering A/B tests with UI tests: how to avoid getting tangled up in your own code](https://badootech.badoo.com/covering-ab-tests-with-ui-testing-1df5401ff0e1)
+* [How to manage your Design Tokens with Style Dictionary](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa)
 * Generating multi-brand multi-platform icons with Sketch and a Node.js script: [from the idea to the assets Sketch files](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part1-82f438c7e16c) and [the build script and the generation of the assets](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part2-8d02e8bb915a)
 
 ### Miscellaneous
