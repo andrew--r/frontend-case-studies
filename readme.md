@@ -107,6 +107,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Cloudflare](#cloudflare)
   * [Palantir](#palantir)
   * [Insider Inc.](#insider-inc)
+  * [REA Group](#rea-group)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -781,6 +782,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [How to style different sites with one CSS collection](https://medium.com/insider-inc-engineering/how-to-style-different-sites-with-one-css-collection-6f33126d4cdb)
 * [Why we got rid of all our front-end and back-end engineers](https://medium.com/insider-inc-engineering/why-we-got-rid-of-all-our-front-end-and-back-end-engineers-f9c06034548)
 * [Delightful ways to write reusable CSS using subclasses](https://medium.com/insider-inc-engineering/delightful-ways-to-write-reusable-css-using-subclasses-903e90c9cf87)
+
+### [REA Group](https://www.rea-group.com/)
+
+- [ReactJS – Real World Examples of Higher-Order Components](https://www.rea-group.com/blog/reactjs-real-world-examples-of-higher-order-components/)
+- [Singletons Suck (aka Flux to Redux)](https://www.rea-group.com/blog/singletons-suck-aka-flux-to-redux/)
+- [ReactJS Performance Debugging (aka The Magic of Reselect Selectors)](https://www.rea-group.com/blog/reactjs-performance-debugging-aka-the-magic-of-reselect-selectors/)
+- [My Journey in a UI Project (aka front-end is the new back-end)](https://www.rea-group.com/blog/my-journey-in-a-ui-project-aka-front-end-is-the-new-back-end/)
 
 ### Miscellaneous
 
