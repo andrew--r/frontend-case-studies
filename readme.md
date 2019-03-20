@@ -152,6 +152,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1)
 * [TypeScript at Google](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
+* [The Chrome Dev Summit site: case study](https://dev.to/chromiumdev/the-chrome-dev-summit-site-case-study-15ng)
 
 ### [YouTube](https://www.youtube.com)
 
