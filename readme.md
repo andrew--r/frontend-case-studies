@@ -109,6 +109,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Insider Inc.](#insider-inc)
   * [REA Group](#rea-group)
   * [Badoo](#badoo)
+  * [Bitmovin](#bitmovin)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -804,6 +805,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Covering A/B tests with UI tests: how to avoid getting tangled up in your own code](https://badootech.badoo.com/covering-ab-tests-with-ui-testing-1df5401ff0e1)
 * [How to manage your Design Tokens with Style Dictionary](https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa)
 * Generating multi-brand multi-platform icons with Sketch and a Node.js script: [from the idea to the assets Sketch files](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part1-82f438c7e16c) and [the build script and the generation of the assets](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part2-8d02e8bb915a)
+
+### [Bitmovin](https://bitmovin.com)
+
+* [To Play, or Not to Play – New AutoPlay Policies for Safari 11 and Chrome 64](https://bitmovin.com/play-not-play-new-autoplay-policies-safari-11-chrome-64/)
+* [To Play, or Not to Play #2 – Firefox blocks audible autoplay by default!](https://bitmovin.com/firefox-blocks-audible-autoplay/)
+* [How Bitmovin Used React/Redux to Develop Its New Dashboard](https://bitmovin.com/bitmovin-used-reactredux-to-develop-new-dashboard/)
 
 ### Miscellaneous
 
