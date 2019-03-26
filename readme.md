@@ -724,6 +724,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Spotify](https://www.spotify.com)
 
 * [Spotify Wrapped 2018 — Technical Case Study](https://medium.com/@activetheory/spotify-wrapped-2018-technical-case-study-5b7cfb7e9d3a)
+* [Building Spotify’s New Web Player](https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/)
 
 ### [Lucidchart](https://www.lucidchart.com/)
 
