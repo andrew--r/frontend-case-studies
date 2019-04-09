@@ -236,6 +236,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [The Guardian](https://www.theguardian.com/)
 
 * [What we learnt from our mistakes in 2016](https://www.theguardian.com/info/developer-blog/2016/dec/18/what-we-learnt-from-our-mistakes-in-2016)
+* [Revisiting the rendering tier](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier)
 
 ### [BBC](http://www.bbc.com)
 
