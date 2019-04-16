@@ -913,6 +913,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Как мы делали «нарратив» – новый формат публикаций в Яндекс.Дзене](https://habrahabr.ru/company/yandex/blog/349220/)
 * [Бэкенд для фронтенда, или как в Яндекс.Маркете создают API без костылей](https://habr.com/company/yandex/blog/428141/)
 * [React & БЭМ – официальная коллаборация. Часть историческая](https://habr.com/en/company/yandex/blog/438598/)
+* [Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты](https://habr.com/ru/company/yandex/blog/446780/)
 
 ### [ВКонтакте](https://vk.com)
 
