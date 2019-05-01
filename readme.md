@@ -147,6 +147,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Building the F8 App with React Native](http://makeitopen.com)
 * [The technology behind preview photos](https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/)
 * [Improving CSS quality at Facebook and beyond](https://code.fb.com/open-source/improving-css-quality-at-facebook-and-beyond/)
+* [Faster input events with Facebook’s first browser API contribution](https://code.fb.com/developer-tools/isinputpending-api/)
 * [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
 
 ### [Google](https://google.com)
