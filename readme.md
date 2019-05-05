@@ -111,6 +111,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   * [Badoo](#badoo)
   * [Bitmovin](#bitmovin)
   * [Redmart](#redmart)
+  * [Clearleft](#clearleft)
   * [Miscellaneous](#miscellaneous)
 * [Russian](#russian)
   * [Медуза](#Медуза)
@@ -823,6 +824,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 * [Angular The Hard Way #1 Organise and manage domain data](http://geeks.redmart.com/2015/04/22/angular-the-hard-way-1/)
 * [RedMart's experience with PWA](http://geeks.redmart.com/2018/10/25/redmarts-experience-with-pwa/)
 * [How we use Storybook for documentation and code reviews](http://geeks.redmart.com/2018/11/14/how-we-use-storybook-for-documentation-and-code-reviews/)
+
+### [Clearleft](https://clearleft.com)
+
+* [A framework for web performance](https://clearleft.com/posts/a-framework-for-web-performance)
+* [How to use variable fonts in the real world](https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world)
 
 ### Miscellaneous
 
