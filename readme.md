@@ -101,6 +101,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Twitter](#twitter)
   - [Uber](#uber)
   - [Udacity](#udacity)
+  - [Unity](#unity)
   - [Unsplash](#unsplash)
   - [Verve](#verve)
   - [Walmart Labs](#walmart-labs)
@@ -765,6 +766,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How a Fixed-Width Button Can Get Your Company Trending on Reddit for All the Wrong Reasons: A Front-End Developer Tale](https://engineering.udacity.com/how-a-fixed-width-button-can-get-your-company-trending-on-reddit-for-all-the-wrong-reasons-a-front-6214280888ab)
 - [Udacity’s Front-End Tech Stack](https://engineering.udacity.com/udacitys-front-end-tech-stack-b19dae07f0ac)
 - [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
+
+### [Unity](https://unity.com/)
+
+- [WebAssembly is here!](https://blogs.unity3d.com/2018/08/15/webassembly-is-here/)
+- [WebAssembly Load Times and Performance](https://blogs.unity3d.com/2018/09/17/webassembly-load-times-and-performance/)
 
 ### [Unsplash](https://unsplash.com)
 
