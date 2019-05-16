@@ -34,6 +34,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Evil Martians](#evil-martians)
   - [ezCater](#ezcater)
   - [Facebook](#facebook)
+  - [fastq.bio](#fastq-bio)
   - [Figma](#figma)
   - [Financial Times](#financial-times)
   - [Flickr](#flickr)
@@ -342,6 +343,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Improving CSS quality at Facebook and beyond](https://code.fb.com/open-source/improving-css-quality-at-facebook-and-beyond/)
 - [Faster input events with Facebook’s first browser API contribution](https://code.fb.com/developer-tools/isinputpending-api/)
 - [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
+
+### [fastq.bio](http://www.fastq.bio/)
+
+- [How We Used WebAssembly To Speed Up Our Web App By 20X](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
 
 ### [Figma](https://www.figma.com)
 
