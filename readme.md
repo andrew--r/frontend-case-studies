@@ -34,7 +34,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Evil Martians](#evil-martians)
   - [ezCater](#ezcater)
   - [Facebook](#facebook)
-  - [fastq.bio](#fastq-bio)
+  - [fastq.bio](#fastqbio)
   - [Figma](#figma)
   - [Financial Times](#financial-times)
   - [Flickr](#flickr)
