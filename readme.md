@@ -487,6 +487,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Ember Timer Leaks: The Bad Apples in Your Test Infrastructure](https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks)
 - [Sleek and Fast: Speeding Up your Fat Web Client](https://engineering.linkedin.com/blog/2017/10/sleek-and-fast--speeding-up-your-fat-web-client)
+- [Bringing a Modern Javascript Build Pipeline to LinkedIn](https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
 - [Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js](https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs)
 
