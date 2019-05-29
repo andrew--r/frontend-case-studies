@@ -313,6 +313,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [The Path to JavaScript Next](https://www.ebayinc.com/stories/blogs/tech/the-path-to-javascript-next/)
 - [How Our CSS Framework Helps Enforce Accessibility](https://www.ebayinc.com/stories/blogs/tech/how-our-css-framework-helps-enforce-accessibility/)
 - [Mobile First - A Retrospective](https://www.ebayinc.com/stories/blogs/tech/mobile-first-a-retrospective/)
+- [WebAssembly at eBay: A Real-World Use Case](https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/)
 
 ### [Electronic Arts](https://www.ea.com)
 
