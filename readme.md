@@ -25,6 +25,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [CodeSandbox](#codesandbox)
   - [Condé Nast](#condé-nast)
   - [Conductor](#conductor)
+  - [DAZN](#dazn)
   - [De Voorhoede](#de-voorhoede)
   - [Discord](#discord)
   - [Dropbox](#dropbox)
@@ -275,6 +276,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Conductor](https://www.conductor.com/)
 
 - [Painless Migration From Backbone to React/Redux](https://www.youtube.com/watch?v=d8oBIzIgVMA)
+
+### [DAZN](https://dazn.com/)
+
+- [Handling complexity in lambda functions](https://medium.com/dazn-tech/handling-complexity-in-lambda-functions-e7acfbeb920a)
+- [Testing MobX State Tree](https://medium.com/dazn-tech/testing-mobx-state-tree-c588f4bfc430)
+- [Micro-frontends, the future of Frontend architectures](https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a)
+- [Adopting a Micro-frontends architecture](https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3)
+- [Orchestrating micro-frontends](https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33)
+- [Jest: Our journey into performant unit tests](https://medium.com/dazn-tech/jest-our-journey-into-performant-unit-tests-a6efcb4bd9b)
+- [Identifying micro-frontends in our applications](https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257)
 
 ### [De Voorhoede](https://www.voorhoede.nl)
 
