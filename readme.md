@@ -736,6 +736,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Improving Article Accessibility](https://open.nytimes.com/improving-article-accessibility-7bca8cf02b34)
 - [The Technology Behind the NYTimes.com Redesign](https://open.nytimes.com/the-technology-behind-the-nytimes-com-redesign-3d3d3da70b9c)
 - [React, Relay and GraphQL: Under the Hood of The Times Website Redesign](https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764)
+- [GraphQL in real life](https://youtu.be/HlZ3ZecECOU)
 
 ### [The Times & The Sunday Times](https://www.thetimes.co.uk)
 
