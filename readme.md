@@ -18,6 +18,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Bloomberg](#bloomberg)
   - [Campaign Monitor](#campaign-monitor)
   - [Carbon Five](#carbon-five)
+  - [Carousell](#carousell)
   - [cars.com](#carscom)
   - [Checkbot](#checkbot)
   - [Clearleft](#clearleft)
@@ -242,6 +243,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Cross-Domain Browser Window Messaging with HTML5 and Javascript](https://blog.carbonfive.com/2012/08/17/cross-domain-browser-window-messaging-with-html5-and-javascript/)
 - [Composing Synchronous and Asynchronous Functions in JavaScript](https://blog.carbonfive.com/2015/01/29/composing-synchronous-and-asynchronous-functions-in-javascript/)
 - [An AJAX Auto-Save Implementation](https://blog.carbonfive.com/2018/01/24/an-ajax-auto-save-implementation)
+
+### [Carousell](https://carousell.com)
+
+- Building a Dynamic UI System at Carousell: [part 1](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-1-849c30ceacb9), [part 2](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-2-d46bba8facaa) and [part 3](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-3-18a317ac37a1)
+- [An Experiment with JSON Schema](https://medium.com/carousell-insider/an-experiment-with-json-schema-133344ebbf82)
+- [How we made Carousell’s mobile web experience 3x faster](https://medium.com/carousell-insider/how-we-made-carousells-mobile-web-experience-3x-faster-bbb3be93e006)
 
 ### [cars.com](https://www.cars.com)
 
