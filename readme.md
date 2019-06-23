@@ -102,6 +102,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Thread](#thread)
   - [Tinder](#tinder)
   - [TinyMCE](#tinymce)
+  - [Tumblr](#tumblr)
   - [Twitter](#twitter)
   - [Uber](#uber)
   - [Udacity](#udacity)
@@ -779,6 +780,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [TinyMCE is going mobile](https://go.tinymce.com/blog/tinymce-is-going-mobile/)
 - [Benefits of gradual strong typing in JavaScript](https://go.tinymce.com/blog/benefits-of-gradual-strong-typing-in-javascript/)
+
+### [Tumblr](https://www.tumblr.com/)
+
+- [Moving things out of critical rendering path](https://javascript.tumblr.com/post/139610473242/moving-things-out-of-critical-rendering-path)
+- [The Road to Webpack](https://javascript.tumblr.com/post/143583264647/here-at-tumblr-we-use-a-js-bundler-to-compile-our#notes)
+- [Flow and TypeScript](https://javascript.tumblr.com/post/165082071937/flow-and-typescript)
+- [Using srcset and sizes to make responsive HTML5 images](https://javascript.tumblr.com/post/171557569007/responsive-images)
+- [A Big New Beautiful Future for the Web at Tumblr](https://javascript.tumblr.com/post/172624931022/a-big-new-beautiful-future-for-the-web-at-tumblr)
+- [How we wrote our own Service Worker](https://javascript.tumblr.com/post/182476050141/how-we-wrote-our-own-service-worker-as-we)
+- [We’re making Tumblr more accessible!](https://javascript.tumblr.com/post/182090529587/were-making-tumblr-more-accessible)
 
 ### [Twitter](https://twitter.com)
 
