@@ -887,6 +887,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Фронтенд для миллионов](https://youtu.be/hwQVbyKcRnA)
 - [Дизайн-платформа в Avito](https://youtu.be/7vY3_vPipW8)
 - [Скриншоты как сервис](https://youtu.be/B_gLzbgJo98)
+- [Avito Online Frontend: Infrastructure](https://youtu.be/3r3IYaaEcS8)
+- [Avito Online Frontend: Performance](https://youtu.be/CnsrImdBYz8)
 
 ### [Badoo](https://badoo.com)
 
