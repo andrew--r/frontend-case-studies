@@ -442,6 +442,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [TypeScript at Google](http://neugierig.org/software/blog/2018/09/typescript-at-google.html)
 - [The Chrome Dev Summit site: case study](https://dev.to/chromiumdev/the-chrome-dev-summit-site-case-study-15ng)
 - [The new AdWords UI uses Dart — we asked why](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html)
+- [Bringing service workers to Google Search](https://web.dev/google-search-sw/)
 
 ### [GOV.UK](https://www.gov.uk)
 
