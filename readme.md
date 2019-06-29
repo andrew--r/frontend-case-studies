@@ -74,6 +74,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [PayPal](#paypal)
   - [Pinterest](#pinterest)
   - [Pivotal Tracker](#pivotal-tracker)
+  - [Plotly](#plotly)
   - [Product Hunt](#product-hunt)
   - [REA Group](#rea-group)
   - [Reaktor](#reaktor)
@@ -642,6 +643,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Improving Accessibility in Pivotal Tracker](https://www.pivotaltracker.com/blog/improving-accessibility-in-pivotal-tracker)
 - [Using Elm in Production at Pivotal Tracker](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker/)
+
+### [Plotly](https://plot.ly/)
+
+- [Modularizing monolithic javascript projects in plotly.js](https://plot.ly/javascript/modularizing-monolithic-javascript-projects/)
 
 ### [Product Hunt](https://www.producthunt.com)
 
