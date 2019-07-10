@@ -128,6 +128,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Mail.Ru](#mailru)
   - [Microsoft To-Do](#microsoft-to-do-1)
   - [Netcracker](#netcracker)
+  - [OneTwoTrip](#onetwotrip)
   - [Rambler Group](#rambler-group)
   - [Setka](#setka)
   - [Skyeng](#skyeng)
@@ -939,6 +940,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Микросервисный фронтенд — современный подход к разделению фронта](https://habr.com/company/netcracker/blog/420753/)
 - [Выбранный UI-фреймворк – вред. Архитектурные требования – профит](https://habr.com/company/netcracker/blog/333734/)
+
+### [OneTwoTrip](https://www.onetwotrip.com/)
+
+- [9 лет в монолите на Node.JS](https://habr.com/ru/post/459206/)
 
 ### [Rambler Group](https://rambler-co.ru/)
 
