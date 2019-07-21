@@ -76,6 +76,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Pivotal Tracker](#pivotal-tracker)
   - [Plotly](#plotly)
   - [Product Hunt](#product-hunt)
+  - [Quizlet](#quizlet)
   - [REA Group](#rea-group)
   - [Reaktor](#reaktor)
   - [Reddit](#reddit)
@@ -654,6 +655,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [React @ Product Hunt](https://youtu.be/F38nRMktS9Q)
 - [GraphQL @ Product Hunt](https://www.youtube.com/watch?v=H0YCeHeHbr0)
+
+### [Quizlet](https://quizlet.com/)
+
+- [Smooth Game Animations in React](https://medium.com/tech-quizlet/smooth-game-animations-in-react-df43ece916c8)
+- [Launching A Successful Redesign For 20 Million Students](https://medium.com/tech-quizlet/launching-a-successful-redesign-for-20-million-students-2f4c4b518b6e)
+- [Cypress: The future of end-to-end testing for web applications](https://medium.com/tech-quizlet/cypress-the-future-of-end-to-end-testing-for-web-applications-8ee108c5b255)
+- [Now or Never: Migrating 300k LOC from Flow to TypeScript at Quizlet](https://medium.com/tech-quizlet/now-or-never-migrating-300k-loc-from-flow-to-typescript-at-quizlet-d3bae5830a1)
 
 ### [REA Group](https://www.rea-group.com/)
 
