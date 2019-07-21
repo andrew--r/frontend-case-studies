@@ -122,6 +122,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Miscellaneous](#miscellaneous)
 - [Russian](#russian)
   - [Avito](#avito)
+  - [auto.ru](#autoru)
   - [Badoo](#badoo-1)
   - [Flocktory](#flocktory-1)
   - [HeadHunter](#headhunter)
@@ -909,6 +910,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Avito Online Frontend: Infrastructure](https://youtu.be/3r3IYaaEcS8)
 - [Avito Online Frontend: Performance](https://youtu.be/CnsrImdBYz8)
 
+### [auto.ru](https://auto.ru/)
+
+- [Полный цикл тестирования React-приложений](https://habr.com/ru/company/yandex/blog/459924/)
+
 ### [Badoo](https://badoo.com)
 
 - [Многоязычный Badoo: «трудности перевода»](https://habrahabr.ru/company/badoo/blog/223767)
@@ -1012,6 +1017,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Бэкенд для фронтенда, или как в Яндекс.Маркете создают API без костылей](https://habr.com/company/yandex/blog/428141/)
 - [React & БЭМ – официальная коллаборация. Часть историческая](https://habr.com/en/company/yandex/blog/438598/)
 - [Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты](https://habr.com/ru/company/yandex/blog/446780/)
+- [«Под капотом» Турбо-страниц: архитектура технологии быстрой загрузки веб-страниц](https://habr.com/ru/company/yandex/blog/460373/)
 
 ### [Яндекс.Деньги](http://money.yandex.ru/)
 
