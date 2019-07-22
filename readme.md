@@ -326,6 +326,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Migrating from Underscore to Lodash](https://blogs.dropbox.com/tech/2018/09/migrating-from-underscore-to-lodash/)
 - [Dropbox new homepage](http://tannergodarzi.com/projects/dropbox-homepage.html)
 - [Translating Dropbox](https://blogs.dropbox.com/tech/2011/04/hello-world/)
+- [Redux with Code-Splitting and Type Checking](https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/)
 
 ### [eBay](https://www.ebay.com)
 
