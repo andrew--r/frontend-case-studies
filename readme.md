@@ -717,6 +717,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Keep webpack Fast: A Field Guide for Better Build Performance](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1)
 - [Localizing Slack](https://slack.engineering/localizing-slack-680c4bc7f45a)
 - [Reducing Slack’s memory footprint](https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb)
+- [Getting to Slack faster with incremental boot](https://slack.engineering/getting-to-slack-faster-with-incremental-boot-ff063c9222e4)
+- [When a rewrite isn’t: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4)
 
 ### [Snipcart](https://snipcart.com)
 
