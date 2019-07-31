@@ -819,6 +819,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Infinite List and React](http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
 - [The Twitter Lite team about their use of Node.js](https://youtu.be/iWXC5VCfQHI)
 - [Redux modules and code-splitting](http://nicolasgallagher.com/redux-modules-and-code-splitting/)
+- [How using component-based design helps us build faster](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingfasterwithcomponents.html)
 
 ### [Uber](https://www.uber.com)
 
