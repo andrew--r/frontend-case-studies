@@ -125,6 +125,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Avito](#avito)
   - [auto.ru](#autoru)
   - [Badoo](#badoo-1)
+  - [DIRECTUM](#directum)
   - [Flocktory](#flocktory-1)
   - [HeadHunter](#headhunter)
   - [Mail.Ru](#mailru)
@@ -935,6 +936,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc)
 - [Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде](https://habr.com/company/badoo/blog/434448/)
 - Sketch + Node.js: генерируем иконки для множества платформ и брендов. [Часть 1](https://habr.com/ru/company/badoo/blog/441898/) и [часть 2](https://habr.com/ru/company/badoo/blog/442886/)
+
+### [DIRECTUM](https://www.directum.ru/)
+
+- [Опыт перевода большого проекта с Flow на TypeScript](https://habr.com/ru/company/directum/blog/462055/)
 
 ### [Flocktory](https://www.flocktory.com)
 
