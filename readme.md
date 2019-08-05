@@ -484,6 +484,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Instagram](https://www.instagram.com/)
 
 - [React Native at Instagram](https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7)
+- [Making Instagram.com faster: Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
 
 ### [Internet Archive](https://archive.org/)
 
