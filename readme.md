@@ -311,6 +311,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Why Discord is Sticking with React Native](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427)
 - [How Discord Maintains Performance While Adding Features](https://blog.discordapp.com/how-discord-maintains-performance-while-adding-features-28ddaf044333)
 - [How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC](https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429)
+- [Investigating Discord’s React Memory Leak](https://blog.discordapp.com/discord-react-memory-leak-565c89763e8)
 
 ### [Dropbox](https://www.dropbox.com)
 
