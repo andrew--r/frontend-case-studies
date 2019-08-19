@@ -330,6 +330,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Dropbox new homepage](http://tannergodarzi.com/projects/dropbox-homepage.html)
 - [Translating Dropbox](https://blogs.dropbox.com/tech/2011/04/hello-world/)
 - [Redux with Code-Splitting and Type Checking](https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/)
+- [Design Tooling at Scale](https://dropbox.design/article/design-tooling-at-scale)
 
 ### [eBay](https://www.ebay.com)
 
