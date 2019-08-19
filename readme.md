@@ -178,6 +178,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Algolia](https://www.algolia.com)
 
 - [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed)
+- [Using NetInfo API to Improve Algolia’s JavaScript Client](https://blog.algolia.com/netinfo-api-algolia-javascript-client/)
 
 ### [Artsy](https://www.artsy.net/)
 
