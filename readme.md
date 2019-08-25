@@ -935,6 +935,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Unit-тестирование скриншотами: преодолеваем звуковой барьер](https://habr.com/ru/company/avito/blog/350604/)
 - [Avito Online Frontend: Infrastructure](https://youtu.be/3r3IYaaEcS8)
 - [Avito Online Frontend: Performance](https://youtu.be/CnsrImdBYz8)
+- [Жесть для Jest](https://youtu.be/8_6Kuo5jFpU)
 
 ### [auto.ru](https://auto.ru/)
 
