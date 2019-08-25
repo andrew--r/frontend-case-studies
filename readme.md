@@ -95,6 +95,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [stripe](#stripe)
   - [Superhuman](#superhuman)
   - [The Guardian](#the-guardian)
+  - [The Knot Worldwide](#the-knot-worldwide)
   - [The New York Times](#the-new-york-times)
   - [The Times & The Sunday Times](#the-times--the-sunday-times)
   - [The U.S. Digital Service](#the-us-digital-service)
@@ -763,6 +764,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [What we learnt from our mistakes in 2016](https://www.theguardian.com/info/developer-blog/2016/dec/18/what-we-learnt-from-our-mistakes-in-2016)
 - [Revisiting the rendering tier](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier)
+
+### [The Knot Worldwide](https://www.theknotww.com/)
+
+- [Rebuilding the Guest List Manager with React + MobX at The Knot](https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571)
+- [React Native @ The Knot](https://tech.xogrp.com/react-native-the-knot-ca255494da79)
+- [React Native @ The Knot: A Designer’s Perspective](https://tech.xogrp.com/react-native-at-the-knot-a-designers-perspective-d3d3fe41ada1)
 
 ### [The New York Times](https://www.nytimes.com)
 
