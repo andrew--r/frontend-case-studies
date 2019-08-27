@@ -380,7 +380,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Figma](https://www.figma.com)
 
+- [Building a professional design tool on the web](https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/)
+- [Debugging Data Corruption with Emscripten](https://www.figma.com/blog/debugging-data-corruption-with-emscripten/)
+- [Introducing BrowserView for Electron](https://www.figma.com/blog/introducing-browserview-for-electron/)
+- [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/)
 - [WebAssembly cut Figma’s load time by 3x](https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164)
+- [Figma, faster 🏎](https://www.figma.com/blog/figma-faster/)
+- [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/)
 
 ### [Financial Times](https://www.ft.com)
 
