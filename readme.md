@@ -61,6 +61,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [LinkedIn](#linkedin)
   - [Lucidchart](#lucidchart)
   - [Lyft](#lyft)
+  - [MDN](#mdn)
   - [Medium](#medium)
   - [MemSQL](#memsql)
   - [Microsoft To-Do](#microsoft-to-do)
@@ -550,6 +551,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [TypeScript at Lyft](https://eng.lyft.com/typescript-at-lyft-64f0702346ea)
 - [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
+
+### [MDN](https://developer.mozilla.org)
+
+- [Refactoring MDN macros with async, await, and Object.freeze()](https://hacks.mozilla.org/2019/02/refactoring-mdn-macros-with-async-await-and-object-freeze/)
 
 ### [Medium](https://medium.com/)
 
