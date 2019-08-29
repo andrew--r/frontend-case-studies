@@ -132,6 +132,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [HeadHunter](#headhunter)
   - [Mail.Ru](#mailru)
   - [Microsoft To-Do](#microsoft-to-do-1)
+  - [Miro](#miro)
   - [Netcracker](#netcracker)
   - [OneTwoTrip](#onetwotrip)
   - [Rambler Group](#rambler-group)
@@ -982,6 +983,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
 - [Как Microsoft To-Do использует React](https://youtu.be/ZdrnIUgeDAs)
+
+### [Miro](https://miro.com/)
+
+- [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/)
 
 ### [Netcracker](https://www.netcracker.com/)
 
