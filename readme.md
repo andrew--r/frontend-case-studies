@@ -851,6 +851,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Javascript @ Uber](https://youtu.be/JWFyH13_I3o)
 - [Building m.uber: Engineering a High-Performance Web App for the Global Market](https://eng.uber.com/m-uber)
 - [Powering UberEATS with React Native and Uber Engineering](https://eng.uber.com/ubereats-react-native/)
+- [Building a More Seamless Web Booking Flow for Uber](https://eng.uber.com/web-booking-flow/)
+- [Best Practices for Unit Testing in React Version 16](https://eng.uber.com/best-practices-for-react-v16/)
 
 ### [Udacity](https://www.udacity.com/)
 
