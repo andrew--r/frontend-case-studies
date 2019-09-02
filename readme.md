@@ -83,6 +83,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Reddit](#reddit)
   - [Redmart](#redmart)
   - [repl.it](#replit)
+  - [Revolut](#revolut)
   - [Roompact](#roompact)
   - [Safety Culture](#safety-culture)
   - [Shopify](#shopify)
@@ -708,6 +709,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Modular, fast, small: how we built a server-rendered IDE](https://repl.it/site/blog/ide)
 - [Infinite Loops](https://repl.it/site/blog/infinite-loops)
+
+### [Revolut](https://www.revolut.com)
+
+- [How we learned to stop worrying and love GraphQL](https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9)
 
 ### [Roompact](https://roompact.com)
 
