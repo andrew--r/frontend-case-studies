@@ -365,6 +365,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Facebook](https://facebook.com)
 
+- [BigPipe: Pipelining web pages for high performance](https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/)
 - [This browser tweak saved 60% of requests to Facebook](https://code.facebook.com/posts/557147474482256)
 - [Building High-Quality JavaScript Tools](https://developers.facebook.com/videos/f8-2017/building-high-quality-javascript-tools)
 - [Facebook has 30,000 react components. How do you manage large project directories with many components?](https://www.reddit.com/r/reactjs/comments/6al7h2/facebook_has_30000_react_components_how_do_you/dhgruqh/)
