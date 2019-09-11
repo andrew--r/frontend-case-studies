@@ -61,6 +61,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [LinkedIn](#linkedin)
   - [Lucidchart](#lucidchart)
   - [Lyft](#lyft)
+  - [Mailchimp](#mailchimp)
   - [MDN](#mdn)
   - [Medium](#medium)
   - [MemSQL](#memsql)
@@ -554,6 +555,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [TypeScript at Lyft](https://eng.lyft.com/typescript-at-lyft-64f0702346ea)
 - [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88)
+
+### [Mailchimp](https://mailchimp.com)
+
+- [Designing automated tests for React](https://increment.com/testing/designing-automated-tests-for-react/)
 
 ### [MDN](https://developer.mozilla.org)
 
