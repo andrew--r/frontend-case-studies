@@ -916,6 +916,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [The Story of Making Wix Accessible](https://www.wix.engineering/blog/the-story-of-making-wix-accessible)
 - [Improving load time for 100 million websites](https://youtu.be/FKpShne3I4E)
 - [Building a React Native App for 80 Million Users](https://youtu.be/abSNo2P9mMM)
+- [Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense](https://www.wix.engineering/post/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense)
 
 ### [Yelp](https://www.yelp.com)
 
