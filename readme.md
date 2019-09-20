@@ -126,6 +126,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [1Password](#1password)
   - [Miscellaneous](#miscellaneous)
 - [Russian](#russian)
+  - [Amplifr](#amplifr)
   - [Avito](#avito)
   - [auto.ru](#autoru)
   - [Badoo](#badoo-1)
@@ -953,6 +954,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/)
 
 ## Russian
+
+### [Amplifr](https://amplifr.com)
+
+- [Принципы разработки Амплифера](https://gist.github.com/ai/473dd603baa92d5c8590f3573514c7a1)
 
 ### [Avito](https://www.avito.ru/)
 
