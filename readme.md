@@ -76,6 +76,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [OK GROW!](#ok-grow)
   - [Palantir](#palantir)
   - [PayPal](#paypal)
+  - [Pinafore](#pinafore)
   - [Pinterest](#pinterest)
   - [Pivotal Tracker](#pivotal-tracker)
   - [Plotly](#plotly)
@@ -668,6 +669,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Introducing PayPal’s open-source cross-domain javascript suite](https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d)
 - [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 - [Why every new web app at PayPal starts with TypeScript](https://medium.com/paypal-engineering/why-every-new-web-app-at-paypal-starts-with-typescript-9d1acc07c839)
+
+### [Pinafore](https://pinafore.social)
+
+- [Introducing Pinafore for Mastodon](https://nolanlawson.com/2018/04/09/introducing-pinafore-for-mastodon/) (Apr 9, 2018)
+- [Scrolling the main document is better for performance, accessibility, and usability](https://nolanlawson.com/2018/11/18/scrolling-the-main-document-is-better-for-performance-accessibility-and-usability/) (Nov 18, 2018)
+- [Building a modern carousel with CSS scroll snap, smooth scrolling, and pinch-zoom](https://nolanlawson.com/2019/02/10/building-a-modern-carousel-with-css-scroll-snap-smooth-scrolling-and-pinch-zoom/) (Feb 10, 2019)
+- [One year of Pinafore](https://nolanlawson.com/2019/06/02/one-year-of-pinafore/) (Jun 2, 2019)
+- [The joy and challenge of developing for KaiOS](https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios/) (Sep 22, 2019)
 
 ### [Pinterest](https://pinterest.com)
 
