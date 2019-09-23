@@ -55,6 +55,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Insider Inc.](#insider-inc)
   - [Instagram](#instagram)
   - [Internet Archive](#internet-archive)
+  - [Intuit](#intuit)
   - [Khan Academy](#khan-academy)
   - [Kickstarter](#kickstarter)
   - [Line](#line)
@@ -506,6 +507,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Internet Archive](https://archive.org/)
 
 - [Pixels vs. Ems: Users DO Change Font Size](https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773)
+
+### [Intuit](https://www.intuit.com)
+
+- [Making Accessibility an Integral Part of the Creative Workflow](https://medium.com/blueprint-by-intuit/making-accessibility-an-integral-part-of-the-creative-workflow-ca78767dd05b) (Apr 15, 2018)
+- [TurboTax Live’s Approach to a Gender-Neutral Design System](https://medium.com/blueprint-by-intuit/turbotax-lives-approach-to-a-gender-neutral-design-system-bed0c45ece44) (Feb 21, 2019)
+- [Delivering Consistent Animations with a Design System Library](https://medium.com/blueprint-by-intuit/delivering-consistent-animations-with-a-design-system-library-323f29f5efc6) (Apr 25, 2019)
+- [GraphQL: Intuit’s Path to ONE API System](https://medium.com/blueprint-by-intuit/graphql-intuits-path-to-one-api-system-b8495e4dd281) (Mar 13, 2019)
 
 ### [Khan Academy](http://khanacademy.org/)
 
