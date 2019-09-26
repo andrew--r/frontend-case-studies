@@ -772,6 +772,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Getting to Slack faster with incremental boot](https://slack.engineering/getting-to-slack-faster-with-incremental-boot-ff063c9222e4)
 - [When a rewrite isn’t: rebuilding Slack on the desktop](https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4)
 - [Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88)
+- [Building Dark Mode on Desktop](https://slack.engineering/building-dark-mode-on-desktop-811508b5d15f) (Sep 24, 2019)
 
 ### [Snipcart](https://snipcart.com)
 
