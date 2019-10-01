@@ -459,6 +459,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How we do Vue: one year later](https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/)
 - [How GitLab switched to Headless Chrome for testing](https://about.gitlab.com/2017/12/19/moving-to-headless-chrome)
 - [How we iterated and improved our frontend team culture](https://about.gitlab.com/2018/06/26/iterating-improving-frontend-culture/)
+- [Why we chose ECharts for data visualizations](https://about.gitlab.com/2019/09/30/why-we-chose-echarts/) (Sep 30, 2019)
 
 ### [Google](https://google.com)
 
