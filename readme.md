@@ -990,6 +990,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Дизайн-платформа в Avito](https://youtu.be/7vY3_vPipW8)
 - [Скриншоты как сервис](https://youtu.be/B_gLzbgJo98)
 - [Unit-тестирование скриншотами: преодолеваем звуковой барьер](https://habr.com/ru/company/avito/blog/350604/)
+- [Масштабируемая архитектура фронтенда](https://youtu.be/z9y6PNC2FL0)
+- [Каталог компонентов: переосмысление](https://youtu.be/zZUbXAVV-HA)
 - [Avito Online Frontend: Infrastructure](https://youtu.be/3r3IYaaEcS8)
 - [Avito Online Frontend: Performance](https://youtu.be/CnsrImdBYz8)
 - [Жесть для Jest](https://youtu.be/8_6Kuo5jFpU)
