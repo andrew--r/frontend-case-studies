@@ -170,24 +170,23 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Aha!](https://www.aha.io)
 
-- [How I Convinced Our CTO to Switch From CoffeeScript to ES6](https://blog.aha.io/coffescript-to-es6)
+- [How I Convinced Our CTO to Switch From CoffeeScript to ES6](https://blog.aha.io/coffescript-to-es6) (Sep 7, 2017)
 
 ### [Airbnb](https://www.airbnb.com)
 
-- [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2)
-- [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
-- [Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70)
-- [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50)
-- [Turbocharged JavaScript Refactoring with Codemods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9)
-- [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c): [The Technology](https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838), [Building a Cross-Platform Mobile Team](https://medium.com/airbnb-engineering/building-a-cross-platform-mobile-team-3e1837b40a88), [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a), [What’s Next for Mobile at Airbnb
-  ](https://medium.com/airbnb-engineering/whats-next-for-mobile-at-airbnb-5e71618576ab)
-- [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9)
-- [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2)
+- [Turbocharged JavaScript Refactoring with Codemods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9) (Apr 27, 2016)
+- [Rearchitecting Airbnb’s Frontend](https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2) (May 15, 2017)
+- [Migrating from Mocha to Jest](https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50) (Jun 15, 2017)
+- [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4) (Dec 5, 2017)
+- [Server Rendering, Code Splitting, and Lazy Loading with React Router v4](https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70) (Jan 10, 2018)
+- [React Native at Airbnb](https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c) (Jun 19, 2018): [The Technology](https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838), [Building a Cross-Platform Mobile Team](https://medium.com/airbnb-engineering/building-a-cross-platform-mobile-team-3e1837b40a88), [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a), [What’s Next for Mobile at Airbnb](https://medium.com/airbnb-engineering/whats-next-for-mobile-at-airbnb-5e71618576ab)
+- [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9) (Jul 18, 2018)
+- [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2) (Dec 5, 2018)
 
 ### [Algolia](https://www.algolia.com)
 
-- [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed)
-- [Using NetInfo API to Improve Algolia’s JavaScript Client](https://blog.algolia.com/netinfo-api-algolia-javascript-client/)
+- [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed) (Jul 26, 2017)
+- [Using NetInfo API to Improve Algolia’s JavaScript Client](https://blog.algolia.com/netinfo-api-algolia-javascript-client/) (Jul 30, 2019)
 
 ### [Artsy](https://www.artsy.net/)
 
@@ -208,7 +207,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Australian Broadcasting Corporation](http://abc.net.au/)
 
-- [Composing Components](https://developers.digital.abc.net.au/2018/09/28/composing-components/)
+- [Composing Components](https://developers.digital.abc.net.au/2018/09/28/composing-components/) (Sep 28, 2018)
 
 ### [Badoo](https://badoo.com)
 
@@ -225,9 +224,9 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [BBC](http://www.bbc.com)
 
-- [Redefining the BBC News core experience](https://wildlyinaccurate.com/redefining-the-bcc-news-core-experience/)
-- [HTTP/2 is easy, just turn it on…](https://medium.com/bbc-design-engineering/http-2-is-easy-just-turn-it-on-34baad2d1fb1)
-- [How BBC Interactive Content Works Across AMP, Apps, And The Web](https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/)
+- [Redefining the BBC News core experience](https://wildlyinaccurate.com/redefining-the-bcc-news-core-experience/) (Jul 22, 2016)
+- [HTTP/2 is easy, just turn it on…](https://medium.com/bbc-design-engineering/http-2-is-easy-just-turn-it-on-34baad2d1fb1) (Nov 7, 2017)
+- [How BBC Interactive Content Works Across AMP, Apps, And The Web](https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/) (Mar 15, 2018)
 
 ### [Bitmovin](https://bitmovin.com)
 
