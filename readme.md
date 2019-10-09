@@ -99,6 +99,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Spotify](#spotify)
   - [Stack Overflow](#stack-overflow)
   - [stripe](#stripe)
+  - [SumUp](#sumup)
   - [Superhuman](#superhuman)
   - [The Guardian](#the-guardian)
   - [The Knot Worldwide](#the-knot-worldwide)
@@ -805,6 +806,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience)
 - [A new approach to mocking GraphQL data: how we power React component tests and examples at Stripe](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491)
+
+### [SumUp](https://sumup.com)
+
+- [10 lessons learned building SumUp’s design system](https://medium.com/sumup-engineering/10-lessons-learned-building-sumups-design-system-577af292ae56) (Aug 15, 2019)
 
 ### [Superhuman](https://superhuman.com)
 
