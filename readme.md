@@ -90,6 +90,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Revolut](#revolut)
   - [Roompact](#roompact)
   - [Safety Culture](#safety-culture)
+  - [Scratch](#scratch)
   - [Shopify](#shopify)
   - [Skillshare](#skillshare)
   - [Slack](#slack)
@@ -751,6 +752,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Safety Culture](https://safetyculture.com/)
 
 - [Why we moved our graphQL server from Node.js to Golang](https://medium.com/safetycultureengineering/why-we-moved-our-graphql-server-from-node-js-to-golang-645b00571535)
+
+### [Scratch](https://scratch.mit.edu)
+
+- [Porting Scratch from Flash to JavaScript: Performance, Interoperability and Extensions](https://bocoup.com/blog/porting-scratch-from-flash-to-javascript-performance-interoperability-and-extensions)
 
 ### [Shopify](https://shopify.com)
 
