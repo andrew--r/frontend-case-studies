@@ -504,7 +504,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Instagram](https://www.instagram.com/)
 
 - [React Native at Instagram](https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7) (Feb 7, 2017)
-- Making Instagram.com faster: [part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538) (Aug 1, 2019) and [part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) (Sep 6, 2019)
+- Making Instagram.com faster: [part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538) (Aug 1, 2019), [part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4) (Sep 6, 2019), [part 3](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669) (Oct 11, 2019)
 
 ### [Internet Archive](https://archive.org/)
 
