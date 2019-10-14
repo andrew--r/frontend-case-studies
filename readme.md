@@ -1011,63 +1011,66 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Badoo](https://badoo.com)
 
-- [Многоязычный Badoo: «трудности перевода»](https://habrahabr.ru/company/badoo/blog/223767)
-- [Специфика верстки мультиязычных веб-приложений](https://tech.badoo.com/ru/presentation/23/speczifika-verstki-multiyazychnyx-veb-prilozhenij)
-- [Как собрать статистику с веб-сайта и не набить себе шишек](https://habrahabr.ru/company/badoo/blog/325062/)
-- [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc)
-- [Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде](https://habr.com/company/badoo/blog/434448/)
-- Sketch + Node.js: генерируем иконки для множества платформ и брендов. [Часть 1](https://habr.com/ru/company/badoo/blog/441898/) и [часть 2](https://habr.com/ru/company/badoo/blog/442886/)
+- [Многоязычный Badoo: «трудности перевода»](https://habrahabr.ru/company/badoo/blog/223767) (22 мая 2014)
+- [Специфика верстки мультиязычных веб-приложений](https://tech.badoo.com/ru/presentation/23/speczifika-verstki-multiyazychnyx-veb-prilozhenij) (26 марта 2015)
+- [Как собрать статистику с веб-сайта и не набить себе шишек](https://habrahabr.ru/company/badoo/blog/325062/) (29 марта 2017)
+- [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc) (14 апреля 2017)
+- [Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде](https://habr.com/company/badoo/blog/434448/) (26 декабря 2018)
+- Sketch + Node.js: генерируем иконки для множества платформ и брендов. [Часть 1](https://habr.com/ru/company/badoo/blog/441898/) (27 февраля 2019) и [часть 2](https://habr.com/ru/company/badoo/blog/442886/) (12 марта 2019)
 
 ### [DIRECTUM](https://www.directum.ru/)
 
-- [Опыт перевода большого проекта с Flow на TypeScript](https://habr.com/ru/company/directum/blog/462055/)
+- [Опыт перевода большого проекта с Flow на TypeScript](https://habr.com/ru/company/directum/blog/462055/) (1 августа 2019)
 
 ### [Flocktory](https://www.flocktory.com)
 
-- [Разработка сторонних библиотек](http://slonoed.net/razrabotka-storonnih-bibliotek)
+- [Разработка сторонних библиотек](https://slonoed.net/ru/third-party-js/) (22 мая 2017)
 
 ### [HeadHunter](https://hh.ru/)
 
-- [Нянчим проект на React-redux с пелёнок](https://habr.com/ru/company/hh/blog/310524/)
-- [Качество кода фронтенда в HH](https://habr.com/ru/company/hh/blog/438812/)
-- [Как мы пилили серверный рендеринг и что из этого вышло](https://habr.com/ru/company/hh/blog/445816/)
+- [Нянчим проект на React-redux с пелёнок](https://habr.com/ru/company/hh/blog/310524/) (21 сентября 2016)
+- [Качество кода фронтенда в HH](https://habr.com/ru/company/hh/blog/438812/) (4 февраля 2019)
+- [Как мы пилили серверный рендеринг и что из этого вышло](https://habr.com/ru/company/hh/blog/445816/) (28 марта 2019)
 
 ### [Mail.Ru](https://mail.ru)
 
-- [Архитектура фронтенда крупного проекта, как она есть](https://youtu.be/J08UOAJdjWc)
+- [Архитектура фронтенда крупного проекта, как она есть](https://youtu.be/J08UOAJdjWc) (19 апреля 2018)
 
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
-- [Как Microsoft To-Do использует React](https://youtu.be/ZdrnIUgeDAs)
+- [Как Microsoft To-Do использует React](https://youtu.be/ZdrnIUgeDAs) (18 июня 2018)
 
 ### [Miro](https://miro.com/)
 
-- [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/)
+- [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/) (3 июля 2019)
 
 ### [Netcracker](https://www.netcracker.com/)
 
-- [Микросервисный фронтенд — современный подход к разделению фронта](https://habr.com/company/netcracker/blog/420753/)
-- [Выбранный UI-фреймворк – вред. Архитектурные требования – профит](https://habr.com/company/netcracker/blog/333734/)
+- [Выбранный UI-фреймворк – вред. Архитектурные требования – профит](https://habr.com/company/netcracker/blog/333734/) (20 июля 2017)
+- [Микросервисный фронтенд — современный подход к разделению фронта](https://habr.com/company/netcracker/blog/420753/) (21 августа 2018)
 
 ### [OneTwoTrip](https://www.onetwotrip.com/)
 
-- [9 лет в монолите на Node.JS](https://habr.com/ru/post/459206/)
+- [9 лет в монолите на Node.JS](https://habr.com/ru/post/459206/) (9 июля 2019)
 
 ### [Rambler Group](https://rambler-co.ru/)
 
-- [Как мы разогнали мобильную Lenta.ru до скорости света](https://habr.com/company/rambler-co/blog/280602/)
-- [Проектирование дизайн-системы Рамблера](https://youtu.be/ZxmcIpmenoY)
-- [Опыт Rambler Group: как мы начали полностью контролировать формирование и поведение фронтовых React компонентов](https://habr.com/company/rambler-co/blog/417023/)
-- [Apollo: 9 месяцев — полет нормальный](https://habr.com/company/rambler-co/blog/418417/)
-- [Маршрутизация в большом приложении на React](https://habr.com/company/rambler-co/blog/424025/)
+- [Как мы разогнали мобильную Lenta.ru до скорости света](https://habr.com/company/rambler-co/blog/280602/) (31 марта 2016)
+- [Проектирование дизайн-системы Рамблера](https://youtu.be/ZxmcIpmenoY) (18 июня 2018)
+- [Опыт Rambler Group: как мы начали полностью контролировать формирование и поведение фронтовых React компонентов](https://habr.com/company/rambler-co/blog/417023/) (12 июля 2018)
+- [Apollo: 9 месяцев — полет нормальный](https://habr.com/company/rambler-co/blog/418417/) (27 июля 2018)
+- [Способы синхронизации вкладок браузера](https://habr.com/ru/company/rambler-co/blog/422545/) (7 сентября 2018)
+- [Маршрутизация в большом приложении на React](https://habr.com/company/rambler-co/blog/424025/) (27 сентября 2018)
 
 ### [Setka](https://setka.io/)
 
-- [Разработка Rich Text Editor: проблемы и решения](https://habrahabr.ru/company/oleg-bunin/blog/350252/)
+- [Разработка Rich Text Editor: проблемы и решения](https://habrahabr.ru/company/oleg-bunin/blog/350252/) (5 марта 2018)
 
 ### [Skyeng](https://skyeng.ru)
 
-- [Переход с AngularJS на Angular: цели, планы и правила переноса элементов](https://habrahabr.ru/company/skyeng/blog/348356)
+- Переход с AngularJS на Angular (февраль 2018): [цели, планы и правила переноса элементов](https://habrahabr.ru/company/skyeng/blog/348356), [проблемы и решения гибридного режима](https://habr.com/ru/company/skyeng/blog/348512/), [жизнь после AngularJS](https://habr.com/ru/company/skyeng/blog/348606/)
+- [От Skype до WebRTC: как мы организовали видеосвязь через веб](https://habr.com/ru/company/skyeng/blog/446444/) (3 апреля 2019)
+- [Как мы подружили SCSS с CSS Variables на примере c темизацией UI Kit](https://habr.com/ru/company/skyeng/blog/459194/) (9 июля 2019)
 
 ### [Tinkoff](https://www.tinkoff.ru/)
 
@@ -1080,19 +1083,23 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Wrike](https://www.wrike.com)
 
-- [Чем плох JavaScript в большом проекте? С какими проблемами мы столкнулись и как их решали](https://habrahabr.ru/company/wrike/blog/277255/)
-- [Два года с Dart: о том, как мы пишем на языке, который ежегодно «хоронят»](https://habrahabr.ru/company/wrike/blog/330832/)
+- [Чем плох JavaScript в большом проекте? С какими проблемами мы столкнулись и как их решали](https://habrahabr.ru/company/wrike/blog/277255/) (16 февраля 2016)
+- [Как отрефакторить 2 500 000 строк кода и не сойти с ума](https://habr.com/ru/company/wrike/blog/334590/) (5 июня 2017)
+- [Два года с Dart: о том, как мы пишем на языке, который ежегодно «хоронят»](https://habrahabr.ru/company/wrike/blog/330832/) (15 июня 2017)
+- [DIY: Как мы делали «живое» расписание для Codefest X](https://habr.com/ru/company/wrike/blog/448610/) (18 апреля 2019)
+- [10 верстальщиков на 30 команд. Вы рехнулись?](https://habr.com/ru/company/wrike/blog/452820/) (21 мая 2019)
+- [Как настроить веб-аналитику на AMP страницах](https://habr.com/ru/company/wrike/blog/451928/) (26 июня 2019)
 
 ### [Альфа-Банк](https://alfabank.ru)
 
-- [Предъявите паспорт](https://habrahabr.ru/company/alfa/blog/335892/)
-- [БЭМ + React: гибкая архитектура дизайн-системы](https://habrahabr.ru/company/alfa/blog/340522/)
-- [Изоморфное приложение React JS + Spring Boot](https://habrahabr.ru/company/alfa/blog/340776/)
-- [Атомарные SPA](https://youtu.be/pkHWttaktWk)
+- [Предъявите паспорт](https://habrahabr.ru/company/alfa/blog/335892/) (18 августа 2017)
+- [БЭМ + React: гибкая архитектура дизайн-системы](https://habrahabr.ru/company/alfa/blog/340522/) (23 октября 2017)
+- [Изоморфное приложение React JS + Spring Boot](https://habrahabr.ru/company/alfa/blog/340776/) (27 октября 2017)
+- [Атомарные SPA](https://youtu.be/pkHWttaktWk) (7 апреля 2018)
 
 ### [Бюро Горбунова](https://bureau.ru)
 
-- [Как в книгах Бюро тяжёлые картинки выгружаются из памяти, чтобы браузер не тормозил](https://bureau.ru/bb/soviet/20170629)
+- [Как в книгах Бюро тяжёлые картинки выгружаются из памяти, чтобы браузер не тормозил](https://bureau.ru/bb/soviet/20170629) (29 июня 2017)
 
 ### [ВКонтакте](https://vk.com)
 
