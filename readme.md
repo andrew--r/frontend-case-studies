@@ -990,24 +990,24 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Amplifr](https://amplifr.com)
 
-- [Принципы разработки Амплифера](https://gist.github.com/ai/473dd603baa92d5c8590f3573514c7a1)
+- [Принципы разработки Амплифера](https://gist.github.com/ai/473dd603baa92d5c8590f3573514c7a1) (2019)
 
 ### [Avito](https://www.avito.ru/)
 
-- [Фронтенд в Avito](https://youtu.be/OFKbwNc8AIw)
-- [Фронтенд для миллионов](https://youtu.be/hwQVbyKcRnA)
-- [Дизайн-платформа в Avito](https://youtu.be/7vY3_vPipW8)
-- [Скриншоты как сервис](https://youtu.be/B_gLzbgJo98)
-- [Unit-тестирование скриншотами: преодолеваем звуковой барьер](https://habr.com/ru/company/avito/blog/350604/)
-- [Масштабируемая архитектура фронтенда](https://youtu.be/z9y6PNC2FL0)
-- [Каталог компонентов: переосмысление](https://youtu.be/zZUbXAVV-HA)
-- [Avito Online Frontend: Infrastructure](https://youtu.be/3r3IYaaEcS8)
-- [Avito Online Frontend: Performance](https://youtu.be/CnsrImdBYz8)
-- [Жесть для Jest](https://youtu.be/8_6Kuo5jFpU)
+- [Фронтенд в Avito](https://youtu.be/OFKbwNc8AIw) (13 декабря 2015)
+- [Фронтенд для миллионов](https://youtu.be/hwQVbyKcRnA) (24 июня 2017)
+- [Дизайн-платформа в Avito](https://youtu.be/7vY3_vPipW8) (8 апреля 2017)
+- [Скриншоты как сервис](https://youtu.be/B_gLzbgJo98) (7 марта 2018)
+- [Unit-тестирование скриншотами: преодолеваем звуковой барьер](https://habr.com/ru/company/avito/blog/350604/) (14 марта 2018)
+- [Масштабируемая архитектура фронтенда](https://youtu.be/z9y6PNC2FL0) (7 апреля 2018)
+- [Каталог компонентов: переосмысление](https://youtu.be/zZUbXAVV-HA) (19 мая 2018)
+- [Avito Online Frontend: Infrastructure](https://youtu.be/3r3IYaaEcS8) (11 декабря 2018)
+- [Avito Online Frontend: Performance](https://youtu.be/CnsrImdBYz8) (18 декабря 2018)
+- [Жесть для Jest](https://youtu.be/8_6Kuo5jFpU) (17 августа 2019)
 
 ### [auto.ru](https://auto.ru/)
 
-- [Полный цикл тестирования React-приложений](https://habr.com/ru/company/yandex/blog/459924/)
+- [Полный цикл тестирования React-приложений](https://habr.com/ru/company/yandex/blog/459924/) (14 июля 2019)
 
 ### [Badoo](https://badoo.com)
 
