@@ -1103,29 +1103,30 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [ВКонтакте](https://vk.com)
 
-- [React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw)
-- [Как оседлать радугу: история создания тёмной темы](https://habr.com/ru/company/vk/blog/449720/)
+- [React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw) (2 июня 2017)
+- [Как оседлать радугу: история создания тёмной темы](https://habr.com/ru/company/vk/blog/449720/) (29 апреля 2019)
 
 ### [Медуза](https://meduza.io/)
 
-- [AMP, Instant Articles, Instant View, whut?](http://telegra.ph/AMP-Instant-Articles-Instant-View-whut-11-23)
-- [Подкасты «Медузы»](https://dev.meduza.io/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D1%8B-eff4c68d24f2)
-- [Как использовать кастомные шрифты в вебе и не сойти с ума](https://dev.meduza.io/%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5-%D1%88%D1%80%D0%B8%D1%84%D1%82%D1%8B-%D0%B2-%D0%B2%D0%B5%D0%B1%D0%B5-%D0%B8-%D0%BD%D0%B5-%D1%81%D0%BE%D0%B9%D1%82%D0%B8-%D1%81-%D1%83%D0%BC%D0%B0-9ba8a2998bcc)
-- [Веб-пуш уведомления в Медузе](https://dev.meduza.io/%D0%B2%D0%B5%D0%B1-%D0%BF%D1%83%D1%88-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B5-4d10fd4e1d7f)
+- [Веб-пуш уведомления в Медузе](https://dev.meduza.io/%D0%B2%D0%B5%D0%B1-%D0%BF%D1%83%D1%88-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B5-4d10fd4e1d7f) (10 декабря 2015)
+- [AMP, Instant Articles, Instant View, whut?](http://telegra.ph/AMP-Instant-Articles-Instant-View-whut-11-23) (23 ноября 2016)
+- [Как использовать кастомные шрифты в вебе и не сойти с ума](https://dev.meduza.io/%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5-%D1%88%D1%80%D0%B8%D1%84%D1%82%D1%8B-%D0%B2-%D0%B2%D0%B5%D0%B1%D0%B5-%D0%B8-%D0%BD%D0%B5-%D1%81%D0%BE%D0%B9%D1%82%D0%B8-%D1%81-%D1%83%D0%BC%D0%B0-9ba8a2998bcc) (1 декабря 2016)
+- [Подкасты «Медузы»](https://dev.meduza.io/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D1%8B-eff4c68d24f2) (21 сентября 2017)
+
 
 ### [Сбербанк](http://sberbank.ru/)
 
-- [За закрытой дверью фронтенда Единой фронтальной системы (ЕФС)](https://habrahabr.ru/company/efs/blog/325916/)
-- [Redux как сердце архитектуры фронтенда Единой фронтальной системы](https://habrahabr.ru/company/efs/blog/328012/)
-- [Работа с периферией из JavaScript: от теории к практике](https://habrahabr.ru/company/efs/blog/330374/)
-- [Как работают приложения Сбербанк Онлайн: Workflow API и фрэймворки](https://habr.com/company/sberbank/blog/353746/)
+- [За закрытой дверью фронтенда Единой фронтальной системы (ЕФС)](https://habrahabr.ru/company/efs/blog/325916/) (7 апреля 2017)
+- [Redux как сердце архитектуры фронтенда Единой фронтальной системы](https://habrahabr.ru/company/efs/blog/328012/) (4 мая 2017)
+- [Работа с периферией из JavaScript: от теории к практике](https://habrahabr.ru/company/efs/blog/330374/) (15 июня 2017)
+- [Как работают приложения Сбербанк Онлайн: Workflow API и фрэймворки](https://habr.com/company/sberbank/blog/353746/) (18 апреля 2018)
 
 ### [Яндекс](https://www.yandex.ru/)
 
-- [Accessibility. Как мы делаем Яндекс доступным людям с ограниченными возможностями и почему считаем это важным](https://habrahabr.ru/company/yandex/blog/258477/)
-- [Как инкрементальные обновления влияют на скорость загрузки. Опыт Яндекс.Почты](https://habrahabr.ru/company/yandex/blog/242503/)
-- [Как создавалась карта с голосами болельщиков для Олимпиады](https://habrahabr.ru/company/yandex/blog/335982/)
-- [Лекция Виталия Харисова «10k» про лёгкую версию поиска для медленных соединений и способы оптимизации кода, позволяющие уложиться в 10 килобайт](https://habrahabr.ru/company/yandex/blog/336952/)
+- [Как инкрементальные обновления влияют на скорость загрузки. Опыт Яндекс.Почты](https://habrahabr.ru/company/yandex/blog/242503/) (6 ноября 2014)
+- [Accessibility. Как мы делаем Яндекс доступным людям с ограниченными возможностями и почему считаем это важным](https://habrahabr.ru/company/yandex/blog/258477/) (21 мая 2015)
+- [Лекция Виталия Харисова «10k» про лёгкую версию поиска для медленных соединений и способы оптимизации кода, позволяющие уложиться в 10 килобайт](https://youtu.be/RoO0Fcyf0FE?t=2443/) (22 апреля 2017)
+- [Как создавалась карта с голосами болельщиков для Олимпиады](https://habrahabr.ru/company/yandex/blog/335982/) (20 августа 2017)
 - [Как мы делали «нарратив» – новый формат публикаций в Яндекс.Дзене](https://habrahabr.ru/company/yandex/blog/349220/) (16 февраля 2018)
 - [Бэкенд для фронтенда, или как в Яндекс.Маркете создают API без костылей](https://habr.com/company/yandex/blog/428141/) (1 ноября 2018)
 - [React & БЭМ – официальная коллаборация. Часть историческая](https://habr.com/en/company/yandex/blog/438598/) (5 февраля 2019)
@@ -1135,22 +1136,22 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Яндекс.Деньги](http://money.yandex.ru/)
 
-- [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/)
-- [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/)
-- [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/)
-- [Фронтенд как у сына маминой подруги](https://habr.com/company/yamoney/blog/354416/)
-- [Реактивный фронтенд. История о том, как мы снова всё переписали](https://habr.com/company/yamoney/blog/414183/)
-- [Jenkins на службе фронтенд-разработки](https://youtu.be/DA_R8mIaRJg)
+- [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/) (26 октября 2017)
+- [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/) (31 июля 2017)
+- [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/) (1 февраля 2018)
+- [Фронтенд как у сына маминой подруги](https://habr.com/company/yamoney/blog/354416/) (26 апреля 2018)
+- [Реактивный фронтенд. История о том, как мы снова всё переписали](https://habr.com/company/yamoney/blog/414183/) (15 июня 2018)
+- [Jenkins на службе фронтенд-разработки](https://youtu.be/DA_R8mIaRJg) (22 февраля 2018)
 
 ### [2ГИС](https://2gis.ru)
 
-- [Дели — сокращай, или как мы делали мобильный 2ГИС Онлайн](https://habrahabr.ru/company/2gis/blog/333016/)
-- [Этажи: 3D-навигация на WebGL в 2gis.ru](https://habrahabr.ru/company/2gis/blog/282207/)
-- [Тестируем вёрстку правильно](https://habrahabr.ru/company/2gis/blog/277457/)
-- [TARS, сделай уровень frontend-рутины 0%](https://habrahabr.ru/company/2gis/blog/254105/)
-- [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/company/2gis/blog/358148/)
-- [Справа налево. Как перевернуть интерфейс сайта под RTL](https://habr.com/company/2gis/blog/416635/)
-- [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/)
+- [TARS, сделай уровень frontend-рутины 0%](https://habrahabr.ru/company/2gis/blog/254105/) (26 марта 2015)
+- [Тестируем вёрстку правильно](https://habrahabr.ru/company/2gis/blog/277457/) (18 февраля 2016)
+- [Этажи: 3D-навигация на WebGL в 2gis.ru](https://habrahabr.ru/company/2gis/blog/282207/) (22 апреля 2016)
+- [Дели — сокращай, или как мы делали мобильный 2ГИС Онлайн](https://habrahabr.ru/company/2gis/blog/333016/) (20 июля 2017)
+- [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/company/2gis/blog/358148/) (10 мая 2018)
+- [Справа налево. Как перевернуть интерфейс сайта под RTL](https://habr.com/company/2gis/blog/416635/) (10 июля 2018)
+- [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/) (6 марта 2019)
 
 ## License
 
