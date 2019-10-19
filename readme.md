@@ -51,6 +51,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [grammarly](#grammarly)
   - [Gusto](#gusto)
   - [HealthCare.gov](#healthcaregov)
+  - [Heap](#heap)
   - [in der Apotheke](#in-der-apotheke)
   - [Insider Inc.](#insider-inc)
   - [Instagram](#instagram)
@@ -490,6 +491,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [HealthCare.gov](https://www.healthcare.gov/)
 
 - [Building a design system for HealthCare.gov](https://blog.navapbc.com/building-a-design-system-for-healthcare-gov-20dc1a833ab3) (Aug 29, 2017)
+
+### [Heap](https://heap.io)
+
+- [Goodbye CoffeeScript, Hello TypeScript](https://heap.io/blog/engineering/goodbye-coffeescript-hello-typescript) (Oct 7, 2015)
+- [Migrating To React + MobX While Shipping New Features](https://heap.io/blog/engineering/migrating-react-mobx-while-shipping-new-features) (August 16, 2017)
+- [How We Write Front-end Code](https://heap.io/blog/engineering/how-we-write-front-end-code) (Feb 20, 2018)
+- [Redesigning Heap Without a Feature Branch](https://heap.io/blog/engineering/redesigning-heap-without-a-feature-branch) (Apr 10, 2019)
+- [How we failed, then succeeded, at migrating to TypeScript](https://heap.io/blog/engineering/migrating-to-typescript) (Oct 10, 2019)
 
 ### [in der Apotheke](https://www.inderapotheke.de/)
 
