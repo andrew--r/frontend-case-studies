@@ -824,6 +824,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Connect: behind the front-end experience](https://stripe.com/blog/connect-front-end-experience) (Jun 19, 2017)
 - [A new approach to mocking GraphQL data: how we power React component tests and examples at Stripe](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491) (Dec 11, 2018)
+- [Designing accessible color systems](https://stripe.com/en-pt/blog/accessible-color-systems) (Oct 15, 2019)
 
 ### [SumUp](https://sumup.com)
 
