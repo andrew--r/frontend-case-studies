@@ -1096,6 +1096,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Как организовать работу над библиотекой общих компонентов](https://habr.com/ru/company/tinkoff/blog/468589/) (25 сентября 2019)
 - [WARNING: sanitizing HTML stripped some content и как с ним правильно бороться](https://m.habr.com/ru/company/tinkoff/blog/459396/) (27 сентября 2019)
 - [Как заопенсорсить npm-пакет с нормальным деплоем, CI и демо (без потери радости к жизни)](https://m.habr.com/ru/company/tinkoff/blog/467227/) (30 сентября 2019)
+- [Компоненты-агностики в Angular](https://m.habr.com/ru/company/tinkoff/blog/473108/) (25 октября 2019)
 
 ### [Wrike](https://www.wrike.com)
 
