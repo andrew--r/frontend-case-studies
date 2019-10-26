@@ -976,6 +976,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [YouTube](https://www.youtube.com)
 
 - [Polymer @ YouTube](https://youtu.be/tNulrEbTQf8) (Aug 22, 2017)
+- [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6) (May 1, 2019)
 
 ### [Zajno](https://zajno.com/)
 
