@@ -212,6 +212,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Australian Broadcasting Corporation](http://abc.net.au/)
 
 - [Composing Components](https://developers.digital.abc.net.au/2018/09/28/composing-components/) (Sep 28, 2018)
+- [From data to DOM: Building a text rendering pipeline for React](https://developers.digital.abc.net.au/2019/10/23/from-data-to-dom-building-a-text-rendering-pipeline-for-react/) (Oct 23, 2019)
 
 ### [Badoo](https://badoo.com)
 
