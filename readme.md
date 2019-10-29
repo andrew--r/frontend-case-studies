@@ -794,6 +794,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support](https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88) (Aug 29, 2019)
 - [The Gradual Design System: How We Built Slack Kit](https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit-8a2830484259) (Sep 12, 2019)
 - [Building Dark Mode on Desktop](https://slack.engineering/building-dark-mode-on-desktop-811508b5d15f) (Sep 24, 2019)
+- [Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd) (Oct 23, 2019)
 
 ### [Snipcart](https://snipcart.com)
 
