@@ -153,6 +153,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Альфа-Банк](#Альфа-Банк)
   - [Бюро Горбунова](#Бюро-Горбунова)
   - [ВКонтакте](#ВКонтакте)
+  - [Додо Пицца](#Додо-Пицца)
   - [Медуза](#Медуза)
   - [Сбербанк](#Сбербанк)
   - [Яндекс](#Яндекс)
@@ -1125,6 +1126,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw) (2 июня 2017)
 - [Как оседлать радугу: история создания тёмной темы](https://habr.com/ru/company/vk/blog/449720/) (29 апреля 2019)
+
+### [Додо Пицца](https://dodois.com)
+
+- [Лошадь сдохла – слезь: переход с tslint на eslint](https://habr.com/ru/company/dodopizzaio/blog/473648/) (29 октября 2019)
 
 ### [Медуза](https://meduza.io/)
 
