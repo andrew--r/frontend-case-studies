@@ -1005,6 +1005,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Production Web Apps Performance Study Q4/16 - Q1/17](https://github.com/GoogleChromeLabs/discovery/issues/1) (Jan 21, 2017)
 - [Case study: improving a popular library’s size for webpack users](https://iamakulov.com/notes/polished-webpack) (Jun 23, 2017)
 - [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) (Apr 27, 2018)
+- Web Components for Enterprise (Jul 2019): [part 1](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70) and [part 2](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 
 ## Russian
 
