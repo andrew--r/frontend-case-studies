@@ -956,6 +956,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Lazy Loading Images with IntersectionObserver](https://medium.com/walmartlabs/lazy-loading-images-intersectionobserver-8c5bff730920) (Sep 10, 2018)
 - [Midway: Walmart’s mocking journey…](https://medium.com/walmartlabs/midway-walmarts-mocking-journey-84c34fcc4593) (Oct 5, 2018)
 - [Infinite Scroll’ing the right way](https://medium.com/walmartlabs/infinite-scrolling-the-right-way-11b098a08815) (Apr 2, 2019)
+- [Delivering ReactJS applications at scale](https://medium.com/walmartlabs/delivering-reactjs-applications-at-scale-5cb8a363f99) (Aug 26, 2019)
 
 ### [Wingify](https://wingify.com/)
 
