@@ -779,6 +779,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How 17 lines of code improved shopify.com loading by 50%](https://shopifyengineering.myshopify.com/blogs/engineering/how-17-lines-of-code-improved-shopify-com-loading-by-50) (May 24, 2017)
 - [Building Shopify mobile with native and web technology](https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-mobile-with-native-and-web-technology) (Sep 29, 2017)
 - [Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2) (Jun 18, 2018)
+- [Want to Improve UI Performance? Start by Understanding Your User](https://engineering.shopify.com/blogs/engineering/improve-ui-performance-understanding-your-user) (Oct 20, 2019)
 
 ### [Skillshare](https://skillshare.com/)
 
