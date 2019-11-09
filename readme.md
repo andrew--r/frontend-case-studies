@@ -157,6 +157,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Додо Пицца](#Додо-Пицца)
   - [Медуза](#Медуза)
   - [Сбербанк](#Сбербанк)
+  - [ЦИАН](#циан)
   - [Яндекс](#Яндекс)
   - [Яндекс.Деньги](#ЯндексДеньги)
   - [2ГИС](#2ГИС)
@@ -1156,6 +1157,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Redux как сердце архитектуры фронтенда Единой фронтальной системы](https://habrahabr.ru/company/efs/blog/328012/) (4 мая 2017)
 - [Работа с периферией из JavaScript: от теории к практике](https://habrahabr.ru/company/efs/blog/330374/) (15 июня 2017)
 - [Как работают приложения Сбербанк Онлайн: Workflow API и фрэймворки](https://habr.com/company/sberbank/blog/353746/) (18 апреля 2018)
+
+### [ЦИАН](https://cian.ru)
+
+- [Микросервисный фронтенд](https://youtu.be/YANolrn4PYc) (7 ноября 2018)
+- [Как разрабатывать сотни A/B-экспериментов](https://youtu.be/uQh5_a2tx64) (28 мая 2019)
+- [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/) (8 ноября 2019)
 
 ### [Яндекс](https://www.yandex.ru/)
 
