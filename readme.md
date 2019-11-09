@@ -469,6 +469,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How GitLab switched to Headless Chrome for testing](https://about.gitlab.com/2017/12/19/moving-to-headless-chrome) (Dec 19, 2017)
 - [How we iterated and improved our frontend team culture](https://about.gitlab.com/2018/06/26/iterating-improving-frontend-culture/) (Jun 26, 2018)
 - [Why we chose ECharts for data visualizations](https://about.gitlab.com/2019/09/30/why-we-chose-echarts/) (Sep 30, 2019)
+- [How GitLab Pages made our Sketch design handoffs easier and faster](https://about.gitlab.com/blog/2019/11/07/how-gitlab-pages-made-our-sketch-design-handoffs-easier-and-faster/) (Nov 7, 2019)
 
 ### [Google](https://google.com)
 
