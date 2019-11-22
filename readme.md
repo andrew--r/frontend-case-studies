@@ -986,6 +986,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Whoa! That Embedded Web View Looks Hot in Your iOS App!](https://engineeringblog.yelp.com/2013/11/whoa-that-embedded-web-view-looks-hot-in-your-ios-app.html) (Nov 7, 2013)
 - [CSS in the Age of React: How We Traded the Cascade for Consistency](https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html) (Mar 5, 2018)
+- [Organizing and Securing Third-Party CDN Assets at Yelp](https://engineeringblog.yelp.com/2019/11/organizing-and-securing-third-party-cdn-assets-at-yelp.html) (Nov 20, 2019)
 
 ### [YouTube](https://www.youtube.com)
 
