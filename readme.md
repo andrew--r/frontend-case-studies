@@ -1178,6 +1178,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты](https://habr.com/ru/company/yandex/blog/446780/) (9 апреля 2019)
 - [«Под капотом» Турбо-страниц: архитектура технологии быстрой загрузки веб-страниц](https://habr.com/ru/company/yandex/blog/460373/) (17 июля 2019)
 - [Разработка в монорепозитории](https://habr.com/ru/company/yandex/blog/469021/) (3 октября 2019)
+- [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/) (19 ноября 2019)
 
 ### [Яндекс.Деньги](http://money.yandex.ru/)
 
