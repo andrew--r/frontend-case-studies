@@ -1183,6 +1183,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [От идеи до релиза. Детальный опыт фронтенда Маркета](https://habr.com/ru/company/yandex/blog/459960/) (22 июля 2019)
 - [Разработка в монорепозитории](https://habr.com/ru/company/yandex/blog/469021/) (3 октября 2019)
 - [Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript](https://habr.com/ru/company/yandex/blog/475382/) (19 ноября 2019)
+- [Как устроено тестирование фронтенда в Яндекс.Маркете и почему мы отказываемся от еженедельных релизов](https://habr.com/ru/company/yandex/blog/478862/) (10 декабря 2019)
 
 ### [Яндекс.Деньги](http://money.yandex.ru/)
 
