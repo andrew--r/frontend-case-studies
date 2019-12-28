@@ -1145,6 +1145,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [React со скоростью света: не совсем обычный серверный рендеринг](https://www.youtube.com/watch?v=3rXueXJeGlw) (2 июня 2017)
 - [Как оседлать радугу: история создания тёмной темы](https://habr.com/ru/company/vk/blog/449720/) (29 апреля 2019)
+- [Баги, которые вы никогда не встретите](https://ok.ru/video/2423311305323) (26 ноября 2019)
 
 ### [Додо Пицца](https://dodois.com)
 
