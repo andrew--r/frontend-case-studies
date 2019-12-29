@@ -1074,6 +1074,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Разработка собственного решения: риски и ответственность](https://habr.com/ru/company/mailru/blog/271689/) (26 ноября 2015)
 - [Frontend: Разработка и поддержка](https://habr.com/ru/company/mailru/blog/309212/) (6 сентября 2016)
 - [Архитектура фронтенда крупного проекта, как она есть](https://youtu.be/J08UOAJdjWc) (19 апреля 2018)
+- [WebAuthn в реальной жизни](https://youtu.be/yx_eHBsXyIo) (27 ноября 2019)
 
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
