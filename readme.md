@@ -851,6 +851,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [What we learnt from our mistakes in 2016](https://www.theguardian.com/info/developer-blog/2016/dec/18/what-we-learnt-from-our-mistakes-in-2016) (Dec 18, 2016)
 - [Revisiting the rendering tier](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) (Apr 4, 2019)
+- [Migrating the Guardian website to React](https://www.theguardian.com/info/2019/dec/08/migrating-the-guardian-website-to-react)
 
 ### [The Knot Worldwide](https://www.theknotww.com/)
 
