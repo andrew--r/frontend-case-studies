@@ -364,6 +364,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [The Future of Marko](https://www.ebayinc.com/stories/blogs/tech/the-future-of-marko/) (Oct 26, 2017)
 - [Beyond HTTPS](https://www.ebayinc.com/stories/blogs/tech/beyond-https/) (Dec 13, 2017)
 - [WebAssembly at eBay: A Real-World Use Case](https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/) (May 22, 2019)
+- [Speed By A Thousand Cuts](https://tech.ebayinc.com/engineering/speed-by-a-thousand-cuts/) (Jan 23, 2020)
 
 ### [Electronic Arts](https://www.ea.com)
 
