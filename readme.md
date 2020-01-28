@@ -58,6 +58,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Instagram](#instagram)
   - [Internet Archive](#internet-archive)
   - [Intuit](#intuit)
+  - [InVision](#invision)
   - [Khan Academy](#khan-academy)
   - [Kickstarter](#kickstarter)
   - [Line](#line)
@@ -540,6 +541,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [TurboTax Live’s Approach to a Gender-Neutral Design System](https://medium.com/blueprint-by-intuit/turbotax-lives-approach-to-a-gender-neutral-design-system-bed0c45ece44) (Feb 21, 2019)
 - [Delivering Consistent Animations with a Design System Library](https://medium.com/blueprint-by-intuit/delivering-consistent-animations-with-a-design-system-library-323f29f5efc6) (Apr 25, 2019)
 - [GraphQL: Intuit’s Path to ONE API System](https://medium.com/blueprint-by-intuit/graphql-intuits-path-to-one-api-system-b8495e4dd281) (Mar 13, 2019)
+
+### [InVision](https://www.invisionapp.com)
+
+- [Sharing ESLint Across Teams](https://engineering.invisionapp.com/post/sharing-eslint-across-teams/) (Apr 5, 2016)
+- [Optimizing Webpack for Faster React Builds](https://engineering.invisionapp.com/post/optimizing-webpack/) (Apr 12, 2016)
+- [Persist Redux State by Using Sagas](https://engineering.invisionapp.com/post/persist-redux-state-by-using-sagas/) (Apr 26, 2016)
+- [Testing Our Shared ESLint Configs](https://engineering.invisionapp.com/post/testing-eslint/) (May 12, 2016)
+- [How ESLint Saved Our Soul](https://engineering.invisionapp.com/post/how-eslint-saved-our-soul/) (Aug 12, 2016)
+- [React Performance Tune-Up](https://engineering.invisionapp.com/post/react-performance-tune-up/) (Sep 23, 2016)
+- [Building the inspect measurement engine](https://engineering.invisionapp.com/post/building-the-inspect-measurement-engine) (Jul 17, 2019)
 
 ### [Khan Academy](http://khanacademy.org/)
 
