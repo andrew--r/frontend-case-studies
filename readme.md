@@ -1142,6 +1142,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [OneTwoTrip](https://www.onetwotrip.com/)
 
 - [9 лет в монолите на Node.JS](https://habr.com/ru/post/459206/) (9 июля 2019)
+- [Как мигрировать с mocha на jest в 14 простых шагов — и зачем](https://habr.com/ru/post/486360/) (31 января 2020)
 
 ### [Rambler Group](https://rambler-co.ru/)
 
