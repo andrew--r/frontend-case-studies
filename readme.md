@@ -129,6 +129,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Wingify](#wingify)
   - [Wix](#wix)
   - [Yelp](#yelp)
+  - [YNAB](#ynab)
   - [YouTube](#youtube)
   - [Zajno](#zajno)
   - [Zynga](#zynga)
@@ -1041,6 +1042,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Whoa! That Embedded Web View Looks Hot in Your iOS App!](https://engineeringblog.yelp.com/2013/11/whoa-that-embedded-web-view-looks-hot-in-your-ios-app.html) (Nov 7, 2013)
 - [CSS in the Age of React: How We Traded the Cascade for Consistency](https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html) (Mar 5, 2018)
 - [Organizing and Securing Third-Party CDN Assets at Yelp](https://engineeringblog.yelp.com/2019/11/organizing-and-securing-third-party-cdn-assets-at-yelp.html) (Nov 20, 2019)
+
+### [YNAB](https://www.youneedabudget.com)
+
+- [Progressive Conversion of TypeScript Namespaces to Modules](https://dev.to/ynab/progressive-conversion-of-typescript-namespaces-to-modules-3f1j) (Sep 23, 2019)
+- Semantic Colors for Designers and Developers: [part 1](https://dev.to/ynab/a-semantic-color-system-the-theory-hk7), [part 2](https://dev.to/ynab/semantic-colors-for-designers-2lf2) and [part 3](https://dev.to/ynab/the-practice-semantic-colors-for-developers-1o6g) (Feb 12, 2020)
 
 ### [YouTube](https://www.youtube.com)
 
