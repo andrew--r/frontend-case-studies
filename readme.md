@@ -1085,6 +1085,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Amplifr](https://amplifr.com)
 
 - [Принципы разработки Амплифера](https://gist.github.com/ai/473dd603baa92d5c8590f3573514c7a1) (2019)
+- [Как Амплифер использует Logux — инструмент для связи клиента и сервера](https://habr.com/ru/post/491170/) (5 марта 2020)
 
 ### [Avito](https://www.avito.ru/)
 
