@@ -965,6 +965,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Javascript @ Uber](https://youtu.be/JWFyH13_I3o) (Jul 10, 2017)
 - [Building a More Seamless Web Booking Flow for Uber](https://eng.uber.com/web-booking-flow/) (Jul 25, 2019)
 - [Best Practices for Unit Testing in React Version 16](https://eng.uber.com/best-practices-for-react-v16/) (Aug 29, 2019)
+- [Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com](https://eng.uber.com/uber-eats-com-web-app-rewrite/) (Feb 12, 2020)
 
 ### [Udacity](https://www.udacity.com/)
 
