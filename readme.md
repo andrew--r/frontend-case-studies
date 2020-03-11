@@ -897,6 +897,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building a Cross Platform 360-degree Video Experience at The New York Times](https://open.nytimes.com/building-a-cross-platform-360-degree-video-experience-at-the-new-york-times-c35afa92a2e8) (Nov 11, 2016)
 - [React, Relay and GraphQL: Under the Hood of The Times Website Redesign](https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764) (Jun 30, 2017)
 - [GraphQL in real life](https://youtu.be/HlZ3ZecECOU) (Apr 19, 2019)
+- [How We Implemented a Baseline Grid Using CSS](https://open.nytimes.com/how-we-implemented-a-baseline-grid-using-css-cb13cac45201) (Nov 21, 2019)
 
 ### [The Telegraph](https://www.telegraph.co.uk)
 
