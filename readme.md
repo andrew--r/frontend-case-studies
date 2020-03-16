@@ -152,6 +152,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Rambler Group](#rambler-group)
   - [Setka](#setka)
   - [Skyeng](#skyeng)
+  - [Sports.ru](#sportsru)
   - [Tinkoff](#tinkoff)
   - [Wrike](#wrike)
   - [Альфа-Банк](#Альфа-Банк)
@@ -1172,6 +1173,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - Переход с AngularJS на Angular (февраль 2018): [цели, планы и правила переноса элементов](https://habrahabr.ru/company/skyeng/blog/348356), [проблемы и решения гибридного режима](https://habr.com/ru/company/skyeng/blog/348512/), [жизнь после AngularJS](https://habr.com/ru/company/skyeng/blog/348606/)
 - [От Skype до WebRTC: как мы организовали видеосвязь через веб](https://habr.com/ru/company/skyeng/blog/446444/) (3 апреля 2019)
 - [Как мы подружили SCSS с CSS Variables на примере c темизацией UI Kit](https://habr.com/ru/company/skyeng/blog/459194/) (9 июля 2019)
+
+### [Sports.ru](https://www.sports.ru)
+
+- [Как в Sports.ru писали свой WYSIWYG-редактор](https://habr.com/ru/company/sports_ru/blog/492228/) (13 марта 2020)
 
 ### [Tinkoff](https://www.tinkoff.ru/)
 
