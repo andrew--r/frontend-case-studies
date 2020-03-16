@@ -1203,6 +1203,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [БЭМ + React: гибкая архитектура дизайн-системы](https://habrahabr.ru/company/alfa/blog/340522/) (23 октября 2017)
 - [Изоморфное приложение React JS + Spring Boot](https://habrahabr.ru/company/alfa/blog/340776/) (27 октября 2017)
 - [Атомарные SPA](https://youtu.be/pkHWttaktWk) (7 апреля 2018)
+- [Тёмная сторона дизайн-системы и что с ней делать](https://habr.com/ru/company/alfa/blog/492010/) (16 марта 2020)
 
 ### [Бюро Горбунова](https://bureau.ru)
 
