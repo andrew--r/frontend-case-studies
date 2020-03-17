@@ -1050,6 +1050,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Progressive Conversion of TypeScript Namespaces to Modules](https://dev.to/ynab/progressive-conversion-of-typescript-namespaces-to-modules-3f1j) (Sep 23, 2019)
 - Semantic Colors for Designers and Developers: [part 1](https://dev.to/ynab/a-semantic-color-system-the-theory-hk7), [part 2](https://dev.to/ynab/semantic-colors-for-designers-2lf2) and [part 3](https://dev.to/ynab/the-practice-semantic-colors-for-developers-1o6g) (Feb 12, 2020)
+- [How we use OpenAPI / Swagger for the YNAB API](https://dev.to/ynab/how-we-use-openapi-swagger-for-the-ynab-api-5453) (Mar 16, 2020)
 
 ### [YouTube](https://www.youtube.com)
 
