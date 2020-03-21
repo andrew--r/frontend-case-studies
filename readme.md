@@ -1117,7 +1117,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc) (14 апреля 2017)
 - [Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде](https://habr.com/company/badoo/blog/434448/) (26 декабря 2018)
 - Sketch + Node.js: генерируем иконки для множества платформ и брендов. [Часть 1](https://habr.com/ru/company/badoo/blog/441898/) (27 февраля 2019) и [часть 2](https://habr.com/ru/company/badoo/blog/442886/) (12 марта 2019)
-- [Дизайн-токены способны на большее: создаем единый источник информации о компонентах UI](https://habr.com/ru/company/badoo/blog/491948/)
+- [Дизайн-токены способны на большее: создаем единый источник информации о компонентах UI](https://habr.com/ru/company/badoo/blog/491948/) (12 марта 2020)
 
 ### [DIRECTUM](https://www.directum.ru/)
 
