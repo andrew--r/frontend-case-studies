@@ -234,6 +234,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - Optical alignment for frontend developers: [why is it not the same as it is for designers](https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-i-why-it-is-not-the-same-as-for-designers-a082ffca1d3b) and [how can the process be automated](https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-ii-how-can-the-process-be-automated-e41d8de2b18f) (Nov 22, 2018)
 - Generating multi-brand multi-platform icons with Sketch and a Node.js script: [from the idea to the assets Sketch files](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part1-82f438c7e16c) and [the build script and the generation of the assets](https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part2-8d02e8bb915a) (Dec 2018)
 - [Covering A/B tests with UI tests: how to avoid getting tangled up in your own code](https://badootech.badoo.com/covering-ab-tests-with-ui-testing-1df5401ff0e1) (Feb 22 2019)
+- [Design Tokens beyond colors, typography, and spacing](https://badootech.badoo.com/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228) (Nov 12, 2019)
 
 ### [BBC](http://www.bbc.com)
 
@@ -1116,6 +1117,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Работаем с API по-взрослому](https://youtu.be/ErhWb-iTRmc) (14 апреля 2017)
 - [Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде](https://habr.com/company/badoo/blog/434448/) (26 декабря 2018)
 - Sketch + Node.js: генерируем иконки для множества платформ и брендов. [Часть 1](https://habr.com/ru/company/badoo/blog/441898/) (27 февраля 2019) и [часть 2](https://habr.com/ru/company/badoo/blog/442886/) (12 марта 2019)
+- [Дизайн-токены способны на большее: создаем единый источник информации о компонентах UI](https://habr.com/ru/company/badoo/blog/491948/)
 
 ### [DIRECTUM](https://www.directum.ru/)
 
