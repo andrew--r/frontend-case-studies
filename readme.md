@@ -72,6 +72,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Microsoft To-Do](#microsoft-to-do)
   - [Mixmax](#mixmax)
   - [Mixpanel](#mixpanel)
+  - [Mozilla](#mozilla)
   - [Mud](#mud)
   - [Myntra](#myntra)
   - [Netflix](#netflix)
@@ -669,6 +670,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Straightening our Backbone: A lesson in event-driven UI development](https://engineering.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/) (Apr 8, 2015)
 - [Making Web Components Work, or: How We Learned to Stop Worrying and Love the DOM](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/) (Jun 12, 2018)
+
+### [Mozilla](https://www.mozilla.org)
+
+- [The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons) (Apr 23, 2019)
 
 ### [Mud](https://ournameismud.co.uk)
 
