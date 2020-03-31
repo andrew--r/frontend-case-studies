@@ -8,6 +8,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [AdRoll](#adroll)
   - [Aha!](#aha)
   - [Airbnb](#airbnb)
+  - [ALDO](#aldo)
   - [Algolia](#algolia)
   - [Artsy](#artsy)
   - [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
@@ -195,6 +196,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9) (Jul 18, 2018)
 - [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2) (Dec 5, 2018)
 - [Building (And Re-Building) the Airbnb Design System](https://youtu.be/fHQ1WSx41CA) (Oct 30, 2019)
+
+### [ALDO](https://www.aldogroup.com)
+
+- [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance) (Feb 6, 2020)
 
 ### [Algolia](https://www.algolia.com)
 
