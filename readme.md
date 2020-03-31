@@ -513,6 +513,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [GOV.UK](https://www.gov.uk)
 
 - [Accessibility for developers: building a frontend that everyone can use](https://frontendne.co.uk/talks/accessibility-for-developers-building-a-frontend-that-everyone-can-use) (Oct 6, 2016)
+- [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) (Feb 24, 2020)
+- [Why videos on GOV.UK use the YouTube video player](https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/) (Mar 16, 2020)
 
 ### [grammarly](https://www.grammarly.com)
 
