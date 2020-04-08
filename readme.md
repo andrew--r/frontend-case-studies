@@ -874,6 +874,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building Spotify’s New Web Player](https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/) (Mar 25, 2019)
 - [(Right to Left (The Mirror World](https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/) (Apr 15, 2019)
 - [web-scripts – creating NPM libraries in a snap at Spotify](https://labs.spotify.com/2019/07/03/web-scripts-creating-npm-libraries-in-a-snap-at-spotify/) (Jul 3, 2019)
+- [Reimagining Design Systems at Spotify](https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/) (Dec 16, 2019)
 
 ### [Stack Overflow](https://stackoverflow.com)
 
