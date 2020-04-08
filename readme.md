@@ -306,7 +306,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How we made our page-load optimisations even faster](https://blog.cloudflare.com/making-page-load-even-faster/) (Feb 2, 2018)
 - [Real URLs for AMP Cached Content Using Cloudflare Workers](https://blog.cloudflare.com/real-urls-for-amp-cached-content-using-cloudflare-workers/) (Nov 13, 2018)
 - [Fast Google Fonts with Cloudflare Workers](https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/) (Nov 22, 2018)
-- [Migrating to React land: Gatsby](https://blog.cloudflare.com/migrating-to-react-land-gatsby/)
+- [Migrating to React land: Gatsby](https://blog.cloudflare.com/migrating-to-react-land-gatsby/) (Mar 26, 2020)
+- [Moving from reCAPTCHA to hCaptcha](https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/) (Apr 8, 2020)
 
 ### [Cloud Four](https://cloudfour.com/)
 
