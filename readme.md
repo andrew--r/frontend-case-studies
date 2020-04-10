@@ -393,6 +393,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [WebAssembly at eBay: A Real-World Use Case](https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/) (May 22, 2019)
 - [Autofill on Browsers: A Deep Dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/) (Dec 3, 2019)
 - [Speed By A Thousand Cuts](https://tech.ebayinc.com/engineering/speed-by-a-thousand-cuts/) (Jan 23, 2020)
+- [Front End Debugging — Tips on Resolving Issues Quickly so You Can Move on to Better Things](https://tech.ebayinc.com/engineering/front-end-debugging-tips-on-resolving-issues-quickly-so-you-can-move-on-to-better-things/) (Apr 7, 2020)
 
 ### [Electronic Arts](https://www.ea.com)
 
