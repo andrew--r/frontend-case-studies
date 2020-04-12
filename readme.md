@@ -62,6 +62,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [InVision](#invision)
   - [Khan Academy](#khan-academy)
   - [Kickstarter](#kickstarter)
+  - [Klarna](#klarna)
   - [Line](#line)
   - [LinkedIn](#linkedin)
   - [Lucidchart](#lucidchart)
@@ -601,6 +602,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Kickstarter](https://www.kickstarter.com/)
 
 - [Namespacing Actions for Redux](https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1) (Nov 20, 2017)
+
+### [Klarna](https://www.klarna.com)
+
+- [Migrating from Rails’ asset pipeline to Node’s webpack](https://engineering.klarna.com/migrating-from-rails-asset-pipeline-to-node-s-webpack-684230e3a93a) (Jan 2, 2016)
+- [How removing caching improved mobile performance by 25%](https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2) (Jan 10, 2017)
+- [Improving Communication and Confidence with Visual Snapshot Testing](https://engineering.klarna.com/improving-communication-and-confidence-with-visual-snapshot-testing-b04154c3aaf0) (Mar 14, 2017)
+- [6 Lessons learned from optimizing the performance of a Node.js service](https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473) (Jan 9, 2020)
 
 ### [Line](https://line.me)
 
