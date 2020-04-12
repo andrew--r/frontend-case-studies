@@ -1025,6 +1025,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Midway: Walmart’s mocking journey…](https://medium.com/walmartlabs/midway-walmarts-mocking-journey-84c34fcc4593) (Oct 5, 2018)
 - [Infinite Scroll’ing the right way](https://medium.com/walmartlabs/infinite-scrolling-the-right-way-11b098a08815) (Apr 2, 2019)
 - [Delivering ReactJS applications at scale](https://medium.com/walmartlabs/delivering-reactjs-applications-at-scale-5cb8a363f99) (Aug 26, 2019)
+- [Turbocharging Walmart.com](https://youtu.be/vB8JUx9Dp08) (Apr 9, 2020)
 
 ### [Wikimedia](https://www.wikimedia.org)
 
