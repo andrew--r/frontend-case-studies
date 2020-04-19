@@ -146,6 +146,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Badoo](#badoo-1)
   - [DIRECTUM](#directum)
   - [Flocktory](#flocktory-1)
+  - [GitLab](#gitlab-1)
   - [HeadHunter](#headhunter)
   - [Mail.Ru](#mailru)
   - [Microsoft To-Do](#microsoft-to-do-1)
@@ -1153,6 +1154,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Flocktory](https://www.flocktory.com)
 
 - [Разработка сторонних библиотек](https://slonoed.net/ru/third-party-js/) (22 мая 2017)
+
+### [GitLab](https://gitlab.com)
+
+- [Методы борьбы с legacy-кодом на примере GitLab](https://youtu.be/3tdfBMRq34o) (10 декабря 2019)
 
 ### [HeadHunter](https://hh.ru/)
 
