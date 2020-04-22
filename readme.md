@@ -522,9 +522,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [GOV.UK](https://www.gov.uk)
 
-- [Accessibility for developers: building a frontend that everyone can use](https://frontendne.co.uk/talks/accessibility-for-developers-building-a-frontend-that-everyone-can-use) (Oct 6, 2016)
-- [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) (Feb 24, 2020)
-- [Why videos on GOV.UK use the YouTube video player](https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/) (Mar 16, 2020)
+- [Accessibility for developers: building a frontend that everyone can use](https://frontendne.co.uk/talks/accessibility-for-developers-building-a-frontend-that-everyone-can-use) (October 6, 2016)
+- [Patterns for accessible webchats](https://accessibility.blog.gov.uk/2016/12/09/patterns-for-accessible-webchats) (December 9, 2016)
+- [How to create content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers) (February 8, 2017)
+- [How we’ve made GOV.UK Elements even more accessible](https://accessibility.blog.gov.uk/2018/02/28/how-weve-made-gov-uk-elements-even-more-accessible) (February 28, 2018)
+- [What we learned from getting our autocomplete tested for accessibility](https://accessibility.blog.gov.uk/2018/05/15/what-we-learned-from-getting-our-autocomplete-tested-for-accessibility) (May 15, 2018)
+- [Accessibility lessons: dealing with a large amount of form inputs](https://accessibility.blog.gov.uk/2019/04/08/accessibility-lessons-dealing-with-a-large-amount-of-form-inputs) (April 8, 2019)
+- [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) (February 24, 2020)
+- [Why videos on GOV.UK use the YouTube video player](https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/) (March 16, 2020)
 
 ### [grammarly](https://www.grammarly.com)
 
