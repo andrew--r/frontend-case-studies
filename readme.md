@@ -1321,13 +1321,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [2ГИС](https://2gis.ru)
 
-- [TARS, сделай уровень frontend-рутины 0%](https://habrahabr.ru/company/2gis/blog/254105/) (26 марта 2015)
-- [Тестируем вёрстку правильно](https://habrahabr.ru/company/2gis/blog/277457/) (18 февраля 2016)
-- [Этажи: 3D-навигация на WebGL в 2gis.ru](https://habrahabr.ru/company/2gis/blog/282207/) (22 апреля 2016)
-- [Дели — сокращай, или как мы делали мобильный 2ГИС Онлайн](https://habrahabr.ru/company/2gis/blog/333016/) (20 июля 2017)
-- [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/company/2gis/blog/358148/) (10 мая 2018)
-- [Справа налево. Как перевернуть интерфейс сайта под RTL](https://habr.com/company/2gis/blog/416635/) (10 июля 2018)
+- [TARS, сделай уровень frontend-рутины 0%](https://habrahabr.ru/company/2gis/blog/254105) (26 марта 2015)
+- [Тестируем вёрстку правильно](https://habrahabr.ru/company/2gis/blog/277457) (18 февраля 2016)
+- [Этажи: 3D-навигация на WebGL в 2gis.ru](https://habrahabr.ru/company/2gis/blog/282207) (22 апреля 2016)
+- [Дели — сокращай, или как мы делали мобильный 2ГИС Онлайн](https://habrahabr.ru/company/2gis/blog/333016) (20 июля 2017)
+- [Справа налево. Что такое dir=rtl и как приручить арабский язык](https://habr.com/company/2gis/blog/358148) (10 мая 2018)
+- [Справа налево. Как перевернуть интерфейс сайта под RTL](https://habr.com/company/2gis/blog/416635) (10 июля 2018)
 - [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/) (6 марта 2019)
+- [3D-аркада в браузере: как мы сделали игру на React + Redux](https://habr.com/ru/company/2gis/blog/498638) (23 апреля 2020)
 
 ## License
 
