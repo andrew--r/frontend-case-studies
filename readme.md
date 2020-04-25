@@ -80,6 +80,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Netflix](#netflix)
   - [npm](#npm)
   - [OK GROW!](#ok-grow)
+  - [OYO](#oyo)
   - [Palantir](#palantir)
   - [PayPal](#paypal)
   - [Pinafore](#pinafore)
@@ -738,6 +739,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Where does Redux fit in Meteor?](https://www.okgrow.com/posts/where-does-redux-fit-in-meteor) (July 15, 2016)
 - [Real-world Unit Testing with Meteor and Jest](https://www.okgrow.com/posts/real-world-unit-testing-with-meteor-and-jest) (October 17, 2017)
 - [Optimizing a GraphQL app using Apollo Engine](https://www.okgrow.com/posts/optimizing-graphql-apollo-engine) (February 12, 2019)
+
+### [OYO](https://www.oyorooms.com)
+
+- [OYO on a User Experience Quest with AMP ⚡](https://medium.com/oyotech/oyo-on-a-user-experience-quest-with-amp-cff515cf849e) (January 11, 2018)
+- [Brotli vs Gzip Compression. How we improved our latency by 37%](https://medium.com/oyotech/how-brotli-compression-gave-us-37-latency-improvement-14d41e50fee4) (June 29, 2018)
+- [AMP for Email - Interactive and Dynamic Email Experiences at OYO](https://medium.com/oyotech/amp-for-email-making-interactive-and-dynamic-email-experiences-at-oyo-ed7a6d8754b3) (March 26, 2019)
+- [Shipping ES6 in browsers without Polyfill](https://medium.com/oyotech/shipping-es6-in-browsers-without-polyfill-90d1fb440a55) (April 17, 2019)
+- [Signed-Exchange: Solving the AMP URLs Display Problem](https://medium.com/oyotech/implementing-signed-exchange-for-better-amp-urls-38abd64c6766) (May 7, 2019)
+- [Building Chrome Extension with ReactJs: Beginner’s Guide](https://medium.com/oyotech/building-chrome-extension-with-reactjs-beginners-guide-ca44acdf9ffc) (May 13, 2019)
+- [A complete implementation guide to Trusted Web Activity(TWA)- OYO Lite](https://medium.com/oyotech/a-complete-guide-to-trusted-web-activity-twa-oyo-case-study-3dd327d7afc5) (November 7, 2019)
 
 ### [Palantir](https://www.palantir.com/)
 
