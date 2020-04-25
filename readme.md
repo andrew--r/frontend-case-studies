@@ -1258,6 +1258,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Додо Пицца](https://dodois.com)
 
+- [Додо Пицца: собственная касса на веб-технологиях](https://youtu.be/G_3qp1HbhR4) (14 октября 2019)
 - [Лошадь сдохла – слезь: переход с tslint на eslint](https://habr.com/ru/company/dodopizzaio/blog/473648/) (29 октября 2019)
 
 ### [Медуза](https://meduza.io/)
