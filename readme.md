@@ -86,6 +86,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Pinafore](#pinafore)
   - [Pinterest](#pinterest)
   - [Pivotal Tracker](#pivotal-tracker)
+  - [Plaid](#plaid)
   - [Plotly](#plotly)
   - [Product Hunt](#product-hunt)
   - [Quizlet](#quizlet)
@@ -793,6 +794,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Using Elm in Production at Pivotal Tracker](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker/) (January 31, 2017)
 - [Improving Accessibility in Pivotal Tracker](https://www.pivotaltracker.com/blog/improving-accessibility-in-pivotal-tracker) (February 1, 2018)
+
+### [Plaid](https://plaid.com)
+
+- [Securing WebViews with Chrome Custom Tabs](https://blog.plaid.com/securing-webviews-with-chrome-custom-tabs) (April 9, 2020)
 
 ### [Plotly](https://plot.ly/)
 
