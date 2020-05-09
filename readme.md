@@ -429,6 +429,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Behind the Scenes: Improving the React Repository Infrastructure](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) (December 15, 2017)
 - [Faster input events with Facebook’s first browser API contribution](https://code.fb.com/developer-tools/isinputpending-api/) (April 22, 2019)
 - [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) (April 30, 2019)
+- [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/) (May 8, 2020)
 
 ### [fastq.bio](http://www.fastq.bio/)
 
