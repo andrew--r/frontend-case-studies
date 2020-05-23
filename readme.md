@@ -14,6 +14,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
   - [Badoo](#badoo)
   - [BBC](#bbc)
+  - [Betty Crocker](#bettycrocker)
   - [Bitmovin](#bitmovin)
   - [blogfoster](#blogfoster)
   - [Bloomberg](#bloomberg)
@@ -252,6 +253,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Redefining the BBC News core experience](https://wildlyinaccurate.com/redefining-the-bcc-news-core-experience/) (July 22, 2016)
 - [HTTP/2 is easy, just turn it on…](https://medium.com/bbc-design-engineering/http-2-is-easy-just-turn-it-on-34baad2d1fb1) (November 7, 2017)
 - [How BBC Interactive Content Works Across AMP, Apps, And The Web](https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/) (March 15, 2018)
+
+### [Betty Crocker](https://www.bettycrocker.com)
+
+- [Wake Lock API case study: 300% increase in purchase intent indicators on BettyCrocker.com](https://web.dev/betty-crocker/) (May 19, 2020)
 
 ### [Bitmovin](https://bitmovin.com)
 
