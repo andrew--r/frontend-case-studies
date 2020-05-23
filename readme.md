@@ -14,7 +14,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
   - [Badoo](#badoo)
   - [BBC](#bbc)
-  - [Betty Crocker](#bettycrocker)
+  - [Betty Crocker](#betty-crocker)
   - [Bitmovin](#bitmovin)
   - [blogfoster](#blogfoster)
   - [Bloomberg](#bloomberg)
