@@ -167,6 +167,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Бюро Горбунова](#Бюро-Горбунова)
   - [ВКонтакте](#ВКонтакте)
   - [Додо Пицца](#Додо-Пицца)
+  - [Леруа Мерлен](#леруа-мерлен)
   - [Медуза](#Медуза)
   - [Сбербанк](#Сбербанк)
   - [ЦИАН](#циан)
@@ -1293,6 +1294,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Додо Пицца: собственная касса на веб-технологиях](https://youtu.be/G_3qp1HbhR4) (14 октября 2019)
 - [Лошадь сдохла – слезь: переход с tslint на eslint](https://habr.com/ru/company/dodopizzaio/blog/473648/) (29 октября 2019)
+
+### [Леруа Мерлен](https://leroymerlin.ru)
+
+- [Опыт интеграции веб-компонентов на сайт Леруа Мерлен](https://habr.com/ru/company/leroy_merlin/blog/488648/) (18 февраля 2020)
 
 ### [Медуза](https://meduza.io/)
 
