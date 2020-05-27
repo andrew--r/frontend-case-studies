@@ -36,6 +36,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [eBay](#ebay)
   - [Electronic Arts](#electronic-arts)
   - [Ele.me](#eleme)
+  - [Etsy](#etsy)
   - [Evil Martians](#evil-martians)
   - [ezCater](#ezcater)
   - [Facebook](#facebook)
@@ -414,6 +415,22 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Ele.me](https://www.ele.me)
 
 - [Upgrading Ele.me to Progressive Web App](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509) (May 6, 2017)
+
+### [Etsy](https://www.etsy.com)
+
+- [Localizing Logically for a Global Marketplace](https://codeascraft.com/2011/10/21/localizing-logically-for-a-global-marketplace/) (October 21, 2011)
+- [Multilingual User Generated Content and SEO](https://codeascraft.com/2011/12/02/multilingual-user-generated-content-and-seo/) (December 2, 2011)
+- [Measuring Front-end Performance With Real Users](https://codeascraft.com/2012/11/29/measuring-front-end-performance-with-real-users/) (November 29, 2012)
+- [Responsive emails that really work](https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/) (March 13, 2014)
+- [Transitioning to SCSS at Scale](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/) (February 2, 2015)
+- [Rebuilding the Foundation of Etsy’s Seller Tools](https://codeascraft.com/2015/02/05/rebuilding-the-foundation-of-etsy-seller-tools/) (February 5, 2015)
+- [How Etsy Formats Currency](https://codeascraft.com/2016/04/19/how-etsy-formats-currency/) (April 19, 2016)
+- [SEO Title Tag Optimization at Etsy: Experimental Design and Causal Inference](https://codeascraft.com/2016/10/25/seo-title-tag-optimization/) (October 25, 2016)
+- [Optimizing Meta Descriptions, H1s and Title Tags: Lessons from Multivariate SEO Testing at Etsy](https://codeascraft.com/2017/01/25/optimizing-meta-descriptions-h1s-and-title-tags-lessons-from-multivariate-seo-testing-at-etsy/) (January 25, 2017)
+- [Reducing Image File Size at Etsy](https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/) (May 30, 2017)
+- [How Etsy Localizes Addresses](https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/) (September 26, 2018)
+- [Developing in a Monorepo While Still Using Webpack](https://codeascraft.com/2020/04/06/developing-in-a-monorepo-while-still-using-webpack/) (April 6, 2020)
+- [The journey to fast production asset builds with Webpack](https://codeascraft.com/2020/02/03/production-webpack-builds/) (February 3, 2020)
 
 ### [Evil Martians](https://evilmartians.com/)
 
