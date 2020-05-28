@@ -913,6 +913,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building Dark Mode on Desktop](https://slack.engineering/building-dark-mode-on-desktop-811508b5d15f) (September 24, 2019)
 - [Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd) (October 23, 2019)
 - [A Day in the Life of a Frontend Product Engineer at Slack](https://slack.engineering/a-day-in-the-life-of-a-frontend-product-engineer-at-slack-27375455cfaa) (February 5, 2020)
+- [How Slack changed the way it designs accessible frontend components](https://increment.com/frontend/case-study-web-components-for-screen-readers/) (May 2020)
 
 ### [Snipcart](https://snipcart.com)
 
@@ -1168,6 +1169,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Case study: improving a popular library’s size for webpack users](https://iamakulov.com/notes/polished-webpack) (June 23, 2017)
 - [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) (April 27, 2018)
 - Web Components for Enterprise (July 2019): [part 1](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70) and [part 2](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
+- [Frontend at scale](https://increment.com/frontend/frontend-at-scale/): leaders at Atlassian, Canva, Tinder, and Vimeo discuss frameworks, tooling, and rapidly evolving technologies (May 2020)
 
 ## Russian
 
