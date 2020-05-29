@@ -171,6 +171,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Леруа Мерлен](#леруа-мерлен)
   - [Медуза](#Медуза)
   - [Сбербанк](#Сбербанк)
+  - [Ситимобил](#Ситимобил)
   - [ЦИАН](#циан)
   - [Яндекс](#Яндекс)
   - [Яндекс.Деньги](#ЯндексДеньги)
@@ -1332,6 +1333,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Redux как сердце архитектуры фронтенда Единой фронтальной системы](https://habrahabr.ru/company/efs/blog/328012/) (4 мая 2017)
 - [Работа с периферией из JavaScript: от теории к практике](https://habrahabr.ru/company/efs/blog/330374/) (15 июня 2017)
 - [Как работают приложения Сбербанк Онлайн: Workflow API и фрэймворки](https://habr.com/company/sberbank/blog/353746/) (18 апреля 2018)
+
+### [Ситимобил](https://city-mobil.ru)
+
+- [Хороший ли выбор Svelte для реализации виджета?](https://habr.com/ru/company/citymobil/blog/504270/) (28 мая 2020)
 
 ### [ЦИАН](https://cian.ru)
 
