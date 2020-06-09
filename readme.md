@@ -112,6 +112,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [stripe](#stripe)
   - [SumUp](#sumup)
   - [Superhuman](#superhuman)
+  - [TakeShape](#takeshape)
   - [The Guardian](#the-guardian)
   - [The Knot Worldwide](#the-knot-worldwide)
   - [The New York Times](#the-new-york-times)
@@ -957,6 +958,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Superhuman](https://superhuman.com)
 
 - [Delightful search: more than meets the eye](https://blog.superhuman.com/delightful-search-more-than-meets-the-eye-d3fa2e3ef3b6) (May 5, 2017)
+
+### [TakeShape](https://www.takeshape.io)
+
+- [Why we switched from Yarn to pnpm](https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/) (June 9, 2020)
 
 ### [The Guardian](https://www.theguardian.com/)
 
