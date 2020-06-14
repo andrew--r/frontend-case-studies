@@ -171,6 +171,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Додо Пицца](#Додо-Пицца)
   - [Леруа Мерлен](#леруа-мерлен)
   - [Медуза](#Медуза)
+  - [Одноклассники](#Одноклассники)
   - [Сбербанк](#Сбербанк)
   - [Ситимобил](#Ситимобил)
   - [ЦИАН](#циан)
@@ -1331,6 +1332,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [AMP, Instant Articles, Instant View, whut?](http://telegra.ph/AMP-Instant-Articles-Instant-View-whut-11-23) (23 ноября 2016)
 - [Как использовать кастомные шрифты в вебе и не сойти с ума](https://dev.meduza.io/%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5-%D1%88%D1%80%D0%B8%D1%84%D1%82%D1%8B-%D0%B2-%D0%B2%D0%B5%D0%B1%D0%B5-%D0%B8-%D0%BD%D0%B5-%D1%81%D0%BE%D0%B9%D1%82%D0%B8-%D1%81-%D1%83%D0%BC%D0%B0-9ba8a2998bcc) (1 декабря 2016)
 - [Подкасты «Медузы»](https://dev.meduza.io/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D1%8B-eff4c68d24f2) (21 сентября 2017)
+
+### [Одноклассники](https://ok.ru/)
+
+- [Архитектура и платформа проекта Одноклассники](https://habr.com/ru/company/odnoklassniki/blog/115881/) (21 марта 2011)
+- [Как мы оптимизировали социальную кнопку](https://habr.com/ru/company/mailru/blog/191154/) (26 августа 2013)
+- Новый фронтенд Одноклассников: запуск React в Java. [Часть 1](https://habr.com/ru/company/odnoklassniki/blog/480808/) и [часть 2](https://habr.com/ru/company/odnoklassniki/blog/486810/) (январь–февраль 2020)
 
 ### [Сбербанк](http://sberbank.ru/)
 
