@@ -31,6 +31,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Conductor](#conductor)
   - [DAZN](#dazn)
   - [De Voorhoede](#de-voorhoede)
+  - [DEV](#dev)
   - [Discord](#discord)
   - [Dropbox](#dropbox)
   - [eBay](#ebay)
@@ -353,6 +354,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [De Voorhoede](https://www.voorhoede.nl)
 
 - [Why our website is faster than yours](https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours) (July 16, 2016)
+
+### [DEV](https://dev.to)
+
+- [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/)
 
 ### [Discord](https://discordapp.com/)
 
