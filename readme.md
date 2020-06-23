@@ -357,7 +357,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [DEV](https://dev.to)
 
-- [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/)
+- [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/) (June 23, 2020)
 
 ### [Discord](https://discordapp.com/)
 
