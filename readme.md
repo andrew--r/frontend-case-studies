@@ -1097,6 +1097,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Infinite Scroll’ing the right way](https://medium.com/walmartlabs/infinite-scrolling-the-right-way-11b098a08815) (April 2, 2019)
 - [Delivering ReactJS applications at scale](https://medium.com/walmartlabs/delivering-reactjs-applications-at-scale-5cb8a363f99) (August 26, 2019)
 - [Turbocharging Walmart.com](https://youtu.be/vB8JUx9Dp08) (April 9, 2020)
+- [Differential Serving — Food for latest browsers](https://medium.com/walmartlabs/differential-serving-food-for-latest-browsers-ba96192eb0ad) (June 23, 2020)
 
 ### [Wikimedia](https://www.wikimedia.org)
 
