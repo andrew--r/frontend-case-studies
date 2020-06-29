@@ -542,6 +542,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Our big Frontend plan revealed](https://about.gitlab.com/2017/02/06/vue-big-plan/) (February 6, 2017): long term plan to make GitLab as fast and performant as possible with Vue and webpack
 - [How we do Vue: one year later](https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/) (November 9, 2017)
 - [How GitLab switched to Headless Chrome for testing](https://about.gitlab.com/2017/12/19/moving-to-headless-chrome) (December 19, 2017)
+- [Our journey in switching to native Unicode emoji](https://about.gitlab.com/blog/2018/05/30/journey-in-native-unicode-emoji/) (May 30, 2018)
 - [How we iterated and improved our frontend team culture](https://about.gitlab.com/2018/06/26/iterating-improving-frontend-culture/) (June 26, 2018)
 - [Why we chose ECharts for data visualizations](https://about.gitlab.com/2019/09/30/why-we-chose-echarts/) (September 30, 2019)
 - [How GitLab Pages made our Sketch design handoffs easier and faster](https://about.gitlab.com/blog/2019/11/07/how-gitlab-pages-made-our-sketch-design-handoffs-easier-and-faster/) (November 7, 2019)
@@ -1184,6 +1185,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart/) (April 27, 2018)
 - Web Components for Enterprise (July 2019): [part 1](https://dev.to/webpadawan/web-components-for-enterprise-part-1-salesforce-oracle-sap-e70) and [part 2](https://dev.to/webpadawan/web-components-for-enterprise-part-2-nuxeo-ionic-vaadin-22l7)
 - [Frontend at scale](https://increment.com/frontend/frontend-at-scale/): leaders at Atlassian, Canva, Tinder, and Vimeo discuss frameworks, tooling, and rapidly evolving technologies (May 2020)
+- [Introducing emoji-picker-element: a memory-efficient emoji picker for the web](https://nolanlawson.com/2020/06/28/introducing-emoji-picker-element-a-memory-efficient-emoji-picker-for-the-web/) (June 28, 2020)
 
 ## Russian
 
