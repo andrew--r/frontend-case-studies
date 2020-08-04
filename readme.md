@@ -463,6 +463,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Faster input events with Facebook’s first browser API contribution](https://code.fb.com/developer-tools/isinputpending-api/) (April 22, 2019)
 - [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) (April 30, 2019)
 - [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/) (May 8, 2020)
+- [Making Facebook.com accessible to as many people as possible](https://engineering.fb.com/web/facebook-com-accessibility/) (July 30, 2020)
 
 ### [fastq.bio](http://www.fastq.bio/)
 
