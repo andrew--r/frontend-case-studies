@@ -807,6 +807,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53) (October 17, 2018)
 - [Why every new web app at PayPal starts with TypeScript](https://medium.com/paypal-engineering/why-every-new-web-app-at-paypal-starts-with-typescript-9d1acc07c839) (January 21, 2019)
 - [Scaling GraphQL at PayPal](https://medium.com/paypal-engineering/scaling-graphql-at-paypal-b5b5ac098810) (October 30, 2019)
+- [How Micro Frontend Has Changed Our Team Dynamic](https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48) (August 10, 2020)
 
 ### [Pinafore](https://pinafore.social)
 
