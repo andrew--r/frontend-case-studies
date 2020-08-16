@@ -107,7 +107,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Skillshare](#skillshare)
   - [Slack](#slack)
   - [Snipcart](#snipcart)
-  - [Soundcloud](#soundcloud)
+  - [SoundCloud](#soundcloud)
   - [Spectrum](#spectrum)
   - [Spotify](#spotify)
   - [Stack Overflow](#stack-overflow)
@@ -945,6 +945,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building The Next SoundCloud](https://developers.soundcloud.com/blog/building-the-next-soundcloud) (June 14, 2012)
 - [Smooth image loading by upscaling](https://developers.soundcloud.com/blog/smooth-image-loading-by-upscaling) (February 20, 2014)
 - [React Native at SoundCloud](https://developers.soundcloud.com/blog/react-native-at-soundcloud) (August 3, 2016)
+- [Garbage Collection in Redux Applications](https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications) (January 24, 2019)
+- [Playback on Web at SoundCloud](https://developers.soundcloud.com/blog/playback-on-web-at-soundcloud) (May 3, 2019)
 
 ### [Spectrum](https://spectrum.chat/)
 
