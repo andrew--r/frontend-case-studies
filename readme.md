@@ -93,6 +93,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Plotly](#plotly)
   - [Product Hunt](#product-hunt)
   - [Quizlet](#quizlet)
+  - [Quora](#quora)
   - [REA Group](#rea-group)
   - [Reaktor](#reaktor)
   - [Reddit](#reddit)
@@ -857,6 +858,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Launching A Successful Redesign For 20 Million Students](https://medium.com/tech-quizlet/launching-a-successful-redesign-for-20-million-students-2f4c4b518b6e) (June 13, 2017)
 - [Cypress: The future of end-to-end testing for web applications](https://medium.com/tech-quizlet/cypress-the-future-of-end-to-end-testing-for-web-applications-8ee108c5b255) (February 8, 2018)
 - [Now or Never: Migrating 300k LOC from Flow to TypeScript at Quizlet](https://medium.com/tech-quizlet/now-or-never-migrating-300k-loc-from-flow-to-typescript-at-quizlet-d3bae5830a1) (June 18, 2019)
+
+### [Quora](https://www.quora.com/)
+
+- [Faster Paint Times](https://www.quora.com/q/quoraengineering/Faster-Paint-Times) (August 18, 2016)
+- [Choosing Quora’s GraphQL client](https://www.quora.com/q/quoraengineering/Choosing-Quora-s-GraphQL-client) (July 22, 2020)
 
 ### [REA Group](https://www.rea-group.com/)
 
