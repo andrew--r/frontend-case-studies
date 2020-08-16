@@ -415,6 +415,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Autofill on Browsers: A Deep Dive](https://tech.ebayinc.com/engineering/autofill-deep-dive/) (December 3, 2019)
 - [Speed By A Thousand Cuts](https://tech.ebayinc.com/engineering/speed-by-a-thousand-cuts/) (January 23, 2020)
 - [Front End Debugging — Tips on Resolving Issues Quickly so You Can Move on to Better Things](https://tech.ebayinc.com/engineering/front-end-debugging-tips-on-resolving-issues-quickly-so-you-can-move-on-to-better-things/) (April 7, 2020)
+- [Auto Effect Pattern with Redux and React Hooks](https://tech.ebayinc.com/engineering/auto-effect-pattern-with-redux-and-react-hooks/) (April 15, 2020)
 
 ### [Electronic Arts](https://www.ea.com)
 
