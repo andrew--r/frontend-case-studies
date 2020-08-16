@@ -84,6 +84,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [npm](#npm)
   - [OK GROW!](#ok-grow)
   - [OYO](#oyo)
+  - [Oyster](#oyster)
   - [Palantir](#palantir)
   - [PayPal](#paypal)
   - [Pinafore](#pinafore)
@@ -792,6 +793,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Signed-Exchange: Solving the AMP URLs Display Problem](https://medium.com/oyotech/implementing-signed-exchange-for-better-amp-urls-38abd64c6766) (May 7, 2019)
 - [Building Chrome Extension with ReactJs: Beginner’s Guide](https://medium.com/oyotech/building-chrome-extension-with-reactjs-beginners-guide-ca44acdf9ffc) (May 13, 2019)
 - [A complete implementation guide to Trusted Web Activity(TWA)- OYO Lite](https://medium.com/oyotech/a-complete-guide-to-trusted-web-activity-twa-oyo-case-study-3dd327d7afc5) (November 7, 2019)
+
+### [Oyster](https://www.oyster.com/)
+
+- [Oyster Shots on the Front End](http://tech.oyster.com/oyster-shots-on-the-front-end/) (July 29, 2011)
+- [Using React and jQuery Together](http://tech.oyster.com/using-react-and-jquery-together/) (March 22, 2016)
 
 ### [Palantir](https://www.palantir.com/)
 
