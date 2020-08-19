@@ -211,6 +211,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9) (July 18, 2018)
 - [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2) (December 5, 2018)
 - [Building (And Re-Building) the Airbnb Design System](https://youtu.be/fHQ1WSx41CA) (October 30, 2019)
+- [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc) (August 18, 2020)
 
 ### [ALDO](https://www.aldogroup.com)
 
