@@ -483,6 +483,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Introducing: Figma to React](https://www.figma.com/blog/introducing-figma-to-react/) (April 26, 2018)
 - [Figma, faster 🏎](https://www.figma.com/blog/figma-faster/) (August 13, 2018)
 - [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) (August 22, 2019)
+- [React at 60fps: improving scrolling comments in Figma](https://www.figma.com/blog/improving-scrolling-comments-in-figma/) (August 19, 2020)
 
 ### [Financial Times](https://www.ft.com)
 
