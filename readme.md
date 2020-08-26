@@ -501,6 +501,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [This one line of Javascript made FT.com 10 times slower](https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f) (July 16, 2018)
 - [Improving the cache performance of The Polyfill Service even more](https://jakechampion.name/posts/improving-the-cache-performance-of-the-polyfill-service-even-more/) (January 21, 2019)
 - [Designing a sustainable front-end toolset for FT.com](https://medium.com/ft-product-technology/designing-a-sustainable-front-end-toolset-for-ft-com-f37c59d27eeb) (April 27, 2020)
+- [Animating list reordering with React Hooks](https://medium.com/ft-product-technology/animating-list-reordering-with-react-hooks-1aa0d78a24dc) (August 26, 2020)
 
 ### [Flickr](https://www.flickr.com/)
 
