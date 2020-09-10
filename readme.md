@@ -1244,6 +1244,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - Sketch + Node.js: генерируем иконки для множества платформ и брендов. [Часть 1](https://habr.com/ru/company/badoo/blog/441898/) (27 февраля 2019) и [часть 2](https://habr.com/ru/company/badoo/blog/442886/) (12 марта 2019)
 - [Локализация приложений: как мы подружили перевод и разработку](https://habr.com/ru/company/badoo/blog/485138/) (23 января 2020)
 - [Дизайн-токены способны на большее: создаем единый источник информации о компонентах UI](https://habr.com/ru/company/badoo/blog/491948/) (12 марта 2020)
+- [Как перенести на TypeScript большую кодовую базу React UI-компонентов](https://habr.com/ru/company/badoo/blog/518246/) (9 сентября 2020)
 
 ### [DIRECTUM](https://www.directum.ru/)
 
