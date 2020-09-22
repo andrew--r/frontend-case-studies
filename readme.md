@@ -74,6 +74,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [MDN](#mdn)
   - [Medium](#medium)
   - [MemSQL](#memsql)
+  - [Mercado Libre](#mercado-libre)
   - [Microsoft To-Do](#microsoft-to-do)
   - [Mixmax](#mixmax)
   - [Mixpanel](#mixpanel)
@@ -720,6 +721,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [MemSQL](https://www.memsql.com)
 
 - [Porting 30K lines of code from Flow to TypeScript](http://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/) (January 13, 2019)
+
+### [Mercado Libre](http://www.mercadolibre.com)
+
+- [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/) (September 21, 2020)
 
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
