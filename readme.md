@@ -58,6 +58,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [HealthCare.gov](#healthcaregov)
   - [Heap](#heap)
   - [in der Apotheke](#in-der-apotheke)
+  - [Infinite Red](#infinite-red)
   - [Insider Inc.](#insider-inc)
   - [Instagram](#instagram)
   - [Internet Archive](#internet-archive)
@@ -607,6 +608,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [in der Apotheke](https://www.inderapotheke.de/)
 
 - [Farewell, Google Maps](https://www.inderapotheke.de/blog/farewell-google-maps) (July 18, 2018)
+
+### [Infinite Red](https://infinite.red/)
+
+- [Switching from Ava to Jest for TypeScript](https://shift.infinite.red/switching-from-ava-to-jest-for-typescript-a6dac7d1712f) (November 6, 2017)
+- [Using TypeScript to upgrade Ignite without losing my mind](https://shift.infinite.red/using-typescript-to-upgrade-ignite-without-losing-my-mind-352d8076d331) (March 20, 2019)
+- [Yarn 1 vs Yarn 2 vs NPM](https://shift.infinite.red/yarn-1-vs-yarn-2-vs-npm-a69ccf0229cd) (February 6, 2020)
+- [Why Infinite Red uses MobX-State-Tree instead of Redux](https://shift.infinite.red/why-infinite-red-uses-mobx-state-tree-instead-of-redux-d6c1407dead) (June 16, 2020)
 
 ### [Insider Inc.](https://www.insider-inc.com/)
 
