@@ -45,6 +45,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Figma](#figma)
   - [Financial Times](#financial-times)
   - [Flickr](#flickr)
+  - [Flipboard](#flipboard)
   - [Flipkart](#flipkart)
   - [Flocktory](#flocktory)
   - [Futurice](#futurice)
@@ -517,6 +518,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building Flickr’s new Hybrid Signed-Out Homepage](http://code.flickr.net/2014/04/23/building-flickrs-new-hybrid-signed-out-homepage/) (April 23, 2014)
 - [Perceptual Image Compression at Flickr](http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/) (September 25, 2015)
 - [Introducing yakbak: Record and playback HTTP interactions in NodeJS](http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/) (April 25, 2016)
+
+### [Flipboard](https://flipboard.com)
+
+- [Layout in Flipboard for Web and Windows](https://engineering.flipboard.com/2014/03/web-layouts) (March 24, 2014)
+- [60 FPS on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web) (February 10, 2015)
 
 ### [Flipkart](https://www.flipkart.com)
 
