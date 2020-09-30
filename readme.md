@@ -52,6 +52,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Garbarino](#garbarino)
   - [GitHub](#github)
   - [GitLab](#gitlab)
+  - [Goibibo](#goibibo)
   - [Google](#google)
   - [GOV.UK](#govuk)
   - [grammarly](#grammarly)
@@ -563,6 +564,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Why we chose ECharts for data visualizations](https://about.gitlab.com/2019/09/30/why-we-chose-echarts/) (September 30, 2019)
 - [How GitLab Pages made our Sketch design handoffs easier and faster](https://about.gitlab.com/blog/2019/11/07/how-gitlab-pages-made-our-sketch-design-handoffs-easier-and-faster/) (November 7, 2019)
 - [How we created a dark UI for GitLab's Web IDE](https://about.gitlab.com/blog/2020/05/20/creating-a-dark-ui-for-gitlabs-web-ide/) (May 20, 2020)
+
+### [Goibibo](https://www.goibibo.com)
+
+- [How Goibibo's PWA improved conversions by 60%](https://web.dev/goibibo/) (September 29, 2020)
 
 ### [Google](https://google.com)
 
