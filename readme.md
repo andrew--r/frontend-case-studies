@@ -393,6 +393,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Redux with Code-Splitting and Type Checking](https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/) (July 16, 2019)
 - [Design Tooling at Scale](https://dropbox.design/article/design-tooling-at-scale) (October 12, 2019)
 - [The Great CoffeeScript to Typescript Migration of 2017](https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017) (May 13, 2020)
+- [JQuery to React: How we rewrote the HelloSign Editor](https://dropbox.tech/application/jquery-to-react--how-we-rewrote-the-hellosign-editor) (September 30, 2020)
 
 ### [eBay](https://www.ebay.com)
 
