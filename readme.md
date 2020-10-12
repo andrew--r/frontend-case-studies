@@ -186,6 +186,9 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Яндекс](#Яндекс)
   - [Яндекс.Деньги](#ЯндексДеньги)
   - [2ГИС](#2ГИС)
+- [Ukrainian](#ukrainian)
+  - [EPAM](#epam)
+  - [DataArt](#dataart)
 - [License](#license)
 
 ## English
@@ -1464,6 +1467,17 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Справа налево. Как перевернуть интерфейс сайта под RTL](https://habr.com/company/2gis/blog/416635) (10 июля 2018)
 - [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/) (6 марта 2019)
 - [3D-аркада в браузере: как мы сделали игру на React + Redux](https://habr.com/ru/company/2gis/blog/498638) (23 апреля 2020)
+
+## Ukrainian
+
+### [EPAM](https://careers.epam.ua/)
+
+- [Чому SOLID — важлива складова мислення програміста. Розбираємося на прикладах з кодом](https://dou.ua/lenta/articles/solid-principles/) (4 серпня 2020)
+- [Як ми робили проект з digital transformation, або Про розуміння клієнта](https://dou.ua/lenta/articles/understanding-client/) (9 жовтня 2020)
+
+### [DataArt](https://www.dataart.com/)
+
+- [Як побудувати успішну співпрацю дизайнера і веброзробника. Висновки з досвіду](https://dou.ua/lenta/articles/collaboration-between-designer-and-webdeveloper) (1 липня 2020)
 
 ## License
 
