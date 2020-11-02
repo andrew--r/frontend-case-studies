@@ -132,7 +132,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Thread](#thread)
   - [Tinder](#tinder)
   - [TinyMCE](#tinymce)
-  - [Treebo](#trebo)
+  - [Treebo](#treebo)
   - [Tumblr](#tumblr)
   - [Twitch](#twitch)
   - [Twitter](#twitter)
