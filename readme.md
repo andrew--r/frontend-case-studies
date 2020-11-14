@@ -291,6 +291,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Bloomberg](https://www.bloomberg.com/)
 
 - [How Bloomberg Used React Native to Develop its new Consumer App](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/) (December 15, 2016)
+- [wsk: A Straightforward and Maintainable Build System from the Bloomberg Graphics Team](https://www.techatbloomberg.com/blog/wsk-straightforward-maintainable-build-system-bloomberg-graphics-team/) (December 12, 2017)
+- [10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/) (November 9, 2020)
 
 ### [Campaign Monitor](https://www.campaignmonitor.com/)
 
