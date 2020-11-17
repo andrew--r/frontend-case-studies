@@ -1457,6 +1457,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Как переписать фронтенд нагруженного проекта и не потерять главного](https://habr.com/ru/company/yandex/blog/486146/) (3 февраля 2020)
 - [Минифицируем приватные поля в TypeScript](https://habr.com/ru/company/yandex/blog/506030/) (13 июня 2020)
 - [Технические предпочтения пользователей с нарушениями зрения в 2020 году](https://habr.com/ru/company/yandex/blog/515460/) (18 августа 2020)
+- [Как и почему мы переехали с собственного npm-репозитория на Verdaccio](https://habr.com/ru/company/yandex/blog/528386/) (17 ноября 2020)
 
 ### [Яндекс.Деньги](http://money.yandex.ru/)
 
