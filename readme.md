@@ -1268,6 +1268,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Avito Online Frontend: Performance](https://youtu.be/CnsrImdBYz8) (18 декабря 2018)
 - [Жесть для Jest](https://youtu.be/8_6Kuo5jFpU) (17 августа 2019)
 - [Как мы нарисовали на карте несколько тысяч интерактивных объектов без вреда для перформанса](https://habr.com/ru/company/avito/blog/512146/) (29 июля 2020)
+- [Webpack в дикой природе](https://youtu.be/qKz9YAeKYMs) (20 ноября 2020)
 
 ### [auto.ru](https://auto.ru/)
 
