@@ -183,6 +183,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Одноклассники](#Одноклассники)
   - [Сбербанк](#Сбербанк)
   - [Ситимобил](#Ситимобил)
+  - [Спортмастер](#Спортмастер)
   - [ЦИАН](#циан)
   - [Яндекс](#Яндекс)
   - [Яндекс.Деньги](#ЯндексДеньги)
@@ -1432,6 +1433,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Ситимобил](https://city-mobil.ru)
 
 - [Хороший ли выбор Svelte для реализации виджета?](https://habr.com/ru/company/citymobil/blog/504270/) (28 мая 2020)
+
+### [Спортмастер](https://www.sportmaster.ru)
+
+- [Frontend в Sportmaster Lab](https://habr.com/ru/company/sportmaster_lab/blog/531342/) (4 декабря 2020)
 
 ### [ЦИАН](https://cian.ru)
 
