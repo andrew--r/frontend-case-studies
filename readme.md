@@ -132,6 +132,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Thread](#thread)
   - [Tinder](#tinder)
   - [TinyMCE](#tinymce)
+  - [Tokopedia](#tokopedia)
   - [Treebo](#treebo)
   - [Tumblr](#tumblr)
   - [Twitch](#twitch)
@@ -1083,6 +1084,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [TinyMCE is going mobile](https://go.tinymce.com/blog/tinymce-is-going-mobile/) (March 31, 2017)
 - [Benefits of gradual strong typing in JavaScript](https://go.tinymce.com/blog/benefits-of-gradual-strong-typing-in-javascript/) (January 25, 2019)
+
+### [Tokopedia](hthttps://www.tokopedia.com)
+
+- [A Tokopedia Mobile Web Performance Case Study](https://medium.com/tokopedia-engineering/a-tokopedia-mobile-web-performance-case-study-48ee5c6e4d5c) (May 22, 2020)
+- [How focusing on web performance improved Tokopedia's click-through rate by 35%](https://web.dev/tokopedia/) (October 13, 2020)
 
 ### [Treebo](https://www.treebo.com/)
 
