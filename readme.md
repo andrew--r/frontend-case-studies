@@ -777,6 +777,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Mozilla](https://www.mozilla.org)
 
 - [The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons) (April 23, 2019)
+- [To Eleventy and Beyond](https://hacks.mozilla.org/2020/10/to-eleventy-and-beyond/) (October 1, 2020)
 
 ### [Mud](https://ournameismud.co.uk)
 
