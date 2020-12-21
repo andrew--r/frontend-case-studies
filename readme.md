@@ -186,8 +186,8 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Ситимобил](#Ситимобил)
   - [Спортмастер](#Спортмастер)
   - [ЦИАН](#циан)
+  - [ЮMoney (Яндекс.Деньги)](#юmoney-яндексденьги)
   - [Яндекс](#Яндекс)
-  - [Яндекс.Деньги](#ЯндексДеньги)
   - [2ГИС](#2ГИС)
 - [License](#license)
 
@@ -1454,6 +1454,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/) (8 ноября 2019)
 - [Micro-frontends. Асинхронный подход к мультикомандной разработке](https://habr.com/ru/company/cian/blog/516958/) (28 августа 2020)
 
+### [ЮMoney (Яндекс.Деньги)](http://money.yandex.ru/)
+
+- [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/) (26 октября 2017)
+- [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/) (31 июля 2017)
+- [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/) (1 февраля 2018)
+- [Фронтенд как у сына маминой подруги](https://habr.com/company/yamoney/blog/354416/) (26 апреля 2018)
+- [Реактивный фронтенд. История о том, как мы снова всё переписали](https://habr.com/company/yamoney/blog/414183/) (15 июня 2018)
+- [Jenkins на службе фронтенд-разработки](https://youtu.be/DA_R8mIaRJg) (22 февраля 2018)
+- [Обзор архитектуры фронтенда ЮMoney](https://youtu.be/7wGYxT1UZl4) (15 декабря 2020)
+
 ### [Яндекс](https://www.yandex.ru/)
 
 - [Как инкрементальные обновления влияют на скорость загрузки. Опыт Яндекс.Почты](https://habrahabr.ru/company/yandex/blog/242503/) (6 ноября 2014)
@@ -1474,15 +1484,6 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Минифицируем приватные поля в TypeScript](https://habr.com/ru/company/yandex/blog/506030/) (13 июня 2020)
 - [Технические предпочтения пользователей с нарушениями зрения в 2020 году](https://habr.com/ru/company/yandex/blog/515460/) (18 августа 2020)
 - [Как и почему мы переехали с собственного npm-репозитория на Verdaccio](https://habr.com/ru/company/yandex/blog/528386/) (17 ноября 2020)
-
-### [Яндекс.Деньги](http://money.yandex.ru/)
-
-- [Прототипирование на продакшн-технологиях](https://habrahabr.ru/company/yamoney/blog/341028/) (26 октября 2017)
-- [Почему Node.js в качестве основы фронтенда – это круто](https://habrahabr.ru/company/yamoney/blog/334500/) (31 июля 2017)
-- [Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team](https://habrahabr.ru/company/yamoney/blog/348070/) (1 февраля 2018)
-- [Фронтенд как у сына маминой подруги](https://habr.com/company/yamoney/blog/354416/) (26 апреля 2018)
-- [Реактивный фронтенд. История о том, как мы снова всё переписали](https://habr.com/company/yamoney/blog/414183/) (15 июня 2018)
-- [Jenkins на службе фронтенд-разработки](https://youtu.be/DA_R8mIaRJg) (22 февраля 2018)
 
 ### [2ГИС](https://2gis.ru)
 
