@@ -381,6 +381,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC](https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429) (September 10, 2018)
 - [Investigating Discord’s React Memory Leak](https://blog.discordapp.com/discord-react-memory-leak-565c89763e8) (August 8, 2019)
 - [How Discord achieves native iOS performance with React Native](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) (November 7, 2019)
+- [How Discord Implemented App-Wide Keyboard Navigation](https://blog.discord.com/how-discord-implemented-app-wide-keyboard-navigation-abf073fd71de) (December 17, 2020)
 
 ### [Dropbox](https://www.dropbox.com)
 
