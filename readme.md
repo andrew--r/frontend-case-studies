@@ -164,6 +164,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [GitLab](#gitlab-1)
   - [HeadHunter](#headhunter)
   - [ISPsystem](#ispsystem)
+  - [Joom](#joom)
   - [Mail.Ru](#mailru)
   - [Microsoft To-Do](#microsoft-to-do-1)
   - [Miro](#miro)
@@ -1323,6 +1324,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Как разделить фронтенд и бэкенд, сохранив взаимопонимание](https://habr.com/ru/company/ispsystem/blog/447650/) (11 апреля 2019)
 - [От библиотеки компонентов к дизайн-системе](https://habr.com/ru/company/ispsystem/blog/507826/) (23 июня 2020)
 - [Ленивая подгрузка переводов с Angular](https://habr.com/ru/company/ispsystem/blog/512008/) (22 июля 2020)
+
+### [Joom](https://www.joom.com)
+
+- [Автоматизируем локализацию макетов в Figma](https://habr.com/ru/company/joom/blog/535188/) (29 декабря 2020)
 
 ### [Mail.Ru](https://mail.ru)
 
