@@ -943,6 +943,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Revolut](https://www.revolut.com)
 
 - [How we learned to stop worrying and love GraphQL](https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9) (August 8, 2019)
+- [The fundamentals of web development at Revolut](https://medium.com/revolut/the-fundamentals-of-web-development-at-revolut-bb5e2888e84f) (January 4, 2021)
 
 ### [Roompact](https://roompact.com)
 
