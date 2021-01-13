@@ -1463,7 +1463,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [ЦИАН](https://cian.ru)
 
 - [Микросервисный фронтенд](https://youtu.be/YANolrn4PYc) (7 ноября 2018)
-- [Как разрабатывать сотни A/B-экспериментов](https://youtu.be/uQh5_a2tx64) (28 мая 2019)
+- Как разрабатывать сотни A/B-экспериментов: [доклад](https://youtu.be/uQh5_a2tx64), [текстовая версия](https://habr.com/ru/company/oleg-bunin/blog/528350/) (28 мая 2019)
 - [Внедряем Sign in with Apple — систему авторизации от Apple](https://habr.com/ru/company/cian/blog/475062/) (8 ноября 2019)
 - [Micro-frontends. Асинхронный подход к мультикомандной разработке](https://habr.com/ru/company/cian/blog/516958/) (28 августа 2020)
 
