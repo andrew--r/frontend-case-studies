@@ -706,6 +706,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience) (December 7, 2017)
 - [Ember Timer Leaks: The Bad Apples in Your Test Infrastructure](https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks) (January 3, 2018)
 - [Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js](https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs) (March 12, 2018)
+- [LinkedIn’s approach to automated accessibility (A11y) testing](https://engineering.linkedin.com/blog/2020/automated-accessibility-testing) (May 21, 2020)
 
 ### [Lucidchart](https://www.lucidchart.com/)
 
