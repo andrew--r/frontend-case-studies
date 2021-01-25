@@ -589,6 +589,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [The new AdWords UI uses Dart — we asked why](https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html) (March 31, 2016)
 - [A Recipe for Designing Animations — Without Sacrificing Performance](https://medium.com/google-design/a-streamlined-workflow-for-performative-animations-be0a6ff3df7a) (June 4, 2019)
 - [Bringing service workers to Google Search](https://web.dev/google-search-sw/) (June 20, 2019)
+- [Migrating Puppeteer to TypeScript](https://developers.google.com/web/updates/2021/01/puppeteer-typescript) (January 21, 2021)
 
 ### [GOV.UK](https://www.gov.uk)
 
