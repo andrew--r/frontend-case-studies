@@ -86,6 +86,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Mud](#mud)
   - [Myntra](#myntra)
   - [Netflix](#netflix)
+  - [New Relic](#new-relic)
   - [npm](#npm)
   - [OK GROW!](#ok-grow)
   - [OYO](#oyo)
@@ -817,6 +818,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Enhancing the Netflix UI Experience with HDR](https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8) (September 24, 2018)
 - [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) (December 10, 2018)
 - [Modernizing the Web Playback UI](https://medium.com/netflix-techblog/modernizing-the-web-playback-ui-1ad2f184a5a0) (December 12, 2018)
+
+### [New Relic](https://newrelic.com/)
+
+- [Real-World JavaScript Performance Tips](https://blog.newrelic.com/engineering/javascript-perf-tips/) (November 14, 2014)
+- [How We Architected the New Relic Mobile Web UI in React](https://blog.newrelic.com/engineering/mobile-ui-react/) (January 3, 2018)
 
 ### [npm](https://www.npmjs.com)
 
