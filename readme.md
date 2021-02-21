@@ -188,6 +188,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Сбербанк](#Сбербанк)
   - [Ситимобил](#Ситимобил)
   - [Спортмастер](#Спортмастер)
+  - [Учи.ру](#учиру)
   - [ЦИАН](#циан)
   - [ЮMoney (Яндекс.Деньги)](#юmoney-яндексденьги)
   - [Яндекс](#Яндекс)
@@ -1468,6 +1469,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Спортмастер](https://www.sportmaster.ru)
 
 - [Frontend в Sportmaster Lab](https://habr.com/ru/company/sportmaster_lab/blog/531342/) (4 декабря 2020)
+
+### [Учи.ру](https://uchi.ru)
+
+- [Интерфейсы для тех, кто еще не читает. Принципы проектирования детского UX-UI](https://habr.com/ru/company/uchi_ru/blog/516356/) (24 августа 2020)
+- [Единый UI-кит и синхронизация дизайна в Учи.ру. Часть 1](https://habr.com/ru/company/uchi_ru/blog/543308/) (20 февраля 2021)
 
 ### [ЦИАН](https://cian.ru)
 
