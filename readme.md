@@ -1064,6 +1064,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [React, Relay and GraphQL: Under the Hood of The Times Website Redesign](https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764) (June 30, 2017)
 - [GraphQL in real life](https://youtu.be/HlZ3ZecECOU) (April 19, 2019)
 - [How We Implemented a Baseline Grid Using CSS](https://open.nytimes.com/how-we-implemented-a-baseline-grid-using-css-cb13cac45201) (November 21, 2019)
+- [A More Accessible Web](https://open.nytimes.com/a-more-accessible-web-fa87592da6d2) (February 25, 2021)
 
 ### [The Telegraph](https://www.telegraph.co.uk)
 
