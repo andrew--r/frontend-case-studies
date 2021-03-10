@@ -11,6 +11,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [ALDO](#aldo)
   - [Algolia](#algolia)
   - [Artsy](#artsy)
+  - [Atlassian](#atlassian)
   - [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
   - [Badoo](#badoo)
   - [BBC](#bbc)
@@ -249,6 +250,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [GraphQL Stitching 101](http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/) (December 11, 2018)
 - [GraphQL: Union vs. Interface](http://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/) (January 14, 2019)
 - [From TSLint to ESLint, or How I Learned to Lint GraphQL Code](http://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/) (January 29, 2019)
+
+### [Atlassian](https://www.atlassian.com/)
+
+- [A look at Trello: adopting GraphQL and Apollo in a legacy application](https://www.atlassian.com/engineering/a-look-at-trello-adopting-graphql-and-apollo-in-a-legacy-application) (August 28, 2019)
+- [Using an event-driven architecture to improve Jira Software responsiveness](https://www.atlassian.com/engineering/using-an-event-driven-architecture-to-improve-jira-software-responsiveness) (November 05, 2019)
+- [Scaling React server-side rendering in Jira Cloud](https://www.atlassian.com/engineering/scaling-react-server-side-rendering-in-jira-cloud) (February 04, 2020)
+- [Improving performance through better architecture](https://www.atlassian.com/engineering/react-resource-router-deep-dive) (June 23, 2020)
 
 ### [Australian Broadcasting Corporation](http://abc.net.au/)
 
