@@ -194,6 +194,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [ЮMoney (Яндекс.Деньги)](#юmoney-яндексденьги)
   - [Яндекс](#Яндекс)
   - [2ГИС](#2ГИС)
+  - [Прочее](#прочее)
 - [License](#license)
 
 ## English
@@ -1533,6 +1534,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Справа налево. Как перевернуть интерфейс сайта под RTL](https://habr.com/company/2gis/blog/416635) (10 июля 2018)
 - [Быстрая генерализация маркеров на WebGL-карте](https://habr.com/ru/company/2gis/blog/442720/) (6 марта 2019)
 - [3D-аркада в браузере: как мы сделали игру на React + Redux](https://habr.com/ru/company/2gis/blog/498638) (23 апреля 2020)
+
+### Прочее
+
+- [Вавилонская башня из миллиона печенек. Как мы делали игру в VK mini app](https://habr.com/ru/company/kts/blog/546388/) (10 марта 2021)
 
 ## License
 
