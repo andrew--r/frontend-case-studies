@@ -741,6 +741,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [TypeScript at Lyft](https://eng.lyft.com/typescript-at-lyft-64f0702346ea) (September 27, 2017)
 - [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88) (September 21, 2018)
 - [Changing Lanes: How Lyft is Migrating 100+ Frontend Microservices to Next.js](https://eng.lyft.com/changing-lanes-how-lyft-is-migrating-100-frontend-microservices-to-next-js-42199aaebd5f) (November 30, 2020)
+- [Frontend at Lyft: An Overview](https://eng.lyft.com/frontend-at-lyft-an-overview-f934c1524370) (March 9, 2021)
 
 ### [Mailchimp](https://mailchimp.com)
 
