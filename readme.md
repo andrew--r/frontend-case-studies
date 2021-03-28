@@ -574,6 +574,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Removing jQuery from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/) (September 6, 2018)
 - [From 48k lines of code to 10—the story of GitHub’s JavaScript SDK](https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk) (April 9, 2020)
 - [How we built the GitHub globe](https://github.blog/2020-12-21-how-we-built-the-github-globe/) (December 21, 2020)
+- [How GitHub Actions renders large-scale logs](https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/) (March 25, 2021)
 
 ### [GitLab](https://gitlab.com)
 
