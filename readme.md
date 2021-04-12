@@ -254,10 +254,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Atlassian](https://www.atlassian.com/)
 
+- [Trellisheets: How we spin up CSS for Trello sites with ease](https://www.atlassian.com/engineering/trellisheets-how-we-spin-up-css-for-trello-sites-with-ease) (March 1, 2016)
 - [A look at Trello: adopting GraphQL and Apollo in a legacy application](https://www.atlassian.com/engineering/a-look-at-trello-adopting-graphql-and-apollo-in-a-legacy-application) (August 28, 2019)
 - [Using an event-driven architecture to improve Jira Software responsiveness](https://www.atlassian.com/engineering/using-an-event-driven-architecture-to-improve-jira-software-responsiveness) (November 05, 2019)
 - [Scaling React server-side rendering in Jira Cloud](https://www.atlassian.com/engineering/scaling-react-server-side-rendering-in-jira-cloud) (February 04, 2020)
 - [Improving performance through better architecture](https://www.atlassian.com/engineering/react-resource-router-deep-dive) (June 23, 2020)
+- [Performance in Jira front-end: the story of a single line of code](https://www.atlassian.com/engineering/performance-in-jira-front-end) (November 16, 2020)
+- [Performance in Jira front-end: using modern bundles to improve load time](https://www.atlassian.com/engineering/performance-in-jira-front-end-modern-bundles) (December 5, 2020)
+- [Performance in Jira front-end: solving bundle duplicates with Webpack and yarn](https://www.atlassian.com/engineering/performance-in-jira-front-end-solving-bundle-duplicates-with-webpack-and-yarn) (December 22, 2020)
 
 ### [Australian Broadcasting Corporation](http://abc.net.au/)
 
