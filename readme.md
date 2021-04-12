@@ -1011,6 +1011,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [A Day in the Life of a Frontend Product Engineer at Slack](https://slack.engineering/a-day-in-the-life-of-a-frontend-product-engineer-at-slack-27375455cfaa) (February 5, 2020)
 - [How Slack changed the way it designs accessible frontend components](https://increment.com/frontend/case-study-web-components-for-screen-readers/) (May 2020)
 - [The Unsuspecting Beauty & Complexity of Web Forms](https://slack.engineering/the-unsuspecting-beauty-complexity-of-web-forms/) (September 15, 2020)
+- Creating a React Analytics Logging Library: [part 1](https://slack.engineering/creating-a-react-analytics-logging-library/) (November 7, 2020) and [part 2](https://slack.engineering/creating-a-react-analytics-logging-library-2/) (December 16, 2020)
 
 ### [Snipcart](https://snipcart.com)
 
