@@ -1294,6 +1294,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Introducing emoji-picker-element: a memory-efficient emoji picker for the web](https://nolanlawson.com/2020/06/28/introducing-emoji-picker-element-a-memory-efficient-emoji-picker-for-the-web/) (June 28, 2020)
 - [Building an accessible emoji picker](https://nolanlawson.com/2020/07/01/building-an-accessible-emoji-picker/) (July 1, 2020)
 - [How ZDF created a video PWA with offline and dark mode](https://web.dev/zdf/) (October 7, 2020)
+- [NDTV achieved a 55% improvement in LCP by optimizing for Core Web Vitals](https://web.dev/ndtv/) (October 27, 2020)
 
 ## Russian
 
