@@ -162,6 +162,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Avito](#avito)
   - [auto.ru](#autoru)
   - [Badoo](#badoo-1)
+  - [Delivery Club](#delivery-club)
   - [DIRECTUM](#directum)
   - [Flocktory](#flocktory-1)
   - [GitLab](#gitlab-1)
@@ -1333,6 +1334,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Локализация приложений: как мы подружили перевод и разработку](https://habr.com/ru/company/badoo/blog/485138/) (23 января 2020)
 - [Дизайн-токены способны на большее: создаем единый источник информации о компонентах UI](https://habr.com/ru/company/badoo/blog/491948/) (12 марта 2020)
 - [Как перенести на TypeScript большую кодовую базу React UI-компонентов](https://habr.com/ru/company/badoo/blog/518246/) (9 сентября 2020)
+
+### [Delivery Club](https://www.delivery-club.ru/)
+
+- [Микрофронтенды: разделяй и властвуй](https://habr.com/ru/company/deliveryclub/blog/552240/) (14 апреля 2021)
 
 ### [DIRECTUM](https://www.directum.ru/)
 
