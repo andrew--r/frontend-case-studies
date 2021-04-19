@@ -607,6 +607,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [A Recipe for Designing Animations — Without Sacrificing Performance](https://medium.com/google-design/a-streamlined-workflow-for-performative-animations-be0a6ff3df7a) (June 4, 2019)
 - [Bringing service workers to Google Search](https://web.dev/google-search-sw/) (June 20, 2019)
 - [Migrating Puppeteer to TypeScript](https://developers.google.com/web/updates/2021/01/puppeteer-typescript) (January 21, 2021)
+- [DevTools architecture refresh: migrating DevTools to TypeScript](https://developer.chrome.com/blog/migrating-to-typescript/) (April 8, 2021)
 
 ### [GOV.UK](https://www.gov.uk)
 
