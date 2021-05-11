@@ -1358,6 +1358,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Качество кода фронтенда в HH](https://habr.com/ru/company/hh/blog/438812/) (4 февраля 2019)
 - [Как мы пилили серверный рендеринг и что из этого вышло](https://habr.com/ru/company/hh/blog/445816/) (28 марта 2019)
 - [Перфоманс фронтенда как современное искусство: графики, код, кулстори](https://habr.com/ru/company/hh/blog/519474/) (17 сентября 2020)
+- [«Продам гараж»: фронт и реклама в hh.ru](https://habr.com/ru/company/hh/blog/552288/) (14 апреля 2021)
 
 ### [ISPSystem](https://www.ispsystem.ru)
 
