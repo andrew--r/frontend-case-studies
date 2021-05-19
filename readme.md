@@ -1297,6 +1297,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building an accessible emoji picker](https://nolanlawson.com/2020/07/01/building-an-accessible-emoji-picker/) (July 1, 2020)
 - [How ZDF created a video PWA with offline and dark mode](https://web.dev/zdf/) (October 7, 2020)
 - [NDTV achieved a 55% improvement in LCP by optimizing for Core Web Vitals](https://web.dev/ndtv/) (October 27, 2020)
+- [Rakuten 24’s investment in PWA increases user retention by 450%](https://web.dev/rakuten-24/) (November 17, 2020)
+- [JD.ID improves their mobile conversion rate by 53% with caching strategies, installation, and push notifications](https://web.dev/jdid/) (November 24, 2020)
+- [PWA users are 2.5x more likely to purchase Gravit Designer PRO](https://web.dev/gravit-designer/) (December 8, 2020)
+- [Clipchamp's video editor PWA installs see a 97% monthly growth](https://web.dev/clipchamp/) (December 8, 2020)
 - [How Zalando reduced performance feedback time from 1 day to 15 minutes with Lighthouse CI](https://web.dev/zalando/) (April 13, 2021)
 - [Mainline Menswear implements PWA and sees a 55% conversion rate uplift](https://web.dev/mainline-mensware/) (April 20, 2021)
 
