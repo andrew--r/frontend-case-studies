@@ -482,6 +482,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [ezCater](https://www.ezcater.com/)
 
 - [The case against React snapshot testing](https://engineering.ezcater.com/the-case-against-react-snapshot-testing) (June 27, 2019)
+- [Saying goodbye to emotion](https://engineering.ezcater.com/saying-goodbye-to-emotion) (June 1, 2021)
 
 ### [Facebook](https://facebook.com)
 
