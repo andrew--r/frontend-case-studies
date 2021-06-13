@@ -1424,6 +1424,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Skyeng](https://skyeng.ru)
 
+- [Как масштабировать сложный Single Page Application](https://youtu.be/a6mGNqubTcg) (5 июня 2017)
 - Переход с AngularJS на Angular (февраль 2018): [цели, планы и правила переноса элементов](https://habrahabr.ru/company/skyeng/blog/348356), [проблемы и решения гибридного режима](https://habr.com/ru/company/skyeng/blog/348512/), [жизнь после AngularJS](https://habr.com/ru/company/skyeng/blog/348606/)
 - [От Skype до WebRTC: как мы организовали видеосвязь через веб](https://habr.com/ru/company/skyeng/blog/446444/) (3 апреля 2019)
 - [Как мы подружили SCSS с CSS Variables на примере c темизацией UI Kit](https://habr.com/ru/company/skyeng/blog/459194/) (9 июля 2019)
