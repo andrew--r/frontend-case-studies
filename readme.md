@@ -1163,7 +1163,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [trivago Magazine's Journey to Server-Side Rendering](https://tech.trivago.com/2020/01/29/trivago-magazines-journey-to-server-side-rendering/) (January 29, 2020)
 - [The First Prettier Plugin For Twig is Here](https://tech.trivago.com/2020/03/10/the-first-prettier-plugin-for-twig-is-here/) (March 10, 2020)
 - [Exploring the Page Visibility API for Detecting Page Background State](https://tech.trivago.com/2020/11/17/exploring-the-page-visibility-api-for-detecting-page-background-state/) (November 17, 2020)
-- [Rethinking the Next-gen Analytics Web App at trivago](https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/) (https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/) (February 9, 2021)
+- [Rethinking the Next-gen Analytics Web App at trivago](https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/) (February 9, 2021)
 
 ### [Tumblr](https://www.tumblr.com/)
 
