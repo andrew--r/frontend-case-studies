@@ -40,6 +40,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Ele.me](#eleme)
   - [Etsy](#etsy)
   - [Evil Martians](#evil-martians)
+  - [Expedia Group](#expedia-group)
   - [ezCater](#ezcater)
   - [Facebook](#facebook)
   - [fastq.bio](#fastqbio)
@@ -479,6 +480,28 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Evil Martians](https://evilmartians.com/)
 
 - [Is React Native podium-ready?](https://evilmartians.com/chronicles/is-react-native-podium-ready) (May 14, 2018)
+
+### [Expedia Group](https://www.expediagroup.com)
+
+- [Scoping A/B Test Code in React](https://medium.com/expedia-group-tech/a-b-testing-and-the-cloak-of-invisibility-a-better-way-to-scope-variant-code-in-your-react-app-902a68a0c2c3) (September 4, 2018)
+- [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/expedia-group-tech/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901) (February 18, 2019)
+- [Creating Your Own Apollo Cache for Perf and Profit](https://medium.com/expedia-group-tech/creating-your-own-apollo-cache-for-perf-and-profit-8f786849e5f6) (February 7, 2019)
+- [Optimizing a Page: Resource Hints, Critical CSS, and Webpack](https://medium.com/expedia-group-tech/optimize-a-page-resource-hint-critical-css-webpack-c8cc7319fb87) (March 20, 2019)
+- [Contextual and Consistent Analytic Events in React](https://medium.com/expedia-group-tech/contextual-and-consistent-analytic-event-triggering-in-react-40b48b15739e) (April 22, 2019)
+- [Web Performance vs. User Engagement](https://medium.com/expedia-group-tech/web-performance-vs-user-engagement-7eda84f6436b) (October 31, 2019)
+- [Migrating to WKWebView](https://medium.com/expedia-group-tech/migrating-to-wkwebview-d5b6d0e52c4f) (December 11, 2019)
+- [A (Small) Case for Function-Based React Components](https://medium.com/expedia-group-tech/a-small-case-for-function-based-react-components-2939cd8df975) (December 10, 2019)
+- [Measuring Interaction Performance with FPS Data](https://medium.com/expedia-group-tech/measuring-interaction-performance-with-fps-data-b0eee1d102c4) (December 16, 2019)
+- [File Upload with GraphQL, Apollo Server, Hapi 18+, and React](https://medium.com/expedia-group-tech/file-upload-with-graphql-apollo-server-hapi-18-and-react-2390e297619d) (January 16, 2020)
+- [Web Applications: Analyzing Client-Side Performance](https://medium.com/expedia-group-tech/web-applications-analyzing-client-side-performance-37e9cc4ad86b) (January 7, 2020)
+- [Schema Driven UIs](https://medium.com/expedia-group-tech/schema-driven-uis-dd8fdb516120) (January 23, 2020)
+- [Responsive Accessibility Guidelines at Expedia.com](https://medium.com/expedia-group-tech/responsive-accessibility-guidelines-at-expedia-com-cc1184c4f271) (February 27, 2020)
+- [12 Tips to Improve Client Side Page Performance](https://medium.com/expedia-group-tech/12-tips-to-improve-client-side-page-performance-88c7bec27933) (April 28, 2020)
+- [Using Webpack Module Federation to Create an App Shell](https://medium.com/expedia-group-tech/using-webpack-module-federation-to-share-an-app-shell-7d23633510e) (June 10, 2020)
+- [CSS-in-JS: An Investigation](https://medium.com/expedia-group-tech/css-in-js-an-investigation-39338a1057db) (July 7, 2020)
+- [Multi-Variate Web Optimisation Using Linear Contextual Bandits](https://medium.com/expedia-group-tech/multi-variate-web-optimisation-using-linear-contextual-bandits-567f563cb59) (September 1, 2020)
+- [How Expedia.com Uses Accessibility Automation](https://medium.com/expedia-group-tech/how-expedia-com-uses-accessibility-automation-d3de3e3ff775) (October 1, 2020)
+- [Sizing Android WebView iframes with JavaScript](https://medium.com/expedia-group-tech/sizing-android-webview-iframes-with-javascript-abae73fe6602) (April 27, 2021)
 
 ### [ezCater](https://www.ezcater.com/)
 
