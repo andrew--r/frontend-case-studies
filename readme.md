@@ -1444,6 +1444,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Miro](https://miro.com/)
 
 - [Как мы учились рисовать тексты на Canvas](https://habr.com/ru/company/miro/blog/458624/) (3 июля 2019)
+- [Как мы боролись за байты на фронтенде. Усмиряем прожорливый виджет рисования и помогаем iPad его переварить](https://habr.com/ru/company/miro/blog/566426/) (6 июля 2021)
 
 ### [Netcracker](https://www.netcracker.com/)
 
