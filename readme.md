@@ -1043,6 +1043,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How Slack changed the way it designs accessible frontend components](https://increment.com/frontend/case-study-web-components-for-screen-readers/) (May 2020)
 - [The Unsuspecting Beauty & Complexity of Web Forms](https://slack.engineering/the-unsuspecting-beauty-complexity-of-web-forms/) (September 15, 2020)
 - Creating a React Analytics Logging Library: [part 1](https://slack.engineering/creating-a-react-analytics-logging-library/) (November 7, 2020) and [part 2](https://slack.engineering/creating-a-react-analytics-logging-library-2/) (December 16, 2020)
+- [Managing Focus Transitions in Slack](https://slack.engineering/managing-focus-transitions-in-slack) (July 13, 2021)
 
 ### [Snipcart](https://snipcart.com)
 
