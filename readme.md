@@ -1600,6 +1600,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Минифицируем приватные поля в TypeScript](https://habr.com/ru/company/yandex/blog/506030/) (13 июня 2020)
 - [Технические предпочтения пользователей с нарушениями зрения в 2020 году](https://habr.com/ru/company/yandex/blog/515460/) (18 августа 2020)
 - [Как и почему мы переехали с собственного npm-репозитория на Verdaccio](https://habr.com/ru/company/yandex/blog/528386/) (17 ноября 2020)
+- [Веб-тренажёр Яндекс.Практикума. Как всё устроено](https://habr.com/ru/company/yandex_praktikum/blog/530268/) (27 ноября 2020)
 
 ### [2ГИС](https://2gis.ru)
 
