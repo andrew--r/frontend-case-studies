@@ -1492,6 +1492,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Как заопенсорсить npm-пакет с нормальным деплоем, CI и демо (без потери радости к жизни)](https://m.habr.com/ru/company/tinkoff/blog/467227/) (30 сентября 2019)
 - [Компоненты-агностики в Angular](https://m.habr.com/ru/company/tinkoff/blog/473108/) (25 октября 2019)
 - [«Шакал»: сжимаем фронтенд](https://habr.com/ru/company/tinkoff/blog/474632/) (7 ноября 2019)
+- Как мы распилили монолит: [часть 1](https://habr.com/ru/company/tinkoff/blog/517230/), [часть 2](https://habr.com/ru/company/tinkoff/blog/520476/), [часть 3](https://habr.com/ru/company/tinkoff/blog/527922/), [часть 4](https://habr.com/ru/company/tinkoff/blog/534522/) (август–декабрь 2020)
 
 ### [Wrike](https://www.wrike.com)
 
