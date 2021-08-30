@@ -489,6 +489,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Creating Your Own Apollo Cache for Perf and Profit](https://medium.com/expedia-group-tech/creating-your-own-apollo-cache-for-perf-and-profit-8f786849e5f6) (February 7, 2019)
 - [Optimizing a Page: Resource Hints, Critical CSS, and Webpack](https://medium.com/expedia-group-tech/optimize-a-page-resource-hint-critical-css-webpack-c8cc7319fb87) (March 20, 2019)
 - [Contextual and Consistent Analytic Events in React](https://medium.com/expedia-group-tech/contextual-and-consistent-analytic-event-triggering-in-react-40b48b15739e) (April 22, 2019)
+- [Minimizing DOM Nodes for Performance](https://medium.com/expedia-group-tech/minimizing-dom-nodes-for-performance-57f347df4c72) (September 24, 2019)
 - [Web Performance vs. User Engagement](https://medium.com/expedia-group-tech/web-performance-vs-user-engagement-7eda84f6436b) (October 31, 2019)
 - [Migrating to WKWebView](https://medium.com/expedia-group-tech/migrating-to-wkwebview-d5b6d0e52c4f) (December 11, 2019)
 - [A (Small) Case for Function-Based React Components](https://medium.com/expedia-group-tech/a-small-case-for-function-based-react-components-2939cd8df975) (December 10, 2019)
