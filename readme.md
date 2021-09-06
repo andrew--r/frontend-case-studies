@@ -89,6 +89,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Myntra](#myntra)
   - [Netflix](#netflix)
   - [New Relic](#new-relic)
+  - [Notion](#notion)
   - [npm](#npm)
   - [OK GROW!](#ok-grow)
   - [OYO](#oyo)
@@ -872,6 +873,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Real-World JavaScript Performance Tips](https://blog.newrelic.com/engineering/javascript-perf-tips/) (November 14, 2014)
 - [How We Architected the New Relic Mobile Web UI in React](https://blog.newrelic.com/engineering/mobile-ui-react/) (January 3, 2018)
+
+### [Notion](https://www.notion.so)
+
+- [Migrating Notion's marketing site to Next.js](https://www.notion.so/blog/migrating-notion-marketing-to-next-js) (August 12, 2021)
 
 ### [npm](https://www.npmjs.com)
 
