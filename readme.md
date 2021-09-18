@@ -1362,6 +1362,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Clipchamp's video editor PWA installs see a 97% monthly growth](https://web.dev/clipchamp/) (December 8, 2020)
 - [How Zalando reduced performance feedback time from 1 day to 15 minutes with Lighthouse CI](https://web.dev/zalando/) (April 13, 2021)
 - [Mainline Menswear implements PWA and sees a 55% conversion rate uplift](https://web.dev/mainline-mensware/) (April 20, 2021)
+- [How Swappie increased mobile revenue by 42% by focusing on Core Web Vitals](https://web.dev/swappie/) (September 15, 2021)
 
 ## Russian
 
