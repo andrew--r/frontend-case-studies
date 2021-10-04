@@ -1446,6 +1446,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Архитектура фронтенда крупного проекта, как она есть](https://youtu.be/J08UOAJdjWc) (19 апреля 2018)
 - WebAuthn в реальной жизни: [запись доклада](https://youtu.be/yx_eHBsXyIo) (27 ноября 2019), [статья](https://habr.com/ru/company/mailru/blog/489270/) (20 февраля 2020)
 - [Кастомизация компонентов Ant Design и оптимизация бандла](https://habr.com/ru/company/mailru/blog/530798/) (11 декабря 2020)
+- [Адаптивный layout — как переверстать весь проект, не перевёрстывая его](https://habr.com/ru/company/mailru/blog/579798/) (24 сентября 2021)
 
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
