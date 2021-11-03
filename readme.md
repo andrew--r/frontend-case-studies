@@ -1128,6 +1128,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [React Serverside rendering : build slicker apps with better SEO ranking](https://medium.com/the-telegraph-engineering/a-server-side-rendered-react-project-2fc7e75f4c57) (September 10, 2018)
 - [Improving third-party web performance at The Telegraph](https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5) (April 30, 2019)
+- [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph) (June 14, 2021)
 
 ### [The Times & The Sunday Times](https://www.thetimes.co.uk)
 
