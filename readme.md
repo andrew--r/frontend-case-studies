@@ -274,6 +274,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Composing Components](https://developers.digital.abc.net.au/2018/09/28/composing-components/) (September 28, 2018)
 - [From data to DOM: Building a text rendering pipeline for React](https://developers.digital.abc.net.au/2019/10/23/from-data-to-dom-building-a-text-rendering-pipeline-for-react/) (October 23, 2019)
+- [Migrating the platform that powers ABC sites to TypeScript](https://developers.digital.abc.net.au/2021/09/30/migrating-the-platform-that-powers-abc-sites-to-typescript/) (September 30, 2021)
 
 ### [Badoo](https://badoo.com)
 
