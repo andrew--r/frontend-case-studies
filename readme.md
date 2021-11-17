@@ -75,6 +75,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [LinkedIn](#linkedin)
   - [Lucidchart](#lucidchart)
   - [Lyft](#lyft)
+  - [Mail.ru](#mailru)
   - [Mailchimp](#mailchimp)
   - [MDN](#mdn)
   - [Medium](#medium)
@@ -173,7 +174,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [HeadHunter](#headhunter)
   - [ISPsystem](#ispsystem)
   - [Joom](#joom)
-  - [Mail.Ru](#mailru)
+  - [Mail.Ru](#mailru-1)
   - [Microsoft To-Do](#microsoft-to-do-1)
   - [Miro](#miro)
   - [Netcracker](#netcracker)
@@ -782,6 +783,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Re-approaching Color](https://design.lyft.com/re-approaching-color-9e604ba22c88) (September 21, 2018)
 - [Changing Lanes: How Lyft is Migrating 100+ Frontend Microservices to Next.js](https://eng.lyft.com/changing-lanes-how-lyft-is-migrating-100-frontend-microservices-to-next-js-42199aaebd5f) (November 30, 2020)
 - [Frontend at Lyft: An Overview](https://eng.lyft.com/frontend-at-lyft-an-overview-f934c1524370) (March 9, 2021)
+
+### [Mail.ru](https://mail.ru)
+
+- [Improving Core Web Vitals on the Mail.ru home page resulted in an average 10% increase in conversion rates](https://web.dev/mailru-cwv/) (November 15, 2021)
 
 ### [Mailchimp](https://mailchimp.com)
 
