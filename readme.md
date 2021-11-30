@@ -10,6 +10,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Airbnb](#airbnb)
   - [ALDO](#aldo)
   - [Algolia](#algolia)
+  - [Allegro](#allegro)
   - [Artsy](#artsy)
   - [Atlassian](#atlassian)
   - [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
@@ -242,6 +243,20 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Improving Web Performance to Mirror Engine Speed](https://blog.algolia.com/improving-web-performance-to-mirror-engine-speed) (July 26, 2017)
 - [Using NetInfo API to Improve Algolia’s JavaScript Client](https://blog.algolia.com/netinfo-api-algolia-javascript-client/) (July 30, 2019)
+
+### [Allegro](https://allegro.pl)
+
+- [Managing Frontend in the Microservices Architecture](https://blog.allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html) (March 12, 2016)
+- [Why Allegro Ads chose TypeScript](https://blog.allegro.tech/2019/04/why-allegro-ads-chose-typescript.html) (April 9, 2019)
+- [Page visibility and performance metrics](https://blog.allegro.tech/2019/09/page-visibility-and-performance-metrics.html) (September 2, 2019)
+- [Performance of JavaScript optional chaining](https://blog.allegro.tech/2019/11/performance-of-javascript-optional-chaining.html) (November 8, 2019)
+- [Using ESLint to improve your app’s performance](https://blog.allegro.tech/2020/08/using-eslint.html) (August 11, 2020)
+- [Measuring Web Performance](https://blog.allegro.tech/2021/06/measuring-web-performance.html) (June 8, 2021)
+- [Making API calls a seamless user experience](https://blog.allegro.tech/2021/07/making-api-calls-seamless-ux.html) (July 21, 2021)
+- [CSS Architecture and Performance in Micro Frontends](https://blog.allegro.tech/2021/07/css-architecture-and-performance-of-micro-frontends.html) (July 29, 2021)
+- [How to turn on TypeScript strict mode in specific files](https://blog.allegro.tech/2021/09/How-to-turn-on-TypeScript-strict-mode-in-specific-files.html) (September 6, 2021)
+- [Evolution of web performance culture](https://blog.allegro.tech/2021/09/evolution-of-web-performance-culture.html) (September 23, 2021)
+- [How we refactored the search form UI component](https://blog.allegro.tech/2021/10/refactoring-opbox-search.html) (October 26, 2021)
 
 ### [Artsy](https://www.artsy.net/)
 
