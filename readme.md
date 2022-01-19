@@ -35,6 +35,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [De Voorhoede](#de-voorhoede)
   - [DEV](#dev)
   - [Discord](#discord)
+  - [&lt;div&gt;RIOTS](#divriots)
   - [Dropbox](#dropbox)
   - [eBay](#ebay)
   - [Electronic Arts](#electronic-arts)
@@ -424,6 +425,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Investigating Discord’s React Memory Leak](https://blog.discordapp.com/discord-react-memory-leak-565c89763e8) (August 8, 2019)
 - [How Discord achieves native iOS performance with React Native](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) (November 7, 2019)
 - [How Discord Implemented App-Wide Keyboard Navigation](https://blog.discord.com/how-discord-implemented-app-wide-keyboard-navigation-abf073fd71de) (December 17, 2020)
+
+### [&lt;div&gt;RIOTS](https://divriots.com)
+
+- [A story of how we migrated to pnpm](https://divriots.com/blog/switching-to-pnpm) (January 18, 2022)
 
 ### [Dropbox](https://www.dropbox.com)
 
