@@ -139,6 +139,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [ThomasNet](#thomasnet)
   - [Thread](#thread)
   - [Tinder](#tinder)
+  - [Tines](#tines)
   - [TinyMCE](#tinymce)
   - [Tokopedia](#tokopedia)
   - [Treebo](#treebo)
@@ -1189,6 +1190,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0) (December 24, 2017)
 - [Building Tinder Online](https://medium.com/@roderickhsiao/building-tinder-online-a447e6c0265e) (February 9, 2018)
+
+### [Tines](https://www.tines.com)
+
+- [Our approach to CSS and how we chose it](https://www.tines.com/blog/our-approach-to-css-and-how-we-chose-it) (publication date is unknown)
+- [Understanding why our build got 15x slower with Webpack 5](https://www.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack-5) (publication date is unknown)
 
 ### [TinyMCE](https://www.tinymce.com/)
 
