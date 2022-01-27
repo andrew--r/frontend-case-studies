@@ -20,6 +20,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Bitmovin](#bitmovin)
   - [blogfoster](#blogfoster)
   - [Bloomberg](#bloomberg)
+  - [BuzzFeed](#buzzfeed)
   - [Campaign Monitor](#campaign-monitor)
   - [Carbon Five](#carbon-five)
   - [Carousell](#carousell)
@@ -340,6 +341,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How Bloomberg Used React Native to Develop its new Consumer App](https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/) (December 15, 2016)
 - [wsk: A Straightforward and Maintainable Build System from the Bloomberg Graphics Team](https://www.techatbloomberg.com/blog/wsk-straightforward-maintainable-build-system-bloomberg-graphics-team/) (December 12, 2017)
 - [10 Insights from Adopting TypeScript at Scale](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/) (November 9, 2020)
+
+### [BuzzFeed](https://www.buzzfeed.com)
+
+- [Micro Frontends at BuzzFeed](https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178) (September 17, 2019)
+- [Accessible BuzzFeed](https://tech.buzzfeed.com/accessible-buzzfeed-2e1f3f94f352) (August 27, 2020)
+- [CLS at BuzzFeed — Part 1: Raising The Floor](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd) (November 6, 2021)
+- [CLS at BuzzFeed — Part 2: Getting Help From Real Users](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097) (November 6, 2021)
+- [CLS at BuzzFeed — Part 3: Dealing with the unpredictable](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-3-3a36240861e4) (November 6, 2021)
 
 ### [Campaign Monitor](https://www.campaignmonitor.com/)
 
