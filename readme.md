@@ -382,6 +382,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Fast Google Fonts with Cloudflare Workers](https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/) (November 22, 2018)
 - [Migrating to React land: Gatsby](https://blog.cloudflare.com/migrating-to-react-land-gatsby/) (March 26, 2020)
 - [Moving from reCAPTCHA to hCaptcha](https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/) (April 8, 2020)
+- [Dark Mode for the Cloudflare Dashboard](https://blog.cloudflare.com/dark-mode/) (September 29, 2021)
 
 ### [Cloud Four](https://cloudfour.com/)
 
