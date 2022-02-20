@@ -514,6 +514,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How Etsy Localizes Addresses](https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/) (September 26, 2018)
 - [Developing in a Monorepo While Still Using Webpack](https://codeascraft.com/2020/04/06/developing-in-a-monorepo-while-still-using-webpack/) (April 6, 2020)
 - [The journey to fast production asset builds with Webpack](https://codeascraft.com/2020/02/03/production-webpack-builds/) (February 3, 2020)
+- [Etsy’s Journey to TypeScript](https://codeascraft.com/2021/11/08/etsys-journey-to-typescript) (November 8, 2021)
 
 ### [Evil Martians](https://evilmartians.com/)
 
