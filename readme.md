@@ -46,6 +46,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Expedia Group](#expedia-group)
   - [ezCater](#ezcater)
   - [Facebook](#facebook)
+  - [FARFETCH](#farfetch)
   - [fastq.bio](#fastqbio)
   - [Figma](#figma)
   - [Financial Times](#financial-times)
@@ -564,6 +565,15 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) (April 30, 2019)
 - [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/web/facebook-redesign/) (May 8, 2020)
 - [Making Facebook.com accessible to as many people as possible](https://engineering.fb.com/web/facebook-com-accessibility/) (July 30, 2020)
+
+### [FARFETCH](https://www.farfetch.com)
+
+- [The need for speed — 1: measuring today’s web performance](https://www.farfetchtechblog.com/en/blog/post/the-need-for-speed-1-measuring-today-s-web-performance) (February 19, 2019)
+- [The need for speed — 2: call for metrics](https://farfetchtechblog.com/en/blog/post/the-need-for-speed-2-call-for-metrics) (February 19, 2019)
+- [How to build a performance culture at scale](https://www.farfetchtechblog.com/en/blog/post/how-to-build-a-performance-culture-at-scale) (September 11, 2019)
+- [One less second for the page, one giant leap for the business](https://farfetchtechblog.com/en/blog/post/one-less-second-for-the-page-one-giant-leap-for-the-business) (July 2, 2020)
+- [The art of failure II: graceful degradation](https://farfetchtechblog.com/en/blog/post/the-art-of-failure-ii-graceful-degradation) (September 20, 2021)
+- [GraphQL sessions: powering farfetch.com](https://www.farfetchtechblog.com/en/blog/post/graphql-sessions-powering-farfetch-com) (May 6, 2022)
 
 ### [fastq.bio](http://www.fastq.bio/)
 
