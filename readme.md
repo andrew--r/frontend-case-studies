@@ -1141,6 +1141,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [A new approach to mocking GraphQL data: how we power React component tests and examples at Stripe](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491) (December 11, 2018)
 - [Designing accessible color systems](https://stripe.com/en-pt/blog/accessible-color-systems) (October 15, 2019)
 - [To design and develop an interactive globe](https://stripe.com/blog/globe) (September 1, 2020)
+- [Migrating millions of lines of code to TypeScript](https://stripe.com/blog/migrating-to-typescript) (May 20, 2022)
 
 ### [SumUp](https://sumup.com)
 
