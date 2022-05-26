@@ -240,6 +240,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91) (May 20, 2021)
 - [A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5) (June 29, 2021)
 - [Measuring Web Performance at Airbnb](https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f) (December 7, 2021)
+- [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f) (May 24, 2022)
 
 ### [ALDO](https://www.aldogroup.com)
 
