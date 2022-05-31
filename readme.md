@@ -11,6 +11,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [ALDO](#aldo)
   - [Algolia](#algolia)
   - [Allegro](#allegro)
+  - [Amazon](#amazon)
   - [Artsy](#artsy)
   - [Atlassian](#atlassian)
   - [Australian Broadcasting Corporation](#australian-broadcasting-corporation)
@@ -264,6 +265,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How to turn on TypeScript strict mode in specific files](https://blog.allegro.tech/2021/09/How-to-turn-on-TypeScript-strict-mode-in-specific-files.html) (September 6, 2021)
 - [Evolution of web performance culture](https://blog.allegro.tech/2021/09/evolution-of-web-performance-culture.html) (September 23, 2021)
 - [How we refactored the search form UI component](https://blog.allegro.tech/2021/10/refactoring-opbox-search.html) (October 26, 2021)
+
+### [Amazon](https://www.amazon.com)
+
+- [How we halved the publish size of modular AWS SDK for JavaScript clients](https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular-aws-sdk-for-javascript-clients/) (October 14, 2021)
+- [How Prime Video updates its app for more than 8,000 device types: the switch to WebAssembly increases stability, speed](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types) (January 27, 2022)
 
 ### [Artsy](https://www.artsy.net/)
 
