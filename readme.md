@@ -119,6 +119,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Roompact](#roompact)
   - [Safety Culture](#safety-culture)
   - [Scratch](#scratch)
+  - [Sentry](#sentry)
   - [Shopify](#shopify)
   - [Skillshare](#skillshare)
   - [Slack](#slack)
@@ -1081,6 +1082,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Scratch](https://scratch.mit.edu)
 
 - [Porting Scratch from Flash to JavaScript: Performance, Interoperability and Extensions](https://bocoup.com/blog/porting-scratch-from-flash-to-javascript-performance-interoperability-and-extensions) (February 28, 2019)
+
+### [Sentry]https://sentry.io)
+
+- [JavaScript SDK “Package Size is Massive” - So we reduced it by 29%](https://blog.sentry.io/2022/07/19/javascript-sdk-package-reduced) (July 19, 2022)
 
 ### [Shopify](https://shopify.com)
 
