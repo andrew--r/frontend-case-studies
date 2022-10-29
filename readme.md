@@ -1398,6 +1398,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Page Weight Matters](https://blog.chriszacharias.com/page-weight-matters) (December 21, 2012)
 - [Polymer @ YouTube](https://youtu.be/tNulrEbTQf8) (August 22, 2017)
 - [A Conspiracy To Kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6) (May 1, 2019)
+- [Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1/) (October 20, 2022)
 
 ### [Zajno](https://zajno.com/)
 
