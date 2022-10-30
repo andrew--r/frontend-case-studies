@@ -1380,6 +1380,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Improving load time for 100 million websites](https://youtu.be/FKpShne3I4E) (June 26, 2018)
 - [Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense](https://www.wix.engineering/post/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense) (September 2, 2019)
 - [How Wix improved website performance by evolving their infrastructure](https://web.dev/wix/) (March 10, 2021)
+- [When life gives you lemons, write better error messages](https://medium.com/wix-ux/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f) (September 12, 2022)
 
 ### [Yelp](https://www.yelp.com)
 
