@@ -86,6 +86,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Medium](#medium)
   - [MemSQL](#memsql)
   - [Mercado Libre](#mercado-libre)
+  - [Microsoft Bing](#microsoft-bing)
   - [Microsoft To-Do](#microsoft-to-do)
   - [Mixmax](#mixmax)
   - [Mixpanel](#mixpanel)
@@ -868,6 +869,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Mercado Libre](http://www.mercadolibre.com)
 
 - [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/) (September 21, 2020)
+
+### [Microsoft Bing](https://bing.com)
+
+- [Fast Front-End Performance for Microsoft Bing](https://blogs.bing.com/search-quality-insights/august-2022/Fast-Front-End-Performance-for-Microsoft-Bing) (August 25, 2022)
 
 ### [Microsoft To-Do](https://to-do.microsoft.com/)
 
