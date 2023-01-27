@@ -1522,6 +1522,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Joom](https://www.joom.com)
 
 - [Автоматизируем локализацию макетов в Figma](https://habr.com/ru/company/joom/blog/535188/) (29 декабря 2020)
+- [Пошаговая инструкция: как с Node.js организовать иконки из Figma в проекте](https://habr.com/ru/company/joom/blog/708286/) (30 декабря 2022)
 
 ### [Mail.Ru](https://mail.ru)
 
