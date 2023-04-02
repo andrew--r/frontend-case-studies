@@ -109,6 +109,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Plaid](#plaid)
   - [Plotly](#plotly)
   - [Product Hunt](#product-hunt)
+  - [Proton](#proton)
   - [Quizlet](#quizlet)
   - [Quora](#quora)
   - [REA Group](#rea-group)
@@ -1031,6 +1032,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [React @ Product Hunt](https://youtu.be/F38nRMktS9Q) (May 30, 2017)
 - [GraphQL @ Product Hunt](https://www.youtube.com/watch?v=H0YCeHeHbr0) (November 2, 2017)
+
+### [Proton](https://proton.me)
+
+- [Deploying CSS Logical Properties On Web Apps](https://www.smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/) (December 23, 2022)
 
 ### [Quizlet](https://quizlet.com/)
 
