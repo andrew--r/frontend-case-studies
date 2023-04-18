@@ -601,6 +601,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How to build a plugin system on the web and also sleep well at night](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/) (August 22, 2019)
 - [React at 60fps: improving scrolling comments in Figma](https://www.figma.com/blog/improving-scrolling-comments-in-figma/) (August 19, 2020)
 - [Inside Figma: a case study on strict null checks](https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/#what-are-strict-null-checks) (December 17, 2020)
+- [Illuminating dark mode](https://www.figma.com/blog/illuminating-dark-mode) (July 21, 2022)
 
 ### [Financial Times](https://www.ft.com)
 
