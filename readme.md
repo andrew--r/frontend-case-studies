@@ -1100,10 +1100,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Shopify](https://shopify.com)
 
-- [How 17 lines of code improved shopify.com loading by 50%](https://shopifyengineering.myshopify.com/blogs/engineering/how-17-lines-of-code-improved-shopify-com-loading-by-50) (May 24, 2017)
-- [Building Shopify mobile with native and web technology](https://shopifyengineering.myshopify.com/blogs/engineering/building-shopify-mobile-with-native-and-web-technology) (September 29, 2017)
+- [How 17 lines of code improved shopify.com loading by 50%](https://shopify.engineering/how-17-lines-of-code-improved-shopify-com-loading-by-50) (May 24, 2017)
+- [Building Shopify mobile with native and web technology](https://shopify.engineering/building-shopify-mobile-with-native-and-web-technology) (September 29, 2017)
 - [Designing a GraphQL API](https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2) (June 18, 2018)
-- [Want to Improve UI Performance? Start by Understanding Your User](https://engineering.shopify.com/blogs/engineering/improve-ui-performance-understanding-your-user) (October 20, 2019)
+- [Want to Improve UI Performance? Start by Understanding Your User](https://shopify.engineering/improve-ui-performance-understanding-your-user) (October 20, 2019)
+- [How We Built Hydrogen: A React Framework for Building Custom Storefronts](https://shopify.engineering/how-we-built-hydrogen) (Jun 22, 2022)
 
 ### [Skillshare](https://skillshare.com/)
 
