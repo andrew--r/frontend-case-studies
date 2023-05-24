@@ -1384,6 +1384,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Tracking down slow event handlers with Event Timing](https://phabricator.wikimedia.org/phame/post/view/168/tracking_down_slow_event_handlers_with_event_timing/) (June 19, 2019)
 - [Wikipedia's JavaScript initialisation on a budget](https://phabricator.wikimedia.org/phame/post/view/175/wikipedia_s_javascript_initialisation_on_a_budget/) (Septemper 18, 2019)
 - [Measuring Long Tasks and First Input Delay](https://calendar.perfplanet.com/2019/measuring-long-tasks-and-first-input-delay/) (December 21, 2019)
+- [Analyzing Wikipedia's Search Performance](https://www.nray.dev/blog/analyzing-search-performance/) (April 5, 2021)
+- [300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/) (May 21, 2023)
 
 ### [Wingify](https://wingify.com/)
 
