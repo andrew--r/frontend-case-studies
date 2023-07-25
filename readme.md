@@ -212,6 +212,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Яндекс](#Яндекс)
   - [2ГИС](#2ГИС)
   - [Прочее](#прочее)
+  - [shubham](#restros)
 - [License](#license)
 
 ## English
@@ -1745,6 +1746,9 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Вавилонская башня из миллиона печенек. Как мы делали игру в VK mini app](https://habr.com/ru/company/kts/blog/546388/) (10 марта 2021)
 
+
+### [restros]
+- [Open to use template for restaurant website in HTM-CSS-JAVASCRIPT](https://tront-shubhamind08.vercel.app/)
 ## License
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
