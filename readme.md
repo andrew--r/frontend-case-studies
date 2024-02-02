@@ -723,6 +723,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Accessibility lessons: dealing with a large amount of form inputs](https://accessibility.blog.gov.uk/2019/04/08/accessibility-lessons-dealing-with-a-large-amount-of-form-inputs) (April 8, 2019)
 - [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) (February 24, 2020)
 - [Why videos on GOV.UK use the YouTube video player](https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/) (March 16, 2020)
+- [How we reduced CSS size and improved performance across GOV.UK](https://gds.blog.gov.uk/2023/12/15/how-we-reduced-css-size-and-improved-performance-across-gov-uk/) (December 15, 2023)
 
 ### [grammarly](https://www.grammarly.com)
 
