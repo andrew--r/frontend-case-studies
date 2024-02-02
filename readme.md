@@ -727,7 +727,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [grammarly](https://www.grammarly.com)
 
-- [Building Browser Extensions At Scale](https://tech.grammarly.com/blog/building-browser-extensions-at-scale) (October 6, 2017)
+- [Building Browser Extensions At Scale](https://web.archive.org/web/20190304201001/https://tech.grammarly.com/blog/building-browser-extensions-at-scale) (October 6, 2017)
+- [Introducing Embrace: A Framework for Building Declarative UIs](https://www.grammarly.com/blog/engineering/introducing-embrace/) (September 3, 2021)
+- Under the Hood of the Grammarly Editor: [Real-Time Collaborative Text Editing](https://www.grammarly.com/blog/engineering/real-time-collaborative-text-editing/) and [How Suggestions Work](https://www.grammarly.com/blog/engineering/how-suggestions-work-grammarly-editor/) (April 22, 2022)
+- [Making Grammarly Feel Native On Every Website](https://www.grammarly.com/blog/engineering/making-grammarly-feel-native-on-every-website/) (March 7, 2022)
+- How Grammarly Tackles Hidden Complexity in Front-End Applications: [part 1](https://www.grammarly.com/blog/engineering/part-1-how-grammarly-tackles-hidden-complexity-in-front-end-applications/) and [part 2](https://www.grammarly.com/blog/engineering/part-2-how-grammarly-tackles-hidden-complexity-in-front-end-applications/) (March 7, 2022)
+- [Signals With @grammarly/focal](https://www.grammarly.com/blog/engineering/signals-with-focal-library/) (August 21, 2023)
 
 ### [Gusto](https://gusto.com/)
 
