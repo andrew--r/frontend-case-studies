@@ -245,8 +245,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Building a Faster Web Experience with the postTask Scheduler](https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91) (May 20, 2021)
 - [A Deep Dive into Airbnb’s Server-Driven UI System](https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5) (June 29, 2021)
 - [Measuring Web Performance at Airbnb](https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f) (December 7, 2021)
+- [Dynamic Kubernetes Cluster Scaling at Airbnb](https://medium.com/airbnb-engineering/dynamic-kubernetes-cluster-scaling-at-airbnb-d79ae3afa132) (May 23, 2022)
 - [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f) (May 24, 2022)
 - [Airbnb’s Trip to Linaria](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12) (June 16, 2022)
+- [Making Airbnb’s Android app more accessible](https://medium.com/airbnb-engineering/making-airbnbs-android-app-more-accessible-75618172be6) (Jan 11, 2023)
+- [Flexible Continuous Integration for iOS](https://medium.com/airbnb-engineering/flexible-continuous-integration-for-ios-4ab33ea4072f) (May 10, 2023)
+- [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408) (May 17, 2023)
 
 ### [ALDO](https://www.aldogroup.com)
 
@@ -950,6 +954,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Implementing Japanese Subtitles on Netflix](https://medium.com/netflix-techblog/implementing-japanese-subtitles-on-netflix-c165fbe61989) (December 11, 2017)
 - [Integrating imperative APIs into a React application](https://medium.com/netflix-techblog/integrating-imperative-apis-into-a-react-application-1257e1b45ac6) (December 20, 2017)
 - [Pseudo Localization @ Netflix](https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe) (August 6, 2018)
+- [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) (November 5, 2018)
 - [Delivering Meaning with Previews on Web](https://medium.com/netflix-techblog/delivering-meaning-with-previews-on-web-3cedc0341b9e) (November 12, 2018)
 - [Enhancing the Netflix UI Experience with HDR](https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8) (September 24, 2018)
 - [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f) (December 10, 2018)
