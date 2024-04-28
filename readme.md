@@ -33,6 +33,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [CodeSandbox](#codesandbox)
   - [Condé Nast](#condé-nast)
   - [Conductor](#conductor)
+  - [Datadog](#datadog)
   - [DAZN](#dazn)
   - [De Voorhoede](#de-voorhoede)
   - [DEV](#dev)
@@ -421,6 +422,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Conductor](https://www.conductor.com/)
 
 - [Painless Migration From Backbone to React/Redux](https://www.youtube.com/watch?v=d8oBIzIgVMA) (February 16, 2018)
+
+### [Datadog](https://www.datadoghq.com)
+
+- [Redux-Doghouse – Creating Reusable React-Redux Components Through Scoping](https://www.datadoghq.com/blog/engineering/redux-doghouse-reusable-react-redux-components-through-scoping/) (November 14, 2016)
+- [How Datadog uses Datadog to gain visibility into the Datadog user experience](https://www.datadoghq.com/blog/engineering/how-datadog-uses-datadog-to-gain-visibility-into-the-datadog-user-experience/) (February 22, 2022)
+- [DRUIDS, the Design System that Powers Datadog](https://www.datadoghq.com/blog/engineering/druids-the-design-system-that-powers-datadog/) (September 29, 2022)
+- [Making Fetch Happen - Building a General-purpose Query & Render Scheduler](https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/) (April 17, 2023)
+- [How We Migrated Our Acceptance Tests to Use Synthetic Monitoring](https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/) (June 30, 2023)
 
 ### [DAZN](https://dazn.com/)
 
