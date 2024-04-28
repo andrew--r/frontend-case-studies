@@ -1302,6 +1302,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [The First Prettier Plugin For Twig is Here](https://tech.trivago.com/2020/03/10/the-first-prettier-plugin-for-twig-is-here/) (March 10, 2020)
 - [Exploring the Page Visibility API for Detecting Page Background State](https://tech.trivago.com/2020/11/17/exploring-the-page-visibility-api-for-detecting-page-background-state/) (November 17, 2020)
 - [Rethinking the Next-gen Analytics Web App at trivago](https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/) (February 9, 2021)
+- [Designing Marketing Emails via predefined Modules in Salesforce Email Studio](https://tech.trivago.com/post/2021-04-19-designingmarketingemailsviapredefinedmod) (April 19, 2021)
+- [WARP - A Web Application Rewrite Project](https://tech.trivago.com/post/2022-05-16-warp-a-web-application-rewrite-project) (May 16, 2022)
+- [3 Things We Learned When Switching to TypeScript](https://tech.trivago.com/post/2022-08-01-three-learnings-switching-to-typescript) (August 1, 2022)
+- [End-to-end tests retry strategies](https://tech.trivago.com/post/2023-09-27-end-to-end-tests-retry-strategies) (September 27, 2023)
 
 ### [Tumblr](https://www.tumblr.com/)
 
