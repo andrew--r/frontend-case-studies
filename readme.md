@@ -1469,6 +1469,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [1Password](https://1password.com/)
 
 - [From dark to light and back again](https://blog.1password.com/from-dark-to-light-and-back-again/) (November 8, 2018)
+- [How we used esbuild to reduce our browser extension build times by 90%](https://blog.1password.com/new-extension-build-system/) (May 30, 2024)
 
 ### Miscellaneous
 
