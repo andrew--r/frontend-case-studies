@@ -722,6 +722,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Migrating Puppeteer to TypeScript](https://developers.google.com/web/updates/2021/01/puppeteer-typescript) (January 21, 2021)
 - [DevTools architecture refresh: migrating DevTools to TypeScript](https://developer.chrome.com/blog/migrating-to-typescript/) (April 8, 2021)
 - [Implementing CSP and Trusted Types debugging in Chrome DevTools](https://developer.chrome.com/en/blog/csp-issues/) (November 1, 2021)
+- [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc) (June 26, 2024)
 
 ### [GOV.UK](https://www.gov.uk)
 
