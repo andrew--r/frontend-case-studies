@@ -1127,7 +1127,17 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Sentry](https://sentry.io)
 
+- [Building Sentry: Source maps and their problems](https://sentry.engineering/blog/building-sentry-source-maps-and-their-problems) (July 16, 2019)
+- [Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript](https://sentry.engineering/blog/slow-and-steady-converting-sentrys-entire-frontend-to-typescript) (April 12, 2021)
+- [How we trimmed the Sentry JavaScript SDK file size by 20%](https://sentry.engineering/blog/js-browser-sdk-bundle-size-matters) (February 28, 2022)
 - [JavaScript SDK “Package Size is Massive” - So we reduced it by 29%](https://blog.sentry.io/2022/07/19/javascript-sdk-package-reduced) (July 19, 2022)
+- [Understanding the Performance Impact of Generated JavaScript](https://sentry.engineering/blog/understanding-the-performance-impact-of-generated-javascript) (July 22, 2022)
+- [How We Made JavaScript Stack Traces Awesome](https://sentry.engineering/blog/how-we-made-javascript-stack-traces-awesome) (November 30, 2022)
+- [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library](https://sentry.engineering/blog/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library) (February 23, 2023)
+- [How we reduced CI time by 35% with Nx Caching](https://sentry.engineering/blog/reduce-ci-time-with-nx-caching) (March 31, 2023)
+- [Measuring Session Replay Overhead](https://sentry.engineering/blog/measuring-session-replay-overhead) (July 5, 2023)
+- [How We Reduced Replay SDK Bundle Size by 35%](https://sentry.engineering/blog/session-replay-sdk-bundle-size-optimizations) (November 14, 2023)
+- 
 
 ### [Shopify](https://shopify.com)
 
