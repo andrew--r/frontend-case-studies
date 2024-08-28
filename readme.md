@@ -1137,7 +1137,6 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [How we reduced CI time by 35% with Nx Caching](https://sentry.engineering/blog/reduce-ci-time-with-nx-caching) (March 31, 2023)
 - [Measuring Session Replay Overhead](https://sentry.engineering/blog/measuring-session-replay-overhead) (July 5, 2023)
 - [How We Reduced Replay SDK Bundle Size by 35%](https://sentry.engineering/blog/session-replay-sdk-bundle-size-optimizations) (November 14, 2023)
-- 
 
 ### [Shopify](https://shopify.com)
 
