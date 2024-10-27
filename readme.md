@@ -159,6 +159,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Udacity](#udacity)
   - [Unity](#unity)
   - [Unsplash](#unsplash)
+  - [Vercel](#vercel)
   - [Verve](#verve)
   - [Walmart Labs](#walmart-labs)
   - [Wikimedia](#wikimedia)
@@ -1376,6 +1377,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Unsplash](https://unsplash.com)
 
 - [How we gradually migrated to TypeScript at Unsplash](https://medium.com/unsplash/how-we-gradually-migrated-to-typescript-at-unsplash-7a34caa24ef1) (March 14, 2018)
+
+### [Vercel](https://vercel.com)
+
+- [How we made the Vercel Dashboard twice as fast](https://vercel.com/blog/how-we-made-the-vercel-dashboard-twice-as-fast) (August 9, 2022)
+- [Designing the Vercel virtual product tour](https://vercel.com/blog/designing-the-vercel-virtual-product-tour) (June 2, 2023)
+- [Design Engineering at Vercel](https://vercel.com/blog/design-engineering-at-vercel) (March 29, 2024)
+- [How Vercel adopted microfrontends](https://vercel.com/blog/how-vercel-adopted-microfrontends) (October 22, 2024)
 
 ### [Verve](https://verve.co)
 
