@@ -249,6 +249,8 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Measuring Web Performance at Airbnb](https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f) (December 7, 2021)
 - [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f) (May 24, 2022)
 - [Airbnb’s Trip to Linaria](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12) (June 16, 2022)
+- [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881) (May 16, 2024)
+- [Adopting Bazel for Web at Scale](https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325) (Nov 12, 2024)
 
 ### [ALDO](https://www.aldogroup.com)
 
