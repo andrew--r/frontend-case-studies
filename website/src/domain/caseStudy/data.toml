@@ -1,0 +1,29 @@
+[[aha]]
+id = "https://blog.aha.io/coffescript-to-es6"
+title = "How I Convinced Our CTO to Switch From CoffeeScript to ES6"
+publishedAt = "2017-09-07"
+
+[[datadog]]
+id = "https://www.datadoghq.com/blog/engineering/redux-doghouse-reusable-react-redux-components-through-scoping/"
+title = "Redux-Doghouse: Creating reusable React-Redux components through scoping"
+publishedAt = "2016-11-14"
+
+[[datadog]]
+id = "https://www.datadoghq.com/blog/engineering/how-datadog-uses-datadog-to-gain-visibility-into-the-datadog-user-experience/"
+title = "How Datadog uses Datadog to gain visibility into the Datadog user experience"
+publishedAt = "2022-02-22"
+
+[[datadog]]
+id = "https://www.datadoghq.com/blog/engineering/druids-the-design-system-that-powers-datadog/"
+title = "DRUIDS, the Design System that Powers Datadog"
+publishedAt = "2022-09-29"
+
+[[datadog]]
+id = "https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/"
+title = "Making Fetch Happen - Building a General-purpose Query & Render Scheduler"
+publishedAt = "2023-04-17"
+
+[[datadog]]
+id = "https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/"
+title = "How We Migrated Our Acceptance Tests to Use Synthetic Monitoring"
+publishedAt = "2023-06-30"

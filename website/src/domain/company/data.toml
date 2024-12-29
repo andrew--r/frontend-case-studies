@@ -1,0 +1,11 @@
+[datadog]
+name = "Datadog"
+websiteUrl = "https://www.datadoghq.com"
+blogUrl = "https://www.datadoghq.com/blog/engineering/"
+rssUrl = "https://www.datadoghq.com/blog/engineering/index.xml"
+
+[aha]
+name = "Aha!"
+websiteUrl = "https://www.aha.io"
+blogUrl = "https://www.aha.io/engineering"
+rssUrl = "https://www.aha.io/engineering/rss.xml"

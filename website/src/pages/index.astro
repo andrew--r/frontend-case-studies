@@ -1,0 +1,38 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const companies = await getCollection("companies");
+const caseStudies = await getCollection("caseStudies");
+const caseStudiesByCompany = Object.groupBy(
+  caseStudies,
+  (item) => item.data.company.id
+);
+---
+
+<BaseLayout>
+  <h1>Companies</h1>
+  <ul>
+    {
+      companies
+        .sort((a, b) => a.data.name.localeCompare(b.data.name))
+        .map((company) => (
+          <li>
+            <a href={company.data.websiteUrl}>{company.data.name}</a>
+            <ul>
+              {caseStudiesByCompany[company.id]
+                ?.sort(
+                  (a, b) =>
+                    b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+                )
+                .map((caseStudy) => (
+                  <li>
+                    <a href={caseStudy.id}>{caseStudy.data.title}</a>
+                  </li>
+                ))}
+            </ul>
+          </li>
+        ))
+    }
+  </ul>
+</BaseLayout>
