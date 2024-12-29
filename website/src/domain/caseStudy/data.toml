@@ -369,3 +369,4311 @@ id = "https://tech.nextroll.com/blog/frontend/2017/08/29/how-to-run-a-front-end-
 title = "How to Run a Front-End Infrastructure Team"
 publishedAt = "2017-08-29"
 language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/trellisheets-how-we-spin-up-css-for-trello-sites-with-ease"
+title = "Trellisheets: How we spin up CSS for Trello sites with ease"
+publishedAt = "2016-03-01"
+language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/a-look-at-trello-adopting-graphql-and-apollo-in-a-legacy-application"
+title = "A look at Trello: adopting GraphQL and Apollo in a legacy application"
+publishedAt = "2019-08-28"
+language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/using-an-event-driven-architecture-to-improve-jira-software-responsiveness"
+title = "Using an event-driven architecture to improve Jira Software responsiveness"
+publishedAt = "2019-11-05"
+language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/scaling-react-server-side-rendering-in-jira-cloud"
+title = "Scaling React server-side rendering in Jira Cloud"
+publishedAt = "2020-02-04"
+language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/react-resource-router-deep-dive"
+title = "Improving performance through better architecture"
+publishedAt = "2020-06-23"
+language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/performance-in-jira-front-end"
+title = "Performance in Jira front-end: the story of a single line of code"
+publishedAt = "2020-11-16"
+language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/performance-in-jira-front-end-modern-bundles"
+title = "Performance in Jira front-end: using modern bundles to improve load time"
+publishedAt = "2020-12-05"
+language = "en"
+
+[[atlassian]]
+id = "https://www.atlassian.com/engineering/performance-in-jira-front-end-solving-bundle-duplicates-with-webpack-and-yarn"
+title = "Performance in Jira front-end: solving bundle duplicates with Webpack and yarn"
+publishedAt = "2020-12-22"
+language = "en"
+
+[[abc]]
+id = "https://www.abc.net.au/digital-product/composing-components/102183756"
+title = "Composing Components"
+publishedAt = "2018-09-28"
+language = "en"
+
+[[abc]]
+id = "https://www.abc.net.au/digital-product/from-data-to-dom-building-a-text-rendering-pipeline-for-react/102169934"
+title = "From data to DOM: Building a text rendering pipeline for React"
+publishedAt = "2019-10-23"
+language = "en"
+
+[[abc]]
+id = "https://www.abc.net.au/digital-product/migrating-the-platform-that-powers-abc-sites-to-typescript/102209404"
+title = "Migrating the platform that powers ABC sites to TypeScript"
+publishedAt = "2021-09-30"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/how-to-teach-a-web-app-to-speak-100-languages-the-specifics-of-localisation-514f13ed235c"
+title = "How to teach a web app to speak 100 languages: the specifics of localisation"
+publishedAt = "2017-03-08"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/the-painless-way-to-collect-statistics-from-a-web-site-cadc6aa67688"
+title = "The painless way to collect statistics from a web-site"
+publishedAt = "2017-05-18"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/translating-interfaces-into-almost-fifty-languages-sketch-dc196cf23ee5"
+title = "Translating interfaces into almost fifty languages: Sketch"
+publishedAt = "2017-10-17"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/hot-localisations-update-part-1-86fc013d6327"
+title = "Hot localisations update: part 1"
+publishedAt = "2017-11-01"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/part2-hot-localisations-update-12272511df0c"
+title = "Hot localisations update: part 2"
+publishedAt = "2017-11-01"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/from-zero-to-cosmos-part-1-2d080fe35bf2"
+title = "From zero to Cosmos: part 1"
+publishedAt = "2018-02-01"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/from-zero-to-cosmos-part-2-97929e13f839"
+title = "From zero to Cosmos: part 2"
+publishedAt = "2018-02-01"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/from-zero-to-cosmos-part-3-95e2c98c45a6"
+title = "From zero to Cosmos: part 3"
+publishedAt = "2018-02-01"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/translating-dust-templates-to-jsx-bed273ef41de"
+title = "Translating Dust templates to JSX"
+publishedAt = "2018-05-16"
+language = "en"
+
+[[badoo]]
+id = "https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa"
+title = "How to manage your Design Tokens with Style Dictionary"
+publishedAt = "2018-09-27"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-i-why-it-is-not-the-same-as-for-designers-a082ffca1d3b"
+title = "Optical alignment for frontend developers: why is it not the same as it is for designers"
+publishedAt = "2018-11-22"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-ii-how-can-the-process-be-automated-e41d8de2b18f"
+title = "Optical alignment for frontend developers: how can the process be automated"
+publishedAt = "2018-11-22"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part1-82f438c7e16c"
+title = "Generating multi-brand multi-platform icons with Sketch and a Node.js script: from the idea to the assets Sketch files"
+publishedAt = "2018-12-01"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part2-8d02e8bb915a"
+title = "Generating multi-brand multi-platform icons with Sketch and a Node.js script: the build script and the generation of the assets"
+publishedAt = "2018-12-01"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/covering-ab-tests-with-ui-testing-1df5401ff0e1"
+title = "Covering A/B tests with UI tests: how to avoid getting tangled up in your own code"
+publishedAt = "2019-02-22"
+language = "en"
+
+[[badoo]]
+id = "https://badootech.badoo.com/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228"
+title = "Design Tokens beyond colors, typography, and spacing"
+publishedAt = "2019-11-12"
+language = "en"
+
+[[bbc]]
+id = "https://wildlyinaccurate.com/redefining-the-bcc-news-core-experience/"
+title = "Redefining the BBC News core experience"
+publishedAt = "2016-07-22"
+language = "en"
+
+[[bbc]]
+id = "https://medium.com/bbc-design-engineering/http-2-is-easy-just-turn-it-on-34baad2d1fb1"
+title = "HTTP/2 is easy, just turn it on…"
+publishedAt = "2017-11-07"
+language = "en"
+
+[[bbc]]
+id = "https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/"
+title = "How BBC Interactive Content Works Across AMP, Apps, And The Web"
+publishedAt = "2018-03-15"
+language = "en"
+
+[[bettycrocker]]
+id = "https://web.dev/betty-crocker/"
+title = "Wake Lock API case study: 300% increase in purchase intent indicators on BettyCrocker.com"
+publishedAt = "2020-05-19"
+language = "en"
+
+[[bitmovin]]
+id = "https://bitmovin.com/bitmovin-used-reactredux-to-develop-new-dashboard/"
+title = "How Bitmovin Used React/Redux to Develop Its New Dashboard"
+publishedAt = "2017-09-07"
+language = "en"
+
+[[bitmovin]]
+id = "https://bitmovin.com/play-not-play-new-autoplay-policies-safari-11-chrome-64/"
+title = "To Play, or Not to Play – New AutoPlay Policies for Safari 11 and Chrome 64"
+publishedAt = "2017-09-28"
+language = "en"
+
+[[bitmovin]]
+id = "https://bitmovin.com/firefox-blocks-audible-autoplay/"
+title = "To Play, or Not to Play #2 – Firefox blocks audible autoplay by default!"
+publishedAt = "2019-02-20"
+language = "en"
+
+# [[blogfoster]]
+# id = "http://engineering.blogfoster.com/jumpstart-to-react-redux-development/"
+# title = "Jumpstart to React+Redux Development"
+# publishedAt = "undefined"
+# language = "en"
+
+# [[blogfoster]]
+# id = "http://engineering.blogfoster.com/centralized-eslint-configuration/"
+# title = "Centralized ESLint Configuration"
+# publishedAt = "undefined"
+# language = "en"
+
+# [[blogfoster]]
+# id = "http://engineering.blogfoster.com/redux-for-better-in-app-analytics/"
+# title = "Redux For Better in-App Analytics"
+# publishedAt = "undefined"
+# language = "en"
+
+# [[blogfoster]]
+# id = "http://engineering.blogfoster.com/managing-complexity-in-redux-higher-order-reducers-and-async-state/"
+# title = "Managing Complexity in Redux: Higher-Order Reducers and Async State"
+# publishedAt = "undefined"
+# language = "en"
+
+# [[blogfoster]]
+# id = "http://engineering.blogfoster.com/how-we-simplified-our-tooling-setup-for-node-js-projects/"
+# title = "How We Simplified our Tooling Setup for Node.js Projects"
+# publishedAt = "undefined"
+# language = "en"
+
+# [[blogfoster]]
+# id = "http://engineering.blogfoster.com/how-to-use-the-power-of-jests-snapshot-testing-without-using-jest/"
+# title = "How to Use the Power of Jest’s Snapshot Testing Without Using Jest"
+# publishedAt = "undefined"
+# language = "en"
+
+[[bloomberg]]
+id = "https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/"
+title = "How Bloomberg Used React Native to Develop its new Consumer App"
+publishedAt = "2016-12-15"
+language = "en"
+
+[[bloomberg]]
+id = "https://www.techatbloomberg.com/blog/wsk-straightforward-maintainable-build-system-bloomberg-graphics-team/"
+title = "wsk: A Straightforward and Maintainable Build System from the Bloomberg Graphics Team"
+publishedAt = "2017-12-12"
+language = "en"
+
+[[bloomberg]]
+id = "https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/"
+title = "10 Insights from Adopting TypeScript at Scale"
+publishedAt = "2020-11-09"
+language = "en"
+
+[[buzzfeed]]
+id = "https://tech.buzzfeef.com/micro-frontends-at-buzzfeed-b8754b31d178"
+title = "Micro Frontends at BuzzFeed"
+publishedAt = "2019-09-17"
+language = "en"
+
+[[buzzfeed]]
+id = "https://tech.buzzfeed.com/accessible-buzzfeed-2e1f3f94f352"
+title = "Accessible BuzzFeed"
+publishedAt = "2020-08-27"
+language = "en"
+
+[[buzzfeed]]
+id = "https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd"
+title = "CLS at BuzzFeed — Part 1: Raising The Floor"
+publishedAt = "2021-11-06"
+language = "en"
+
+[[buzzfeed]]
+id = "https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097"
+title = "CLS at BuzzFeed — Part 2: Getting Help From Real Users"
+publishedAt = "2021-11-06"
+language = "en"
+
+[[buzzfeed]]
+id = "https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-3-3a36240861e4"
+title = "CLS at BuzzFeed — Part 3: Dealing with the unpredictable"
+publishedAt = "2021-11-06"
+language = "en"
+
+[[campaignmonitor]]
+id = "https://cm.engineering/fixing-bugs-with-outlook-specific-css-f4b8ae5be4f4"
+title = "Fixing bugs with Outlook specific CSS"
+publishedAt = "2016-11-09"
+language = "en"
+
+[[campaignmonitor]]
+id = "https://cm.engineering/better-video-previews-for-email-12432ce71846"
+title = "Better video previews for email"
+publishedAt = "2016-12-20"
+language = "en"
+
+[[campaignmonitor]]
+id = "https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4"
+title = "How to test accessibility of emails"
+publishedAt = "2018-06-05"
+language = "en"
+
+[[carbonfive]]
+id = "https://blog.carbonfive.com/2012/08/17/cross-domain-browser-window-messaging-with-html5-and-javascript/"
+title = "Cross-Domain Browser Window Messaging with HTML5 and Javascript"
+publishedAt = "2012-08-17"
+language = "en"
+
+[[carbonfive]]
+id = "https://blog.carbonfive.com/2015/01/29/composing-synchronous-and-asynchronous-functions-in-javascript/"
+title = "Composing Synchronous and Asynchronous Functions in JavaScript"
+publishedAt = "2015-01-29"
+language = "en"
+
+[[carbonfive]]
+id = "https://blog.carbonfive.com/2018/01/24/an-ajax-auto-save-implementation"
+title = "An AJAX Auto-Save Implementation"
+publishedAt = "2018-01-24"
+language = "en"
+
+[[carousell]]
+id = "https://medium.com/carousell-insider/how-we-made-carousells-mobile-web-experience-3x-faster-bbb3be93e006"
+title = "How we made Carousell’s mobile web experience 3x faster"
+publishedAt = "2018-10-31"
+language = "en"
+
+# [[carousell]]
+# id = "https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-1-849c30ceacb9"
+# title = "part 1"
+# publishedAt = "Feb/Mar 2019): [part 1](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-1-849c30ceacb9), [part 2](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-2-d46bba8facaa) and [part 3](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-3-18a317ac37a1"
+# language = "en"
+
+[[carousell]]
+id = "https://medium.com/carousell-insider/an-experiment-with-json-schema-133344ebbf82"
+title = "An Experiment with JSON Schema"
+publishedAt = "2019-04-18"
+language = "en"
+
+[[carscom]]
+id = "https://modernweb.com/cars-com-nodejs"
+title = "How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js"
+publishedAt = "2017-07-17"
+language = "en"
+
+[[checkbot]]
+id = "https://www.checkbot.io/article/web-page-screenshots-with-svg/"
+title = "Scalable & lightweight web screenshots with SVG"
+publishedAt = "2018-11-30"
+language = "en"
+
+[[clearleft]]
+id = "https://clearleft.com/posts/how-to-use-variable-fonts-in-the-real-world"
+title = "How to use variable fonts in the real world"
+publishedAt = "2018-01-26"
+language = "en"
+
+[[clearleft]]
+id = "https://clearleft.com/posts/a-framework-for-web-performance"
+title = "A framework for web performance"
+publishedAt = "2018-09-20"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/how-we-built-origin-ca-web-crypto/"
+title = "How we built Origin CA: Web Crypto"
+publishedAt = "2016-05-10"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/cf-ui/"
+title = "Open Sourcing CloudFlare’s UI Framework"
+publishedAt = "2016-06-08"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/going-global-a-localization-case-study-at-cloudflare/"
+title = "Going Global - a Localization Case Study at Cloudflare"
+publishedAt = "2017-08-23"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/making-page-load-even-faster/"
+title = "How we made our page-load optimisations even faster"
+publishedAt = "2018-02-02"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/real-urls-for-amp-cached-content-using-cloudflare-workers/"
+title = "Real URLs for AMP Cached Content Using Cloudflare Workers"
+publishedAt = "2018-11-13"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/fast-google-fonts-with-cloudflare-workers/"
+title = "Fast Google Fonts with Cloudflare Workers"
+publishedAt = "2018-11-22"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/migrating-to-react-land-gatsby/"
+title = "Migrating to React land: Gatsby"
+publishedAt = "2020-03-26"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/moving-from-recaptcha-to-hcaptcha/"
+title = "Moving from reCAPTCHA to hCaptcha"
+publishedAt = "2020-04-08"
+language = "en"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/dark-mode/"
+title = "Dark Mode for the Cloudflare Dashboard"
+publishedAt = "2021-09-29"
+language = "en"
+
+[[cloudfour]]
+id = "https://cloudfour.com/thinks/all-mixed-up-isomorphic-sorting-gone-wrong/"
+title = "All Mixed Up: Isomorphic Sorting Gone Wrong"
+publishedAt = "2019-10-17"
+language = "en"
+
+[[codesandbox]]
+id = "https://medium.com/p/40e9a5646281"
+title = "Lessons learned refactoring Codesandbox.io from Redux to Cerebral"
+publishedAt = "2018-02-07"
+language = "en"
+
+[[condenast]]
+id = "https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast"
+title = "The Why and How of Google AMP at Condé Nast"
+publishedAt = "2017-08-29"
+language = "en"
+
+[[conductor]]
+id = "https://www.youtube.com/watch?v=d8oBIzIgVMA"
+title = "Painless Migration From Backbone to React/Redux"
+publishedAt = "2018-02-16"
+language = "en"
+
+[[dazn]]
+id = "https://medium.com/dazn-tech/testing-mobx-state-tree-c588f4bfc430"
+title = "Testing MobX State Tree"
+publishedAt = "2018-12-07"
+language = "en"
+
+[[dazn]]
+id = "https://medium.com/dazn-tech/handling-complexity-in-lambda-functions-e7acfbeb920a"
+title = "Handling complexity in lambda functions"
+publishedAt = "2019-02-08"
+language = "en"
+
+[[dazn]]
+id = "https://medium.com/dazn-tech/micro-frontends-the-future-of-frontend-architectures-5867ceded39a"
+title = "Micro-frontends, the future of Frontend architectures"
+publishedAt = "2019-04-02"
+language = "en"
+
+[[dazn]]
+id = "https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3"
+title = "Adopting a Micro-frontends architecture"
+publishedAt = "2019-04-08"
+language = "en"
+
+[[dazn]]
+id = "https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33"
+title = "Orchestrating micro-frontends"
+publishedAt = "2019-04-12"
+language = "en"
+
+[[dazn]]
+id = "https://medium.com/dazn-tech/jest-our-journey-into-performant-unit-tests-a6efcb4bd9b"
+title = "Jest: Our journey into performant unit tests"
+publishedAt = "2019-04-15"
+language = "en"
+
+[[dazn]]
+id = "https://medium.com/dazn-tech/identifying-micro-frontends-in-our-applications-4b4995f39257"
+title = "Identifying micro-frontends in our applications"
+publishedAt = "2019-05-21"
+language = "en"
+
+[[voorhoede]]
+id = "https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours"
+title = "Why our website is faster than yours"
+publishedAt = "2016-07-16"
+language = "en"
+
+[[dev]]
+id = "https://web.dev/app-shell-ux-with-service-workers/"
+title = "App shell UX with service workers and streams"
+publishedAt = "2020-06-23"
+language = "en"
+
+[[discord]]
+id = "https://blog.discordapp.com/using-react-native-one-year-later-91fd5e949933"
+title = "Using React Native: One Year Later"
+publishedAt = "2016-06-07"
+language = "en"
+
+[[discord]]
+id = "https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6"
+title = "Lessons from migrating a large codebase to React 16"
+publishedAt = "2017-10-05"
+language = "en"
+
+[[discord]]
+id = "https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427"
+title = "Why Discord is Sticking with React Native"
+publishedAt = "2018-07-26"
+language = "en"
+
+[[discord]]
+id = "https://blog.discordapp.com/how-discord-maintains-performance-while-adding-features-28ddaf044333"
+title = "How Discord Maintains Performance While Adding Features"
+publishedAt = "2018-08-02"
+language = "en"
+
+[[discord]]
+id = "https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429"
+title = "How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC"
+publishedAt = "2018-09-10"
+language = "en"
+
+[[discord]]
+id = "https://blog.discordapp.com/discord-react-memory-leak-565c89763e8"
+title = "Investigating Discord’s React Memory Leak"
+publishedAt = "2019-08-08"
+language = "en"
+
+[[discord]]
+id = "https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502"
+title = "How Discord achieves native iOS performance with React Native"
+publishedAt = "2019-11-07"
+language = "en"
+
+[[discord]]
+id = "https://blog.discord.com/how-discord-implemented-app-wide-keyboard-navigation-abf073fd71de"
+title = "How Discord Implemented App-Wide Keyboard Navigation"
+publishedAt = "2020-12-17"
+language = "en"
+
+[[divriots]]
+id = "https://divriots.com/blog/switching-to-pnpm"
+title = "A story of how we migrated to pnpm"
+publishedAt = "2022-01-18"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2020/09/11/integrating-a-map-feature-to-a-web-app/"
+title = "Things to Keep in Mind When Integrating a Map Feature to a Web App"
+publishedAt = "2020-09-11"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2020/09/29/caviar-web-experience-react-components/"
+title = "Building the Caviar Web Experience Using Reusable React Components on the DoorDash Platform"
+publishedAt = "2020-09-29"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2020/12/17/design-language-system-theming/"
+title = "Implementing Theming in DoorDash’s Design Language System"
+publishedAt = "2020-12-17"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2021/02/09/serving-multiple-websites-and-business-logic-from-a-single-platform/"
+title = "Serving Multiple Websites and Business Logic From a Single Platform"
+publishedAt = "2021-02-09"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2021/04/21/managing-react-state-using-the-class-pattern/"
+title = "Managing React State on DoorDash’s Item Modal Using the Class Pattern"
+publishedAt = "2021-04-21"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/"
+title = "Building a Marketing Engineering Platform using Next.js, Cloudflare, and Contentful"
+publishedAt = "2022-02-22"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/"
+title = "Improving Web Page Performance at DoorDash Through Server-Side Rendering with Next.JS"
+publishedAt = "2022-03-29"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2022/03/31/building-a-common-web-library-for-fast-implementations-of-risk-frictions/"
+title = "Building a Common Web Library for Fast Implementations of Risk Frictions"
+publishedAt = "2022-03-31"
+language = "en"
+
+[[doordash]]
+id = "https://doordash.engineering/2022/08/30/doordashs-lessons-on-improving-performance-on-high-traffic-web-pages/"
+title = "DoorDash’s Lessons on Improving Performance on High-Traffic Web Pages"
+publishedAt = "2022-08-30"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2011/04/hello-world/"
+title = "Translating Dropbox"
+publishedAt = "2011-04-18"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2012/08/some-love-for-javascript-applications-2/"
+title = "Some love for JavaScript applications"
+publishedAt = "2012-08-31"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2012/09/dropbox-dives-into-coffeescript/"
+title = "Dropbox dives into CoffeeScript"
+publishedAt = "2012-09-13"
+language = "en"
+
+# [[dropbox]]
+# id = "https://blogs.dropbox.com/tech/2015/09/on-csp-reporting-and-filtering/"
+# title = "On Reporting and Filtering"
+# publishedAt = "September 2015): [On Reporting and Filtering](https://blogs.dropbox.com/tech/2015/09/on-csp-reporting-and-filtering/), [Unsafe-inline and nonce deployment](https://blogs.dropbox.com/tech/2015/09/unsafe-inline-and-nonce-deployment/), [The Unexpected Eval](https://blogs.dropbox.com/tech/2015/09/csp-the-unexpected-eval/), [Third Party Integrations and Privilege Separation](https://blogs.dropbox.com/tech/2015/09/csp-third-party-integrations-and-privilege-separation/"
+# language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2016/05/enabling-http2-for-dropbox-web-services-experiences-and-observations/"
+title = "Enabling HTTP/2 for Dropbox web services: experiences and observations"
+publishedAt = "2016-05-11"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2016/11/annotations-on-document-previews/"
+title = "Annotations on Document Previews"
+publishedAt = "2016-11-30"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2017/03/preventing-cross-site-attacks-using-same-site-cookies/"
+title = "Preventing cross-site attacks using same-site cookies"
+publishedAt = "2017-03-16"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2017/04/deploying-brotli-for-static-content/"
+title = "Deploying Brotli for static content"
+publishedAt = "2017-04-06"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2017/11/dropbox-paper-emojis-and-exformation/"
+title = "Dropbox Paper: Emojis and Exformation"
+publishedAt = "2017-11-15"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2017/12/improving-document-preview-performance/"
+title = "Improving Document Preview Performance"
+publishedAt = "2017-12-01"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2018/09/migrating-from-underscore-to-lodash/"
+title = "Migrating from Underscore to Lodash"
+publishedAt = "2018-09-05"
+language = "en"
+
+[[dropbox]]
+id = "https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/"
+title = "Redux with Code-Splitting and Type Checking"
+publishedAt = "2019-07-16"
+language = "en"
+
+[[dropbox]]
+id = "https://dropbox.design/article/design-tooling-at-scale"
+title = "Design Tooling at Scale"
+publishedAt = "2019-10-12"
+language = "en"
+
+[[dropbox]]
+id = "https://dropbox.tech/frontend/the-great-coffeescript-to-typescript-migration-of-2017"
+title = "The Great CoffeeScript to Typescript Migration of 2017"
+publishedAt = "2020-05-13"
+language = "en"
+
+[[dropbox]]
+id = "https://dropbox.tech/application/jquery-to-react--how-we-rewrote-the-hellosign-editor"
+title = "JQuery to React: How we rewrote the HelloSign Editor"
+publishedAt = "2020-09-30"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/data-uri-sprites/"
+title = "Data URI Sprites"
+publishedAt = "2011-07-12"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/the-new-ebay-motors-homepage-is-2x-faster/"
+title = "The New eBay Motors Homepage is 2X Faster"
+publishedAt = "2011-10-14"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/five-javascript-tips-for-a-sleek-user-experience/"
+title = "Five JavaScript Tips for a Sleek User Experience"
+publishedAt = "2012-04-16"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/page-loading-and-rendering-optimizations/"
+title = "Page Loading and Rendering Optimizations"
+publishedAt = "2012-06-22"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/bandwidth-based-experience/"
+title = "Bandwidth-based Experience"
+publishedAt = "2012-10-10"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/early-detection-of-frontend-single-points-of-failure/"
+title = "Early Detection of Frontend Single Points of Failure"
+publishedAt = "2013-01-22"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/front-end-renaissance-at-ebay/"
+title = "Front-end Renaissance at eBay"
+publishedAt = "2014-01-13"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/yet-another-responsive-vs-adaptive-story/"
+title = "Yet Another Responsive vs. Adaptive Story"
+publishedAt = "2014-03-05"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/dont-build-pages-build-modules/"
+title = "Don't Build Pages, Build Modules"
+publishedAt = "2014-10-02"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/async-fragments-rediscovering-progressive-html-rendering-with-marko/"
+title = "Async Fragments: Rediscovering Progressive HTML Rendering with Marko"
+publishedAt = "2014-12-08"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/the-power-of-perceived-performance/"
+title = "The Power of Perceived Performance"
+publishedAt = "2015-01-05"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/mobile-first-a-retrospective/"
+title = "Mobile First - A Retrospective"
+publishedAt = "2015-05-13"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/how-our-css-framework-helps-enforce-accessibility/"
+title = "How Our CSS Framework Helps Enforce Accessibility"
+publishedAt = "2015-11-04"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/packaging-for-performance/"
+title = "Packaging for Performance"
+publishedAt = "2016-01-04"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/the-path-to-javascript-next/"
+title = "The Path to JavaScript Next"
+publishedAt = "2016-03-15"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/browse-ebay-with-style-and-speed/"
+title = "Browse eBay with Style and Speed"
+publishedAt = "2016-06-30"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/experience-the-lightning-bolt/"
+title = "Experience the Lightning Bolt"
+publishedAt = "2016-09-21"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/effective-front-end-code-review/"
+title = "Effective Front-End Code Review"
+publishedAt = "2017-03-02"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/building-a-ui-component-in-2017-and-beyond"
+title = "Building a UI Component in 2017 and Beyond"
+publishedAt = "2017-05-03"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/ebays-font-loading-strategy"
+title = "eBay’s Font Loading Strategy"
+publishedAt = "2017-09-21"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/the-future-of-marko/"
+title = "The Future of Marko"
+publishedAt = "2017-10-26"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/beyond-https/"
+title = "Beyond HTTPS"
+publishedAt = "2017-12-13"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/integration-testing-with-react-and-enzyme/"
+title = "Integration Testing with React and Enzyme"
+publishedAt = "2018-06-26"
+language = "en"
+
+[[ebay]]
+id = "https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/"
+title = "WebAssembly at eBay: A Real-World Use Case"
+publishedAt = "2019-05-22"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/autofill-deep-dive/"
+title = "Autofill on Browsers: A Deep Dive"
+publishedAt = "2019-12-03"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/speed-by-a-thousand-cuts/"
+title = "Speed By A Thousand Cuts"
+publishedAt = "2020-01-23"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/front-end-debugging-tips-on-resolving-issues-quickly-so-you-can-move-on-to-better-things/"
+title = "Front End Debugging — Tips on Resolving Issues Quickly so You Can Move on to Better Things"
+publishedAt = "2020-04-07"
+language = "en"
+
+[[ebay]]
+id = "https://tech.ebayinc.com/engineering/auto-effect-pattern-with-redux-and-react-hooks/"
+title = "Auto Effect Pattern with Redux and React Hooks"
+publishedAt = "2020-04-15"
+language = "en"
+
+[[edgedb]]
+id = "https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#the-next-generation-of-performance-tools"
+title = "An approach to optimizing TypeScript type checking performance"
+publishedAt = "2024-08-08"
+language = "en"
+
+[[ea]]
+id = "https://youtu.be/FJ2KEvzlyo4"
+title = "Building UI at Enterprise Scale with Web Components"
+publishedAt = "2017-08-22"
+language = "en"
+
+[[eleme]]
+id = "https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509"
+title = "Upgrading Ele.me to Progressive Web App"
+publishedAt = "2017-05-06"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2011/10/21/localizing-logically-for-a-global-marketplace/"
+title = "Localizing Logically for a Global Marketplace"
+publishedAt = "2011-10-21"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2011/12/02/multilingual-user-generated-content-and-seo/"
+title = "Multilingual User Generated Content and SEO"
+publishedAt = "2011-12-02"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2012/11/29/measuring-front-end-performance-with-real-users/"
+title = "Measuring Front-end Performance With Real Users"
+publishedAt = "2012-11-29"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/"
+title = "Responsive emails that really work"
+publishedAt = "2014-03-13"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/"
+title = "Transitioning to SCSS at Scale"
+publishedAt = "2015-02-02"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2015/02/05/rebuilding-the-foundation-of-etsy-seller-tools/"
+title = "Rebuilding the Foundation of Etsy’s Seller Tools"
+publishedAt = "2015-02-05"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2016/04/19/how-etsy-formats-currency/"
+title = "How Etsy Formats Currency"
+publishedAt = "2016-04-19"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2016/10/25/seo-title-tag-optimization/"
+title = "SEO Title Tag Optimization at Etsy: Experimental Design and Causal Inference"
+publishedAt = "2016-10-25"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2017/01/25/optimizing-meta-descriptions-h1s-and-title-tags-lessons-from-multivariate-seo-testing-at-etsy/"
+title = "Optimizing Meta Descriptions, H1s and Title Tags: Lessons from Multivariate SEO Testing at Etsy"
+publishedAt = "2017-01-25"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/"
+title = "Reducing Image File Size at Etsy"
+publishedAt = "2017-05-30"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/"
+title = "How Etsy Localizes Addresses"
+publishedAt = "2018-09-26"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2020/04/06/developing-in-a-monorepo-while-still-using-webpack/"
+title = "Developing in a Monorepo While Still Using Webpack"
+publishedAt = "2020-04-06"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2020/02/03/production-webpack-builds/"
+title = "The journey to fast production asset builds with Webpack"
+publishedAt = "2020-02-03"
+language = "en"
+
+[[etsy]]
+id = "https://codeascraft.com/2021/11/08/etsys-journey-to-typescript"
+title = "Etsy’s Journey to TypeScript"
+publishedAt = "2021-11-08"
+language = "en"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/is-react-native-podium-ready"
+title = "Is React Native podium-ready?"
+publishedAt = "2018-05-14"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/a-b-testing-and-the-cloak-of-invisibility-a-better-way-to-scope-variant-code-in-your-react-app-902a68a0c2c3"
+title = "Scoping A/B Test Code in React"
+publishedAt = "2018-09-04"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901"
+title = "Profiling React Server-Side Rendering to Free the Node.js Event Loop"
+publishedAt = "2019-02-18"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/creating-your-own-apollo-cache-for-perf-and-profit-8f786849e5f6"
+title = "Creating Your Own Apollo Cache for Perf and Profit"
+publishedAt = "2019-02-07"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/optimize-a-page-resource-hint-critical-css-webpack-c8cc7319fb87"
+title = "Optimizing a Page: Resource Hints, Critical CSS, and Webpack"
+publishedAt = "2019-03-20"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/contextual-and-consistent-analytic-event-triggering-in-react-40b48b15739e"
+title = "Contextual and Consistent Analytic Events in React"
+publishedAt = "2019-04-22"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/minimizing-dom-nodes-for-performance-57f347df4c72"
+title = "Minimizing DOM Nodes for Performance"
+publishedAt = "2019-09-24"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/web-performance-vs-user-engagement-7eda84f6436b"
+title = "Web Performance vs. User Engagement"
+publishedAt = "2019-10-31"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/migrating-to-wkwebview-d5b6d0e52c4f"
+title = "Migrating to WKWebView"
+publishedAt = "2019-12-11"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/a-small-case-for-function-based-react-components-2939cd8df975"
+title = "A (Small) Case for Function-Based React Components"
+publishedAt = "2019-12-10"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/measuring-interaction-performance-with-fps-data-b0eee1d102c4"
+title = "Measuring Interaction Performance with FPS Data"
+publishedAt = "2019-12-16"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/file-upload-with-graphql-apollo-server-hapi-18-and-react-2390e297619d"
+title = "File Upload with GraphQL, Apollo Server, Hapi 18+, and React"
+publishedAt = "2020-01-16"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/web-applications-analyzing-client-side-performance-37e9cc4ad86b"
+title = "Web Applications: Analyzing Client-Side Performance"
+publishedAt = "2020-01-07"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/schema-driven-uis-dd8fdb516120"
+title = "Schema Driven UIs"
+publishedAt = "2020-01-23"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/responsive-accessibility-guidelines-at-expedia-com-cc1184c4f271"
+title = "Responsive Accessibility Guidelines at Expedia.com"
+publishedAt = "2020-02-27"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/12-tips-to-improve-client-side-page-performance-88c7bec27933"
+title = "12 Tips to Improve Client Side Page Performance"
+publishedAt = "2020-04-28"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/using-webpack-module-federation-to-share-an-app-shell-7d23633510e"
+title = "Using Webpack Module Federation to Create an App Shell"
+publishedAt = "2020-06-10"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/css-in-js-an-investigation-39338a1057db"
+title = "CSS-in-JS: An Investigation"
+publishedAt = "2020-07-07"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/multi-variate-web-optimisation-using-linear-contextual-bandits-567f563cb59"
+title = "Multi-Variate Web Optimisation Using Linear Contextual Bandits"
+publishedAt = "2020-09-01"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/how-expedia-com-uses-accessibility-automation-d3de3e3ff775"
+title = "How Expedia.com Uses Accessibility Automation"
+publishedAt = "2020-10-01"
+language = "en"
+
+[[expediagroup]]
+id = "https://medium.com/expedia-group-tech/sizing-android-webview-iframes-with-javascript-abae73fe6602"
+title = "Sizing Android WebView iframes with JavaScript"
+publishedAt = "2021-04-27"
+language = "en"
+
+[[ezcater]]
+id = "https://engineering.ezcater.com/the-case-against-react-snapshot-testing"
+title = "The case against React snapshot testing"
+publishedAt = "2019-06-27"
+language = "en"
+
+[[ezcater]]
+id = "https://engineering.ezcater.com/saying-goodbye-to-emotion"
+title = "Saying goodbye to emotion"
+publishedAt = "2021-06-01"
+language = "en"
+
+[[facebook]]
+id = "http://makeitopen.com"
+title = "Building the F8 App with React Native"
+publishedAt = "2017-01-01"
+language = "en"
+
+[[facebook]]
+id = "https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/"
+title = "BigPipe: Pipelining web pages for high performance"
+publishedAt = "2010-06-04"
+language = "en"
+
+[[facebook]]
+id = "https://www.reddit.com/r/reactjs/comments/6al7h2/facebook_has_30000_react_components_how_do_you/dhgruqh/"
+title = "Facebook has 30,000 react components. How do you manage large project directories with many components?"
+publishedAt = "2013-12-31"
+language = "en"
+
+[[facebook]]
+id = "https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/"
+title = "The technology behind preview photos"
+publishedAt = "2015-08-06"
+language = "en"
+
+[[facebook]]
+id = "https://code.fb.com/open-source/improving-css-quality-at-facebook-and-beyond/"
+title = "Improving CSS quality at Facebook and beyond"
+publishedAt = "2016-06-13"
+language = "en"
+
+[[facebook]]
+id = "https://code.facebook.com/posts/557147474482256"
+title = "This browser tweak saved 60% of requests to Facebook"
+publishedAt = "2017-01-26"
+language = "en"
+
+[[facebook]]
+id = "https://youtu.be/PvabBs_utr8"
+title = "Building High-Quality JavaScript Tools"
+publishedAt = "2017-06-02"
+language = "en"
+
+[[facebook]]
+id = "https://code.facebook.com/posts/1716776591680069"
+title = "React 16: A look inside an API-compatible rewrite of our frontend UI library"
+publishedAt = "2017-09-26"
+language = "en"
+
+[[facebook]]
+id = "https://vimeo.com/242899818"
+title = "Design Systems & Tools at Facebook"
+publishedAt = "2017-11-15"
+language = "en"
+
+[[facebook]]
+id = "https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html"
+title = "Behind the Scenes: Improving the React Repository Infrastructure"
+publishedAt = "2017-12-15"
+language = "en"
+
+[[facebook]]
+id = "https://code.fb.com/developer-tools/isinputpending-api/"
+title = "Faster input events with Facebook’s first browser API contribution"
+publishedAt = "2019-04-22"
+language = "en"
+
+[[facebook]]
+id = "https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/"
+title = "Building the New facebook.com with React, GraphQL and Relay"
+publishedAt = "2019-04-30"
+language = "en"
+
+[[facebook]]
+id = "https://engineering.fb.com/web/facebook-redesign/"
+title = "Rebuilding our tech stack for the new Facebook.com"
+publishedAt = "2020-05-08"
+language = "en"
+
+[[facebook]]
+id = "https://engineering.fb.com/web/facebook-com-accessibility/"
+title = "Making Facebook.com accessible to as many people as possible"
+publishedAt = "2020-07-30"
+language = "en"
+
+[[farfetch]]
+id = "https://www.farfetchtechblog.com/en/blog/post/the-need-for-speed-1-measuring-today-s-web-performance"
+title = "The need for speed — 1: measuring today’s web performance"
+publishedAt = "2019-02-19"
+language = "en"
+
+[[farfetch]]
+id = "https://farfetchtechblog.com/en/blog/post/the-need-for-speed-2-call-for-metrics"
+title = "The need for speed — 2: call for metrics"
+publishedAt = "2019-02-19"
+language = "en"
+
+[[farfetch]]
+id = "https://www.farfetchtechblog.com/en/blog/post/how-to-build-a-performance-culture-at-scale"
+title = "How to build a performance culture at scale"
+publishedAt = "2019-09-11"
+language = "en"
+
+[[farfetch]]
+id = "https://farfetchtechblog.com/en/blog/post/one-less-second-for-the-page-one-giant-leap-for-the-business"
+title = "One less second for the page, one giant leap for the business"
+publishedAt = "2020-07-02"
+language = "en"
+
+[[farfetch]]
+id = "https://farfetchtechblog.com/en/blog/post/the-art-of-failure-ii-graceful-degradation"
+title = "The art of failure II: graceful degradation"
+publishedAt = "2021-09-20"
+language = "en"
+
+[[farfetch]]
+id = "https://www.farfetchtechblog.com/en/blog/post/graphql-sessions-powering-farfetch-com"
+title = "GraphQL sessions: powering farfetch.com"
+publishedAt = "2022-05-06"
+language = "en"
+
+[[fastqbio]]
+id = "https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/"
+title = "How We Used WebAssembly To Speed Up Our Web App By 20X"
+publishedAt = "2019-04-05"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/building-a-professional-design-tool-on-the-web/"
+title = "Building a professional design tool on the web"
+publishedAt = "2015-12-07"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/debugging-data-corruption-with-emscripten/"
+title = "Debugging Data Corruption with Emscripten"
+publishedAt = "2016-11-07"
+language = "en"
+
+[[figma]]
+id = "https://blog.figma.com/webassembly-cut-figmas-load-time-by-3x-76f3f2395164"
+title = "WebAssembly cut Figma’s load time by 3x"
+publishedAt = "2017-06-08"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/introducing-browserview-for-electron/"
+title = "Introducing BrowserView for Electron"
+publishedAt = "2017-06-29"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/introducing-figma-to-react/"
+title = "Introducing: Figma to React"
+publishedAt = "2018-04-26"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/figma-faster/"
+title = "Figma, faster 🏎"
+publishedAt = "2018-08-13"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/how-we-built-the-figma-plugin-system/"
+title = "How to build a plugin system on the web and also sleep well at night"
+publishedAt = "2019-08-22"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/improving-scrolling-comments-in-figma/"
+title = "React at 60fps: improving scrolling comments in Figma"
+publishedAt = "2020-08-19"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/#what-are-strict-null-checks"
+title = "Inside Figma: a case study on strict null checks"
+publishedAt = "2020-12-17"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/illuminating-dark-mode"
+title = "Illuminating dark mode"
+publishedAt = "2022-07-21"
+language = "en"
+
+[[figma]]
+id = "https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/"
+title = "The evolution of Figma’s mobile engine: Compiling away our custom programming language"
+publishedAt = "2024-05-01"
+language = "en"
+
+[[ft]]
+id = "https://www.smashingmagazine.com/2013/05/building-the-new-financial-times-web-app-a-case-study"
+title = "Building The New Financial Times Web App"
+publishedAt = "2013-05-23"
+language = "en"
+
+[[ft]]
+id = "http://matt.chadburn.co.uk/notes/teams-as-services.html"
+title = "Free-market software development"
+publishedAt = "2015-08-21"
+language = "en"
+
+[[ft]]
+id = "https://www.maketea.co.uk/2015/12/14/svg-icons-are-easy-but-the-fallbacks-arent.html"
+title = "SVG icons are easy but the fallbacks aren't"
+publishedAt = "2015-12-01"
+language = "en"
+
+[[ft]]
+id = "https://medium.com/ft-product-technology/a-faster-ft-com-10e7c077dc1c"
+title = "A faster FT.com"
+publishedAt = "2016-04-04"
+language = "en"
+
+[[ft]]
+id = "https://www.youtube.com/watch?v=H4FzW9oFObs"
+title = "YES, your site too can (and should) be accessible"
+publishedAt = "2017-05-23"
+language = "en"
+
+[[ft]]
+id = "https://jakechampion.name/posts/2017-06-09-improving-the-cache-performance-of-the-polyfill-service/"
+title = "Improving the cache performance of The Polyfill Service"
+publishedAt = "2017-06-09"
+language = "en"
+
+[[ft]]
+id = "https://vimeo.com/226575101"
+title = "Can't You Just Make It More like Bootstrap?"
+publishedAt = "2017-07-22"
+language = "en"
+
+[[ft]]
+id = "https://ldnwebperf.org/sessions/speeding-up-without-slowing-down/"
+title = "Speeding up without slowing down"
+publishedAt = "2017-11-07"
+language = "en"
+
+[[ft]]
+id = "https://medium.com/ft-product-technology/making-a-request-to-the-financial-times-b2119a2f422d"
+title = "What happens when you visit ft.com?"
+publishedAt = "2017-11-24"
+language = "en"
+
+[[ft]]
+id = "https://medium.com/ft-product-technology/tips-for-in-house-teams-in-a-free-market-software-culture-d18ba80c8c4"
+title = "Tips for in-house teams in a free market software culture"
+publishedAt = "2018-01-30"
+language = "en"
+
+[[ft]]
+id = "https://medium.com/ft-product-technology/an-outbreak-of-accessibility-anti-patterns-e73577242ee8"
+title = "An outbreak of Accessibility anti-patterns"
+publishedAt = "2018-05-18"
+language = "en"
+
+[[ft]]
+id = "https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f"
+title = "This one line of Javascript made FT.com 10 times slower"
+publishedAt = "2018-07-16"
+language = "en"
+
+[[ft]]
+id = "https://jakechampion.name/posts/improving-the-cache-performance-of-the-polyfill-service-even-more/"
+title = "Improving the cache performance of The Polyfill Service even more"
+publishedAt = "2019-01-21"
+language = "en"
+
+[[ft]]
+id = "https://medium.com/ft-product-technology/designing-a-sustainable-front-end-toolset-for-ft-com-f37c59d27eeb"
+title = "Designing a sustainable front-end toolset for FT.com"
+publishedAt = "2020-04-27"
+language = "en"
+
+[[ft]]
+id = "https://medium.com/ft-product-technology/animating-list-reordering-with-react-hooks-1aa0d78a24dc"
+title = "Animating list reordering with React Hooks"
+publishedAt = "2020-08-26"
+language = "en"
+
+[[ft]]
+id = "https://www.matthinchliffe.dev/2020/06/03/taming-webpacks-content-hashes.html"
+title = "Taming Webpackʼs content hashes"
+publishedAt = "2020-06-03"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2011/07/20/lessons-learned-from-the-flickr-touch-lightbox/"
+title = "Lessons Learned from the Flickr Touch Lightbox"
+publishedAt = "2011-07-20"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2011/09/06/creating-an-interface-for-geofences/"
+title = "Creating an interface for geofences"
+publishedAt = "2011-09-06"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2012/04/25/raising-the-bar-on-web-uploads/"
+title = "Raising the bar on web uploads"
+publishedAt = "2012-04-25"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2012/04/18/building-an-html5-photo-editor/"
+title = "Building an HTML5 Photo Editor"
+publishedAt = "2012-04-18"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2012/05/11/building-the-flickr-web-uploadr-the-grid/"
+title = "Building The Flickr Web Uploadr: The Grid"
+publishedAt = "2012-05-11"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2012/06/01/parsing-exif-client-side-using-javascript-2/"
+title = "Parsing Exif client-side using JavaScript"
+publishedAt = "2012-06-01"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2013/06/04/adventures-in-jank-busting-parallax-performance-and-the-new-flickr-home-page/"
+title = "Adventures in Jank Busting: Parallax, performance, and the new Flickr Home Page"
+publishedAt = "2013-06-04"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2014/04/23/building-flickrs-new-hybrid-signed-out-homepage/"
+title = "Building Flickr’s new Hybrid Signed-Out Homepage"
+publishedAt = "2014-04-23"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2015/09/25/perceptual-image-compression-at-flickr/"
+title = "Perceptual Image Compression at Flickr"
+publishedAt = "2015-09-25"
+language = "en"
+
+[[flickr]]
+id = "http://code.flickr.net/2016/04/25/introducing-yakbak-record-and-playback-http-interactions-in-nodejs/"
+title = "Introducing yakbak: Record and playback HTTP interactions in NodeJS"
+publishedAt = "2016-04-25"
+language = "en"
+
+[[flipboard]]
+id = "https://engineering.flipboard.com/2014/03/web-layouts"
+title = "Layout in Flipboard for Web and Windows"
+publishedAt = "2014-03-24"
+language = "en"
+
+[[flipboard]]
+id = "https://engineering.flipboard.com/2015/02/mobile-web"
+title = "60 FPS on the mobile web"
+publishedAt = "2015-02-10"
+language = "en"
+
+[[flipkart]]
+id = "https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883"
+title = "Building Flipkart Lite: A Progressive Web App"
+publishedAt = "2015-11-11"
+language = "en"
+
+[[flocktory]]
+id = "http://slonoed.net/third-party-js"
+title = "Third party libraries"
+publishedAt = "2017-05-22"
+language = "en"
+
+[[futurice]]
+id = "https://futurice.com/blog/elm-in-the-real-world"
+title = "How Elm made our work better"
+publishedAt = "2016-11-01"
+language = "en"
+
+[[garbarino]]
+id = "https://medium.com/@leopittelli/building-a-pwa-in-argentina-3ac669eabbeb"
+title = "Building a PWA in Argentina"
+publishedAt = "2017-07-24"
+language = "en"
+
+[[github]]
+id = "http://markdotto.com/2014/07/23/githubs-css/"
+title = "GitHub's CSS"
+publishedAt = "2014-07-23"
+language = "en"
+
+[[github]]
+id = "https://www.webcomponents.org/community/articles/interview-with-joshua-peek"
+title = "How GitHub is using Web Components in production"
+publishedAt = "2014-09-30"
+language = "en"
+
+[[github]]
+id = "https://githubengineering.com/browser-monitoring-for-github-com/"
+title = "Browser Monitoring for GitHub.com"
+publishedAt = "2015-05-19"
+language = "en"
+
+[[github]]
+id = "https://githubengineering.com/githubs-csp-journey/"
+title = "GitHub's CSP journey"
+publishedAt = "2016-04-12"
+language = "en"
+
+[[github]]
+id = "https://githubengineering.com/githubs-post-csp-journey/"
+title = "GitHub's post-CSP journey"
+publishedAt = "2017-01-19"
+language = "en"
+
+[[github]]
+id = "http://markdotto.com/2018/02/07/github-system-fonts/"
+title = "Shipping system fonts to GitHub.com"
+publishedAt = "2018-02-07"
+language = "en"
+
+[[github]]
+id = "https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542"
+title = "Design Systems at GitHub"
+publishedAt = "2018-07-06"
+language = "en"
+
+[[github]]
+id = "https://githubengineering.com/removing-jquery-from-github-frontend/"
+title = "Removing jQuery from GitHub.com frontend"
+publishedAt = "2018-09-06"
+language = "en"
+
+[[github]]
+id = "https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk"
+title = "From 48k lines of code to 10—the story of GitHub’s JavaScript SDK"
+publishedAt = "2020-04-09"
+language = "en"
+
+[[github]]
+id = "https://github.blog/2020-12-21-how-we-built-the-github-globe/"
+title = "How we built the GitHub globe"
+publishedAt = "2020-12-21"
+language = "en"
+
+[[github]]
+id = "https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/"
+title = "How GitHub Actions renders large-scale logs"
+publishedAt = "2021-03-25"
+language = "en"
+
+[[gitlab]]
+id = "https://youtu.be/ioogrvs2Ejc"
+title = "Why We Chose Vue.js"
+publishedAt = "2016-12-01"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/2017/02/06/vue-big-plan/"
+title = "Our big Frontend plan revealed"
+publishedAt = "2017-02-06"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/"
+title = "How we do Vue: one year later"
+publishedAt = "2017-11-09"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/2017/12/19/moving-to-headless-chrome"
+title = "How GitLab switched to Headless Chrome for testing"
+publishedAt = "2017-12-19"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/blog/2018/05/30/journey-in-native-unicode-emoji/"
+title = "Our journey in switching to native Unicode emoji"
+publishedAt = "2018-05-30"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/2018/06/26/iterating-improving-frontend-culture/"
+title = "How we iterated and improved our frontend team culture"
+publishedAt = "2018-06-26"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/2019/09/30/why-we-chose-echarts/"
+title = "Why we chose ECharts for data visualizations"
+publishedAt = "2019-09-30"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/blog/2019/11/07/how-gitlab-pages-made-our-sketch-design-handoffs-easier-and-faster/"
+title = "How GitLab Pages made our Sketch design handoffs easier and faster"
+publishedAt = "2019-11-07"
+language = "en"
+
+[[gitlab]]
+id = "https://about.gitlab.com/blog/2020/05/20/creating-a-dark-ui-for-gitlabs-web-ide/"
+title = "How we created a dark UI for GitLab's Web IDE"
+publishedAt = "2020-05-20"
+language = "en"
+
+[[goibibo]]
+id = "https://web.dev/goibibo/"
+title = "How Goibibo's PWA improved conversions by 60%"
+publishedAt = "2020-09-29"
+language = "en"
+
+[[google]]
+id = "https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3"
+title = "Designing very large (JavaScript) applications"
+publishedAt = "2018-04-15"
+language = "en"
+
+[[google]]
+id = "https://medium.com/google-design/google-photos-45b714dfbed1"
+title = "Building the Google Photos Web UI"
+publishedAt = "2018-07-10"
+language = "en"
+
+[[google]]
+id = "http://neugierig.org/software/blog/2018/09/typescript-at-google.html"
+title = "TypeScript at Google"
+publishedAt = "2018-09-01"
+language = "en"
+
+[[google]]
+id = "https://dev.to/chromiumdev/the-chrome-dev-summit-site-case-study-15ng"
+title = "The Chrome Dev Summit site: case study"
+publishedAt = "March 12,2019"
+language = "en"
+
+[[google]]
+id = "https://news.dartlang.org/2016/03/the-new-adwords-ui-uses-dart-we-asked.html"
+title = "The new AdWords UI uses Dart — we asked why"
+publishedAt = "2016-03-31"
+language = "en"
+
+[[google]]
+id = "https://medium.com/google-design/a-streamlined-workflow-for-performative-animations-be0a6ff3df7a"
+title = "A Recipe for Designing Animations — Without Sacrificing Performance"
+publishedAt = "2019-06-04"
+language = "en"
+
+[[google]]
+id = "https://web.dev/google-search-sw/"
+title = "Bringing service workers to Google Search"
+publishedAt = "2019-06-20"
+language = "en"
+
+[[google]]
+id = "https://developer.chrome.com/blog/webauthn-tab/"
+title = "How we built the Chrome DevTools WebAuthn tab"
+publishedAt = "2020-10-22"
+language = "en"
+
+[[google]]
+id = "https://developers.google.com/web/updates/2021/01/puppeteer-typescript"
+title = "Migrating Puppeteer to TypeScript"
+publishedAt = "2021-01-21"
+language = "en"
+
+[[google]]
+id = "https://developer.chrome.com/blog/migrating-to-typescript/"
+title = "DevTools architecture refresh: migrating DevTools to TypeScript"
+publishedAt = "2021-04-08"
+language = "en"
+
+[[google]]
+id = "https://developer.chrome.com/en/blog/csp-issues/"
+title = "Implementing CSP and Trusted Types debugging in Chrome DevTools"
+publishedAt = "2021-11-01"
+language = "en"
+
+[[google]]
+id = "https://web.dev/case-studies/google-sheets-wasmgc"
+title = "Why Google Sheets ported its calculation worker from JavaScript to WasmGC"
+publishedAt = "2024-06-26"
+language = "en"
+
+[[govuk]]
+id = "https://frontendne.co.uk/talks/accessibility-for-developers-building-a-frontend-that-everyone-can-use"
+title = "Accessibility for developers: building a frontend that everyone can use"
+publishedAt = "2016-10-06"
+language = "en"
+
+[[govuk]]
+id = "https://accessibility.blog.gov.uk/2016/12/09/patterns-for-accessible-webchats"
+title = "Patterns for accessible webchats"
+publishedAt = "2016-12-09"
+language = "en"
+
+[[govuk]]
+id = "https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers"
+title = "How to create content that works well with screen readers"
+publishedAt = "2017-02-08"
+language = "en"
+
+[[govuk]]
+id = "https://accessibility.blog.gov.uk/2018/02/28/how-weve-made-gov-uk-elements-even-more-accessible"
+title = "How we’ve made GOV.UK Elements even more accessible"
+publishedAt = "2018-02-28"
+language = "en"
+
+[[govuk]]
+id = "https://accessibility.blog.gov.uk/2018/05/15/what-we-learned-from-getting-our-autocomplete-tested-for-accessibility"
+title = "What we learned from getting our autocomplete tested for accessibility"
+publishedAt = "2018-05-15"
+language = "en"
+
+[[govuk]]
+id = "https://accessibility.blog.gov.uk/2019/04/08/accessibility-lessons-dealing-with-a-large-amount-of-form-inputs"
+title = "Accessibility lessons: dealing with a large amount of form inputs"
+publishedAt = "2019-04-08"
+language = "en"
+
+[[govuk]]
+id = "https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/"
+title = "Why the GOV.UK Design System team changed the input type for numbers"
+publishedAt = "2020-02-24"
+language = "en"
+
+[[govuk]]
+id = "https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/"
+title = "Why videos on GOV.UK use the YouTube video player"
+publishedAt = "2020-03-16"
+language = "en"
+
+[[govuk]]
+id = "https://gds.blog.gov.uk/2023/12/15/how-we-reduced-css-size-and-improved-performance-across-gov-uk/"
+title = "How we reduced CSS size and improved performance across GOV.UK"
+publishedAt = "2023-12-15"
+language = "en"
+
+[[grammarly]]
+id = "https://web.archive.org/web/20190304201001/https://tech.grammarly.com/blog/building-browser-extensions-at-scale"
+title = "Building Browser Extensions At Scale"
+publishedAt = "2017-10-06"
+language = "en"
+
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/introducing-embrace/"
+title = "Introducing Embrace: A Framework for Building Declarative UIs"
+publishedAt = "2021-09-03"
+language = "en"
+
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/real-time-collaborative-text-editing/"
+title = "Real-Time Collaborative Text Editing"
+publishedAt = "2022-04-22"
+language = "en"
+
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/making-grammarly-feel-native-on-every-website/"
+title = "Making Grammarly Feel Native On Every Website"
+publishedAt = "2022-03-07"
+language = "en"
+
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/part-1-how-grammarly-tackles-hidden-complexity-in-front-end-applications/"
+title = "part 1"
+publishedAt = "2022-03-07"
+language = "en"
+
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/signals-with-focal-library/"
+title = "Signals With @grammarly/focal"
+publishedAt = "2023-08-21"
+language = "en"
+
+[[gusto]]
+id = "https://engineering.gusto.com/gusto-tech-talk-scaling-front-end-architecture/"
+title = "Scaling Front-end Architecture"
+publishedAt = "2016-06-10"
+language = "en"
+
+[[gusto]]
+id = "https://engineering.gusto.com/evolving-javascript-part-1-goodbye-backbone/"
+title = "Evolving JavaScript Part 1: Goodbye Backbone"
+publishedAt = "2016-07-12"
+language = "en"
+
+[[gusto]]
+id = "https://engineering.gusto.com/evolving-javascript-part-2-hello-react/"
+title = "Evolving JavaScript Part 2: Hello React"
+publishedAt = "2016-07-12"
+language = "en"
+
+[[gusto]]
+id = "https://engineering.gusto.com/evolving-javascript-part-3-building-a-react-application/"
+title = "Evolving JavaScript Part 3: Building a React Application"
+publishedAt = "2016-07-12"
+language = "en"
+
+[[gusto]]
+id = "https://engineering.gusto.com/taking-off-with-apollo/"
+title = "Taking off with Apollo"
+publishedAt = "2018-09-12"
+language = "en"
+
+[[gusto]]
+id = "https://engineering.gusto.com/how-i-fell-out-of-love-with-hocs/"
+title = "How I fell out of love with HOCs"
+publishedAt = "2018-12-09"
+language = "en"
+
+[[healthcaregov]]
+id = "https://blog.navapbc.com/building-a-design-system-for-healthcare-gov-20dc1a833ab3"
+title = "Building a design system for HealthCare.gov"
+publishedAt = "2017-08-29"
+language = "en"
+
+[[heap]]
+id = "https://heap.io/blog/engineering/goodbye-coffeescript-hello-typescript"
+title = "Goodbye CoffeeScript, Hello TypeScript"
+publishedAt = "2015-10-07"
+language = "en"
+
+[[heap]]
+id = "https://heap.io/blog/engineering/migrating-react-mobx-while-shipping-new-features"
+title = "Migrating To React + MobX While Shipping New Features"
+publishedAt = "2017-08-16"
+language = "en"
+
+[[heap]]
+id = "https://heap.io/blog/engineering/how-we-write-front-end-code"
+title = "How We Write Front-end Code"
+publishedAt = "2018-02-20"
+language = "en"
+
+[[heap]]
+id = "https://heap.io/blog/engineering/redesigning-heap-without-a-feature-branch"
+title = "Redesigning Heap Without a Feature Branch"
+publishedAt = "2019-04-10"
+language = "en"
+
+[[heap]]
+id = "https://heap.io/blog/engineering/migrating-to-typescript"
+title = "How we failed, then succeeded, at migrating to TypeScript"
+publishedAt = "2019-10-10"
+language = "en"
+
+[[heap]]
+id = "https://heap.io/blog/engineering/how-we-leveraged-asts-and-babel-to-capture-everything-on-react-native-apps"
+title = "How we leveraged ASTs and Babel to capture everything on React Native apps"
+publishedAt = "2020-06-23"
+language = "en"
+
+[[inderapotheke]]
+id = "https://www.inderapotheke.de/blog/farewell-google-maps"
+title = "Farewell, Google Maps"
+publishedAt = "2018-07-18"
+language = "en"
+
+[[infinitered]]
+id = "https://shift.infinite.red/switching-from-ava-to-jest-for-typescript-a6dac7d1712f"
+title = "Switching from Ava to Jest for TypeScript"
+publishedAt = "2017-11-06"
+language = "en"
+
+[[infinitered]]
+id = "https://shift.infinite.red/using-typescript-to-upgrade-ignite-without-losing-my-mind-352d8076d331"
+title = "Using TypeScript to upgrade Ignite without losing my mind"
+publishedAt = "2019-03-20"
+language = "en"
+
+[[infinitered]]
+id = "https://shift.infinite.red/yarn-1-vs-yarn-2-vs-npm-a69ccf0229cd"
+title = "Yarn 1 vs Yarn 2 vs NPM"
+publishedAt = "2020-02-06"
+language = "en"
+
+[[infinitered]]
+id = "https://shift.infinite.red/why-infinite-red-uses-mobx-state-tree-instead-of-redux-d6c1407dead"
+title = "Why Infinite Red uses MobX-State-Tree instead of Redux"
+publishedAt = "2020-06-16"
+language = "en"
+
+[[insider-inc]]
+id = "https://medium.com/insider-inc-engineering/how-to-style-different-sites-with-one-css-collection-6f33126d4cdb"
+title = "How to style different sites with one CSS collection"
+publishedAt = "2018-12-17"
+language = "en"
+
+[[insider-inc]]
+id = "https://medium.com/insider-inc-engineering/why-we-got-rid-of-all-our-front-end-and-back-end-engineers-f9c06034548"
+title = "Why we got rid of all our front-end and back-end engineers"
+publishedAt = "2019-02-13"
+language = "en"
+
+[[insider-inc]]
+id = "https://medium.com/insider-inc-engineering/delightful-ways-to-write-reusable-css-using-subclasses-903e90c9cf87"
+title = "Delightful ways to write reusable CSS using subclasses"
+publishedAt = "March 1 , 2019"
+language = "en"
+
+[[instagram]]
+id = "https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7"
+title = "React Native at Instagram"
+publishedAt = "2017-02-07"
+language = "en"
+
+[[instagram]]
+id = "https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538"
+title = "part 1"
+publishedAt = "2019-08-01"
+language = "en"
+
+[[internetarchive]]
+id = "https://medium.com/@vamptvo/pixels-vs-ems-users-do-change-font-size-5cfb20831773"
+title = "Pixels vs. Ems: Users DO Change Font Size"
+publishedAt = "2018-06-13"
+language = "en"
+
+[[intuit]]
+id = "https://medium.com/blueprint-by-intuit/making-accessibility-an-integral-part-of-the-creative-workflow-ca78767dd05b"
+title = "Making Accessibility an Integral Part of the Creative Workflow"
+publishedAt = "2018-04-15"
+language = "en"
+
+[[intuit]]
+id = "https://medium.com/blueprint-by-intuit/turbotax-lives-approach-to-a-gender-neutral-design-system-bed0c45ece44"
+title = "TurboTax Live’s Approach to a Gender-Neutral Design System"
+publishedAt = "2019-02-21"
+language = "en"
+
+[[intuit]]
+id = "https://medium.com/blueprint-by-intuit/delivering-consistent-animations-with-a-design-system-library-323f29f5efc6"
+title = "Delivering Consistent Animations with a Design System Library"
+publishedAt = "2019-04-25"
+language = "en"
+
+[[intuit]]
+id = "https://medium.com/blueprint-by-intuit/graphql-intuits-path-to-one-api-system-b8495e4dd281"
+title = "GraphQL: Intuit’s Path to ONE API System"
+publishedAt = "2019-03-13"
+language = "en"
+
+[[invision]]
+id = "https://engineering.invisionapp.com/post/sharing-eslint-across-teams/"
+title = "Sharing ESLint Across Teams"
+publishedAt = "2016-04-05"
+language = "en"
+
+[[invision]]
+id = "https://engineering.invisionapp.com/post/optimizing-webpack/"
+title = "Optimizing Webpack for Faster React Builds"
+publishedAt = "2016-04-12"
+language = "en"
+
+[[invision]]
+id = "https://engineering.invisionapp.com/post/persist-redux-state-by-using-sagas/"
+title = "Persist Redux State by Using Sagas"
+publishedAt = "2016-04-26"
+language = "en"
+
+[[invision]]
+id = "https://engineering.invisionapp.com/post/testing-eslint/"
+title = "Testing Our Shared ESLint Configs"
+publishedAt = "2016-05-12"
+language = "en"
+
+[[invision]]
+id = "https://engineering.invisionapp.com/post/how-eslint-saved-our-soul/"
+title = "How ESLint Saved Our Soul"
+publishedAt = "2016-08-12"
+language = "en"
+
+[[invision]]
+id = "https://engineering.invisionapp.com/post/react-performance-tune-up/"
+title = "React Performance Tune-Up"
+publishedAt = "2016-09-23"
+language = "en"
+
+[[invision]]
+id = "https://engineering.invisionapp.com/post/building-the-inspect-measurement-engine"
+title = "Building the inspect measurement engine"
+publishedAt = "2019-07-17"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/i18n-babel-plugin.htm"
+title = "Babel in Khan Academy's i18n Toolchain"
+publishedAt = "2015-06-22"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/fun-with-slopfields.htm"
+title = "Fun with slope fields, css and react"
+publishedAt = "2015-08-05"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/copy-pasting-more-than-just-text.htm"
+title = "Copy-pasting more than just text"
+publishedAt = "2015-08-31"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/i18nize-templates.htm"
+title = "i18nize-templates: Internationalization After the Fact"
+publishedAt = "2015-09-28"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/translation-server.htm"
+title = "Schrödinger's deploys no more: how we update translations"
+publishedAt = "2015-10-12"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/js-packaging-http2.htm"
+title = "Forgo JS packaging? Not so fast"
+publishedAt = "2015-11-23"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm"
+title = "Inline CSS at Khan Academy: Aphrodite"
+publishedAt = "2016-03-29"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/react-native-monorepo.htm"
+title = "Migrating to a Mobile Monorepo for React Native"
+publishedAt = "2017-05-29"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/creating-query-components-with-apollo.htm"
+title = "Creating Query Components with Apollo"
+publishedAt = "2017-06-12"
+language = "en"
+
+[[khanacademy]]
+id = "http://engineering.khanacademy.org/posts/tota11y.htm"
+title = "tota11y - an accessibility visualization toolkit"
+publishedAt = "2018-04-15"
+language = "en"
+
+[[kickstarter]]
+id = "https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1"
+title = "Namespacing Actions for Redux"
+publishedAt = "2017-11-20"
+language = "en"
+
+[[klarna]]
+id = "https://engineering.klarna.com/migrating-from-rails-asset-pipeline-to-node-s-webpack-684230e3a93a"
+title = "Migrating from Rails’ asset pipeline to Node’s webpack"
+publishedAt = "2016-01-02"
+language = "en"
+
+[[klarna]]
+id = "https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2"
+title = "How removing caching improved mobile performance by 25%"
+publishedAt = "2017-01-10"
+language = "en"
+
+[[klarna]]
+id = "https://engineering.klarna.com/improving-communication-and-confidence-with-visual-snapshot-testing-b04154c3aaf0"
+title = "Improving Communication and Confidence with Visual Snapshot Testing"
+publishedAt = "2017-03-14"
+language = "en"
+
+[[klarna]]
+id = "https://engineering.klarna.com/6-lessons-learned-from-optimizing-the-performance-of-a-node-js-service-f163cac20473"
+title = "6 Lessons learned from optimizing the performance of a Node.js service"
+publishedAt = "2020-01-09"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/detail/200"
+title = "LINE MANGA: Smooth page transition with Page Stack"
+publishedAt = "2018-01-18"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/detail/235"
+title = "Easy code-splitting with grow-loader"
+publishedAt = "2018-01-24"
+language = "en"
+
+[[linkedin]]
+id = "https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith"
+title = "Bringing a Modern Javascript Build Pipeline to LinkedIn"
+publishedAt = "2016-01-20"
+language = "en"
+
+[[linkedin]]
+id = "https://engineering.linkedin.com/blog/2017/10/sleek-and-fast--speeding-up-your-fat-web-client"
+title = "Sleek and Fast: Speeding Up your Fat Web Client"
+publishedAt = "2017-10-19"
+language = "en"
+
+[[linkedin]]
+id = "https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience"
+title = "The Glimmer Binary Experience"
+publishedAt = "2017-12-07"
+language = "en"
+
+[[linkedin]]
+id = "https://engineering.linkedin.com/blog/2018/01/ember-timer-leaks"
+title = "Ember Timer Leaks: The Bad Apples in Your Test Infrastructure"
+publishedAt = "2018-01-03"
+language = "en"
+
+[[linkedin]]
+id = "https://engineering.linkedin.com/blog/2018/03/how-we-built-the-same-app-twice-with-preact-and-glimmerjs"
+title = "Lighter than Lightweight: How We Built the Same App Twice with Preact and Glimmer.js"
+publishedAt = "2018-03-12"
+language = "en"
+
+[[linkedin]]
+id = "https://engineering.linkedin.com/blog/2020/automated-accessibility-testing"
+title = "LinkedIn’s approach to automated accessibility (A11y) testing"
+publishedAt = "2020-05-21"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2012/11/14/ie10-how-does-it-really-stack-up/"
+title = "IE10: How does it really stack up?"
+publishedAt = "2012-11-14"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2014/01/31/atomic-css-tool-set/"
+title = "Atomic CSS as a tool set"
+publishedAt = "2014-01-31"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2014/12/02/definitive-guide-copying-pasting-javascript/"
+title = "The Definitive Guide to Copying and Pasting in JavaScript"
+publishedAt = "2014-12-02"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2015/05/19/big-content-in-a-little-canvas/"
+title = "Big content in a little canvas"
+publishedAt = "2015-05-19"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2016/09/26/improving-angular-2-load-times/"
+title = "Improving Angular 2 Load Times and a 29KB Hello World App"
+publishedAt = "2016-09-26"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2016/11/08/angular-2-and-observables-data-sharing-in-a-multi-view-application/"
+title = "Angular 2 and Observables: Data Sharing in a Multi-View Application"
+publishedAt = "2016-11-08"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2017/04/10/using-angular-2-components-in-a-non-angular-app/"
+title = "Using Angular 2 Components In a Non-Angular App"
+publishedAt = "2017-04-10"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2017/11/16/converting-600k-lines-to-typescript-in-72-hours/"
+title = "Converting 600k lines to TypeScript in 72 hours"
+publishedAt = "2017-11-16"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2018/01/03/folder-upload-in-an-angular-app/"
+title = "How to handle folder uploads in Angular 2+"
+publishedAt = "2018-01-03"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2018/02/14/javascriptcore-the-holy-grail-of-cross-platform/"
+title = "JavaScriptCore – The Holy Grail of Cross Platform"
+publishedAt = "2018-02-14"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2018/06/20/how-to-actually-improve-type-safety-with-the-typescript-strict-flags/"
+title = "How to Actually Improve Type Safety with the TypeScript Strict Flags"
+publishedAt = "2018-06-20"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2018/11/09/tracking-javascript-performance-zone-js/"
+title = "ZoneTracker: Tracking JavaScript Performance with Zone.js"
+publishedAt = "2018-11-09"
+language = "en"
+
+[[lucidchart]]
+id = "https://www.lucidchart.com/techblog/2019/01/03/javascriptcore-10-months-later/"
+title = "JavaScriptCore—10 Months Later"
+publishedAt = "2019-01-03"
+language = "en"
+
+[[lyft]]
+id = "https://eng.lyft.com/typescript-at-lyft-64f0702346ea"
+title = "TypeScript at Lyft"
+publishedAt = "2017-09-27"
+language = "en"
+
+[[lyft]]
+id = "https://design.lyft.com/re-approaching-color-9e604ba22c88"
+title = "Re-approaching Color"
+publishedAt = "2018-09-21"
+language = "en"
+
+[[lyft]]
+id = "https://eng.lyft.com/changing-lanes-how-lyft-is-migrating-100-frontend-microservices-to-next-js-42199aaebd5f"
+title = "Changing Lanes: How Lyft is Migrating 100+ Frontend Microservices to Next.js"
+publishedAt = "2020-11-30"
+language = "en"
+
+[[lyft]]
+id = "https://eng.lyft.com/frontend-at-lyft-an-overview-f934c1524370"
+title = "Frontend at Lyft: An Overview"
+publishedAt = "2021-03-09"
+language = "en"
+
+[[mailru]]
+id = "https://web.dev/mailru-cwv/"
+title = "Improving Core Web Vitals on the Mail.ru home page resulted in an average 10% increase in conversion rates"
+publishedAt = "2021-11-15"
+language = "en"
+
+[[mailchimp]]
+id = "https://increment.com/testing/designing-automated-tests-for-react/"
+title = "Designing automated tests for React"
+publishedAt = "2019-08-10"
+language = "en"
+
+[[mdn]]
+id = "https://hacks.mozilla.org/2019/02/refactoring-mdn-macros-with-async-await-and-object-freeze/"
+title = "Refactoring MDN macros with async, await, and Object.freeze()"
+publishedAt = "2019-02-07"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480"
+title = "Why ContentEditable is Terrible"
+publishedAt = "2014-05-14"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/wait-dont-touch-that-a211832adc3a"
+title = "Wait, Don’t Touch That! Mutual Exclusion Locks & JavaScript"
+publishedAt = "2015-01-17"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/the-curious-case-of-disappearing-polish-s-fa398313d4df"
+title = "The curious case of the disappearing Polish S"
+publishedAt = "2015-02-02"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/five-goofy-things-medium-did-that-break-accessibility-3bc804ae818d"
+title = "Five Goofy Things Medium Did That Break Accessibility"
+publishedAt = "2015-06-29"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/the-unluckiest-paragraphs-751dd36d2d30"
+title = "The Unluckiest Paragraphs: A Tale of CSS and Why Parts of Medium Sometimes Disappear"
+publishedAt = "2015-12-05"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/simple-style-sheets-c3b588867899"
+title = "Simple Style Sheets, Or How to Improve Your Sleep by Dropping the Cascade"
+publishedAt = "2016-09-28"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4"
+title = "2 Fast 2 Furious: migrating Medium’s codebase without slowing down"
+publishedAt = "2018-03-22"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/the-case-of-the-eternal-blur-ab350b9653ea"
+title = "The case of the eternal blur: a bug hunt horror novella"
+publishedAt = "2018-05-02"
+language = "en"
+
+[[medium]]
+id = "https://medium.engineering/graphql-server-design-medium-34862677b4b8"
+title = "GraphQL Server Design @ Medium"
+publishedAt = "2018-11-02"
+language = "en"
+
+[[memsql]]
+id = "http://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/"
+title = "Porting 30K lines of code from Flow to TypeScript"
+publishedAt = "2019-01-13"
+language = "en"
+
+[[mercadolibre]]
+id = "https://web.dev/how-mercadolibre-optimized-web-vitals/"
+title = "How Mercado Libre optimized for Web Vitals (TBT/FID)"
+publishedAt = "2020-09-21"
+language = "en"
+
+[[microsoftbing]]
+id = "https://blogs.bing.com/search-quality-insights/august-2022/Fast-Front-End-Performance-for-Microsoft-Bing"
+title = "Fast Front-End Performance for Microsoft Bing"
+publishedAt = "2022-08-25"
+language = "en"
+
+[[microsofttodo]]
+id = "https://youtu.be/CWxc3AYja1I"
+title = "How We React at Microsoft To-Do"
+publishedAt = "2018-01-05"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/scaling-mixmax-front-end"
+title = "Scaling Mixmax: Front-end performance"
+publishedAt = "2015-05-05"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/autocomplete-search-performance"
+title = "How we built ‘instant’ autocomplete for Mixmax"
+publishedAt = "2015-11-05"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/yarn-ifying-mixmax"
+title = "Yarn-ifying Mixmax: why and how we moved from npm to Yarn"
+publishedAt = "2017-04-24"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/modern-csrf"
+title = "Using CORS policies to implement CSRF protection"
+publishedAt = "2017-06-13"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/backbone-to-react-without-rewriting"
+title = "React without Redux: how we moved from Backbone to React without rewriting"
+publishedAt = "2017-07-26"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/rollup-externals"
+title = "Handling 3rd-party JavaScript with Rollup: how and when to leave JS out of the bundle"
+publishedAt = "2017-12-03"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/precisely-observing-structural-page-changes"
+title = "Precisely observing structural page changes"
+publishedAt = "2017-12-07"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/flow-vs-typescript"
+title = "Choosing (and using) Javascript static typing: how Mixmax Engineering adopted Flow"
+publishedAt = "2018-05-15"
+language = "en"
+
+[[mixmax]]
+id = "https://mixmax.com/blog/to-yarn-and-back-again-npm"
+title = "To Yarn and Back (to npm) Again"
+publishedAt = "2018-05-29"
+language = "en"
+
+[[mixpanel]]
+id = "https://engineering.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/"
+title = "Straightening our Backbone: A lesson in event-driven UI development"
+publishedAt = "2015-04-08"
+language = "en"
+
+[[mixpanel]]
+id = "https://engineering.mixpanel.com/2018/06/12/making-web-components-work/"
+title = "Making Web Components Work, or: How We Learned to Stop Worrying and Love the DOM"
+publishedAt = "2018-06-12"
+language = "en"
+
+[[monzo]]
+id = "https://youtu.be/UXpY3-DlZ9c"
+title = "Building a Bank with Next.js: How We Use Next.js at Monzo"
+publishedAt = "2020-12-02"
+language = "en"
+
+[[mozilla]]
+id = "http://farmdev.com/thoughts/108/the-art-of-ui-skeletons"
+title = "The Art of UI Skeletons"
+publishedAt = "2019-04-23"
+language = "en"
+
+[[mozilla]]
+id = "https://hacks.mozilla.org/2020/10/to-eleventy-and-beyond/"
+title = "To Eleventy and Beyond"
+publishedAt = "2020-10-01"
+language = "en"
+
+[[mud]]
+id = "https://css-irl.info/a-year-of-utility-classes/"
+title = "A Year of Utility Classes"
+publishedAt = "2019-01-28"
+language = "en"
+
+[[myntra]]
+id = "https://medium.com/@nvkudva/myntras-web-ui-journey-amp-and-pwa-77b87523ee7d"
+title = "Myntra’s Web UI Journey — AMP and PWA"
+publishedAt = "2018-01-31"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/html5-video-playback-ui-62cfdd9b5d19"
+title = "HTML5 Video Playback UI"
+publishedAt = "2013-10-21"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/improving-the-performance-of-our-javascript-inheritance-model-af376d75665"
+title = "Improving the performance of our JavaScript inheritance model"
+publishedAt = "2014-05-16"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/node-js-in-flames-ddd073803aa4"
+title = "Node.js in Flames"
+publishedAt = "2014-11-19"
+language = "en"
+
+[[netflix]]
+id = "https://youtu.be/hOE6nVVr14c"
+title = "JSON Graph: Reactive REST at Netflix"
+publishedAt = "2015-04-01"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/localization-technologies-at-netflix-d033e7b13cf"
+title = "Localization Technologies at Netflix"
+publishedAt = "2015-06-04"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/making-netflix-com-faster-f95d15f2e972"
+title = "Making Netflix.com Faster"
+publishedAt = "2015-08-05"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b"
+title = "Crafting a high-performance TV user interface using React"
+publishedAt = "2017-01-12"
+language = "en"
+
+[[netflix]]
+id = "https://gist.github.com/DaBs/89ccc2ffd1d435efdacff05248514f38"
+title = "Netflix's approach to ES6 feature detection"
+publishedAt = "2017-01-20"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/pass-the-remote-user-input-on-tv-devices-923f6920c9a8"
+title = "Pass the Remote: User Input on TV Devices"
+publishedAt = "2017-05-17"
+language = "en"
+
+[[netflix]]
+id = "https://shoptalkshow.com/episodes/264-react-netflix"
+title = "Shop Talk podcast #264: React with Netflix"
+publishedAt = "2017-05-22"
+language = "en"
+
+[[netflix]]
+id = "https://youtu.be/V8oTJ8OZ5S0"
+title = "Performance Signup in React & Transactional Apps with Redux"
+publishedAt = "2017-10-25"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/implementing-japanese-subtitles-on-netflix-c165fbe61989"
+title = "Implementing Japanese Subtitles on Netflix"
+publishedAt = "2017-12-11"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/integrating-imperative-apis-into-a-react-application-1257e1b45ac6"
+title = "Integrating imperative APIs into a React application"
+publishedAt = "2017-12-20"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe"
+title = "Pseudo Localization @ Netflix"
+publishedAt = "2018-08-06"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/delivering-meaning-with-previews-on-web-3cedc0341b9e"
+title = "Delivering Meaning with Previews on Web"
+publishedAt = "2018-11-12"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/enhancing-the-netflix-ui-experience-with-hdr-1e7506ad3e8"
+title = "Enhancing the Netflix UI Experience with HDR"
+publishedAt = "2018-09-24"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f"
+title = "Our learnings from adopting GraphQL"
+publishedAt = "2018-12-10"
+language = "en"
+
+[[netflix]]
+id = "https://medium.com/netflix-techblog/modernizing-the-web-playback-ui-1ad2f184a5a0"
+title = "Modernizing the Web Playback UI"
+publishedAt = "2018-12-12"
+language = "en"
+
+[[netflix]]
+id = "https://youtu.be/LtrXwX81CPE"
+title = "Architecting UI for Netflix Studio Technology"
+publishedAt = "2019-11-14"
+language = "en"
+
+[[newrelic]]
+id = "https://blog.newrelic.com/engineering/javascript-perf-tips/"
+title = "Real-World JavaScript Performance Tips"
+publishedAt = "2014-11-14"
+language = "en"
+
+[[newrelic]]
+id = "https://blog.newrelic.com/engineering/mobile-ui-react/"
+title = "How We Architected the New Relic Mobile Web UI in React"
+publishedAt = "2018-01-03"
+language = "en"
+
+[[notion]]
+id = "https://www.notion.so/blog/migrating-notion-marketing-to-next-js"
+title = "Migrating Notion's marketing site to Next.js"
+publishedAt = "2021-08-12"
+language = "en"
+
+[[npm]]
+id = "http://blog.npmjs.org/post/172567815935/re-inventing-npmjscom"
+title = "Re-inventing npmjs.com"
+publishedAt = "2018-04-03"
+language = "en"
+
+[[npm]]
+id = "https://blog.npmjs.org/post/175311966445/javascript-usage-by-industry"
+title = "JavaScript Usage by Industry"
+publishedAt = "2018-06-27"
+language = "en"
+
+[[okgrow]]
+id = "https://www.okgrow.com/posts/flow-router-migration-guide"
+title = "Migrating from Iron Router to FlowRouter (with Blaze)"
+publishedAt = "2015-09-17"
+language = "en"
+
+[[okgrow]]
+id = "https://www.okgrow.com/posts/where-does-redux-fit-in-meteor"
+title = "Where does Redux fit in Meteor?"
+publishedAt = "2016-07-15"
+language = "en"
+
+[[okgrow]]
+id = "https://www.okgrow.com/posts/real-world-unit-testing-with-meteor-and-jest"
+title = "Real-world Unit Testing with Meteor and Jest"
+publishedAt = "2017-10-17"
+language = "en"
+
+[[okgrow]]
+id = "https://www.okgrow.com/posts/optimizing-graphql-apollo-engine"
+title = "Optimizing a GraphQL app using Apollo Engine"
+publishedAt = "2019-02-12"
+language = "en"
+
+[[oyo]]
+id = "https://medium.com/oyotech/oyo-on-a-user-experience-quest-with-amp-cff515cf849e"
+title = "OYO on a User Experience Quest with AMP ⚡"
+publishedAt = "2018-01-11"
+language = "en"
+
+[[oyo]]
+id = "https://medium.com/oyotech/how-brotli-compression-gave-us-37-latency-improvement-14d41e50fee4"
+title = "Brotli vs Gzip Compression. How we improved our latency by 37%"
+publishedAt = "2018-06-29"
+language = "en"
+
+[[oyo]]
+id = "https://medium.com/oyotech/amp-for-email-making-interactive-and-dynamic-email-experiences-at-oyo-ed7a6d8754b3"
+title = "AMP for Email - Interactive and Dynamic Email Experiences at OYO"
+publishedAt = "2019-03-26"
+language = "en"
+
+[[oyo]]
+id = "https://medium.com/oyotech/shipping-es6-in-browsers-without-polyfill-90d1fb440a55"
+title = "Shipping ES6 in browsers without Polyfill"
+publishedAt = "2019-04-17"
+language = "en"
+
+[[oyo]]
+id = "https://medium.com/oyotech/implementing-signed-exchange-for-better-amp-urls-38abd64c6766"
+title = "Signed-Exchange: Solving the AMP URLs Display Problem"
+publishedAt = "2019-05-07"
+language = "en"
+
+[[oyo]]
+id = "https://medium.com/oyotech/building-chrome-extension-with-reactjs-beginners-guide-ca44acdf9ffc"
+title = "Building Chrome Extension with ReactJs: Beginner’s Guide"
+publishedAt = "2019-05-13"
+language = "en"
+
+[[oyo]]
+id = "https://medium.com/oyotech/a-complete-guide-to-trusted-web-activity-twa-oyo-case-study-3dd327d7afc5"
+title = "A complete implementation guide to Trusted Web Activity(TWA)- OYO Lite"
+publishedAt = "2019-11-07"
+language = "en"
+
+[[oyo]]
+id = "https://tech.oyorooms.com/migrating-to-webpack-5-to-improve-build-time-and-reduce-chunk-sizes-50486918d348"
+title = "Migrating to webpack 5 to improve build time and reduce chunk sizes"
+publishedAt = "2021-06-30"
+language = "en"
+
+[[oyster]]
+id = "http://tech.oyster.com/oyster-shots-on-the-front-end/"
+title = "Oyster Shots on the Front End"
+publishedAt = "2011-07-29"
+language = "en"
+
+[[oyster]]
+id = "http://tech.oyster.com/using-react-and-jquery-together/"
+title = "Using React and jQuery Together"
+publishedAt = "2016-03-22"
+language = "en"
+
+[[palantir]]
+id = "https://medium.com/palantir/scaling-product-design-with-blueprint-25492827bb4a"
+title = "Scaling product design with Blueprint"
+publishedAt = "2017-01-06"
+language = "en"
+
+[[palantir]]
+id = "https://medium.com/palantir/tslint-in-2019-1a144c2317a9"
+title = "TSLint in 2019"
+publishedAt = "2019-02-19"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef"
+title = "Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout"
+publishedAt = "2015-09-26"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/@bluepnume/how-we-manage-sane-tagging-releasing-and-shrink-wrapping-for-paypal-checkout-d1e37f20533a"
+title = "Auto-shrink-wrapping in PayPal Checkout, and how it’s saved us more than once"
+publishedAt = "2016-02-10"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/@bluepnume/dependency-injection-in-angular-isn-t-worth-it-more-lessons-learned-from-scaling-paypal-checkout-2189ec9c21a0"
+title = "Dependency injection in Angular isn’t worth it. More lessons learned from scaling PayPal Checkout"
+publishedAt = "2016-04-03"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/@bluepnume/less-is-more-reducing-thousands-of-paypal-buttons-into-a-single-iframe-using-xcomponent-d902d71d8875"
+title = "Less is more: reducing thousands of PayPal buttons into a single iframe, using zoid"
+publishedAt = "2017-03-17"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/@bluepnume/safaris-new-tracking-rules-and-enabling-cross-domain-data-storage-85241eea7483"
+title = "Safari’s new third party tracking rules, and enabling cross-domain data storage"
+publishedAt = "2017-08-30"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/@bluepnume/reinventing-cross-origin-requests-without-cors-b9c4cb645376"
+title = "Reinventing cross-origin requests, without CORS"
+publishedAt = "2017-09-06"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/@bluepnume/introducing-paypals-open-source-cross-domain-javascript-suite-95f991b2731d"
+title = "Introducing PayPal’s open-source cross-domain javascript suite"
+publishedAt = "2017-10-16"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53"
+title = "GraphQL: A success story for PayPal Checkout"
+publishedAt = "2018-10-17"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/paypal-engineering/why-every-new-web-app-at-paypal-starts-with-typescript-9d1acc07c839"
+title = "Why every new web app at PayPal starts with TypeScript"
+publishedAt = "2019-01-21"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/paypal-engineering/scaling-graphql-at-paypal-b5b5ac098810"
+title = "Scaling GraphQL at PayPal"
+publishedAt = "2019-10-30"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/paypal-tech/reusing-ui-components-at-enterprise-level-a7df1ea1f8dd"
+title = "Sharing UI Components at an Enterprise Level"
+publishedAt = "2020-06-02"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/paypal-engineering/how-micro-frontend-has-changed-our-team-dynamic-ba2f01597f48"
+title = "How Micro Frontend Has Changed Our Team Dynamic"
+publishedAt = "2020-08-10"
+language = "en"
+
+[[paypal]]
+id = "https://medium.com/paypal-tech/graphql-at-paypal-an-adoption-story-b7e01175f2b7"
+title = "GraphQL at PayPal: An Adoption Story"
+publishedAt = "2021-09-01"
+language = "en"
+
+[[pinafore]]
+id = "https://nolanlawson.com/2018/04/09/introducing-pinafore-for-mastodon"
+title = "Introducing Pinafore for Mastodon"
+publishedAt = "2018-04-09"
+language = "en"
+
+[[pinafore]]
+id = "https://nolanlawson.com/2018/11/18/scrolling-the-main-document-is-better-for-performance-accessibility-and-usability"
+title = "Scrolling the main document is better for performance, accessibility, and usability"
+publishedAt = "2018-11-18"
+language = "en"
+
+[[pinafore]]
+id = "https://nolanlawson.com/2019/02/10/building-a-modern-carousel-with-css-scroll-snap-smooth-scrolling-and-pinch-zoom"
+title = "Building a modern carousel with CSS scroll snap, smooth scrolling, and pinch-zoom"
+publishedAt = "2019-02-10"
+language = "en"
+
+[[pinafore]]
+id = "https://nolanlawson.com/2019/06/02/one-year-of-pinafore"
+title = "One year of Pinafore"
+publishedAt = "2019-06-02"
+language = "en"
+
+[[pinafore]]
+id = "https://nolanlawson.com/2019/09/22/the-joy-and-challenge-of-developing-for-kaios"
+title = "The joy and challenge of developing for KaiOS"
+publishedAt = "2019-09-22"
+language = "en"
+
+[[pinafore]]
+id = "https://nolanlawson.com/2019/11/05/what-ive-learned-about-accessibility-in-spas"
+title = "What I’ve learned about accessibility in SPAs"
+publishedAt = "2019-11-05"
+language = "en"
+
+[[pinterest]]
+id = "https://www.smashingmagazine.com/2013/06/pinterest-paint-performance-case-study/"
+title = "Gone In 60 Frames Per Second: A Pinterest Paint Performance Case Study"
+publishedAt = "2013-06-10"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/demystifying-seo-with-experiments-a183b325cf4c"
+title = "Demystifying SEO with experiments"
+publishedAt = "2015-01-27"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/how-we-made-javascript-testing-15x-faster-5ba35b5d3947"
+title = "How we made JavaScript testing 15x faster"
+publishedAt = "2015-02-03"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/making-pinterest-https-637ec925a8ad"
+title = "Making Pinterest HTTPS"
+publishedAt = "2015-03-13"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/how-we-switched-our-template-rendering-engine-to-react-a799a3d540b0"
+title = "How we switched our template rendering engine to React"
+publishedAt = "2016-11-18"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984"
+title = "Introducing Bonsai: an open source Webpack analyzer"
+publishedAt = "2017-06-02"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/migrating-pinterest-profiles-to-react-479f4f7306aa"
+title = "Migrating Pinterest profiles to React"
+publishedAt = "2016-09-23"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154"
+title = "A Pinterest Progressive Web App Performance Case Study"
+publishedAt = "2017-11-30"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6"
+title = "Supporting React Native at Pinterest"
+publishedAt = "2018-05-10"
+language = "en"
+
+[[pinterest]]
+id = "https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05"
+title = "A one year PWA retrospective"
+publishedAt = "2018-07-20"
+language = "en"
+
+[[pivotaltracker]]
+id = "https://www.pivotaltracker.com/blog/Elm-pivotal-tracker/"
+title = "Using Elm in Production at Pivotal Tracker"
+publishedAt = "2017-01-31"
+language = "en"
+
+[[pivotaltracker]]
+id = "https://www.pivotaltracker.com/blog/improving-accessibility-in-pivotal-tracker"
+title = "Improving Accessibility in Pivotal Tracker"
+publishedAt = "2018-02-01"
+language = "en"
+
+[[plaid]]
+id = "https://blog.plaid.com/securing-webviews-with-chrome-custom-tabs"
+title = "Securing WebViews with Chrome Custom Tabs"
+publishedAt = "2020-04-09"
+language = "en"
+
+[[plotly]]
+id = "https://plot.ly/javascript/modularizing-monolithic-javascript-projects/"
+title = "Modularizing monolithic javascript projects in plotly.js"
+publishedAt = "2016-01-28"
+language = "en"
+
+[[producthunt]]
+id = "https://youtu.be/F38nRMktS9Q"
+title = "React @ Product Hunt"
+publishedAt = "2017-05-30"
+language = "en"
+
+[[producthunt]]
+id = "https://www.youtube.com/watch?v=H0YCeHeHbr0"
+title = "GraphQL @ Product Hunt"
+publishedAt = "2017-11-02"
+language = "en"
+
+[[proton]]
+id = "https://www.smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/"
+title = "Deploying CSS Logical Properties On Web Apps"
+publishedAt = "2022-12-23"
+language = "en"
+
+[[quizlet]]
+id = "https://medium.com/tech-quizlet/smooth-game-animations-in-react-df43ece916c8"
+title = "Smooth Game Animations in React"
+publishedAt = "2016-02-18"
+language = "en"
+
+[[quizlet]]
+id = "https://medium.com/tech-quizlet/launching-a-successful-redesign-for-20-million-students-2f4c4b518b6e"
+title = "Launching A Successful Redesign For 20 Million Students"
+publishedAt = "2017-06-13"
+language = "en"
+
+[[quizlet]]
+id = "https://medium.com/tech-quizlet/cypress-the-future-of-end-to-end-testing-for-web-applications-8ee108c5b255"
+title = "Cypress: The future of end-to-end testing for web applications"
+publishedAt = "2018-02-08"
+language = "en"
+
+[[quizlet]]
+id = "https://medium.com/tech-quizlet/now-or-never-migrating-300k-loc-from-flow-to-typescript-at-quizlet-d3bae5830a1"
+title = "Now or Never: Migrating 300k LOC from Flow to TypeScript at Quizlet"
+publishedAt = "2019-06-18"
+language = "en"
+
+[[quora]]
+id = "https://www.quora.com/q/quoraengineering/Faster-Paint-Times"
+title = "Faster Paint Times"
+publishedAt = "2016-08-18"
+language = "en"
+
+[[quora]]
+id = "https://www.quora.com/q/quoraengineering/Choosing-Quora-s-GraphQL-client"
+title = "Choosing Quora’s GraphQL client"
+publishedAt = "2020-07-22"
+language = "en"
+
+[[reagroup]]
+id = "https://www.rea-group.com/blog/reactjs-real-world-examples-of-higher-order-components/"
+title = "ReactJS – Real World Examples of Higher-Order Components"
+publishedAt = "2016-05-06"
+language = "en"
+
+[[reagroup]]
+id = "https://www.rea-group.com/blog/singletons-suck-aka-flux-to-redux/"
+title = "Singletons Suck (aka Flux to Redux)"
+publishedAt = "2016-08-17"
+language = "en"
+
+[[reagroup]]
+id = "https://www.rea-group.com/blog/reactjs-performance-debugging-aka-the-magic-of-reselect-selectors/"
+title = "ReactJS Performance Debugging (aka The Magic of Reselect Selectors)"
+publishedAt = "2016-09-09"
+language = "en"
+
+[[reagroup]]
+id = "https://www.rea-group.com/blog/my-journey-in-a-ui-project-aka-front-end-is-the-new-back-end/"
+title = "My Journey in a UI Project (aka front-end is the new back-end)"
+publishedAt = "2017-06-23"
+language = "en"
+
+[[reaktor]]
+id = "https://www.reaktor.com/blog/refactoring-30000-lines-js-types/"
+title = "Refactoring 30000 lines of JS with types"
+publishedAt = "2017-01-24"
+language = "en"
+
+[[reddit]]
+id = "https://redditblog.com/2017/04/13/how-we-built-rplace/"
+title = "How We Built r/Place"
+publishedAt = "2017-04-13"
+language = "en"
+
+[[reddit]]
+id = "https://redditblog.com/2017/06/30/why-we-chose-typescript/"
+title = "Why We Chose Typescript"
+publishedAt = "2017-06-30"
+language = "en"
+
+[[redmart]]
+id = "http://geeks.redmart.com/2015/04/22/angular-the-hard-way-1/"
+title = "Angular The Hard Way #1 Organise and manage domain data"
+publishedAt = "2015-04-22"
+language = "en"
+
+[[redmart]]
+id = "http://geeks.redmart.com/2018/10/25/redmarts-experience-with-pwa/"
+title = "RedMart's experience with PWA"
+publishedAt = "2018-10-25"
+language = "en"
+
+[[redmart]]
+id = "http://geeks.redmart.com/2018/11/14/how-we-use-storybook-for-documentation-and-code-reviews/"
+title = "How we use Storybook for documentation and code reviews"
+publishedAt = "2018-11-14"
+language = "en"
+
+[[replit]]
+id = "https://repl.it/site/blog/infinite-loops"
+title = "Infinite Loops"
+publishedAt = "2017-01-23"
+language = "en"
+
+[[replit]]
+id = "https://repl.it/site/blog/ide"
+title = "Modular, fast, small: how we built a server-rendered IDE"
+publishedAt = "2018-02-14"
+language = "en"
+
+[[revolut]]
+id = "https://medium.com/revolut/how-we-learned-to-stop-worrying-and-love-graphql-80a5f83f36d9"
+title = "How we learned to stop worrying and love GraphQL"
+publishedAt = "2019-08-08"
+language = "en"
+
+[[revolut]]
+id = "https://medium.com/revolut/the-fundamentals-of-web-development-at-revolut-bb5e2888e84f"
+title = "The fundamentals of web development at Revolut"
+publishedAt = "2021-01-04"
+language = "en"
+
+[[roompact]]
+id = "https://charukiewi.cz/posts/elm/"
+title = "Elm In Production: 25,000 Lines Later"
+publishedAt = "2017-07-30"
+language = "en"
+
+[[safetyculture]]
+id = "https://medium.com/safetycultureengineering/why-we-moved-our-graphql-server-from-node-js-to-golang-645b00571535"
+title = "Why we moved our graphQL server from Node.js to Golang"
+publishedAt = "2018-06-27"
+language = "en"
+
+[[scratch]]
+id = "https://bocoup.com/blog/porting-scratch-from-flash-to-javascript-performance-interoperability-and-extensions"
+title = "Porting Scratch from Flash to JavaScript: Performance, Interoperability and Extensions"
+publishedAt = "2019-02-28"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/building-sentry-source-maps-and-their-problems"
+title = "Building Sentry: Source maps and their problems"
+publishedAt = "2019-07-16"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/slow-and-steady-converting-sentrys-entire-frontend-to-typescript"
+title = "Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript"
+publishedAt = "2021-04-12"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/js-browser-sdk-bundle-size-matters"
+title = "How we trimmed the Sentry JavaScript SDK file size by 20%"
+publishedAt = "2022-02-28"
+language = "en"
+
+[[sentry]]
+id = "https://blog.sentry.io/2022/07/19/javascript-sdk-package-reduced"
+title = "JavaScript SDK “Package Size is Massive” - So we reduced it by 29%"
+publishedAt = "2022-07-19"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/understanding-the-performance-impact-of-generated-javascript"
+title = "Understanding the Performance Impact of Generated JavaScript"
+publishedAt = "2022-07-22"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/how-we-made-javascript-stack-traces-awesome"
+title = "How We Made JavaScript Stack Traces Awesome"
+publishedAt = "2022-11-30"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library"
+title = "Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library"
+publishedAt = "2023-02-23"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/reduce-ci-time-with-nx-caching"
+title = "How we reduced CI time by 35% with Nx Caching"
+publishedAt = "2023-03-31"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/measuring-session-replay-overhead"
+title = "Measuring Session Replay Overhead"
+publishedAt = "2023-07-05"
+language = "en"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/session-replay-sdk-bundle-size-optimizations"
+title = "How We Reduced Replay SDK Bundle Size by 35%"
+publishedAt = "2023-11-14"
+language = "en"
+
+[[shopify]]
+id = "https://shopify.engineering/how-17-lines-of-code-improved-shopify-com-loading-by-50"
+title = "How 17 lines of code improved shopify.com loading by 50%"
+publishedAt = "2017-05-24"
+language = "en"
+
+[[shopify]]
+id = "https://shopify.engineering/building-shopify-mobile-with-native-and-web-technology"
+title = "Building Shopify mobile with native and web technology"
+publishedAt = "2017-09-29"
+language = "en"
+
+[[shopify]]
+id = "https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2"
+title = "Designing a GraphQL API"
+publishedAt = "2018-06-18"
+language = "en"
+
+[[shopify]]
+id = "https://shopify.engineering/improve-ui-performance-understanding-your-user"
+title = "Want to Improve UI Performance? Start by Understanding Your User"
+publishedAt = "2019-10-20"
+language = "en"
+
+[[shopify]]
+id = "https://shopify.engineering/how-we-built-hydrogen"
+title = "How We Built Hydrogen: A React Framework for Building Custom Storefronts"
+publishedAt = "2022-06-22"
+language = "en"
+
+[[skillshare]]
+id = "https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b"
+title = "How We Ditched Redux for MobX"
+publishedAt = "2018-07-02"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb"
+title = "Reducing Slack’s memory footprint"
+publishedAt = "2017-03-03"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/typescript-at-slack-a81307fa288d"
+title = "TypeScript at Slack"
+publishedAt = "2017-04-11"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/rebuilding-slacks-emoji-picker-in-react-bfbd8ce6fbfe"
+title = "Rebuilding Slack’s Emoji Picker in React"
+publishedAt = "2017-05-23"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/getting-to-slack-faster-with-incremental-boot-ff063c9222e4"
+title = "Getting to Slack faster with incremental boot"
+publishedAt = "2016-07-05"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/localizing-slack-680c4bc7f45a"
+title = "Localizing Slack"
+publishedAt = "2017-09-12"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/rebuilding-slack-com-b124c405c193"
+title = "Rebuilding slack.com"
+publishedAt = "2017-10-11"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1"
+title = "Keep webpack Fast: A Field Guide for Better Build Performance"
+publishedAt = "2018-01-17"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4"
+title = "When a rewrite isn’t: rebuilding Slack on the desktop"
+publishedAt = "2019-07-22"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/service-workers-at-slack-our-quest-for-faster-boot-times-and-offline-support-3492cf79c88"
+title = "Service Workers at Slack: Our Quest for Faster Boot Times and Offline Support"
+publishedAt = "2019-08-29"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/the-gradual-design-system-how-we-built-slack-kit-8a2830484259"
+title = "The Gradual Design System: How We Built Slack Kit"
+publishedAt = "2019-09-12"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/building-dark-mode-on-desktop-811508b5d15f"
+title = "Building Dark Mode on Desktop"
+publishedAt = "2019-09-24"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd"
+title = "Gantry: Slack’s Fast-booting Frontend Framework"
+publishedAt = "2019-10-23"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/a-day-in-the-life-of-a-frontend-product-engineer-at-slack-27375455cfaa"
+title = "A Day in the Life of a Frontend Product Engineer at Slack"
+publishedAt = "2020-02-05"
+language = "en"
+
+[[slack]]
+id = "https://increment.com/frontend/case-study-web-components-for-screen-readers/"
+title = "How Slack changed the way it designs accessible frontend components"
+publishedAt = "May 2020"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/the-unsuspecting-beauty-complexity-of-web-forms/"
+title = "The Unsuspecting Beauty & Complexity of Web Forms"
+publishedAt = "2020-09-15"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/creating-a-react-analytics-logging-library/"
+title = "part 1"
+publishedAt = "2020-11-07"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/managing-focus-transitions-in-slack"
+title = "Managing Focus Transitions in Slack"
+publishedAt = "2021-07-13"
+language = "en"
+
+[[snipcart]]
+id = "https://snipcart.com/blog/progressive-migration-backbone-vuejs-refactoring"
+title = "The Story of our Progressive Migration from Backbone to Vue.js"
+publishedAt = "2017-07-20"
+language = "en"
+
+[[soundcloud]]
+id = "https://developers.soundcloud.com/blog/front-end-javascript-bug-tracking"
+title = "Front-end JavaScript bug tracking"
+publishedAt = "2011-11-21"
+language = "en"
+
+[[soundcloud]]
+id = "https://developers.soundcloud.com/blog/building-the-next-soundcloud"
+title = "Building The Next SoundCloud"
+publishedAt = "2012-06-14"
+language = "en"
+
+[[soundcloud]]
+id = "https://developers.soundcloud.com/blog/smooth-image-loading-by-upscaling"
+title = "Smooth image loading by upscaling"
+publishedAt = "2014-02-20"
+language = "en"
+
+[[soundcloud]]
+id = "https://developers.soundcloud.com/blog/react-native-at-soundcloud"
+title = "React Native at SoundCloud"
+publishedAt = "2016-08-03"
+language = "en"
+
+[[soundcloud]]
+id = "https://developers.soundcloud.com/blog/garbage-collection-in-redux-applications"
+title = "Garbage Collection in Redux Applications"
+publishedAt = "2019-01-24"
+language = "en"
+
+[[soundcloud]]
+id = "https://developers.soundcloud.com/blog/playback-on-web-at-soundcloud"
+title = "Playback on Web at SoundCloud"
+publishedAt = "2019-05-03"
+language = "en"
+
+[[spectrum]]
+id = "https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/"
+title = "Tech Choices I Regret at Spectrum"
+publishedAt = "2019-01-16"
+language = "en"
+
+[[spotify]]
+id = "https://medium.com/@activetheory/spotify-wrapped-2018-technical-case-study-5b7cfb7e9d3a"
+title = "Spotify Wrapped 2018 — Technical Case Study"
+publishedAt = "2018-12-18"
+language = "en"
+
+[[spotify]]
+id = "https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/"
+title = "Building Spotify’s New Web Player"
+publishedAt = "2019-03-25"
+language = "en"
+
+[[spotify]]
+id = "https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/"
+title = "(Right to Left (The Mirror World"
+publishedAt = "2019-04-15"
+language = "en"
+
+[[spotify]]
+id = "https://labs.spotify.com/2019/07/03/web-scripts-creating-npm-libraries-in-a-snap-at-spotify/"
+title = "web-scripts – creating NPM libraries in a snap at Spotify"
+publishedAt = "2019-07-03"
+language = "en"
+
+[[spotify]]
+id = "https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/"
+title = "Reimagining Design Systems at Spotify"
+publishedAt = "2019-12-16"
+language = "en"
+
+[[stackoverflow]]
+id = "https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow"
+title = "HTTPS on Stack Overflow: The End of a Long Road"
+publishedAt = "2017-05-22"
+language = "en"
+
+[[stackoverflow]]
+id = "https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/"
+title = "Building dark mode on Stack Overflow"
+publishedAt = "2020-03-31"
+language = "en"
+
+[[stripe]]
+id = "https://stripe.com/blog/connect-front-end-experience"
+title = "Connect: behind the front-end experience"
+publishedAt = "2017-06-19"
+language = "en"
+
+[[stripe]]
+id = "https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491"
+title = "A new approach to mocking GraphQL data: how we power React component tests and examples at Stripe"
+publishedAt = "2018-12-11"
+language = "en"
+
+[[stripe]]
+id = "https://stripe.com/en-pt/blog/accessible-color-systems"
+title = "Designing accessible color systems"
+publishedAt = "2019-10-15"
+language = "en"
+
+[[stripe]]
+id = "https://stripe.com/blog/globe"
+title = "To design and develop an interactive globe"
+publishedAt = "2020-09-01"
+language = "en"
+
+[[stripe]]
+id = "https://stripe.com/blog/migrating-to-typescript"
+title = "Migrating millions of lines of code to TypeScript"
+publishedAt = "2022-05-20"
+language = "en"
+
+[[sumup]]
+id = "https://medium.com/sumup-engineering/10-lessons-learned-building-sumups-design-system-577af292ae56"
+title = "10 lessons learned building SumUp’s design system"
+publishedAt = "2019-08-15"
+language = "en"
+
+[[superhuman]]
+id = "https://blog.superhuman.com/delightful-search-more-than-meets-the-eye-d3fa2e3ef3b6"
+title = "Delightful search: more than meets the eye"
+publishedAt = "2017-05-05"
+language = "en"
+
+[[takeshape]]
+id = "https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/"
+title = "Why we switched from Yarn to pnpm"
+publishedAt = "2020-06-09"
+language = "en"
+
+[[theguardian]]
+id = "https://www.theguardian.com/info/developer-blog/2016/dec/18/what-we-learnt-from-our-mistakes-in-2016"
+title = "What we learnt from our mistakes in 2016"
+publishedAt = "2016-12-18"
+language = "en"
+
+[[theguardian]]
+id = "https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier"
+title = "Revisiting the rendering tier"
+publishedAt = "2019-04-04"
+language = "en"
+
+[[theguardian]]
+id = "https://www.theguardian.com/info/2019/dec/08/migrating-the-guardian-website-to-react"
+title = "Migrating the Guardian website to React"
+publishedAt = "2019-12-08"
+language = "en"
+
+[[theknotww]]
+id = "https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571"
+title = "Rebuilding the Guest List Manager with React + MobX at The Knot"
+publishedAt = "2017-06-19"
+language = "en"
+
+[[theknotww]]
+id = "https://tech.xogrp.com/react-native-the-knot-ca255494da79"
+title = "React Native @ The Knot"
+publishedAt = "2019-02-08"
+language = "en"
+
+[[theknotww]]
+id = "https://tech.xogrp.com/react-native-at-the-knot-a-designers-perspective-d3d3fe41ada1"
+title = "React Native @ The Knot: A Designer’s Perspective"
+publishedAt = "2019-02-13"
+language = "en"
+
+[[nytimes]]
+id = "https://open.nytimes.com/the-technology-behind-the-nytimes-com-redesign-3d3d3da70b9c"
+title = "The Technology Behind the NYTimes.com Redesign"
+publishedAt = "2014-01-08"
+language = "en"
+
+[[nytimes]]
+id = "https://open.nytimes.com/improving-article-accessibility-7bca8cf02b34"
+title = "Improving Article Accessibility"
+publishedAt = "2014-06-24"
+language = "en"
+
+[[nytimes]]
+id = "https://open.nytimes.com/building-a-cross-platform-360-degree-video-experience-at-the-new-york-times-c35afa92a2e8"
+title = "Building a Cross Platform 360-degree Video Experience at nytimes"
+publishedAt = "2016-11-11"
+language = "en"
+
+[[nytimes]]
+id = "https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764"
+title = "React, Relay and GraphQL: Under the Hood of The Times Website Redesign"
+publishedAt = "2017-06-30"
+language = "en"
+
+[[nytimes]]
+id = "https://youtu.be/HlZ3ZecECOU"
+title = "GraphQL in real life"
+publishedAt = "2019-04-19"
+language = "en"
+
+[[nytimes]]
+id = "https://open.nytimes.com/how-we-implemented-a-baseline-grid-using-css-cb13cac45201"
+title = "How We Implemented a Baseline Grid Using CSS"
+publishedAt = "2019-11-21"
+language = "en"
+
+[[nytimes]]
+id = "https://open.nytimes.com/a-more-accessible-web-fa87592da6d2"
+title = "A More Accessible Web"
+publishedAt = "2021-02-25"
+language = "en"
+
+[[telegraph]]
+id = "https://medium.com/the-telegraph-engineering/a-server-side-rendered-react-project-2fc7e75f4c57"
+title = "React Serverside rendering : build slicker apps with better SEO ranking"
+publishedAt = "2018-09-10"
+language = "en"
+
+[[telegraph]]
+id = "https://medium.com/the-telegraph-engineering/improving-third-party-web-performance-at-the-telegraph-a0a1000be5"
+title = "Improving third-party web performance at The Telegraph"
+publishedAt = "2019-04-30"
+language = "en"
+
+[[telegraph]]
+id = "https://web.dev/telegraph"
+title = "Improving Cumulative Layout Shift at Telegraph Media Group"
+publishedAt = "2021-06-14"
+language = "en"
+
+[[thetimescouk]]
+id = "https://medium.com/swlh/building-the-ui-for-the-new-the-times-website-26dc4e6569e"
+title = "Building the UI for the new The Times website"
+publishedAt = "2016-03-30"
+language = "en"
+
+[[usdsgov]]
+id = "https://medium.com/the-u-s-digital-service/building-forms-faster-on-vets-gov-d8619f4e9db"
+title = "Building Forms Faster on Vets.gov"
+publishedAt = "2017-06-02"
+language = "en"
+
+[[wsj]]
+id = "https://matthewstrom.com/writing/wsj-accessibility.html"
+title = "Making WSJ.com more accessible"
+publishedAt = "2016-08-03"
+language = "en"
+
+[[thisalso]]
+id = "https://medium.com/this-also/whitewater-9b47f1e32ffe"
+title = "Fixing HTML Video on Mobile"
+publishedAt = "2016-07-14"
+language = "en"
+
+[[thomasnet]]
+id = "https://julian.is/article/css-grid-at-scale/"
+title = "How We Adopted CSS Grid at Scale"
+publishedAt = "2018-03-01"
+language = "en"
+
+[[thread]]
+id = "https://thread.engineering/dealing-with-legacy-code-in-react-18bc0c039e8b"
+title = "Dealing with legacy code in React"
+publishedAt = "2018-05-10"
+language = "en"
+
+[[thread]]
+id = "https://thread.engineering/searching-and-sorting-text-with-diacritical-marks-in-javascript-45afef20e7f2"
+title = "Searching and sorting text with diacritical marks in JavaScript"
+publishedAt = "2018-08-29"
+language = "en"
+
+[[tinder]]
+id = "https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0"
+title = "A Tinder Progressive Web App Performance Case Study"
+publishedAt = "2017-12-24"
+language = "en"
+
+[[tinder]]
+id = "https://medium.com/@roderickhsiao/building-tinder-online-a447e6c0265e"
+title = "Building Tinder Online"
+publishedAt = "2018-02-09"
+language = "en"
+
+# [[tines]]
+# id = "https://www.tines.com/blog/our-approach-to-css-and-how-we-chose-it"
+# title = "Our approach to CSS and how we chose it"
+# publishedAt = "publication date is unknown"
+# language = "en"
+
+# [[tines]]
+# id = "https://www.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack-5"
+# title = "Understanding why our build got 15x slower with Webpack 5"
+# publishedAt = "publication date is unknown"
+# language = "en"
+
+[[tinymce]]
+id = "https://go.tinymce.com/blog/tinymce-is-going-mobile/"
+title = "TinyMCE is going mobile"
+publishedAt = "2017-03-31"
+language = "en"
+
+[[tinymce]]
+id = "https://go.tinymce.com/blog/benefits-of-gradual-strong-typing-in-javascript/"
+title = "Benefits of gradual strong typing in JavaScript"
+publishedAt = "2019-01-25"
+language = "en"
+
+[[tokopedia]]
+id = "https://medium.com/tokopedia-engineering/a-tokopedia-mobile-web-performance-case-study-48ee5c6e4d5c"
+title = "A Tokopedia Mobile Web Performance Case Study"
+publishedAt = "2020-05-22"
+language = "en"
+
+[[tokopedia]]
+id = "https://web.dev/tokopedia/"
+title = "How focusing on web performance improved Tokopedia's click-through rate by 35%"
+publishedAt = "2020-10-13"
+language = "en"
+
+[[treebo]]
+id = "https://tech.treebo.com/a-react-and-preact-progressive-web-app-performance-case-study-treebo-c09ef145bc2e"
+title = "A React And Preact Progressive Web App Performance Case Study: Treebo"
+publishedAt = "2017-09-13"
+language = "en"
+
+[[treebo]]
+id = "https://tech.treebo.com/redux-middlewares-an-approach-to-cancel-redux-actions-7e08b51b83ce"
+title = "Redux Middlewares — An approach to cancel redux actions"
+publishedAt = "2018-05-04"
+language = "en"
+
+[[treebo]]
+id = "https://tech.treebo.com/how-do-we-design-for-an-operations-heavy-product-84c10713d3ab"
+title = "How do we design for an operations heavy product?"
+publishedAt = "2018-05-31"
+language = "en"
+
+[[treebo]]
+id = "https://tech.treebo.com/iconography-for-treebo-c379bc910da1"
+title = "Iconography for Treebo"
+publishedAt = "2018-08-13"
+language = "en"
+
+[[treebo]]
+id = "https://tech.treebo.com/improving-user-experience-with-amp-treebos-case-study-9d382c53cba5"
+title = "Improving User Experience with AMP⚡- A Treebo Case Study"
+publishedAt = "2019-03-16"
+language = "en"
+
+[[treebo]]
+id = "https://tech.treebo.com/a-tale-of-brotli-compression-bcb071d9780a"
+title = "A Tale of Brotli Compression"
+publishedAt = "2020-01-20"
+language = "en"
+
+[[treebo]]
+id = "https://tech.treebo.com/graphql-at-treebo-f5b41c22c06f"
+title = "GraphQL at Treebo"
+publishedAt = "2020-10-23"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2015/04/27/right-to-left/"
+title = "Designing for RTL platforms - A flipped layout"
+publishedAt = "2015-04-27"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2015/05/28/introduce-webpack/"
+title = "Risk-free Migration From Assetic to Webpack"
+publishedAt = "2015-05-28"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2015/12/15/parallel-webpack/"
+title = "Speeding up webpack performance with parallel builds"
+publishedAt = "2015-12-15"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2016/02/02/large-scale-css-refactoring-at-trivago/"
+title = "Large Scale CSS Refactoring at trivago"
+publishedAt = "2016-02-02"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2016/06/01/dropping-ie8-support-consequences-for-javascript/"
+title = "Dropping IE8 Support: Consequences for JavaScript"
+publishedAt = "2016-06-01"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2016/06/16/thoughts-on-atom-building-in-the-pattern-library/"
+title = "Thoughts on Atom Building in the Pattern Library"
+publishedAt = "2016-06-16"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2016/09/05/inline-svg-icon-system/"
+title = "An Inline SVG Icon System For Our Hotel Search Application"
+publishedAt = "2016-09-05"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2017/07/07/css-done-right-post-rtlcss/"
+title = "CSS done right - Post RTLCSS"
+publishedAt = "2017-07-07"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2017/09/26/accessibility-at-trivago/"
+title = "Accessibility at trivago"
+publishedAt = "2017-09-26"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2017/12/22/trivago-just-made-filtering-faster-and-more-accessible-but-why-and-how/"
+title = "trivago just made filtering faster and more accessible, but why and how?"
+publishedAt = "2017-12-22"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2018/06/28/melody-the-sound-of-javascript-for-our-hotel-search/"
+title = "Melody - the sound of JavaScript for our Hotel Search"
+publishedAt = "2018-06-28"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2018/10/12/building-fast-and-reliable-web-applications/"
+title = "Building fast and reliable web applications"
+publishedAt = "2018-10-12"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2019/04/02/presenting-babel-plugin-cloudinary/"
+title = "Presenting babel-plugin-cloudinary"
+publishedAt = "2019-04-02"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2020/01/29/trivago-magazines-journey-to-server-side-rendering/"
+title = "trivago Magazine's Journey to Server-Side Rendering"
+publishedAt = "2020-01-29"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2020/03/10/the-first-prettier-plugin-for-twig-is-here/"
+title = "The First Prettier Plugin For Twig is Here"
+publishedAt = "2020-03-10"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2020/11/17/exploring-the-page-visibility-api-for-detecting-page-background-state/"
+title = "Exploring the Page Visibility API for Detecting Page Background State"
+publishedAt = "2020-11-17"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/"
+title = "Rethinking the Next-gen Analytics Web App at trivago"
+publishedAt = "2021-02-09"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/post/2021-04-19-designingmarketingemailsviapredefinedmod"
+title = "Designing Marketing Emails via predefined Modules in Salesforce Email Studio"
+publishedAt = "2021-04-19"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/post/2022-05-16-warp-a-web-application-rewrite-project"
+title = "WARP - A Web Application Rewrite Project"
+publishedAt = "2022-05-16"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/post/2022-08-01-three-learnings-switching-to-typescript"
+title = "3 Things We Learned When Switching to TypeScript"
+publishedAt = "2022-08-01"
+language = "en"
+
+[[trivago]]
+id = "https://tech.trivago.com/post/2023-09-27-end-to-end-tests-retry-strategies"
+title = "End-to-end tests retry strategies"
+publishedAt = "2023-09-27"
+language = "en"
+
+[[tumblr]]
+id = "https://javascript.tumblr.com/post/139610473242/moving-things-out-of-critical-rendering-path"
+title = "Moving things out of critical rendering path"
+publishedAt = "2016-02-19"
+language = "en"
+
+[[tumblr]]
+id = "https://javascript.tumblr.com/post/143583264647/here-at-tumblr-we-use-a-js-bundler-to-compile-our#notes"
+title = "The Road to Webpack"
+publishedAt = "2016-04-29"
+language = "en"
+
+[[tumblr]]
+id = "https://javascript.tumblr.com/post/165082071937/flow-and-typescript"
+title = "Flow and TypeScript"
+publishedAt = "2017-09-07"
+language = "en"
+
+[[tumblr]]
+id = "https://javascript.tumblr.com/post/171557569007/responsive-images"
+title = "Using srcset and sizes to make responsive HTML5 images"
+publishedAt = "2018-03-05"
+language = "en"
+
+[[tumblr]]
+id = "https://javascript.tumblr.com/post/172624931022/a-big-new-beautiful-future-for-the-web-at-tumblr"
+title = "A Big New Beautiful Future for the Web at Tumblr"
+publishedAt = "2018-04-05"
+language = "en"
+
+[[tumblr]]
+id = "https://javascript.tumblr.com/post/182476050141/how-we-wrote-our-own-service-worker-as-we"
+title = "How we wrote our own Service Worker"
+publishedAt = "2019-02-01"
+language = "en"
+
+[[tumblr]]
+id = "https://javascript.tumblr.com/post/182090529587/were-making-tumblr-more-accessible"
+title = "We’re making Tumblr more accessible!"
+publishedAt = "2019-01-17"
+language = "en"
+
+[[twitch]]
+id = "https://blog.twitch.tv/en/2016/08/08/improving-chat-rendering-performance-1c0945b82764/"
+title = "Improving Chat Rendering Performance"
+publishedAt = "2016-08-08"
+language = "en"
+
+[[twitch]]
+id = "https://blog.twitch.tv/en/2017/04/25/investigating-react-native-6032ecced610/"
+title = "Investigating React Native"
+publishedAt = "2017-04-25"
+language = "en"
+
+[[twitch]]
+id = "https://blog.twitch.tv/en/2019/12/03/beyond-purple/"
+title = "Beyond Purple"
+publishedAt = "2019-12-03"
+language = "en"
+
+[[twitter]]
+id = "https://pusher.com/sessions/meetup/viennajs/view-source-twittercom"
+title = "View Source: Twitter.com"
+publishedAt = "2017-01-01"
+language = "en"
+
+[[twitter]]
+id = "https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite.html"
+title = "How we built Twitter Lite"
+publishedAt = "2017-04-06"
+language = "en"
+
+[[twitter]]
+id = "http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html"
+title = "Infinite List and React"
+publishedAt = "2017-04-09"
+language = "en"
+
+[[twitter]]
+id = "https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3"
+title = "Twitter Lite and High Performance React Progressive Web Apps at Scale"
+publishedAt = "2017-04-11"
+language = "en"
+
+[[twitter]]
+id = "https://youtu.be/iWXC5VCfQHI"
+title = "The Twitter Lite team about their use of Node.js"
+publishedAt = "2017-04-12"
+language = "en"
+
+[[twitter]]
+id = "http://nicolasgallagher.com/redux-modules-and-code-splitting/"
+title = "Redux modules and code-splitting"
+publishedAt = "2018-02-02"
+language = "en"
+
+[[twitter]]
+id = "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/buildingfasterwithcomponents.html"
+title = "How using component-based design helps us build faster"
+publishedAt = "2019-07-16"
+language = "en"
+
+[[uber]]
+id = "https://eng.uber.com/ubereats-react-native/"
+title = "Powering UberEATS with React Native and Uber Engineering"
+publishedAt = "2017-03-28"
+language = "en"
+
+[[uber]]
+id = "https://eng.uber.com/m-uber"
+title = "Building m.uber: Engineering a High-Performance Web App for the Global Market"
+publishedAt = "2017-06-27"
+language = "en"
+
+[[uber]]
+id = "https://youtu.be/JWFyH13_I3o"
+title = "Javascript @ Uber"
+publishedAt = "2017-07-10"
+language = "en"
+
+[[uber]]
+id = "https://eng.uber.com/web-booking-flow/"
+title = "Building a More Seamless Web Booking Flow for Uber"
+publishedAt = "2019-07-25"
+language = "en"
+
+[[uber]]
+id = "https://eng.uber.com/best-practices-for-react-v16/"
+title = "Best Practices for Unit Testing in React Version 16"
+publishedAt = "2019-08-29"
+language = "en"
+
+[[uber]]
+id = "https://eng.uber.com/uber-eats-com-web-app-rewrite/"
+title = "Counting Calories: How We Improved the Performance and Developer Experience of UberEats.com"
+publishedAt = "2020-02-12"
+language = "en"
+
+[[udacity]]
+id = "https://engineering.udacity.com/how-a-fixed-width-button-can-get-your-company-trending-on-reddit-for-all-the-wrong-reasons-a-front-6214280888ab"
+title = "How a Fixed-Width Button Can Get Your Company Trending on Reddit for All the Wrong Reasons: A Front-End Developer Tale"
+publishedAt = "2016-04-11"
+language = "en"
+
+[[udacity]]
+id = "https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102"
+title = "React Native: A retrospective from the mobile-engineering team at Udacity"
+publishedAt = "2018-07-03"
+language = "en"
+
+[[udacity]]
+id = "https://engineering.udacity.com/udacitys-front-end-tech-stack-b19dae07f0ac"
+title = "Udacity’s Front-End Tech Stack"
+publishedAt = "2016-07-18"
+language = "en"
+
+[[unity]]
+id = "https://blogs.unity3d.com/2018/08/15/webassembly-is-here/"
+title = "WebAssembly is here!"
+publishedAt = "2018-08-15"
+language = "en"
+
+[[unity]]
+id = "https://blogs.unity3d.com/2018/09/17/webassembly-load-times-and-performance/"
+title = "WebAssembly Load Times and Performance"
+publishedAt = "2018-09-17"
+language = "en"
+
+[[unsplash]]
+id = "https://medium.com/unsplash/how-we-gradually-migrated-to-typescript-at-unsplash-7a34caa24ef1"
+title = "How we gradually migrated to TypeScript at Unsplash"
+publishedAt = "2018-03-14"
+language = "en"
+
+[[vercel]]
+id = "https://vercel.com/blog/how-we-made-the-vercel-dashboard-twice-as-fast"
+title = "How we made the Vercel Dashboard twice as fast"
+publishedAt = "2022-08-09"
+language = "en"
+
+[[vercel]]
+id = "https://vercel.com/blog/designing-the-vercel-virtual-product-tour"
+title = "Designing the Vercel virtual product tour"
+publishedAt = "2023-06-02"
+language = "en"
+
+[[vercel]]
+id = "https://vercel.com/blog/design-engineering-at-vercel"
+title = "Design Engineering at Vercel"
+publishedAt = "2024-03-29"
+language = "en"
+
+[[vercel]]
+id = "https://vercel.com/blog/how-vercel-adopted-microfrontends"
+title = "How Vercel adopted microfrontends"
+publishedAt = "2024-10-22"
+language = "en"
+
+[[verve]]
+id = "https://verve.co/engineering/graphql-a-retrospective/"
+title = "GraphQL: A Retrospective"
+publishedAt = "2018-11-28"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560"
+title = "React Native at WalmartLabs"
+publishedAt = "2016-12-19"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/cutting-dev-time-in-half-with-invalid-user-input-prevention-bea29ea315c"
+title = "Cutting Dev Time in Half With Invalid User Input Prevention"
+publishedAt = "2017-10-25"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/migrating-angular-1-x-apps-to-react-the-hybrid-way-3267ccf33755"
+title = "Migrating Angular 1.x apps to React — The Hybrid Way!"
+publishedAt = "2017-11-15"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/migrating-large-enterprise-to-nodejs-6c38523d2b33"
+title = "Migrating Large Enterprise to NodeJS"
+publishedAt = "2017-12-09"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/primer-on-front-end-automation-a9eee2c6bc1"
+title = "Primer on Front End Automation"
+publishedAt = "2018-07-27"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/lazy-loading-images-intersectionobserver-8c5bff730920"
+title = "Lazy Loading Images with IntersectionObserver"
+publishedAt = "2018-09-10"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/midway-walmarts-mocking-journey-84c34fcc4593"
+title = "Midway: Walmart’s mocking journey…"
+publishedAt = "2018-10-05"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/infinite-scrolling-the-right-way-11b098a08815"
+title = "Infinite Scroll’ing the right way"
+publishedAt = "2019-04-02"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/delivering-reactjs-applications-at-scale-5cb8a363f99"
+title = "Delivering ReactJS applications at scale"
+publishedAt = "2019-08-26"
+language = "en"
+
+[[walmartlabs]]
+id = "https://youtu.be/vB8JUx9Dp08"
+title = "Turbocharging Walmart.com"
+publishedAt = "2020-04-09"
+language = "en"
+
+[[walmartlabs]]
+id = "https://medium.com/walmartlabs/differential-serving-food-for-latest-browsers-ba96192eb0ad"
+title = "Differential Serving — Food for latest browsers"
+publishedAt = "2020-06-23"
+language = "en"
+
+[[wikimedia]]
+id = "https://vimeo.com/59916225"
+title = "Creative Techniques for Loading Web Pages Faster"
+publishedAt = "2012-01-17"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/15/investigating_a_performance_improvement/"
+title = "Investigating a performance improvement"
+publishedAt = "2017-06-02"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/19/improving_time-to-logo_performance_with_preload_links/"
+title = "Improving time-to-logo performance with preload links"
+publishedAt = "2017-06-07"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/61/beacons/"
+title = "Beacons"
+publishedAt = "2017-08-16"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/83/measuring_wikipedia_page_load_times/"
+title = "Measuring Wikipedia page load times"
+publishedAt = "2018-01-09"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/90/mustache.js_replaced_with_javascript_template_literals_in_extension_popups/"
+title = "mustache.js replaced with JavaScript template literals in Extension:Popups"
+publishedAt = "2018-04-03"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/93/extension_popups_page_previews_front-end_tooling/"
+title = "Extension:Popups (Page Previews) front-end tooling"
+publishedAt = "2018-04-19"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/109/mobile_web_performance_the_importance_of_the_device/"
+title = "Mobile web performance: the importance of the device"
+publishedAt = "2018-06-22"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/131/why_performance_matters/"
+title = "Why performance matters"
+publishedAt = "2018-12-12"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/146/migrating_code_from_mediawiki_s_resourceloader_to_webpack/"
+title = "Migrating code from MediaWiki's ResourceLoader to Webpack"
+publishedAt = "March 13 2019"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/157/evaluating_element_timing_for_images/"
+title = "Evaluating Element Timing for Images"
+publishedAt = "2019-04-10"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/161/performance_perception_how_satisfied_are_wikipedia_users/"
+title = "Performance perception: how satisfied are Wikipedia users?"
+publishedAt = "2019-05-29"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/165/performance_perception_the_effect_of_late-loading_banners/"
+title = "Performance perception: the effect of late-loading banners"
+publishedAt = "2019-06-13"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/167/performance_perception_correlation_to_rum_metrics/"
+title = "Performance perception: correlation to RUM metrics"
+publishedAt = "2019-06-17"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/168/tracking_down_slow_event_handlers_with_event_timing/"
+title = "Tracking down slow event handlers with Event Timing"
+publishedAt = "2019-06-19"
+language = "en"
+
+[[wikimedia]]
+id = "https://phabricator.wikimedia.org/phame/post/view/175/wikipedia_s_javascript_initialisation_on_a_budget/"
+title = "Wikipedia's JavaScript initialisation on a budget"
+publishedAt = "2019-09-18"
+language = "en"
+
+[[wikimedia]]
+id = "https://calendar.perfplanet.com/2019/measuring-long-tasks-and-first-input-delay/"
+title = "Measuring Long Tasks and First Input Delay"
+publishedAt = "2019-12-21"
+language = "en"
+
+[[wikimedia]]
+id = "https://www.nray.dev/blog/analyzing-search-performance/"
+title = "Analyzing Wikipedia's Search Performance"
+publishedAt = "2021-04-05"
+language = "en"
+
+[[wikimedia]]
+id = "https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/"
+title = "300ms Faster: Reducing Wikipedia's Total Blocking Time"
+publishedAt = "2023-05-21"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/jquery-promises-with-postmessage/"
+title = "jQuery Promises: The answer to PostMessage's asynchrony"
+publishedAt = "2013-06-17"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/making-of-abtesting-scrollmation/"
+title = "How We Made The Animated A/B Testing Guide"
+publishedAt = "2013-07-08"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/getting-60fps-using-devtools/"
+title = "Getting 60 FPS using Chrome devtools"
+publishedAt = "2013-07-29"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/performance-testing/"
+title = "Overcoming the Challenges of Performance Testing Single-page Apps"
+publishedAt = "2015-01-29"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/angularapp-e2e-testing-with-protractor/"
+title = "Testing AngularJS Apps End to End Using Protractor"
+publishedAt = "2015-02-13"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/layout-trick/"
+title = "A layout trick"
+publishedAt = "2016-04-04"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/speeding-up-vwo/"
+title = "Speeding Up VWO"
+publishedAt = "2016-09-17"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/migrating-towards-yarn-webpack/"
+title = "Migrating towards Yarn and Webpack"
+publishedAt = "2017-10-04"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/sass-inheritance-removal/"
+title = "Why we've removed Inheritance/Extend from SASS & you should do the same!"
+publishedAt = "2017-11-30"
+language = "en"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/automated-heatmap-verification/"
+title = "Automated Heatmap Verification E2E using Selenium and Canvas"
+publishedAt = "2018-04-03"
+language = "en"
+
+[[wix]]
+id = "https://www.wix.engineering/blog/taking-css-to-scale-a-pragmatic-approach"
+title = "Taking CSS To Scale: A Pragmatic Approach"
+publishedAt = "2016-07-13"
+language = "en"
+
+[[wix]]
+id = "https://youtu.be/abSNo2P9mMM"
+title = "Building a React Native App for 80 Million Users"
+publishedAt = "2016-10-01"
+language = "en"
+
+[[wix]]
+id = "https://www.wix.engineering/blog/the-story-of-making-wix-accessible"
+title = "The Story of Making Wix Accessible"
+publishedAt = "2017-12-14"
+language = "en"
+
+[[wix]]
+id = "https://youtu.be/FKpShne3I4E"
+title = "Improving load time for 100 million websites"
+publishedAt = "2018-06-26"
+language = "en"
+
+[[wix]]
+id = "https://www.wix.engineering/post/trim-the-fat-from-your-bundles-using-webpack-analyzer-react-lazy-suspense"
+title = "Trim the Fat From Your Bundles Using Webpack Analyzer & React Lazy/Suspense"
+publishedAt = "2019-09-02"
+language = "en"
+
+[[wix]]
+id = "https://web.dev/wix/"
+title = "How Wix improved website performance by evolving their infrastructure"
+publishedAt = "2021-03-10"
+language = "en"
+
+[[wix]]
+id = "https://medium.com/wix-ux/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f"
+title = "When life gives you lemons, write better error messages"
+publishedAt = "2022-09-12"
+language = "en"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2013/11/whoa-that-embedded-web-view-looks-hot-in-your-ios-app.html"
+title = "Whoa! That Embedded Web View Looks Hot in Your iOS App!"
+publishedAt = "2013-11-07"
+language = "en"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2018/03/css-in-the-age-of-react.html"
+title = "CSS in the Age of React: How We Traded the Cascade for Consistency"
+publishedAt = "2018-03-05"
+language = "en"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2019/11/organizing-and-securing-third-party-cdn-assets-at-yelp.html"
+title = "Organizing and Securing Third-Party CDN Assets at Yelp"
+publishedAt = "2019-11-20"
+language = "en"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2022/02/server-side-rendering-at-scale.html"
+title = "Server Side Rendering at Scale"
+publishedAt = "2022-02-22"
+language = "en"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2022/07/migrating-from-styleguidist-to-storybook.html"
+title = "Migrating from Styleguidist to Storybook"
+publishedAt = "2022-07-06"
+language = "en"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2022/07/writing-emails-using-react.html"
+title = "Writing Emails Using React"
+publishedAt = "2022-07-20"
+language = "en"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2023/03/gondola-an-internal-paas-architecture-for-frontend-app-deployment.html"
+title = "Gondola: an internal PaaS architecture for frontend app deployment"
+publishedAt = "2023-03-03"
+language = "en"
+
+[[ynab]]
+id = "https://dev.to/ynab/progressive-conversion-of-typescript-namespaces-to-modules-3f1j"
+title = "Progressive Conversion of TypeScript Namespaces to Modules"
+publishedAt = "2019-09-23"
+language = "en"
+
+[[ynab]]
+id = "https://dev.to/ynab/a-semantic-color-system-the-theory-hk7"
+title = "part 1"
+publishedAt = "2020-02-12"
+language = "en"
+
+[[ynab]]
+id = "https://dev.to/ynab/how-we-use-openapi-swagger-for-the-ynab-api-5453"
+title = "How we use OpenAPI / Swagger for the YNAB API"
+publishedAt = "2020-03-16"
+language = "en"
+
+[[youtube]]
+id = "https://blog.chriszacharias.com/page-weight-matters"
+title = "Page Weight Matters"
+publishedAt = "2012-12-21"
+language = "en"
+
+[[youtube]]
+id = "https://youtu.be/tNulrEbTQf8"
+title = "Polymer @ YouTube"
+publishedAt = "2017-08-22"
+language = "en"
+
+[[youtube]]
+id = "https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6"
+title = "A Conspiracy To Kill IE6"
+publishedAt = "2019-05-01"
+language = "en"
+
+[[youtube]]
+id = "https://web.dev/better-youtube-web-part1/"
+title = "Building a Better Web - Part 1: A faster YouTube on web"
+publishedAt = "2022-10-20"
+language = "en"
+
+[[zajno]]
+id = "https://medium.com/zajnocrew/visualizing-money-how-we-explained-a-complex-financial-product-using-animation-3ee8b3e4277e"
+title = "Visualizing money: how we explained a complex financial product using animation"
+publishedAt = "2018-09-25"
+language = "en"
+
+[[zynga]]
+id = "https://medium.com/zynga-engineering/why-how-words-with-friends-is-adopting-react-native-b24a405f421c"
+title = "Why & How Words With Friends Is Adopting React Native"
+publishedAt = "2018-09-17"
+language = "en"
+
+[[zynga]]
+id = "https://medium.com/zynga-engineering/react-native-stability-monitoring-fbf425eb71ac"
+title = "React Native Stability Monitoring"
+publishedAt = "2019-05-14"
+language = "en"
+
+[[18f]]
+id = "https://18f.gsa.gov/2017/10/03/building-a-large-scale-design-system/"
+title = "Building a large-scale design system: How we created a design system for the U.S. government"
+publishedAt = "2017-10-03"
+language = "en"
+
+[[1password]]
+id = "https://blog.1password.com/from-dark-to-light-and-back-again/"
+title = "From dark to light and back again"
+publishedAt = "2018-11-08"
+language = "en"
+
+[[1password]]
+id = "https://blog.1password.com/new-extension-build-system/"
+title = "How we used esbuild to reduce our browser extension build times by 90%"
+publishedAt = "2024-05-30"
+language = "en"

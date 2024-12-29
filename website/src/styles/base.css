@@ -1,0 +1,10 @@
+:root {
+  font-family: system-ui, sans-serif;
+  font-weight: normal;
+}
+
+a:not([class]) {
+  color: #0969da;
+  text-decoration: underline;
+  text-decoration-skip-ink: all;
+}

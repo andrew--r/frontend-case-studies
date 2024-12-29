@@ -1,3 +1,8 @@
+---
+import "../styles/reset.css";
+import "../styles/base.css";
+---
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -7,16 +12,34 @@
     <title>Frontend Case Studies</title>
   </head>
   <body>
-    <slot />
+    <main>
+      <slot />
+    </main>
   </body>
 </html>
 
 <style>
   html,
   body {
-    background-color: color(srgb 0.9751 0.9603 0.8957);
+    background-color: #f6f8fa;
     margin: 0;
     width: 100%;
     height: 100%;
+  }
+
+  main {
+    background: #fff;
+    border: thin solid #e1e4e8;
+    border-top: none;
+    border-bottom: none;
+    max-width: 60rem;
+    margin: auto;
+    padding: 1rem 1.5rem;
+  }
+
+  @media (min-width: 66rem) {
+    main {
+      padding-inline: 3rem;
+    }
   }
 </style>

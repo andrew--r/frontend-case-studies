@@ -8,17 +8,31 @@ const caseStudiesByCompany = Object.groupBy(
   caseStudies,
   (item) => item.data.company
 );
+const dateFormatter = new Intl.DateTimeFormat("en-US", {
+  year: "numeric",
+  month: "long",
+});
 ---
 
 <BaseLayout>
-  <h1>Companies</h1>
-  <ul>
+  <h1>💼 Frontend Case Studies</h1>
+  <p>
+    Articles like “Building a simple todo list with [framework or technology
+    name]” won’t teach you how that framework or technology solves real-world
+    problems and works at a large scale. This document is a curated list of
+    technical talks and articles about real-world enterprise frontend
+    development.
+  </p>
+
+  <div class="companies">
     {
       companies
         .sort((a, b) => a.data.name.localeCompare(b.data.name))
         .map((company) => (
-          <li>
-            <a href={company.data.websiteUrl}>{company.data.name}</a>
+          <section>
+            <h2>
+              <a href={company.data.websiteUrl}>{company.data.name}</a>
+            </h2>
             <ul>
               {caseStudiesByCompany[company.id]
                 ?.sort(
@@ -28,11 +42,77 @@ const caseStudiesByCompany = Object.groupBy(
                 .map((caseStudy) => (
                   <li>
                     <a href={caseStudy.id}>{caseStudy.data.title}</a>
+                    <time datetime={caseStudy.data.publishedAt.toISOString()}>
+                      {dateFormatter.format(caseStudy.data.publishedAt)}
+                    </time>
                   </li>
                 ))}
             </ul>
-          </li>
+          </section>
         ))
     }
-  </ul>
+  </div>
 </BaseLayout>
+
+<style>
+  h1 {
+    font-size: 3.5rem;
+  }
+
+  .companies {
+    margin-top: 2rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+  }
+
+  ul,
+  li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin-block: 1rem;
+  }
+
+  time {
+    color: #59636e;
+  }
+
+  @media (min-width: 60rem) {
+    .companies {
+      display: grid;
+      grid-template-columns: minmax(40px, max-content) 1fr;
+      gap: 1rem;
+    }
+
+    section,
+    ul {
+      display: contents;
+    }
+
+    h2 {
+      grid-column: 2 / -1;
+    }
+
+    li {
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-column: 1 / -1;
+      margin: 0;
+    }
+
+    li > a {
+      grid-column: 2;
+    }
+
+    time {
+      text-align: right;
+      grid-column: 1 / 1;
+      grid-row: 1 / 1;
+    }
+  }
+</style>
