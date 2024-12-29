@@ -2,28 +2,370 @@
 id = "https://blog.aha.io/coffescript-to-es6"
 title = "How I Convinced Our CTO to Switch From CoffeeScript to ES6"
 publishedAt = "2017-09-07"
+language = "en"
 
 [[datadog]]
 id = "https://www.datadoghq.com/blog/engineering/redux-doghouse-reusable-react-redux-components-through-scoping/"
 title = "Redux-Doghouse: Creating reusable React-Redux components through scoping"
 publishedAt = "2016-11-14"
+language = "en"
 
 [[datadog]]
 id = "https://www.datadoghq.com/blog/engineering/how-datadog-uses-datadog-to-gain-visibility-into-the-datadog-user-experience/"
 title = "How Datadog uses Datadog to gain visibility into the Datadog user experience"
 publishedAt = "2022-02-22"
+language = "en"
 
 [[datadog]]
 id = "https://www.datadoghq.com/blog/engineering/druids-the-design-system-that-powers-datadog/"
 title = "DRUIDS, the Design System that Powers Datadog"
 publishedAt = "2022-09-29"
+language = "en"
 
 [[datadog]]
 id = "https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/"
 title = "Making Fetch Happen - Building a General-purpose Query & Render Scheduler"
 publishedAt = "2023-04-17"
+language = "en"
 
 [[datadog]]
 id = "https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/"
 title = "How We Migrated Our Acceptance Tests to Use Synthetic Monitoring"
 publishedAt = "2023-06-30"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9"
+title = "Turbocharged JavaScript Refactoring with Codemods"
+publishedAt = "2016-04-27"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2"
+title = "Rearchitecting Airbnb’s Frontend"
+publishedAt = "2017-05-15"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/unlocking-test-performance-migrating-from-mocha-to-jest-2796c508ec50"
+title = "Migrating from Mocha to Jest"
+publishedAt = "2017-06-15"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4"
+title = "React Performance Fixes on Airbnb Listing Pages"
+publishedAt = "2017-12-05"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70"
+title = "Server Rendering, Code Splitting, and Lazy Loading with React Router v4"
+publishedAt = "2018-01-10"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c"
+title = "React Native at Airbnb"
+publishedAt = "2018-06-19"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9"
+title = "Operationalizing Node.js for Server Side Rendering"
+publishedAt = "2018-07-18"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2"
+title = "How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo"
+publishedAt = "2018-12-05"
+language = "en"
+
+[[airbnb]]
+id = "https://youtu.be/fHQ1WSx41CA"
+title = "Building (And Re-Building) the Airbnb Design System"
+publishedAt = "2019-10-30"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc"
+title = "ts-migrate: A Tool for Migrating to TypeScript at Scale"
+publishedAt = "2020-08-18"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/building-a-faster-web-experience-with-the-posttask-scheduler-276b83454e91"
+title = "Building a Faster Web Experience with the postTask Scheduler"
+publishedAt = "2021-05-20"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5"
+title = "A Deep Dive into Airbnb’s Server-Driven UI System"
+publishedAt = "2021-06-29"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f"
+title = "Measuring Web Performance at Airbnb"
+publishedAt = "2021-12-07"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f"
+title = "Faster JavaScript Builds with Metro"
+publishedAt = "2022-05-24"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12"
+title = "Airbnb’s Trip to Linaria"
+publishedAt = "2022-06-16"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408"
+title = "Improving Performance with HTTP Streaming"
+publishedAt = "2023-05-17"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881"
+title = "Rethinking Text Resizing on Web"
+publishedAt = "2024-05-16"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/how-airbnb-smoothly-upgrades-react-b1d772a565fd"
+title = "How Airbnb Smoothly Upgrades React"
+publishedAt = "2024-07-23"
+language = "en"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
+title = "Adopting Bazel for Web at Scale"
+publishedAt = "2024-11-12"
+language = "en"
+
+[[aldo]]
+id = "https://simplified.dev/performance/impact-of-web-performance"
+title = "The Impact of Web Performance"
+publishedAt = "2020-02-06"
+language = "en"
+
+[[algolia]]
+id = "https://www.algolia.com/blog/engineering/improving-web-performance-to-mirror-engine-speed"
+title = "Improving Web Performance to Mirror Engine Speed"
+publishedAt = "2017-07-26"
+language = "en"
+
+[[algolia]]
+id = "https://www.algolia.com/blog/engineering/netinfo-api-algolia-javascript-client"
+title = "Using NetInfo API to Improve Algolia’s JavaScript Client"
+publishedAt = "2019-07-30"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html"
+title = "Managing Frontend in the Microservices Architecture"
+publishedAt = "2016-03-12"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2019/04/why-allegro-ads-chose-typescript.html"
+title = "Why Allegro Ads chose TypeScript"
+publishedAt = "2019-04-09"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2019/09/page-visibility-and-performance-metrics.html"
+title = "Page visibility and performance metrics"
+publishedAt = "2019-09-02"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2019/11/performance-of-javascript-optional-chaining.html"
+title = "Performance of JavaScript optional chaining"
+publishedAt = "2019-11-08"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2020/08/using-eslint.html"
+title = "Using ESLint to improve your app’s performance"
+publishedAt = "2020-08-11"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2021/06/measuring-web-performance.html"
+title = "Measuring Web Performance"
+publishedAt = "2021-06-08"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2021/07/making-api-calls-seamless-ux.html"
+title = "Making API calls a seamless user experience"
+publishedAt = "2021-07-21"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2021/07/css-architecture-and-performance-of-micro-frontends.html"
+title = "CSS Architecture and Performance in Micro Frontends"
+publishedAt = "2021-07-29"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2021/09/How-to-turn-on-TypeScript-strict-mode-in-specific-files.html"
+title = "How to turn on TypeScript strict mode in specific files"
+publishedAt = "2021-09-06"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2021/09/evolution-of-web-performance-culture.html"
+title = "Evolution of web performance culture"
+publishedAt = "2021-09-23"
+language = "en"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2021/10/refactoring-opbox-search.html"
+title = "How we refactored the search form UI component"
+publishedAt = "2021-10-26"
+language = "en"
+
+[[amazon]]
+id = "https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular-aws-sdk-for-javascript-clients/"
+title = "How we halved the publish size of modular AWS SDK for JavaScript clients"
+publishedAt = "2021-10-14"
+language = "en"
+
+[[amazon]]
+id = "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types"
+title = "How Prime Video updates its app for more than 8,000 device types: the switch to WebAssembly increases stability, speed"
+publishedAt = "2022-01-27"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2013/11/30/rendering-on-the-server-and-client-in-node-dot-js/"
+title = "Rendering on the Server and Client in Node.js"
+publishedAt = "2013-11-30"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2016/08/09/the-tech-behind-live-auction-integration/"
+title = "The Tech Behind Live Auction Integration"
+publishedAt = "2016-08-09"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/"
+title = "React Native at Artsy"
+publishedAt = "2016-08-15"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2017/08/29/Making-Artsy-Editorial-Accessible/"
+title = "Making Artsy Editorial Accessible"
+publishedAt = "2017-08-29"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2016/09/06/Milestone-on-OSS-by-Default/"
+title = "Helping the Web Towards OSS by Default"
+publishedAt = "2016-09-06"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2016/10/26/jwt-artsy-journey/"
+title = "JSON Web Tokens: Artsy's Journey"
+publishedAt = "2016-10-26"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2017/02/05/Front-end-JavaScript-at-Artsy-2017/"
+title = "Exploration: Front-end JavaScript at Artsy in 2017"
+publishedAt = "2017-02-05"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2017/09/05/Modernizing-Force/"
+title = "Modernizing Force"
+publishedAt = "2017-09-05"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2018/03/17/two-years-of-react-native/"
+title = "React Native, 2 years later"
+publishedAt = "2018-03-17"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2018/11/26/keeping-dependencies-updated/"
+title = "Keeping Artsy's dependencies up to date"
+publishedAt = "2018-11-26"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2018/11/27/switch-from-capybara-webkit-to-chrome/"
+title = "Switch from Capybara Webkit to Chrome"
+publishedAt = "2018-11-27"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/"
+title = "GraphQL Stitching 101"
+publishedAt = "2018-12-11"
+language = "en"
+
+[[artsy]]
+id = "http://artsy.github.io/blog/2019/01/14/graphql-union-vs-interface/"
+title = "GraphQL: Union vs. Interface"
+publishedAt = "2019-01-14"
+language = "en"
+
+[[artsy]]
+id = 'http://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/'
+title = "From TSLint to ESLint, or How I Learned to Lint GraphQL Code"
+publishedAt = "2019-01-29"
+language = "en"
+
+[[nextroll]]
+id = "https://tech.nextroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html"
+title = "Lazy loading Backbone collections with Promises"
+publishedAt = "2013-11-12"
+language = "en"
+
+[[nextroll]]
+id = "https://tech.nextroll.com/blog/frontend/2015/11/05/rollup-shared-ui-components.html"
+title = "Rollup: Shared UI components at AdRoll"
+publishedAt = "2015-11-05"
+language = "en"
+
+[[nextroll]]
+id = "https://tech.nextroll.com/blog/frontend/2015/11/12/rollup-react-and-npm-at-adroll.html"
+title = "Rollup: How we use React.js and npm to share UI code at AdRoll"
+publishedAt = "2015-11-12"
+language = "en"
+
+[[nextroll]]
+id = "https://tech.nextroll.com/blog/frontend/2015/11/19/rollup-major-learnings.html"
+title = "Rollup: What we have learned from sharing UI code at AdRoll"
+publishedAt = "2015-11-19"
+language = "en"
+
+[[nextroll]]
+id = "https://tech.nextroll.com/blog/frontend/2015/12/21/gulp-react-docs.html"
+title = "gulp-react-docs: From propTypes to Markdown in 3 seconds"
+publishedAt = "2015-12-21"
+language = "en"
+
+[[nextroll]]
+id = "https://tech.nextroll.com/blog/product/2016/07/29/how-to-create-a-style-guide.html"
+title = "How to Create a Style Guide: Start with a UI Framework"
+publishedAt = "2016-07-29"
+language = "en"
+
+[[nextroll]]
+id = "https://tech.nextroll.com/blog/frontend/2017/08/29/how-to-run-a-front-end-infrastructure-team.html"
+title = "How to Run a Front-End Infrastructure Team"
+publishedAt = "2017-08-29"
+language = "en"

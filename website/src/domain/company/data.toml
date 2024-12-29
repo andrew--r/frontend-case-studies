@@ -9,3 +9,40 @@ name = "Aha!"
 websiteUrl = "https://www.aha.io"
 blogUrl = "https://www.aha.io/engineering"
 rssUrl = "https://www.aha.io/engineering/rss.xml"
+
+[airbnb]
+name = "Airbnb"
+websiteUrl = "https://www.airbnb.com"
+blogUrl = "https://medium.com/airbnb-engineering"
+rssUrl = "https://medium.com/feed/airbnb-engineering"
+
+[aldo]
+name = "ALDO Group"
+websiteUrl = "https://www.aldogroup.com"
+
+[algolia]
+name = "Algolia"
+websiteUrl = "https://www.algolia.com"
+blogUrl = "https://www.algolia.com/blog/engineering"
+
+[allegro]
+name = "Allegro"
+websiteUrl = "https://about.allegro.eu"
+blogUrl = "https://blog.allegro.tech"
+rssUrl = "https://blog.allegro.tech/feed.xml"
+
+[amazon]
+name = "Amazon"
+websiteUrl = "https://www.amazon.com"
+
+[artsy]
+name = "Artsy"
+websiteUrl = "https://www.artsy.net"
+blogUrl = "https://artsy.github.io/blog/archives"
+rssUrl = "https://artsy.github.io/feed"
+
+[nextroll]
+name = "NextRoll"
+websiteUrl = "https://www.nextroll.com"
+blogUrl = "https://tech.nextroll.com/blog"
+rssUrl = "https://tech.nextroll.com/feed.xml"

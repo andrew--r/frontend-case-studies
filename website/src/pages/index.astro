@@ -6,7 +6,7 @@ const companies = await getCollection("companies");
 const caseStudies = await getCollection("caseStudies");
 const caseStudiesByCompany = Object.groupBy(
   caseStudies,
-  (item) => item.data.company.id
+  (item) => item.data.company
 );
 ---
 
