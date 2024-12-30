@@ -1,5 +1,5 @@
 /**
- * https://piccalil.li/blog/a-more-modern-css-reset/
+ * Based on https://piccalil.li/blog/a-more-modern-css-reset/
  */
 
 /* Box sizing rules */
@@ -31,9 +31,11 @@ dd {
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
-ul[role="list"],
-ol[role="list"] {
+ul,
+ol {
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* Set core body defaults */
@@ -59,12 +61,6 @@ h2,
 h3,
 h4 {
   text-wrap: balance;
-}
-
-/* A elements that don't have a class get default styles */
-a:not([class]) {
-  text-decoration-skip-ink: auto;
-  color: currentColor;
 }
 
 /* Make images easier to work with */

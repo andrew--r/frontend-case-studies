@@ -8,9 +8,25 @@ import "../styles/base.css";
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Frontend Case Studies" />
+
     <title>Frontend Case Studies</title>
+    <meta
+      name="description"
+      content="A curated list of technical talks and articles about real world enterprise frontend development"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Frontend Case Studies" />
+    <meta property="og:url" content="https://frontendcs.com" />
+    <meta property="og:image" content="/social.png" />
   </head>
+
   <body>
     <main>
       <slot />
@@ -28,13 +44,12 @@ import "../styles/base.css";
   }
 
   main {
-    background: #fff;
-    border: thin solid #e1e4e8;
     border-top: none;
     border-bottom: none;
     max-width: 60rem;
     margin: auto;
     padding: 1rem 1.5rem;
+    padding-bottom: 3rem;
   }
 
   @media (min-width: 66rem) {

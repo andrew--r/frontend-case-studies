@@ -1,0 +1,45 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  items: CollectionEntry<"companies">[];
+}
+
+const { items } = Astro.props;
+---
+
+<nav>
+  <ul>
+    {
+      items.map((item) => (
+        <li>
+          <a href={`#${item.id}`}>{item.data.name}</a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  nav li {
+    display: inline-block;
+    margin-inline-end: 1.25rem;
+  }
+
+  @keyframes fadeout {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    nav {
+      animation: fadeout linear;
+      animation-timeline: view();
+      animation-range: exit 75% exit 100%;
+    }
+  }
+</style>

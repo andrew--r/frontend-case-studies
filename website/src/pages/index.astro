@@ -1,8 +1,13 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import InlineNavigation from "../components/InlineNavigation.astro";
+import RssLink from "../components/RssLink.astro";
 
-const companies = await getCollection("companies");
+const companies = (await getCollection("companies")).sort((a, b) =>
+  a.data.name.localeCompare(b.data.name)
+);
 const caseStudies = await getCollection("caseStudies");
 const caseStudiesByCompany = Object.groupBy(
   caseStudies,
@@ -15,56 +20,52 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
 ---
 
 <BaseLayout>
-  <h1>💼 Frontend Case Studies</h1>
-  <p>
-    Articles like “Building a simple todo list with [framework or technology
-    name]” won’t teach you how that framework or technology solves real-world
-    problems and works at a large scale. This document is a curated list of
-    technical talks and articles about real-world enterprise frontend
-    development.
-  </p>
+  <Header />
+  <InlineNavigation items={companies} />
 
   <div class="companies">
     {
-      companies
-        .sort((a, b) => a.data.name.localeCompare(b.data.name))
-        .map((company) => (
-          <section>
-            <h2>
-              <a href={company.data.websiteUrl}>{company.data.name}</a>
-            </h2>
-            <ul>
-              {caseStudiesByCompany[company.id]
-                ?.sort(
-                  (a, b) =>
-                    b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
-                )
-                .map((caseStudy) => (
-                  <li>
+      companies.map((company) => (
+        <section>
+          <h2 id={company.id}>
+            <a href={company.data.websiteUrl}>{company.data.name}</a>
+            <a href={`#${company.id}`}>#</a>
+          </h2>
+          <ul>
+            {caseStudiesByCompany[company.id]
+              ?.sort(
+                (a, b) =>
+                  b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+              )
+              .map((caseStudy) => (
+                <li>
+                  <div>
                     <a href={caseStudy.id}>{caseStudy.data.title}</a>
-                    <time datetime={caseStudy.data.publishedAt.toISOString()}>
-                      {dateFormatter.format(caseStudy.data.publishedAt)}
-                    </time>
-                  </li>
-                ))}
-            </ul>
-          </section>
-        ))
+                  </div>
+                  <time datetime={caseStudy.data.publishedAt.toISOString()}>
+                    {dateFormatter.format(caseStudy.data.publishedAt)}
+                  </time>
+                </li>
+              ))}
+          </ul>
+        </section>
+      ))
     }
   </div>
 </BaseLayout>
 
 <style>
-  h1 {
-    font-size: 3.5rem;
-  }
-
   .companies {
     margin-top: 2rem;
   }
 
   h2 {
     font-size: 2.5rem;
+    position: relative;
+  }
+
+  h2 > a {
+    text-decoration: none;
   }
 
   ul,
@@ -96,6 +97,17 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
 
     h2 {
       grid-column: 2 / -1;
+    }
+
+    h2 > a[href^="#"] {
+      position: absolute;
+      left: 0;
+      transform: translateX(-100%);
+      padding-inline-end: 0.5rem;
+    }
+
+    h2:not(:hover, :focus) > a[href^="#"] {
+      opacity: 0;
     }
 
     li {

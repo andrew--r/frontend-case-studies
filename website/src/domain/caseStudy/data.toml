@@ -574,42 +574,6 @@ title = "To Play, or Not to Play #2 – Firefox blocks audible autoplay by defau
 publishedAt = "2019-02-20"
 language = "en"
 
-# [[blogfoster]]
-# id = "http://engineering.blogfoster.com/jumpstart-to-react-redux-development/"
-# title = "Jumpstart to React+Redux Development"
-# publishedAt = "undefined"
-# language = "en"
-
-# [[blogfoster]]
-# id = "http://engineering.blogfoster.com/centralized-eslint-configuration/"
-# title = "Centralized ESLint Configuration"
-# publishedAt = "undefined"
-# language = "en"
-
-# [[blogfoster]]
-# id = "http://engineering.blogfoster.com/redux-for-better-in-app-analytics/"
-# title = "Redux For Better in-App Analytics"
-# publishedAt = "undefined"
-# language = "en"
-
-# [[blogfoster]]
-# id = "http://engineering.blogfoster.com/managing-complexity-in-redux-higher-order-reducers-and-async-state/"
-# title = "Managing Complexity in Redux: Higher-Order Reducers and Async State"
-# publishedAt = "undefined"
-# language = "en"
-
-# [[blogfoster]]
-# id = "http://engineering.blogfoster.com/how-we-simplified-our-tooling-setup-for-node-js-projects/"
-# title = "How We Simplified our Tooling Setup for Node.js Projects"
-# publishedAt = "undefined"
-# language = "en"
-
-# [[blogfoster]]
-# id = "http://engineering.blogfoster.com/how-to-use-the-power-of-jests-snapshot-testing-without-using-jest/"
-# title = "How to Use the Power of Jest’s Snapshot Testing Without Using Jest"
-# publishedAt = "undefined"
-# language = "en"
-
 [[bloomberg]]
 id = "https://www.techatbloomberg.com/blog/bloomberg-used-react-native-develop-new-consumer-app/"
 title = "How Bloomberg Used React Native to Develop its new Consumer App"
@@ -700,11 +664,23 @@ title = "How we made Carousell’s mobile web experience 3x faster"
 publishedAt = "2018-10-31"
 language = "en"
 
-# [[carousell]]
-# id = "https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-1-849c30ceacb9"
-# title = "part 1"
-# publishedAt = "Feb/Mar 2019): [part 1](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-1-849c30ceacb9), [part 2](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-2-d46bba8facaa) and [part 3](https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-3-18a317ac37a1"
-# language = "en"
+[[carousell]]
+id = "https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-1-849c30ceacb9"
+title = "Building a Dynamic UI System at Carousell (Part 1)"
+publishedAt = "2019-02-19"
+language = "en"
+
+[[carousell]]
+id = "https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-2-d46bba8facaa"
+title = "Building a Dynamic UI System at Carousell (Part 2)"
+publishedAt = "2019-02-26"
+language = "en"
+
+[[carousell]]
+id = "https://medium.com/carousell-insider/building-a-dynamic-ui-system-at-carousell-part-3-18a317ac37a1"
+title = "Building a Dynamic UI System at Carousell (Part 3)"
+publishedAt = "2019-03-05"
+language = "en"
 
 [[carousell]]
 id = "https://medium.com/carousell-insider/an-experiment-with-json-schema-133344ebbf82"
@@ -994,11 +970,29 @@ title = "Dropbox dives into CoffeeScript"
 publishedAt = "2012-09-13"
 language = "en"
 
-# [[dropbox]]
-# id = "https://blogs.dropbox.com/tech/2015/09/on-csp-reporting-and-filtering/"
-# title = "On Reporting and Filtering"
-# publishedAt = "September 2015): [On Reporting and Filtering](https://blogs.dropbox.com/tech/2015/09/on-csp-reporting-and-filtering/), [Unsafe-inline and nonce deployment](https://blogs.dropbox.com/tech/2015/09/unsafe-inline-and-nonce-deployment/), [The Unexpected Eval](https://blogs.dropbox.com/tech/2015/09/csp-the-unexpected-eval/), [Third Party Integrations and Privilege Separation](https://blogs.dropbox.com/tech/2015/09/csp-third-party-integrations-and-privilege-separation/"
-# language = "en"
+[[dropbox]]
+id = "https://dropbox.tech/security/on-csp-reporting-and-filtering"
+title = "[CSP] On Reporting and Filtering"
+publishedAt = "2015-09-21"
+language = "en"
+
+[[dropbox]]
+id = "https://dropbox.tech/security/unsafe-inline-and-nonce-deployment"
+title = "[CSP] Unsafe-inline and nonce deployment"
+publishedAt = "2015-09-22"
+language = "en"
+
+[[dropbox]]
+id = "https://dropbox.tech/security/csp-the-unexpected-eval"
+title = "[CSP] The Unexpected Eval"
+publishedAt = "2015-09-23"
+language = "en"
+
+[[dropbox]]
+id = "https://dropbox.tech/security/csp-third-party-integrations-and-privilege-separation"
+title = "[CSP] Third Party Integrations and Privilege Separation"
+publishedAt = "2015-09-24"
+language = "en"
 
 [[dropbox]]
 id = "https://blogs.dropbox.com/tech/2016/05/enabling-http2-for-dropbox-web-services-experiences-and-observations/"
@@ -3868,17 +3862,29 @@ title = "Building Tinder Online"
 publishedAt = "2018-02-09"
 language = "en"
 
-# [[tines]]
-# id = "https://www.tines.com/blog/our-approach-to-css-and-how-we-chose-it"
-# title = "Our approach to CSS and how we chose it"
-# publishedAt = "publication date is unknown"
-# language = "en"
+[[tines]]
+id = "https://www.tines.com/blog/our-approach-to-css-and-how-we-chose-it"
+title = "Our approach to CSS and how we chose it"
+publishedAt = "2020-04-20"
+language = "en"
 
-# [[tines]]
-# id = "https://www.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack-5"
-# title = "Understanding why our build got 15x slower with Webpack 5"
-# publishedAt = "publication date is unknown"
-# language = "en"
+[[tines]]
+id = "https://www.tines.com/blog/understanding-why-our-build-got-15x-slower-with-webpack-5"
+title = "Understanding why our build got 15x slower with Webpack 5"
+publishedAt = "2021-11-17"
+language = "en"
+
+[[tines]]
+id = "https://www.tines.com/blog/relay-fetching-data-in-parallel-with-multiple-queries/"
+title = "Relay: Fetching data in parallel with multiple queries"
+publishedAt = "2021-07-29"
+language = "en"
+
+[[tines]]
+id = "https://www.tines.com/blog/using-backend-factories-during-frontend-testing/"
+title = "Using backend factories during frontend testing"
+publishedAt = "2021-04-21"
+language = "en"
 
 [[tinymce]]
 id = "https://go.tinymce.com/blog/tinymce-is-going-mobile/"
@@ -4608,7 +4614,19 @@ language = "en"
 
 [[ynab]]
 id = "https://dev.to/ynab/a-semantic-color-system-the-theory-hk7"
-title = "part 1"
+title = "Semantic Colors for Designers and Developers. The Theory: A Semantic Color System"
+publishedAt = "2020-02-12"
+language = "en"
+
+[[ynab]]
+id = "https://dev.to/ynab/semantic-colors-for-designers-2lf2"
+title = "Semantic Colors for Designers and Developers. The Practice: Semantic Colors for Designers"
+publishedAt = "2020-02-12"
+language = "en"
+
+[[ynab]]
+id = "https://dev.to/ynab/the-practice-semantic-colors-for-developers-1o6g"
+title = "Semantic Colors for Designers and Developers. The Practice: Semantic Colors for Developers"
 publishedAt = "2020-02-12"
 language = "en"
 

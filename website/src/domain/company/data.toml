@@ -76,10 +76,6 @@ websiteUrl = "https://www.bettycrocker.com"
 name = "Bitmovin"
 websiteUrl = "https://bitmovin.com"
 
-[blogfoster]
-name = "blogfoster"
-websiteUrl = "http://www.blogfoster.com/"
-
 [bloomberg]
 name = "Bloomberg"
 websiteUrl = "https://www.bloomberg.com/"
@@ -591,6 +587,7 @@ websiteUrl = "https://tinder.com"
 [tines]
 name = "Tines"
 websiteUrl = "https://www.tines.com"
+blogUrl = "https://www.tines.com/blog/engineering"
 
 [tinymce]
 name = "TinyMCE"

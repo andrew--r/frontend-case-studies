@@ -1,10 +1,30 @@
 :root {
   font-family: system-ui, sans-serif;
   font-weight: normal;
+  scroll-behavior: smooth;
 }
 
-a:not([class]) {
+a {
   color: #0969da;
   text-decoration: underline;
-  text-decoration-skip-ink: all;
+  text-decoration-skip-ink: auto;
+  text-decoration-thickness: from-font;
+}
+
+a:not([href^="#"]):visited {
+  color: purple;
+}
+
+:is(a, a:visited):is(:hover, :focus-visible) {
+  color: #cd192e;
+}
+
+a[href^="#"] {
+  text-decoration-style: dotted;
+}
+
+@media (prefers-reduced-motion) {
+  :root {
+    scroll-behavior: initial;
+  }
 }
