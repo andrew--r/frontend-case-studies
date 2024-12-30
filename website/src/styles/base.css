@@ -1,7 +1,14 @@
 :root {
+  --color-bg: #f6f8fa;
+  --color-border: #e1e4e8;
+
   font-family: system-ui, sans-serif;
   font-weight: normal;
   scroll-behavior: smooth;
+  background-color: var(--color-bg);
+  margin: 0;
+  width: 100%;
+  height: 100%;
 }
 
 a {

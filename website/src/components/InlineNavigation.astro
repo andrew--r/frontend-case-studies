@@ -20,6 +20,8 @@ const { items } = Astro.props;
   </ul>
 </nav>
 
+<a href="#" class="top">↑ Back to Top</a>
+
 <style>
   nav li {
     display: inline-block;
@@ -35,11 +37,37 @@ const { items } = Astro.props;
     }
   }
 
+  @keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  .top {
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    position: sticky;
+    z-index: 1;
+    border-block-end: thin solid var(--color-border);
+    top: 0;
+    background: var(--color-bg);
+  }
+
   @media (prefers-reduced-motion: no-preference) {
     nav {
       animation: fadeout linear;
       animation-timeline: view();
       animation-range: exit 75% exit 100%;
+    }
+
+    .top {
+      animation: fadein linear both;
+      animation-timeline: view();
+      animation-range: entry 120cqh entry 125cqh;
     }
   }
 </style>
