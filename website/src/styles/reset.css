@@ -16,6 +16,12 @@ html {
   text-size-adjust: none;
 }
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
 /* Remove default margin in favour of better control in authored CSS */
 body,
 h1,
@@ -82,9 +88,4 @@ select {
 /* Make sure textareas without a rows attribute are not tiny */
 textarea:not([rows]) {
   min-height: 10em;
-}
-
-/* Anything that has been anchored to should have extra scroll margin */
-:target {
-  scroll-margin-block: 5ex;
 }

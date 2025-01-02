@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Header from "../components/Header.astro";
 import InlineNavigation from "../components/InlineNavigation.astro";
-import RssLink from "../components/RssLink.astro";
+import Footer from "../components/Footer.astro";
 
 const companies = (await getCollection("companies")).sort((a, b) =>
   a.data.name.localeCompare(b.data.name)
@@ -52,6 +52,8 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
       ))
     }
   </div>
+
+  <Footer />
 </BaseLayout>
 
 <style>

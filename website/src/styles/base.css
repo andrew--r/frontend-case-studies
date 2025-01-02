@@ -2,6 +2,8 @@
   --color-bg: #f6f8fa;
   --color-border: #e1e4e8;
 
+  --back-to-top-height: 3.5rem;
+
   font-family: system-ui, sans-serif;
   font-weight: normal;
   scroll-behavior: smooth;
@@ -11,23 +13,28 @@
   height: 100%;
 }
 
-a {
+a:not([class="raw"]) {
   color: #0969da;
   text-decoration: underline;
   text-decoration-skip-ink: auto;
   text-decoration-thickness: from-font;
 }
 
-a:not([href^="#"]):visited {
+a:not([href^="#"]):not([class="raw"]):visited {
   color: purple;
 }
 
-:is(a, a:visited):is(:hover, :focus-visible) {
+:is(a, a:visited):not([class="raw"]):is(:hover, :focus-visible) {
   color: #cd192e;
 }
 
 a[href^="#"] {
   text-decoration-style: dotted;
+}
+
+/* Anything that has been anchored to should have extra scroll margin */
+:target {
+  scroll-margin-block: calc(var(--back-to-top-height) + 1.5rem);
 }
 
 @media (prefers-reduced-motion) {
