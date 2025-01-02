@@ -1468,88 +1468,118 @@ title = "Saying goodbye to emotion"
 publishedAt = "2021-06-01"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "http://makeitopen.com"
 title = "Building the F8 App with React Native"
 publishedAt = "2017-01-01"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://www.facebook.com/notes/facebook-engineering/bigpipe-pipelining-web-pages-for-high-performance/389414033919/"
 title = "BigPipe: Pipelining web pages for high performance"
 publishedAt = "2010-06-04"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://www.reddit.com/r/reactjs/comments/6al7h2/facebook_has_30000_react_components_how_do_you/dhgruqh/"
 title = "Facebook has 30,000 react components. How do you manage large project directories with many components?"
 publishedAt = "2013-12-31"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/"
 title = "The technology behind preview photos"
 publishedAt = "2015-08-06"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://code.fb.com/open-source/improving-css-quality-at-facebook-and-beyond/"
 title = "Improving CSS quality at Facebook and beyond"
 publishedAt = "2016-06-13"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://code.facebook.com/posts/557147474482256"
 title = "This browser tweak saved 60% of requests to Facebook"
 publishedAt = "2017-01-26"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://youtu.be/PvabBs_utr8"
 title = "Building High-Quality JavaScript Tools"
 publishedAt = "2017-06-02"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://code.facebook.com/posts/1716776591680069"
 title = "React 16: A look inside an API-compatible rewrite of our frontend UI library"
 publishedAt = "2017-09-26"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://vimeo.com/242899818"
 title = "Design Systems & Tools at Facebook"
 publishedAt = "2017-11-15"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html"
 title = "Behind the Scenes: Improving the React Repository Infrastructure"
 publishedAt = "2017-12-15"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://code.fb.com/developer-tools/isinputpending-api/"
 title = "Faster input events with Facebook’s first browser API contribution"
 publishedAt = "2019-04-22"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/"
 title = "Building the New facebook.com with React, GraphQL and Relay"
 publishedAt = "2019-04-30"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://engineering.fb.com/web/facebook-redesign/"
 title = "Rebuilding our tech stack for the new Facebook.com"
 publishedAt = "2020-05-08"
 language = "en"
 
-[[facebook]]
+[[meta]]
 id = "https://engineering.fb.com/web/facebook-com-accessibility/"
 title = "Making Facebook.com accessible to as many people as possible"
 publishedAt = "2020-07-30"
+language = "en"
+
+[[meta]]
+id = "https://engineering.fb.com/2020/10/21/networking-traffic/how-facebook-is-bringing-quic-to-billions/"
+title = "How Facebook is bringing QUIC to billions"
+publishedAt = "2020-10-21"
+language = "en"
+
+[[meta]]
+id = "https://engineering.fb.com/2020/05/05/connectivity/discover/"
+title = "Implementing a secure web-based proxy service for Discover"
+publishedAt = "2020-05-05"
+language = "en"
+
+[[meta]]
+id = "https://engineering.fb.com/2017/03/28/web/aria-grid-supporting-nonvisual-layout-and-keyboard-traversal/"
+title = "ARIA Grid: Supporting nonvisual layout and keyboard traversal"
+publishedAt = "2017-03-28"
+language = "en"
+
+[[meta]]
+id = "https://engineering.fb.com/2022/09/12/open-source/memlab/"
+title = "MemLab: An open source framework for finding JavaScript memory leaks"
+publishedAt = "2022-09-12"
+language = "en"
+
+[[meta]]
+id = "https://engineering.fb.com/2024/05/14/web/threads-for-web-behind-the-scenes/"
+title = "Behind the scenes of Threads for web"
+publishedAt = "2024-05-14"
 language = "en"
 
 [[farfetch]]
@@ -2130,7 +2160,13 @@ language = "en"
 
 [[grammarly]]
 id = "https://www.grammarly.com/blog/engineering/part-1-how-grammarly-tackles-hidden-complexity-in-front-end-applications/"
-title = "part 1"
+title = "Part 1: How Grammarly Tackles Hidden Complexity in Front-End Applications"
+publishedAt = "2022-03-07"
+language = "en"
+
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/part-2-how-grammarly-tackles-hidden-complexity-in-front-end-applications/"
+title = "Part 2: How Grammarly Tackles Hidden Complexity in Front-End Applications"
 publishedAt = "2022-03-07"
 language = "en"
 
@@ -2274,8 +2310,32 @@ language = "en"
 
 [[instagram]]
 id = "https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538"
-title = "part 1"
+title = "Making Instagram.com faster: Part 1"
 publishedAt = "2019-08-01"
+language = "en"
+
+[[instagram]]
+id = "https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4"
+title = "Making Instagram.com faster: Part 2"
+publishedAt = "2019-09-06"
+language = "en"
+
+[[instagram]]
+id = "https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669"
+title = "Making Instagram.com faster: Part 3 — cache first"
+publishedAt = "2019-10-11"
+language = "en"
+
+[[instagram]]
+id = "https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8"
+title = "Making instagram.com faster: Code size and execution optimizations (Part 4)"
+publishedAt = "2019-11-01"
+language = "en"
+
+[[instagram]]
+id = "https://engineering.fb.com/2022/07/26/web/launching-instagram-messaging-on-desktop/"
+title = "Launching Instagram Messaging on desktop"
+publishedAt = "2022-07-26"
 language = "en"
 
 [[internetarchive]]

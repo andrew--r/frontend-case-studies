@@ -188,9 +188,10 @@ websiteUrl = "https://www.expediagroup.com"
 name = "ezCater"
 websiteUrl = "https://www.ezcater.com/"
 
-[facebook]
-name = "Facebook"
-websiteUrl = "https://facebook.com"
+[meta]
+name = "Meta"
+websiteUrl = "https://www.meta.com"
+blogUrl = "https://engineering.fb.com/category/web/"
 
 [farfetch]
 name = "FARFETCH"
