@@ -3624,14 +3624,38 @@ language = "en"
 
 [[slack]]
 id = "https://slack.engineering/creating-a-react-analytics-logging-library/"
-title = "part 1"
+title = "Creating a React Analytics Logging Library: Part 1"
 publishedAt = "2020-11-07"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/creating-a-react-analytics-logging-library-2/"
+title = "Creating a React Analytics Logging Library: Part 2"
+publishedAt = "2020-12-16"
 language = "en"
 
 [[slack]]
 id = "https://slack.engineering/managing-focus-transitions-in-slack"
 title = "Managing Focus Transitions in Slack"
 publishedAt = "2021-07-13"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/"
+title = "Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack"
+publishedAt = "2024-10-03"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/building-custom-animations-in-the-workflow-builder/"
+title = "Building Custom Animations in the Workflow Builder"
+publishedAt = "2023-12-05"
+language = "en"
+
+[[slack]]
+id = "https://slack.engineering/building-background-effects-for-clips/"
+title = "Building Background Effects for Clips"
+publishedAt = "2022-06-07"
 language = "en"
 
 [[snipcart]]
