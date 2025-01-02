@@ -1,0 +1,132 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Header from "../components/Header.astro";
+import InlineNavigation from "../components/InlineNavigation.astro";
+import Footer from "../components/Footer.astro";
+
+const companies = (await getCollection("companies")).sort((a, b) =>
+  a.data.name.localeCompare(b.data.name)
+);
+const caseStudies = await getCollection("caseStudies");
+const caseStudiesByCompany = Object.groupBy(
+  caseStudies,
+  (item) => item.data.company
+);
+const dateFormatter = new Intl.DateTimeFormat("en-US", {
+  year: "numeric",
+  month: "long",
+});
+---
+
+<BaseLayout>
+  <Header />
+  <InlineNavigation items={companies} />
+
+  <div class="companies">
+    {
+      companies.map((company) => (
+        <section>
+          <h2 id={company.id}>
+            <a href={company.data.websiteUrl}>{company.data.name}</a>
+            <a href={`#${company.id}`}>#</a>
+          </h2>
+          <ul>
+            {caseStudiesByCompany[company.id]
+              ?.sort(
+                (a, b) =>
+                  b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+              )
+              .map((caseStudy) => (
+                <li>
+                  <div>
+                    <a href={caseStudy.id}>{caseStudy.data.title}</a>
+                  </div>
+                  <time datetime={caseStudy.data.publishedAt.toISOString()}>
+                    {dateFormatter.format(caseStudy.data.publishedAt)}
+                  </time>
+                </li>
+              ))}
+          </ul>
+        </section>
+      ))
+    }
+  </div>
+
+  <Footer />
+</BaseLayout>
+
+<style>
+  .companies {
+    margin-top: 2rem;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+    position: relative;
+  }
+
+  h2 > a {
+    text-decoration: none;
+  }
+
+  ul,
+  li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    margin-block: 1rem;
+  }
+
+  time {
+    color: #59636e;
+  }
+
+  @media (min-width: 60rem) {
+    .companies {
+      display: grid;
+      grid-template-columns: minmax(40px, max-content) 1fr;
+      gap: 1rem;
+    }
+
+    section,
+    ul {
+      display: contents;
+    }
+
+    h2 {
+      grid-column: 2 / -1;
+    }
+
+    h2 > a[href^="#"] {
+      position: absolute;
+      left: 0;
+      transform: translateX(-100%);
+      padding-inline-end: 0.5rem;
+    }
+
+    h2:not(:hover, :focus) > a[href^="#"] {
+      opacity: 0;
+    }
+
+    li {
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-column: 1 / -1;
+      margin: 0;
+    }
+
+    li > a {
+      grid-column: 2;
+    }
+
+    time {
+      text-align: right;
+      grid-column: 1 / 1;
+      grid-row: 1 / 1;
+    }
+  }
+</style>

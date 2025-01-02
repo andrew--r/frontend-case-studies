@@ -1,0 +1,65 @@
+---
+import "../styles/reset.css";
+import "../styles/base.css";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="icon" type="image/svg+xml" href="/s/images/favicon.svg" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/s/images/favicon-96x96.png"
+      sizes="96x96"
+    />
+    <link rel="shortcut icon" href="/s/images/favicon.ico" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/s/images/apple-touch-icon.png"
+    />
+    <meta name="apple-mobile-web-app-title" content={SITE_NAME} />
+
+    <title>{SITE_NAME}</title>
+    <meta name="description" content={SITE_DESCRIPTION} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={SITE_NAME} />
+    <meta property="og:url" content="https://frontendcs.com" />
+    <meta property="og:image" content="/s/images/social.png" />
+
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title={SITE_NAME}
+      href={new URL("rss.xml", SITE_URL)}
+    />
+  </head>
+
+  <body>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
+
+<style>
+  main {
+    border-top: none;
+    border-bottom: none;
+    max-width: 60rem;
+    margin: auto;
+    padding: 1rem;
+  }
+
+  @media (min-width: 66rem) {
+    main {
+      padding-inline: 3rem;
+    }
+  }
+</style>

@@ -1,0 +1,686 @@
+[datadog]
+name = "Datadog"
+websiteUrl = "https://www.datadoghq.com"
+blogUrl = "https://www.datadoghq.com/blog/engineering/"
+rssUrl = "https://www.datadoghq.com/blog/engineering/index.xml"
+
+[aha]
+name = "Aha!"
+websiteUrl = "https://www.aha.io"
+blogUrl = "https://www.aha.io/engineering"
+rssUrl = "https://www.aha.io/engineering/rss.xml"
+
+[airbnb]
+name = "Airbnb"
+websiteUrl = "https://www.airbnb.com"
+blogUrl = "https://medium.com/airbnb-engineering"
+rssUrl = "https://medium.com/feed/airbnb-engineering"
+
+[aldo]
+name = "ALDO Group"
+websiteUrl = "https://www.aldogroup.com"
+
+[algolia]
+name = "Algolia"
+websiteUrl = "https://www.algolia.com"
+blogUrl = "https://www.algolia.com/blog/engineering"
+
+[allegro]
+name = "Allegro"
+websiteUrl = "https://about.allegro.eu"
+blogUrl = "https://blog.allegro.tech"
+rssUrl = "https://blog.allegro.tech/feed.xml"
+
+[amazon]
+name = "Amazon"
+websiteUrl = "https://www.amazon.com"
+
+[artsy]
+name = "Artsy"
+websiteUrl = "https://www.artsy.net"
+blogUrl = "https://artsy.github.io/blog/archives"
+rssUrl = "https://artsy.github.io/feed"
+
+[nextroll]
+name = "NextRoll"
+websiteUrl = "https://www.nextroll.com"
+blogUrl = "https://tech.nextroll.com/blog"
+rssUrl = "https://tech.nextroll.com/feed.xml"
+
+[atlassian]
+name = "Atlassian"
+websiteUrl = "https://www.atlassian.com"
+blogUrl = "https://www.atlassian.com/blog/atlassian-engineering"
+rssUrl = "https://www.atlassian.com/blog/atlassian-engineering/feed"
+
+[abc]
+name = "Australian Broadcasting Corporation"
+websiteUrl = "http://abc.net.au"
+blogUrl = "https://www.abc.net.au/digital-product"
+
+[badoo]
+name = "Badoo"
+websiteUrl = "https://badoo.com"
+blogUrl = "https://medium.com/@BadooTech"
+rssUrl = "https://medium.com/feed/@BadooTech"
+
+[bbc]
+name = "BBC"
+websiteUrl = "http://www.bbc.com"
+
+[bettycrocker]
+name = "Betty Crocker"
+websiteUrl = "https://www.bettycrocker.com"
+
+[bitmovin]
+name = "Bitmovin"
+websiteUrl = "https://bitmovin.com"
+
+[bloomberg]
+name = "Bloomberg"
+websiteUrl = "https://www.bloomberg.com/"
+
+[buzzfeed]
+name = "BuzzFeed"
+websiteUrl = "https://www.buzzfeed.com"
+
+[campaignmonitor]
+name = "Campaign Monitor"
+websiteUrl = "https://www.campaignmonitor.com/"
+
+[carbonfive]
+name = "Carbon Five"
+websiteUrl = "https://www.carbonfive.com/"
+
+[carousell]
+name = "Carousell"
+websiteUrl = "https://carousell.com"
+
+[carscom]
+name = "cars.com"
+websiteUrl = "https://www.cars.com"
+
+[checkbot]
+name = "Checkbot"
+websiteUrl = "https://www.checkbot.io/"
+
+[clearleft]
+name = "Clearleft"
+websiteUrl = "https://clearleft.com"
+
+[cloudflare]
+name = "Cloudflare"
+websiteUrl = "https://www.cloudflare.com/"
+
+[cloudfour]
+name = "Cloud Four"
+websiteUrl = "https://cloudfour.com/"
+
+[codesandbox]
+name = "CodeSandbox"
+websiteUrl = "https://codesandbox.io/"
+
+[condenast]
+name = "Condé Nast"
+websiteUrl = "http://www.condenast.com"
+
+[conductor]
+name = "Conductor"
+websiteUrl = "https://www.conductor.com/"
+
+[dazn]
+name = "DAZN"
+websiteUrl = "https://dazn.com/"
+
+[voorhoede]
+name = "De Voorhoede"
+websiteUrl = "https://www.voorhoede.nl"
+
+[dev]
+name = "DEV"
+websiteUrl = "https://dev.to"
+
+[discord]
+name = "Discord"
+websiteUrl = "https://discordapp.com/"
+
+[divriots]
+name = "<div>RIOTS"
+websiteUrl = "https://divriots.com"
+
+[doordash]
+name = "DoorDash"
+websiteUrl = "https://www.doordash.com"
+
+[dropbox]
+name = "Dropbox"
+websiteUrl = "https://www.dropbox.com"
+
+[ebay]
+name = "eBay"
+websiteUrl = "https://www.ebay.com"
+
+[edgedb]
+name = "EdgeDB"
+websiteUrl = "https://www.edgedb.com"
+
+[ea]
+name = "Electronic Arts"
+websiteUrl = "https://www.ea.com"
+
+[eleme]
+name = "Ele.me"
+websiteUrl = "https://www.ele.me"
+
+[etsy]
+name = "Etsy"
+websiteUrl = "https://www.etsy.com"
+
+[evilmartians]
+name = "Evil Martians"
+websiteUrl = "https://evilmartians.com/"
+
+[expediagroup]
+name = "Expedia Group"
+websiteUrl = "https://www.expediagroup.com"
+
+[ezcater]
+name = "ezCater"
+websiteUrl = "https://www.ezcater.com/"
+
+[facebook]
+name = "Facebook"
+websiteUrl = "https://facebook.com"
+
+[farfetch]
+name = "FARFETCH"
+websiteUrl = "https://www.farfetch.com"
+
+[fastqbio]
+name = "fastq.bio"
+websiteUrl = "http://www.fastq.bio/"
+
+[figma]
+name = "Figma"
+websiteUrl = "https://www.figma.com"
+
+[ft]
+name = "Financial Times"
+websiteUrl = "https://www.ft.com"
+
+[flickr]
+name = "Flickr"
+websiteUrl = "https://www.flickr.com/"
+
+[flipboard]
+name = "Flipboard"
+websiteUrl = "https://flipboard.com"
+
+[flipkart]
+name = "Flipkart"
+websiteUrl = "https://www.flipkart.com"
+
+[flocktory]
+name = "Flocktory"
+websiteUrl = "https://www.flocktory.com"
+
+[futurice]
+name = "Futurice"
+websiteUrl = "https://futurice.com"
+
+[garbarino]
+name = "Garbarino"
+websiteUrl = "https://www.garbarino.com/"
+
+[github]
+name = "GitHub"
+websiteUrl = "https://github.com"
+
+[gitlab]
+name = "GitLab"
+websiteUrl = "https://gitlab.com"
+
+[goibibo]
+name = "Goibibo"
+websiteUrl = "https://www.goibibo.com"
+
+[google]
+name = "Google"
+websiteUrl = "https://google.com"
+
+[govuk]
+name = "GOV.UK"
+websiteUrl = "https://www.gov.uk"
+
+[grammarly]
+name = "grammarly"
+websiteUrl = "https://www.grammarly.com"
+
+[gusto]
+name = "Gusto"
+websiteUrl = "https://gusto.com/"
+
+[healthcaregov]
+name = "HealthCare.gov"
+websiteUrl = "https://www.healthcare.gov/"
+
+[heap]
+name = "Heap"
+websiteUrl = "https://heap.io"
+
+[inderapotheke]
+name = "in der Apotheke"
+websiteUrl = "https://www.inderapotheke.de/"
+
+[infinitered]
+name = "Infinite Red"
+websiteUrl = "https://infinite.red/"
+
+[insider-inc]
+name = "Insider Inc."
+websiteUrl = "https://www.insider-inc.com/"
+
+[instagram]
+name = "Instagram"
+websiteUrl = "https://www.instagram.com/"
+
+[internetarchive]
+name = "Internet Archive"
+websiteUrl = "https://archive.org/"
+
+[intuit]
+name = "Intuit"
+websiteUrl = "https://www.intuit.com"
+
+[invision]
+name = "InVision"
+websiteUrl = "https://www.invisionapp.com"
+
+[khanacademy]
+name = "Khan Academy"
+websiteUrl = "http://khanacademy.org/"
+
+[kickstarter]
+name = "Kickstarter"
+websiteUrl = "https://www.kickstarter.com/"
+
+[klarna]
+name = "Klarna"
+websiteUrl = "https://www.klarna.com"
+
+[line]
+name = "Line"
+websiteUrl = "https://line.me"
+
+[linkedin]
+name = "LinkedIn"
+websiteUrl = "https://www.linkedin.com"
+
+[lucidchart]
+name = "Lucidchart"
+websiteUrl = "https://www.lucidchart.com/"
+
+[lyft]
+name = "Lyft"
+websiteUrl = "https://lyft.com"
+
+[mailru]
+name = "Mail.ru"
+websiteUrl = "https://mail.ru"
+
+[mailchimp]
+name = "Mailchimp"
+websiteUrl = "https://mailchimp.com"
+
+[mdn]
+name = "MDN"
+websiteUrl = "https://developer.mozilla.org"
+
+[medium]
+name = "Medium"
+websiteUrl = "https://medium.com/"
+
+[memsql]
+name = "MemSQL"
+websiteUrl = "https://www.memsql.com"
+
+[mercadolibre]
+name = "Mercado Libre"
+websiteUrl = "http://www.mercadolibre.com"
+
+[microsoftbing]
+name = "Microsoft Bing"
+websiteUrl = "https://bing.com"
+
+[microsofttodo]
+name = "Microsoft To-Do"
+websiteUrl = "https://to-do.microsoft.com/"
+
+[mixmax]
+name = "Mixmax"
+websiteUrl = "https://mixmax.com/"
+
+[mixpanel]
+name = "Mixpanel"
+websiteUrl = "https://mixpanel.com/"
+
+[monzo]
+name = "Monzo"
+websiteUrl = "https://monzo.com"
+
+[mozilla]
+name = "Mozilla"
+websiteUrl = "https://www.mozilla.org"
+
+[mud]
+name = "Mud"
+websiteUrl = "https://ournameismud.co.uk"
+
+[myntra]
+name = "Myntra"
+websiteUrl = "https://www.myntra.com"
+
+[netflix]
+name = "Netflix"
+websiteUrl = "https://netflix.com"
+
+[newrelic]
+name = "New Relic"
+websiteUrl = "https://newrelic.com/"
+
+[notion]
+name = "Notion"
+websiteUrl = "https://www.notion.so"
+
+[npm]
+name = "npm"
+websiteUrl = "https://www.npmjs.com"
+
+[okgrow]
+name = "OK GROW!"
+websiteUrl = "https://www.okgrow.com/"
+
+[oyo]
+name = "OYO"
+websiteUrl = "https://www.oyorooms.com"
+
+[oyster]
+name = "Oyster"
+websiteUrl = "https://www.oyster.com/"
+
+[palantir]
+name = "Palantir"
+websiteUrl = "https://www.palantir.com/"
+
+[paypal]
+name = "PayPal"
+websiteUrl = "https://www.paypal.com"
+
+[pinafore]
+name = "Pinafore"
+websiteUrl = "https://pinafore.social"
+
+[pinterest]
+name = "Pinterest"
+websiteUrl = "https://pinterest.com"
+
+[pivotaltracker]
+name = "Pivotal Tracker"
+websiteUrl = "https://www.pivotaltracker.com"
+
+[plaid]
+name = "Plaid"
+websiteUrl = "https://plaid.com"
+
+[plotly]
+name = "Plotly"
+websiteUrl = "https://plot.ly/"
+
+[producthunt]
+name = "Product Hunt"
+websiteUrl = "https://www.producthunt.com"
+
+[proton]
+name = "Proton"
+websiteUrl = "https://proton.me"
+
+[quizlet]
+name = "Quizlet"
+websiteUrl = "https://quizlet.com/"
+
+[quora]
+name = "Quora"
+websiteUrl = "https://www.quora.com/"
+
+[reagroup]
+name = "REA Group"
+websiteUrl = "https://www.rea-group.com/"
+
+[reaktor]
+name = "Reaktor"
+websiteUrl = "https://reaktor.com/"
+
+[reddit]
+name = "Reddit"
+websiteUrl = "https://about.reddit.com"
+
+[redmart]
+name = "Redmart"
+websiteUrl = "https://redmart.com/"
+
+[replit]
+name = "repl.it"
+websiteUrl = "https://repl.it"
+
+[revolut]
+name = "Revolut"
+websiteUrl = "https://www.revolut.com"
+
+[roompact]
+name = "Roompact"
+websiteUrl = "https://roompact.com"
+
+[safetyculture]
+name = "Safety Culture"
+websiteUrl = "https://safetyculture.com/"
+
+[scratch]
+name = "Scratch"
+websiteUrl = "https://scratch.mit.edu"
+
+[sentry]
+name = "Sentry"
+websiteUrl = "https://sentry.io"
+
+[shopify]
+name = "Shopify"
+websiteUrl = "https://shopify.com"
+
+[skillshare]
+name = "Skillshare"
+websiteUrl = "https://skillshare.com/"
+
+[slack]
+name = "Slack"
+websiteUrl = "https://slack.com"
+
+[snipcart]
+name = "Snipcart"
+websiteUrl = "https://snipcart.com"
+
+[soundcloud]
+name = "SoundCloud"
+websiteUrl = "https://soundcloud.com/"
+
+[spectrum]
+name = "Spectrum"
+websiteUrl = "https://spectrum.chat/"
+
+[spotify]
+name = "Spotify"
+websiteUrl = "https://www.spotify.com"
+
+[stackoverflow]
+name = "Stack Overflow"
+websiteUrl = "https://stackoverflow.com"
+
+[stripe]
+name = "stripe"
+websiteUrl = "https://stripe.com"
+
+[sumup]
+name = "SumUp"
+websiteUrl = "https://sumup.com"
+
+[superhuman]
+name = "Superhuman"
+websiteUrl = "https://superhuman.com"
+
+[takeshape]
+name = "TakeShape"
+websiteUrl = "https://www.takeshape.io"
+
+[theguardian]
+name = "The Guardian"
+websiteUrl = "https://www.theguardian.com/"
+
+[theknotww]
+name = "The Knot Worldwide"
+websiteUrl = "https://www.theknotww.com/"
+
+[nytimes]
+name = "The New York Times"
+websiteUrl = "https://www.nytimes.com"
+
+[telegraph]
+name = "The Telegraph"
+websiteUrl = "https://www.telegraph.co.uk"
+
+[thetimescouk]
+name = "The Times & The Sunday Times"
+websiteUrl = "https://www.thetimes.co.uk"
+
+[usdsgov]
+name = "The U.S. Digital Service"
+websiteUrl = "https://www.usds.gov/"
+
+[wsj]
+name = "The Wall Street Journal"
+websiteUrl = "https://www.wsj.com"
+
+[thisalso]
+name = "This Also"
+websiteUrl = "http://thisalso.com"
+
+[thomasnet]
+name = "ThomasNet"
+websiteUrl = "https://www.thomasnet.com/"
+
+[thread]
+name = "Thread"
+websiteUrl = "https://www.thread.com/"
+
+[tinder]
+name = "Tinder"
+websiteUrl = "https://tinder.com"
+
+[tines]
+name = "Tines"
+websiteUrl = "https://www.tines.com"
+blogUrl = "https://www.tines.com/blog/engineering"
+
+[tinymce]
+name = "TinyMCE"
+websiteUrl = "https://www.tinymce.com/"
+
+[tokopedia]
+name = "Tokopedia"
+websiteUrl = "hthttps://www.tokopedia.com"
+
+[treebo]
+name = "Treebo"
+websiteUrl = "https://www.treebo.com/"
+
+[trivago]
+name = "Trivago"
+websiteUrl = "https://www.trivago.com"
+
+[tumblr]
+name = "Tumblr"
+websiteUrl = "https://www.tumblr.com/"
+
+[twitch]
+name = "Twitch"
+websiteUrl = "https://www.twitch.tv"
+
+[twitter]
+name = "Twitter"
+websiteUrl = "https://twitter.com"
+
+[uber]
+name = "Uber"
+websiteUrl = "https://www.uber.com"
+
+[udacity]
+name = "Udacity"
+websiteUrl = "https://www.udacity.com/"
+
+[unity]
+name = "Unity"
+websiteUrl = "https://unity.com/"
+
+[unsplash]
+name = "Unsplash"
+websiteUrl = "https://unsplash.com"
+
+[vercel]
+name = "Vercel"
+websiteUrl = "https://vercel.com"
+
+[verve]
+name = "Verve"
+websiteUrl = "https://verve.co"
+
+[walmartlabs]
+name = "Walmart Labs"
+websiteUrl = "https://www.walmartlabs.com/"
+
+[wikimedia]
+name = "Wikimedia"
+websiteUrl = "https://www.wikimedia.org"
+
+[wingify]
+name = "Wingify"
+websiteUrl = "https://wingify.com/"
+
+[wix]
+name = "Wix"
+websiteUrl = "https://www.wix.com/"
+
+[yelp]
+name = "Yelp"
+websiteUrl = "https://www.yelp.com"
+
+[ynab]
+name = "YNAB"
+websiteUrl = "https://www.youneedabudget.com"
+
+[youtube]
+name = "YouTube"
+websiteUrl = "https://www.youtube.com"
+
+[zajno]
+name = "Zajno"
+websiteUrl = "https://zajno.com/"
+
+[zynga]
+name = "Zynga"
+websiteUrl = "https://www.zynga.com/"
+
+[18f]
+name = "18F"
+websiteUrl = "https://18f.gsa.gov/"
+
+[1password]
+name = "1Password"
+websiteUrl = "https://1password.com/"

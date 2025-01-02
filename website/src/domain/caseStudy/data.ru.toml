@@ -1,0 +1,899 @@
+[[amplifr]]
+id = "https://gist.github.com/ai/473dd603baa92d5c8590f3573514c7a1"
+title = "Принципы разработки Амплифера"
+publishedAt = "2019"
+language = "ru"
+
+[[amplifr]]
+id = "https://habr.com/ru/post/491170/"
+title = "Как Амплифер использует Logux — инструмент для связи клиента и сервера"
+publishedAt = "2020-03-05"
+language = "ru"
+
+[[aviasales]]
+id = "https://blog.kamyshev.me/salo-selene/"
+title = "Как мы строим веб-платформу в Авиасейлс"
+publishedAt = "2021-11-04"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/OFKbwNc8AIw"
+title = "Фронтенд в Avito"
+publishedAt = "2015-12-13"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/hwQVbyKcRnA"
+title = "Фронтенд для миллионов"
+publishedAt = "2017-06-24"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/7vY3_vPipW8"
+title = "Дизайн-платформа в Avito"
+publishedAt = "2017-04-08"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/B_gLzbgJo98"
+title = "Скриншоты как сервис"
+publishedAt = "2018-03-07"
+language = "ru"
+
+[[avito]]
+id = "https://habr.com/ru/company/avito/blog/350604/"
+title = "Unit-тестирование скриншотами: преодолеваем звуковой барьер"
+publishedAt = "2018-03-14"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/z9y6PNC2FL0"
+title = "Масштабируемая архитектура фронтенда"
+publishedAt = "2018-04-07"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/zZUbXAVV-HA"
+title = "Каталог компонентов: переосмысление"
+publishedAt = "2018-05-19"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/3r3IYaaEcS8"
+title = "Avito Online Frontend: Infrastructure"
+publishedAt = "2018-12-11"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/CnsrImdBYz8"
+title = "Avito Online Frontend: Performance"
+publishedAt = "2018-12-18"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/8_6Kuo5jFpU"
+title = "Жесть для Jest"
+publishedAt = "2019-08-17"
+language = "ru"
+
+[[avito]]
+id = "https://habr.com/ru/company/avito/blog/512146/"
+title = "Как мы нарисовали на карте несколько тысяч интерактивных объектов без вреда для перформанса"
+publishedAt = "2020-07-29"
+language = "ru"
+
+[[avito]]
+id = "https://youtu.be/qKz9YAeKYMs"
+title = "Webpack в дикой природе"
+publishedAt = "2020-11-20"
+language = "ru"
+
+[[autoru]]
+id = "https://habr.com/ru/company/yandex/blog/459924/"
+title = "Полный цикл тестирования React-приложений"
+publishedAt = "2019-07-14"
+language = "ru"
+
+[[badoo]]
+id = "https://habrahabr.ru/company/badoo/blog/223767"
+title = "Многоязычный Badoo: «трудности перевода»"
+publishedAt = "2014-05-22"
+language = "ru"
+
+[[badoo]]
+id = "https://tech.badoo.com/ru/presentation/23/speczifika-verstki-multiyazychnyx-veb-prilozhenij"
+title = "Специфика верстки мультиязычных веб-приложений"
+publishedAt = "2015-03-26"
+language = "ru"
+
+[[badoo]]
+id = "https://habrahabr.ru/company/badoo/blog/325062/"
+title = "Как собрать статистику с веб-сайта и не набить себе шишек"
+publishedAt = "2017-03-29"
+language = "ru"
+
+[[badoo]]
+id = "https://youtu.be/ErhWb-iTRmc"
+title = "Работаем с API по-взрослому"
+publishedAt = "2017-04-14"
+language = "ru"
+
+[[badoo]]
+id = "https://habr.com/company/badoo/blog/434448/"
+title = "Покрываем A/B-тесты UI-тестами. Как не запутаться в собственном коде"
+publishedAt = "2018-12-26"
+language = "ru"
+
+[[badoo]]
+id = "https://habr.com/ru/company/badoo/blog/441898/"
+title = "Часть 1"
+publishedAt = "2019-02-27"
+language = "ru"
+
+[[badoo]]
+id = "https://habr.com/ru/company/badoo/blog/485138/"
+title = "Локализация приложений: как мы подружили перевод и разработку"
+publishedAt = "2020-01-23"
+language = "ru"
+
+[[badoo]]
+id = "https://habr.com/ru/company/badoo/blog/491948/"
+title = "Дизайн-токены способны на большее: создаем единый источник информации о компонентах UI"
+publishedAt = "2020-03-12"
+language = "ru"
+
+[[badoo]]
+id = "https://habr.com/ru/company/badoo/blog/518246/"
+title = "Как перенести на TypeScript большую кодовую базу React UI-компонентов"
+publishedAt = "2020-09-09"
+language = "ru"
+
+[[deliveryclub]]
+id = "https://habr.com/ru/company/deliveryclub/blog/552240/"
+title = "Микрофронтенды: разделяй и властвуй"
+publishedAt = "2021-04-14"
+language = "ru"
+
+[[directum]]
+id = "https://habr.com/ru/company/directum/blog/462055/"
+title = "Опыт перевода большого проекта с Flow на TypeScript"
+publishedAt = "2019-08-01"
+language = "ru"
+
+[[flocktory]]
+id = "https://slonoed.net/ru/third-party-js/"
+title = "Разработка сторонних библиотек"
+publishedAt = "2017-05-22"
+language = "ru"
+
+[[gitlab]]
+id = "https://youtu.be/3tdfBMRq34o"
+title = "Методы борьбы с legacy-кодом на примере GitLab"
+publishedAt = "2019-12-10"
+language = "ru"
+
+[[headhunter]]
+id = "https://habr.com/ru/company/hh/blog/310524/"
+title = "Нянчим проект на React-redux с пелёнок"
+publishedAt = "2016-09-21"
+language = "ru"
+
+[[headhunter]]
+id = "https://habr.com/ru/company/hh/blog/438812/"
+title = "Качество кода фронтенда в HH"
+publishedAt = "2019-02-04"
+language = "ru"
+
+[[headhunter]]
+id = "https://habr.com/ru/company/hh/blog/445816/"
+title = "Как мы пилили серверный рендеринг и что из этого вышло"
+publishedAt = "2019-03-28"
+language = "ru"
+
+[[headhunter]]
+id = "https://habr.com/ru/company/hh/blog/519474/"
+title = "Перфоманс фронтенда как современное искусство: графики, код, кулстори"
+publishedAt = "2020-09-17"
+language = "ru"
+
+[[headhunter]]
+id = "https://habr.com/ru/company/hh/blog/552288/"
+title = "«Продам гараж»: фронт и реклама в hh.ru"
+publishedAt = "2021-04-14"
+language = "ru"
+
+[[ispsystem]]
+id = "https://habr.com/ru/company/ispsystem/blog/358696/"
+title = "Обновляем Angular до 6-ой версии в проекте без использования CLI"
+publishedAt = "2018-05-16"
+language = "ru"
+
+[[ispsystem]]
+id = "https://habr.com/ru/company/ispsystem/blog/418135/"
+title = "Как организовать собственный репозиторий модулей Node.js с блэкджеком и версионностью"
+publishedAt = "2018-07-25"
+language = "ru"
+
+[[ispsystem]]
+id = "https://habr.com/ru/company/ispsystem/blog/447650/"
+title = "Как разделить фронтенд и бэкенд, сохранив взаимопонимание"
+publishedAt = "2019-04-11"
+language = "ru"
+
+[[ispsystem]]
+id = "https://habr.com/ru/company/ispsystem/blog/507826/"
+title = "От библиотеки компонентов к дизайн-системе"
+publishedAt = "2020-06-23"
+language = "ru"
+
+[[ispsystem]]
+id = "https://habr.com/ru/company/ispsystem/blog/512008/"
+title = "Ленивая подгрузка переводов с Angular"
+publishedAt = "2020-07-22"
+language = "ru"
+
+[[joom]]
+id = "https://habr.com/ru/company/joom/blog/535188/"
+title = "Автоматизируем локализацию макетов в Figma"
+publishedAt = "2020-12-29"
+language = "ru"
+
+[[joom]]
+id = "https://habr.com/ru/company/joom/blog/708286/"
+title = "Пошаговая инструкция: как с Node.js организовать иконки из Figma в проекте"
+publishedAt = "2022-12-30"
+language = "ru"
+
+[[mailru]]
+id = "https://habr.com/ru/company/mailru/blog/271689/"
+title = "Разработка собственного решения: риски и ответственность"
+publishedAt = "2015-11-26"
+language = "ru"
+
+[[mailru]]
+id = "https://habr.com/ru/company/mailru/blog/309212/"
+title = "Frontend: Разработка и поддержка"
+publishedAt = "2016-09-06"
+language = "ru"
+
+[[mailru]]
+id = "https://youtu.be/J08UOAJdjWc"
+title = "Архитектура фронтенда крупного проекта, как она есть"
+publishedAt = "2018-04-19"
+language = "ru"
+
+[[mailru]]
+id = "https://youtu.be/yx_eHBsXyIo"
+title = "запись доклада"
+publishedAt = "2019-11-27"
+language = "ru"
+
+[[mailru]]
+id = "https://habr.com/ru/company/mailru/blog/530798/"
+title = "Кастомизация компонентов Ant Design и оптимизация бандла"
+publishedAt = "2020-12-11"
+language = "ru"
+
+[[mailru]]
+id = "https://habr.com/ru/company/mailru/blog/579798/"
+title = "Адаптивный layout — как переверстать весь проект, не перевёрстывая его"
+publishedAt = "2021-09-24"
+language = "ru"
+
+[[microsofttodo]]
+id = "https://youtu.be/ZdrnIUgeDAs"
+title = "Как Microsoft To-Do использует React"
+publishedAt = "2018-06-18"
+language = "ru"
+
+[[miro]]
+id = "https://habr.com/ru/company/miro/blog/458624/"
+title = "Как мы учились рисовать тексты на Canvas"
+publishedAt = "2019-07-03"
+language = "ru"
+
+[[miro]]
+id = "https://habr.com/ru/company/miro/blog/566426/"
+title = "Как мы боролись за байты на фронтенде. Усмиряем прожорливый виджет рисования и помогаем iPad его переварить"
+publishedAt = "2021-07-06"
+language = "ru"
+
+[[netcracker]]
+id = "https://habr.com/company/netcracker/blog/333734/"
+title = "Выбранный UI-фреймворк – вред. Архитектурные требования – профит"
+publishedAt = "2017-07-20"
+language = "ru"
+
+[[netcracker]]
+id = "https://habr.com/company/netcracker/blog/420753/"
+title = "Микросервисный фронтенд — современный подход к разделению фронта"
+publishedAt = "2018-08-21"
+language = "ru"
+
+[[onetwotrip]]
+id = "https://habr.com/ru/post/459206/"
+title = "9 лет в монолите на Node.JS"
+publishedAt = "2019-07-09"
+language = "ru"
+
+[[onetwotrip]]
+id = "https://habr.com/ru/post/486360/"
+title = "Как мигрировать с mocha на jest в 14 простых шагов — и зачем"
+publishedAt = "2020-01-31"
+language = "ru"
+
+[[ramblergroup]]
+id = "https://habr.com/company/rambler-co/blog/280602/"
+title = "Как мы разогнали мобильную Lenta.ru до скорости света"
+publishedAt = "2016-03-31"
+language = "ru"
+
+[[ramblergroup]]
+id = "https://youtu.be/ZxmcIpmenoY"
+title = "Проектирование дизайн-системы Рамблера"
+publishedAt = "2018-06-18"
+language = "ru"
+
+[[ramblergroup]]
+id = "https://habr.com/company/rambler-co/blog/417023/"
+title = "Опыт Rambler Group: как мы начали полностью контролировать формирование и поведение фронтовых React компонентов"
+publishedAt = "2018-07-12"
+language = "ru"
+
+[[ramblergroup]]
+id = "https://habr.com/company/rambler-co/blog/418417/"
+title = "Apollo: 9 месяцев — полет нормальный"
+publishedAt = "2018-07-27"
+language = "ru"
+
+[[ramblergroup]]
+id = "https://habr.com/ru/company/rambler-co/blog/422545/"
+title = "Способы синхронизации вкладок браузера"
+publishedAt = "2018-09-07"
+language = "ru"
+
+[[ramblergroup]]
+id = "https://habr.com/company/rambler-co/blog/424025/"
+title = "Маршрутизация в большом приложении на React"
+publishedAt = "2018-09-27"
+language = "ru"
+
+[[setka]]
+id = "https://habrahabr.ru/company/oleg-bunin/blog/350252/"
+title = "Разработка Rich Text Editor: проблемы и решения"
+publishedAt = "2018-03-05"
+language = "ru"
+
+[[skyeng]]
+id = "https://youtu.be/a6mGNqubTcg"
+title = "Как масштабировать сложный Single Page Application"
+publishedAt = "2017-06-05"
+language = "ru"
+
+# [[skyeng]]
+# id = "https://habrahabr.ru/company/skyeng/blog/348356"
+# title = "цели, планы и правила переноса элементов"
+# publishedAt = "февраль 2018): [цели, планы и правила переноса элементов](https://habrahabr.ru/company/skyeng/blog/348356), [проблемы и решения гибридного режима](https://habr.com/ru/company/skyeng/blog/348512/), [жизнь после AngularJS](https://habr.com/ru/company/skyeng/blog/348606/"
+# language = "ru"
+
+[[skyeng]]
+id = "https://habr.com/ru/company/skyeng/blog/446444/"
+title = "От Skype до WebRTC: как мы организовали видеосвязь через веб"
+publishedAt = "2019-04-03"
+language = "ru"
+
+[[skyeng]]
+id = "https://habr.com/ru/company/skyeng/blog/459194/"
+title = "Как мы подружили SCSS с CSS Variables на примере c темизацией UI Kit"
+publishedAt = "2019-07-09"
+language = "ru"
+
+[[sportsru]]
+id = "https://habr.com/ru/company/sports_ru/blog/492228/"
+title = "Как в Sports.ru писали свой WYSIWYG-редактор"
+publishedAt = "2020-03-13"
+language = "ru"
+
+[[tinkoff]]
+id = "https://habrahabr.ru/company/tinkoff/blog/303580/"
+title = "Как мы разрабатываем новый фронтенд Tinkoff.ru"
+publishedAt = "2016-06-23"
+language = "ru"
+
+[[tinkoff]]
+id = "https://habrahabr.ru/company/tinkoff/blog/326782/"
+title = "Создание Tinkoff Design System. Первые шаги"
+publishedAt = "2017-04-18"
+language = "ru"
+
+[[tinkoff]]
+id = "https://habrahabr.ru/company/tinkoff/blog/339660/"
+title = "Создание Tinkoff Design System. UI Kit, версионирование и витрина компонентов"
+publishedAt = "2017-10-09"
+language = "ru"
+
+[[tinkoff]]
+id = "https://habr.com/ru/company/tinkoff/blog/468589/"
+title = "Как организовать работу над библиотекой общих компонентов"
+publishedAt = "2019-09-25"
+language = "ru"
+
+[[tinkoff]]
+id = "https://m.habr.com/ru/company/tinkoff/blog/459396/"
+title = "WARNING: sanitizing HTML stripped some content и как с ним правильно бороться"
+publishedAt = "2019-09-27"
+language = "ru"
+
+[[tinkoff]]
+id = "https://m.habr.com/ru/company/tinkoff/blog/467227/"
+title = "Как заопенсорсить npm-пакет с нормальным деплоем, CI и демо (без потери радости к жизни)"
+publishedAt = "2019-09-30"
+language = "ru"
+
+[[tinkoff]]
+id = "https://m.habr.com/ru/company/tinkoff/blog/473108/"
+title = "Компоненты-агностики в Angular"
+publishedAt = "2019-10-25"
+language = "ru"
+
+[[tinkoff]]
+id = "https://habr.com/ru/company/tinkoff/blog/474632/"
+title = "«Шакал»: сжимаем фронтенд"
+publishedAt = "2019-11-07"
+language = "ru"
+
+[[tinkoff]]
+id = "https://habr.com/ru/company/tinkoff/blog/517230/"
+title = "часть 1"
+publishedAt = "август–декабрь 2020"
+language = "ru"
+
+[[wrike]]
+id = "https://habrahabr.ru/company/wrike/blog/277255/"
+title = "Чем плох JavaScript в большом проекте? С какими проблемами мы столкнулись и как их решали"
+publishedAt = "2016-02-16"
+language = "ru"
+
+[[wrike]]
+id = "https://habr.com/ru/company/wrike/blog/334590/"
+title = "Как отрефакторить 2 500 000 строк кода и не сойти с ума"
+publishedAt = "2017-06-05"
+language = "ru"
+
+[[wrike]]
+id = "https://habrahabr.ru/company/wrike/blog/330832/"
+title = "Два года с Dart: о том, как мы пишем на языке, который ежегодно «хоронят»"
+publishedAt = "2017-06-15"
+language = "ru"
+
+[[wrike]]
+id = "https://habr.com/ru/company/wrike/blog/448610/"
+title = "DIY: Как мы делали «живое» расписание для Codefest X"
+publishedAt = "2019-04-18"
+language = "ru"
+
+[[wrike]]
+id = "https://habr.com/ru/company/wrike/blog/452820/"
+title = "10 верстальщиков на 30 команд. Вы рехнулись?"
+publishedAt = "2019-05-21"
+language = "ru"
+
+[[wrike]]
+id = "https://habr.com/ru/company/wrike/blog/451928/"
+title = "Как настроить веб-аналитику на AMP страницах"
+publishedAt = "2019-06-26"
+language = "ru"
+
+[[alfabank]]
+id = "https://habrahabr.ru/company/alfa/blog/335892/"
+title = "Предъявите паспорт"
+publishedAt = "2017-08-18"
+language = "ru"
+
+[[alfabank]]
+id = "https://habrahabr.ru/company/alfa/blog/340522/"
+title = "БЭМ + React: гибкая архитектура дизайн-системы"
+publishedAt = "2017-10-23"
+language = "ru"
+
+[[alfabank]]
+id = "https://habrahabr.ru/company/alfa/blog/340776/"
+title = "Изоморфное приложение React JS + Spring Boot"
+publishedAt = "2017-10-27"
+language = "ru"
+
+[[alfabank]]
+id = "https://youtu.be/pkHWttaktWk"
+title = "Атомарные SPA"
+publishedAt = "2018-04-07"
+language = "ru"
+
+[[alfabank]]
+id = "https://habr.com/ru/company/alfa/blog/492010/"
+title = "Тёмная сторона дизайн-системы и что с ней делать"
+publishedAt = "2020-03-16"
+language = "ru"
+
+[[bureau]]
+id = "https://bureau.ru/bb/soviet/20170629"
+title = "Как в книгах Бюро тяжёлые картинки выгружаются из памяти, чтобы браузер не тормозил"
+publishedAt = "2017-06-29"
+language = "ru"
+
+[[vk]]
+id = "https://www.youtube.com/watch?v=3rXueXJeGlw"
+title = "React со скоростью света: не совсем обычный серверный рендеринг"
+publishedAt = "2017-06-02"
+language = "ru"
+
+[[vk]]
+id = "https://habr.com/ru/company/vk/blog/449720/"
+title = "Как оседлать радугу: история создания тёмной темы"
+publishedAt = "2019-04-29"
+language = "ru"
+
+[[vk]]
+id = "https://ok.ru/video/2423311305323"
+title = "Баги, которые вы никогда не встретите"
+publishedAt = "2019-11-26"
+language = "ru"
+
+[[vk]]
+id = "https://habr.com/ru/company/vk/blog/558996/"
+title = "Бенчмарки VKUI и других ребят из UI-библиотек"
+publishedAt = "2021-05-26"
+language = "ru"
+
+[[dodobrands]]
+id = "https://youtu.be/G_3qp1HbhR4"
+title = "Додо Пицца: собственная касса на веб-технологиях"
+publishedAt = "2019-10-14"
+language = "ru"
+
+[[dodobrands]]
+id = "https://habr.com/ru/company/dodopizzaio/blog/473648/"
+title = "Лошадь сдохла – слезь: переход с tslint на eslint"
+publishedAt = "2019-10-29"
+language = "ru"
+
+[[leroymerlin]]
+id = "https://habr.com/ru/company/leroy_merlin/blog/488648/"
+title = "Опыт интеграции веб-компонентов на сайт Леруа Мерлен"
+publishedAt = "2020-02-18"
+language = "ru"
+
+[[meduza]]
+id = "https://dev.meduza.io/%D0%B2%D0%B5%D0%B1-%D0%BF%D1%83%D1%88-%D1%83%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B2-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B5-4d10fd4e1d7f"
+title = "Веб-пуш уведомления в Медузе"
+publishedAt = "2015-12-10"
+language = "ru"
+
+[[meduza]]
+id = "http://telegra.ph/AMP-Instant-Articles-Instant-View-whut-11-23"
+title = "AMP, Instant Articles, Instant View, whut?"
+publishedAt = "2016-11-23"
+language = "ru"
+
+[[meduza]]
+id = "https://dev.meduza.io/%D0%BA%D0%B0%D0%BA-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D0%BD%D1%8B%D0%B5-%D1%88%D1%80%D0%B8%D1%84%D1%82%D1%8B-%D0%B2-%D0%B2%D0%B5%D0%B1%D0%B5-%D0%B8-%D0%BD%D0%B5-%D1%81%D0%BE%D0%B9%D1%82%D0%B8-%D1%81-%D1%83%D0%BC%D0%B0-9ba8a2998bcc"
+title = "Как использовать кастомные шрифты в вебе и не сойти с ума"
+publishedAt = "2016-12-01"
+language = "ru"
+
+[[meduza]]
+id = "https://dev.meduza.io/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D1%8B-eff4c68d24f2"
+title = "Подкасты «Медузы»"
+publishedAt = "2017-09-21"
+language = "ru"
+
+[[meduza]]
+id = "https://meduza.io/feature/2020/07/13/kak-tehotdel-meduzy-reshil-optimizirovat-kartinki-a-v-protsesse-peredelal-sayt-adminku-i-podhod-k-interfeysu"
+title = "Как техотдел «Медузы» решил оптимизировать картинки — а в процессе переделал сайт, админку и подход к интерфейсу"
+publishedAt = "2020-07-13"
+language = "ru"
+
+[[ok]]
+id = "https://habr.com/ru/company/odnoklassniki/blog/115881/"
+title = "Архитектура и платформа проекта Одноклассники"
+publishedAt = "2011-03-21"
+language = "ru"
+
+[[ok]]
+id = "https://habr.com/ru/company/mailru/blog/191154/"
+title = "Как мы оптимизировали социальную кнопку"
+publishedAt = "2013-08-26"
+language = "ru"
+
+[[ok]]
+id = "https://habr.com/ru/company/odnoklassniki/blog/480808/"
+title = "Часть 1"
+publishedAt = "январь–февраль 2020"
+language = "ru"
+
+[[sber]]
+id = "https://habrahabr.ru/company/efs/blog/325916/"
+title = "За закрытой дверью фронтенда Единой фронтальной системы (ЕФС)"
+publishedAt = "2017-04-07"
+language = "ru"
+
+[[sber]]
+id = "https://habrahabr.ru/company/efs/blog/328012/"
+title = "Redux как сердце архитектуры фронтенда Единой фронтальной системы"
+publishedAt = "2017-05-04"
+language = "ru"
+
+[[sber]]
+id = "https://habrahabr.ru/company/efs/blog/330374/"
+title = "Работа с периферией из JavaScript: от теории к практике"
+publishedAt = "2017-06-15"
+language = "ru"
+
+[[sber]]
+id = "https://habr.com/company/sberbank/blog/353746/"
+title = "Как работают приложения Сбербанк Онлайн: Workflow API и фрэймворки"
+publishedAt = "2018-04-18"
+language = "ru"
+
+[[citymobil]]
+id = "https://habr.com/ru/company/citymobil/blog/504270/"
+title = "Хороший ли выбор Svelte для реализации виджета?"
+publishedAt = "2020-05-28"
+language = "ru"
+
+[[sportmaster]]
+id = "https://habr.com/ru/company/sportmaster_lab/blog/531342/"
+title = "Frontend в Sportmaster Lab"
+publishedAt = "2020-12-04"
+language = "ru"
+
+[[uchiru]]
+id = "https://habr.com/ru/company/uchi_ru/blog/516356/"
+title = "Интерфейсы для тех, кто еще не читает. Принципы проектирования детского UX-UI"
+publishedAt = "2020-08-24"
+language = "ru"
+
+[[uchiru]]
+id = "https://habr.com/ru/company/uchi_ru/blog/543308/"
+title = "Единый UI-кит и синхронизация дизайна в Учи.ру. Часть 1"
+publishedAt = "2021-02-20"
+language = "ru"
+
+[[habr]]
+id = "https://habr.com/ru/company/habr/blog/590111/"
+title = "Как мы ускоряли комментарии Хабра"
+publishedAt = "2021-11-25"
+language = "ru"
+
+[[cian]]
+id = "https://youtu.be/YANolrn4PYc"
+title = "Микросервисный фронтенд"
+publishedAt = "2018-11-07"
+language = "ru"
+
+[[cian]]
+id = "https://youtu.be/uQh5_a2tx64"
+title = "доклад"
+publishedAt = "2019-05-28"
+language = "ru"
+
+[[cian]]
+id = "https://habr.com/ru/company/cian/blog/475062/"
+title = "Внедряем Sign in with Apple — систему авторизации от Apple"
+publishedAt = "2019-11-08"
+language = "ru"
+
+[[cian]]
+id = "https://habr.com/ru/company/cian/blog/516958/"
+title = "Micro-frontends. Асинхронный подход к мультикомандной разработке"
+publishedAt = "2020-08-28"
+language = "ru"
+
+[[cian]]
+id = "https://habr.com/ru/company/cian/blog/598799/"
+title = "Время менять шапки: ускорение мобильной поисковой выдачи Циан"
+publishedAt = "2021-01-11"
+language = "ru"
+
+[[yoomoney]]
+id = "https://habrahabr.ru/company/yamoney/blog/341028/"
+title = "Прототипирование на продакшн-технологиях"
+publishedAt = "2017-10-26"
+language = "ru"
+
+[[yoomoney]]
+id = "https://habrahabr.ru/company/yamoney/blog/334500/"
+title = "Почему Node.js в качестве основы фронтенда – это круто"
+publishedAt = "2017-07-31"
+language = "ru"
+
+[[yoomoney]]
+id = "https://habrahabr.ru/company/yamoney/blog/348070/"
+title = "Создание NPM-модуля Яндекс.Кассы под Node.js — опыт Lodoss Team"
+publishedAt = "2018-02-01"
+language = "ru"
+
+[[yoomoney]]
+id = "https://habr.com/company/yamoney/blog/354416/"
+title = "Фронтенд как у сына маминой подруги"
+publishedAt = "2018-04-26"
+language = "ru"
+
+[[yoomoney]]
+id = "https://habr.com/company/yamoney/blog/414183/"
+title = "Реактивный фронтенд. История о том, как мы снова всё переписали"
+publishedAt = "2018-06-15"
+language = "ru"
+
+[[yoomoney]]
+id = "https://youtu.be/DA_R8mIaRJg"
+title = "Jenkins на службе фронтенд-разработки"
+publishedAt = "2018-02-22"
+language = "ru"
+
+[[yoomoney]]
+id = "https://youtu.be/7wGYxT1UZl4"
+title = "Обзор архитектуры фронтенда ЮMoney"
+publishedAt = "2020-12-15"
+language = "ru"
+
+[[yandex]]
+id = "https://habrahabr.ru/company/yandex/blog/242503/"
+title = "Как инкрементальные обновления влияют на скорость загрузки. Опыт Яндекс.Почты"
+publishedAt = "2014-11-06"
+language = "ru"
+
+[[yandex]]
+id = "https://habrahabr.ru/company/yandex/blog/258477/"
+title = "Accessibility. Как мы делаем Яндекс доступным людям с ограниченными возможностями и почему считаем это важным"
+publishedAt = "2015-05-21"
+language = "ru"
+
+[[yandex]]
+id = "https://youtu.be/RoO0Fcyf0FE?t=2443/"
+title = "Лекция Виталия Харисова «10k» про лёгкую версию поиска для медленных соединений и способы оптимизации кода, позволяющие уложиться в 10 килобайт"
+publishedAt = "2017-04-22"
+language = "ru"
+
+[[yandex]]
+id = "https://habrahabr.ru/company/yandex/blog/335982/"
+title = "Как создавалась карта с голосами болельщиков для Олимпиады"
+publishedAt = "2017-08-20"
+language = "ru"
+
+[[yandex]]
+id = "https://habrahabr.ru/company/yandex/blog/349220/"
+title = "Как мы делали «нарратив» – новый формат публикаций в Яндекс.Дзене"
+publishedAt = "2018-02-16"
+language = "ru"
+
+[[yandex]]
+id = "https://youtu.be/5T7mP-FpHN4"
+title = "React в Яндекс Поиске. Новая архитектура фронтенда СЕРПа"
+publishedAt = "2018-10-27"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/company/yandex/blog/428141/"
+title = "Бэкенд для фронтенда, или как в Яндекс.Маркете создают API без костылей"
+publishedAt = "2018-11-01"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/en/company/yandex/blog/438598/"
+title = "React & БЭМ – официальная коллаборация. Часть историческая"
+publishedAt = "2019-02-05"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/446780/"
+title = "Как создать тёмную тему и не навредить. Опыт команды Яндекс.Почты"
+publishedAt = "2019-04-09"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/460373/"
+title = "«Под капотом» Турбо-страниц: архитектура технологии быстрой загрузки веб-страниц"
+publishedAt = "2019-07-17"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/459960/"
+title = "От идеи до релиза. Детальный опыт фронтенда Маркета"
+publishedAt = "2019-07-22"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/469021/"
+title = "Разработка в монорепозитории"
+publishedAt = "2019-10-03"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/475382/"
+title = "Как мы внедряли WebAssembly в Яндекс.Картах и почему оставили JavaScript"
+publishedAt = "2019-11-19"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/478862/"
+title = "Как устроено тестирование фронтенда в Яндекс.Маркете и почему мы отказываемся от еженедельных релизов"
+publishedAt = "2019-12-10"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/486146/"
+title = "Как переписать фронтенд нагруженного проекта и не потерять главного"
+publishedAt = "2020-02-03"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/506030/"
+title = "Минифицируем приватные поля в TypeScript"
+publishedAt = "2020-06-13"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/515460/"
+title = "Технические предпочтения пользователей с нарушениями зрения в 2020 году"
+publishedAt = "2020-08-18"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex/blog/528386/"
+title = "Как и почему мы переехали с собственного npm-репозитория на Verdaccio"
+publishedAt = "2020-11-17"
+language = "ru"
+
+[[yandex]]
+id = "https://habr.com/ru/company/yandex_praktikum/blog/530268/"
+title = "Веб-тренажёр Яндекс.Практикума. Как всё устроено"
+publishedAt = "2020-11-27"
+language = "ru"
+
+[[2gis]]
+id = "https://habrahabr.ru/company/2gis/blog/254105"
+title = "TARS, сделай уровень frontend-рутины 0%"
+publishedAt = "2015-03-26"
+language = "ru"
+
+[[2gis]]
+id = "https://habrahabr.ru/company/2gis/blog/277457"
+title = "Тестируем вёрстку правильно"
+publishedAt = "2016-02-18"
+language = "ru"
+
+[[2gis]]
+id = "https://habrahabr.ru/company/2gis/blog/282207"
+title = "Этажи: 3D-навигация на WebGL в 2gis.ru"
+publishedAt = "2016-04-22"
+language = "ru"
+
+[[2gis]]
+id = "https://habrahabr.ru/company/2gis/blog/333016"
+title = "Дели — сокращай, или как мы делали мобильный 2ГИС Онлайн"
+publishedAt = "2017-07-20"
+language = "ru"
+
+[[2gis]]
+id = "https://habr.com/company/2gis/blog/358148"
+title = "Справа налево. Что такое dir=rtl и как приручить арабский язык"
+publishedAt = "2018-05-10"
+language = "ru"
+
+[[2gis]]
+id = "https://habr.com/company/2gis/blog/416635"
+title = "Справа налево. Как перевернуть интерфейс сайта под RTL"
+publishedAt = "2018-07-10"
+language = "ru"
+
+[[2gis]]
+id = "https://habr.com/ru/company/2gis/blog/442720/"
+title = "Быстрая генерализация маркеров на WebGL-карте"
+publishedAt = "2019-03-06"
+language = "ru"
+
+[[2gis]]
+id = "https://habr.com/ru/company/2gis/blog/498638"
+title = "3D-аркада в браузере: как мы сделали игру на React + Redux"
+publishedAt = "2020-04-23"
+language = "ru"
