@@ -1,7 +1,14 @@
 ---
 import "../styles/reset.css";
 import "../styles/base.css";
-import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
+import { SITE_NAME, SITE_URL } from "../config";
+
+interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
 ---
 
 <!doctype html>
@@ -23,43 +30,46 @@ import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
       sizes="180x180"
       href="/s/images/apple-touch-icon.png"
     />
-    <meta name="apple-mobile-web-app-title" content={SITE_NAME} />
+    <meta name="apple-mobile-web-app-title" content={title} />
 
-    <title>{SITE_NAME}</title>
-    <meta name="description" content={SITE_DESCRIPTION} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
 
     <meta property="og:type" content="website" />
-    <meta property="og:title" content={SITE_NAME} />
-    <meta property="og:url" content="https://frontendcs.com" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={new URL(Astro.originPathname, SITE_URL)} />
     <meta property="og:image" content="/s/images/social.png" />
+    <meta property="og:site_name" content={SITE_NAME} />
 
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title={SITE_NAME}
-      href={new URL("rss.xml", SITE_URL)}
-    />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content="/s/images/social.png" />
+
+    <slot name="rss" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
   </head>
 
   <body>
-    <main>
-      <slot />
-    </main>
+    <slot name="header" />
+
+    <div>
+      <slot name="main" />
+    </div>
+
+    <slot name="footer" />
   </body>
 </html>
 
 <style>
-  main {
+  body {
+    display: grid;
+    grid-template-rows: min-content 1fr min-content;
     border-top: none;
     border-bottom: none;
     max-width: 60rem;
     margin: auto;
     padding: 1rem;
-  }
-
-  @media (min-width: 66rem) {
-    main {
-      padding-inline: 3rem;
-    }
   }
 </style>

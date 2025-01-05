@@ -1,6 +1,7 @@
 :root {
   --color-bg: #f6f8fa;
   --color-border: #e1e4e8;
+  --color-muted: #59636e;
 
   --back-to-top-height: 3.5rem;
 
@@ -20,7 +21,7 @@ a:not([class="raw"]) {
   text-decoration-thickness: from-font;
 }
 
-a:not([href^="#"]):not([class="raw"]):visited {
+a:not([href^="#"]):not([class="raw"]):not([class="novisited"]):visited {
   color: purple;
 }
 
