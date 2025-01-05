@@ -384,7 +384,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [cars.com](https://www.cars.com)
 
-- [How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js](https://modernweb.com/cars-com-nodejs) (July 17, 2017)
+- [How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js](https://modernweb.com/cars-nodejs) (July 17, 2017)
 
 ### [Checkbot](https://www.checkbot.io/)
 
@@ -447,7 +447,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [DEV](https://dev.to)
 
-- [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/) (June 23, 2020)
+- [App shell UX with service workers and streams](https://github.com/GoogleChrome/web.dev/blob/a64d870f59c25431bbedf0ef06aa635072c43a2e/src/site/content/en/reliable/app-shell-ux-with-service-workers/index.md) (June 23, 2020)
 
 ### [Discord](https://discordapp.com/)
 
@@ -605,12 +605,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [FARFETCH](https://www.farfetch.com)
 
-- [The need for speed — 1: measuring today’s web performance](https://www.farfetchtechblog.com/en/blog/post/the-need-for-speed-1-measuring-today-s-web-performance) (February 19, 2019)
-- [The need for speed — 2: call for metrics](https://farfetchtechblog.com/en/blog/post/the-need-for-speed-2-call-for-metrics) (February 19, 2019)
-- [How to build a performance culture at scale](https://www.farfetchtechblog.com/en/blog/post/how-to-build-a-performance-culture-at-scale) (September 11, 2019)
-- [One less second for the page, one giant leap for the business](https://farfetchtechblog.com/en/blog/post/one-less-second-for-the-page-one-giant-leap-for-the-business) (July 2, 2020)
-- [The art of failure II: graceful degradation](https://farfetchtechblog.com/en/blog/post/the-art-of-failure-ii-graceful-degradation) (September 20, 2021)
-- [GraphQL sessions: powering farfetch.com](https://www.farfetchtechblog.com/en/blog/post/graphql-sessions-powering-farfetch-com) (May 6, 2022)
+- [The need for speed — 1: measuring today’s web performance](https://www.linkedin.com/pulse/need-speed-1-measuring-todays-web-performance-manuel-garcia/) (February 19, 2019)
+- [The need for speed — 2: call for metrics](https://www.linkedin.com/pulse/need-speed-2-call-metrics-manuel-garcia/) (February 19, 2019)
+- [How to build a performance culture at scale](https://www.linkedin.com/pulse/how-build-performance-culture-scale-manuel-garcia/) (September 11, 2019)
+- [One less second for the page, one giant leap for the business](https://www.linkedin.com/pulse/one-less-second-page-giant-leap-business-manuel-garcia) (July 2, 2020)
+- [GraphQL sessions: powering farfetch.com](https://farfetchtech.medium.com/graphql-sessions-powering-farfetch-com-305e7c0901e7) (May 6, 2022)
 
 ### [fastq.bio](http://www.fastq.bio/)
 

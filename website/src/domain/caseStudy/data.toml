@@ -671,7 +671,7 @@ publishedAt = "2019-04-18"
 language = "en"
 
 [[carscom]]
-id = "https://modernweb.com/cars-com-nodejs"
+id = "https://modernweb.com/cars-nodejs"
 title = "How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js"
 publishedAt = "2017-07-17"
 language = "en"
@@ -821,7 +821,7 @@ publishedAt = "2016-07-16"
 language = "en"
 
 [[dev]]
-id = "https://web.dev/app-shell-ux-with-service-workers/"
+id = "https://github.com/GoogleChrome/web.dev/blob/a64d870f59c25431bbedf0ef06aa635072c43a2e/src/site/content/en/reliable/app-shell-ux-with-service-workers/index.md"
 title = "App shell UX with service workers and streams"
 publishedAt = "2020-06-23"
 language = "en"
@@ -1565,39 +1565,39 @@ publishedAt = "2024-05-14"
 language = "en"
 
 [[farfetch]]
-id = "https://www.farfetchtechblog.com/en/blog/post/the-need-for-speed-1-measuring-today-s-web-performance"
+id = "https://www.linkedin.com/pulse/need-speed-1-measuring-todays-web-performance-manuel-garcia/"
 title = "The need for speed — 1: measuring today’s web performance"
 publishedAt = "2019-02-19"
 language = "en"
 
 [[farfetch]]
-id = "https://farfetchtechblog.com/en/blog/post/the-need-for-speed-2-call-for-metrics"
+id = "https://www.linkedin.com/pulse/need-speed-2-call-metrics-manuel-garcia/"
 title = "The need for speed — 2: call for metrics"
 publishedAt = "2019-02-19"
 language = "en"
 
 [[farfetch]]
-id = "https://www.farfetchtechblog.com/en/blog/post/how-to-build-a-performance-culture-at-scale"
+id = "https://www.linkedin.com/pulse/how-build-performance-culture-scale-manuel-garcia/"
 title = "How to build a performance culture at scale"
 publishedAt = "2019-09-11"
 language = "en"
 
 [[farfetch]]
-id = "https://farfetchtechblog.com/en/blog/post/one-less-second-for-the-page-one-giant-leap-for-the-business"
+id = "https://www.linkedin.com/pulse/one-less-second-page-giant-leap-business-manuel-garcia"
 title = "One less second for the page, one giant leap for the business"
 publishedAt = "2020-07-02"
 language = "en"
 
 [[farfetch]]
-id = "https://farfetchtechblog.com/en/blog/post/the-art-of-failure-ii-graceful-degradation"
-title = "The art of failure II: graceful degradation"
-publishedAt = "2021-09-20"
+id = "https://farfetchtech.medium.com/graphql-sessions-powering-farfetch-com-305e7c0901e7"
+title = "GraphQL sessions: powering farfetch.com"
+publishedAt = "2022-05-06"
 language = "en"
 
 [[farfetch]]
-id = "https://www.farfetchtechblog.com/en/blog/post/graphql-sessions-powering-farfetch-com"
-title = "GraphQL sessions: powering farfetch.com"
-publishedAt = "2022-05-06"
+id = "https://medium.com/farfetch-tech-blog/lessons-learned-when-building-product-agnostic-reusable-ui-components-d58e1d96534d"
+title = "Lessons learned when building product-agnostic reusable UI Components"
+publishedAt = "2019-03-14"
 language = "en"
 
 [[fastqbio]]
