@@ -684,12 +684,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [GitHub](https://github.com)
 
-- [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) (July 23, 2014)
+- [GitHub's CSS](https://markdotto.com/blog/githubs-css/) (July 23, 2014)
 - [How GitHub is using Web Components in production](https://www.webcomponents.org/community/articles/interview-with-joshua-peek) (September 30, 2014)
 - [Browser Monitoring for GitHub.com](https://githubengineering.com/browser-monitoring-for-github-com/) (May 19, 2015)
 - [GitHub's CSP journey](https://githubengineering.com/githubs-csp-journey/) (April 12, 2016)
 - [GitHub's post-CSP journey](https://githubengineering.com/githubs-post-csp-journey/) (January 19, 2017)
-- [Shipping system fonts to GitHub.com](http://markdotto.com/2018/02/07/github-system-fonts/) (February 7, 2018)
+- [Shipping system fonts to GitHub.com](https://markdotto.com/blog/github-system-fonts/) (February 7, 2018)
 - [Design Systems at GitHub](https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542) (July 6, 2018)
 - [Removing jQuery from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/) (September 6, 2018)
 - [From 48k lines of code to 10—the story of GitHub’s JavaScript SDK](https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk) (April 9, 2020)

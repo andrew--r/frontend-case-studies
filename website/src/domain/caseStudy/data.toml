@@ -1865,7 +1865,7 @@ publishedAt = "2017-07-24"
 language = "en"
 
 [[github]]
-id = "http://markdotto.com/2014/07/23/githubs-css/"
+id = "https://markdotto.com/blog/githubs-css/"
 title = "GitHub's CSS"
 publishedAt = "2014-07-23"
 language = "en"
@@ -1895,7 +1895,7 @@ publishedAt = "2017-01-19"
 language = "en"
 
 [[github]]
-id = "http://markdotto.com/2018/02/07/github-system-fonts/"
+id = "https://markdotto.com/blog/github-system-fonts/"
 title = "Shipping system fonts to GitHub.com"
 publishedAt = "2018-02-07"
 language = "en"
