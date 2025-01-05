@@ -593,7 +593,7 @@ publishedAt = "2020-11-09"
 language = "en"
 
 [[buzzfeed]]
-id = "https://tech.buzzfeef.com/micro-frontends-at-buzzfeed-b8754b31d178"
+id = "https://tech.buzzfeed.com/micro-frontends-at-buzzfeed-b8754b31d178"
 title = "Micro Frontends at BuzzFeed"
 publishedAt = "2019-09-17"
 language = "en"
@@ -638,24 +638,6 @@ language = "en"
 id = "https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4"
 title = "How to test accessibility of emails"
 publishedAt = "2018-06-05"
-language = "en"
-
-[[carbonfive]]
-id = "https://blog.carbonfive.com/2012/08/17/cross-domain-browser-window-messaging-with-html5-and-javascript/"
-title = "Cross-Domain Browser Window Messaging with HTML5 and Javascript"
-publishedAt = "2012-08-17"
-language = "en"
-
-[[carbonfive]]
-id = "https://blog.carbonfive.com/2015/01/29/composing-synchronous-and-asynchronous-functions-in-javascript/"
-title = "Composing Synchronous and Asynchronous Functions in JavaScript"
-publishedAt = "2015-01-29"
-language = "en"
-
-[[carbonfive]]
-id = "https://blog.carbonfive.com/2018/01/24/an-ajax-auto-save-implementation"
-title = "An AJAX Auto-Save Implementation"
-publishedAt = "2018-01-24"
 language = "en"
 
 [[carousell]]

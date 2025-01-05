@@ -376,12 +376,6 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Better video previews for email](https://cm.engineering/better-video-previews-for-email-12432ce71846) (December 20, 2016)
 - [How to test accessibility of emails](https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4) (June 5, 2018)
 
-### [Carbon Five](https://www.carbonfive.com/)
-
-- [Cross-Domain Browser Window Messaging with HTML5 and Javascript](https://blog.carbonfive.com/2012/08/17/cross-domain-browser-window-messaging-with-html5-and-javascript/) (August 17, 2012)
-- [Composing Synchronous and Asynchronous Functions in JavaScript](https://blog.carbonfive.com/2015/01/29/composing-synchronous-and-asynchronous-functions-in-javascript/) (January 29, 2015)
-- [An AJAX Auto-Save Implementation](https://blog.carbonfive.com/2018/01/24/an-ajax-auto-save-implementation) (January 24, 2018)
-
 ### [Carousell](https://carousell.com)
 
 - [How we made Carousell’s mobile web experience 3x faster](https://medium.com/carousell-insider/how-we-made-carousells-mobile-web-experience-3x-faster-bbb3be93e006) (October 31, 2018)
