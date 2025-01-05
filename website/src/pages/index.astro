@@ -6,7 +6,7 @@ import Footer from "../components/Footer.astro";
 import { getAllCompanies } from "../domain/company/lib";
 import { getAllCaseStudiesByCompany } from "../domain/caseStudy/lib";
 import CaseStudiesList from "../components/CaseStudiesList.astro";
-import { SITE_NAME, SITE_URL } from "../config";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
 
 const companies = (await getAllCompanies()).sort((a, b) =>
   a.data.name.localeCompare(b.data.name)
@@ -14,7 +14,7 @@ const companies = (await getAllCompanies()).sort((a, b) =>
 const caseStudiesByCompany = await getAllCaseStudiesByCompany();
 ---
 
-<BaseLayout>
+<BaseLayout title={SITE_NAME} description={SITE_DESCRIPTION}>
   <link
     slot="rss"
     rel="alternate"
