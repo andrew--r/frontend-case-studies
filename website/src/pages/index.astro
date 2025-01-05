@@ -1,67 +1,63 @@
 ---
-import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Header from "../components/Header.astro";
 import InlineNavigation from "../components/InlineNavigation.astro";
 import Footer from "../components/Footer.astro";
+import { getAllCompanies } from "../domain/company/lib";
+import { getAllCaseStudiesByCompany } from "../domain/caseStudy/lib";
+import CaseStudiesList from "../components/CaseStudiesList.astro";
+import { SITE_NAME, SITE_URL } from "../config";
 
-const companies = (await getCollection("companies")).sort((a, b) =>
+const companies = (await getAllCompanies()).sort((a, b) =>
   a.data.name.localeCompare(b.data.name)
 );
-const caseStudies = await getCollection("caseStudies");
-const caseStudiesByCompany = Object.groupBy(
-  caseStudies,
-  (item) => item.data.company
-);
-const dateFormatter = new Intl.DateTimeFormat("en-US", {
-  year: "numeric",
-  month: "long",
-});
+const caseStudiesByCompany = await getAllCaseStudiesByCompany();
 ---
 
 <BaseLayout>
-  <Header />
-  <InlineNavigation items={companies} />
+  <link
+    slot="rss"
+    rel="alternate"
+    type="application/rss+xml"
+    title={SITE_NAME}
+    href={new URL("rss.xml", SITE_URL)}
+  />
 
-  <div class="companies">
-    {
-      companies.map((company) => (
-        <section>
-          <h2 id={company.id}>
-            <a href={company.data.websiteUrl}>{company.data.name}</a>
-            <a href={`#${company.id}`}>#</a>
-          </h2>
-          <ul>
-            {caseStudiesByCompany[company.id]
-              ?.sort(
-                (a, b) =>
-                  b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
-              )
-              .map((caseStudy) => (
-                <li>
-                  <div>
-                    <a href={caseStudy.id}>{caseStudy.data.title}</a>
-                  </div>
-                  <time datetime={caseStudy.data.publishedAt.toISOString()}>
-                    {dateFormatter.format(caseStudy.data.publishedAt)}
-                  </time>
-                </li>
-              ))}
-          </ul>
-        </section>
-      ))
-    }
-  </div>
+  <Header slot="header" />
 
-  <Footer />
+  <main slot="main">
+    <InlineNavigation items={companies} />
+
+    <div class="companies">
+      {
+        companies.map((company) => {
+          const caseStudies = caseStudiesByCompany[company.id];
+
+          if (!caseStudies) {
+            return null;
+          }
+
+          return (
+            <section>
+              <h2 id={company.id}>
+                <a href={`/companies/${company.id}`}>{company.data.name}</a>
+                <sup>{caseStudies.length}</sup>
+              </h2>
+
+              <CaseStudiesList items={caseStudies} />
+            </section>
+          );
+        })
+      }
+    </div>
+  </main>
+
+  <Footer slot="footer" />
 </BaseLayout>
 
 <style>
-  .companies {
-    margin-top: 2rem;
-  }
-
   h2 {
+    margin-block-start: 2rem;
     font-size: 2.5rem;
     position: relative;
   }
@@ -70,19 +66,8 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
     text-decoration: none;
   }
 
-  ul,
-  li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-
-  li {
-    margin-block: 1rem;
-  }
-
-  time {
-    color: #59636e;
+  h2 > sup {
+    color: var(--color-muted);
   }
 
   @media (min-width: 60rem) {
@@ -92,41 +77,12 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
       gap: 1rem;
     }
 
-    section,
-    ul {
+    section {
       display: contents;
     }
 
     h2 {
       grid-column: 2 / -1;
-    }
-
-    h2 > a[href^="#"] {
-      position: absolute;
-      left: 0;
-      transform: translateX(-100%);
-      padding-inline-end: 0.5rem;
-    }
-
-    h2:not(:hover, :focus) > a[href^="#"] {
-      opacity: 0;
-    }
-
-    li {
-      display: grid;
-      grid-template-columns: subgrid;
-      grid-column: 1 / -1;
-      margin: 0;
-    }
-
-    li > a {
-      grid-column: 2;
-    }
-
-    time {
-      text-align: right;
-      grid-column: 1 / 1;
-      grid-row: 1 / 1;
     }
   }
 </style>

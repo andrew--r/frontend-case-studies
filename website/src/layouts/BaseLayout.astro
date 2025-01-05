@@ -25,7 +25,9 @@ import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
     />
     <meta name="apple-mobile-web-app-title" content={SITE_NAME} />
 
-    <title>{SITE_NAME}</title>
+    <slot name="title">
+      <title>{SITE_NAME}</title>
+    </slot>
     <meta name="description" content={SITE_DESCRIPTION} />
 
     <meta property="og:type" content="website" />
@@ -33,33 +35,28 @@ import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
     <meta property="og:url" content="https://frontendcs.com" />
     <meta property="og:image" content="/s/images/social.png" />
 
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title={SITE_NAME}
-      href={new URL("rss.xml", SITE_URL)}
-    />
+    <slot name="rss" />
   </head>
 
   <body>
-    <main>
-      <slot />
-    </main>
+    <slot name="header" />
+
+    <div>
+      <slot name="main" />
+    </div>
+
+    <slot name="footer" />
   </body>
 </html>
 
 <style>
-  main {
+  body {
+    display: grid;
+    grid-template-rows: min-content 1fr min-content;
     border-top: none;
     border-bottom: none;
     max-width: 60rem;
     margin: auto;
     padding: 1rem;
-  }
-
-  @media (min-width: 66rem) {
-    main {
-      padding-inline: 3rem;
-    }
   }
 </style>

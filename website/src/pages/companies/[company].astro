@@ -1,0 +1,103 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllCompanies, getCompany } from "../../domain/company/lib";
+import { getAllCaseStudiesByCompany } from "../../domain/caseStudy/lib";
+import Footer from "../../components/Footer.astro";
+import CaseStudiesList from "../../components/CaseStudiesList.astro";
+
+export async function getStaticPaths() {
+  const pages = await getAllCompanies();
+
+  return pages.map((page) => ({
+    params: {
+      company: page.id,
+    },
+  }));
+}
+
+const company = await getCompany(Astro.params.company);
+const caseStudiesByCompany = await getAllCaseStudiesByCompany();
+const caseStudies = caseStudiesByCompany[company.id] ?? [];
+
+const websiteUrlPreview = new URL(company.data.websiteUrl).host.replace(
+  /^www\./,
+  ""
+);
+---
+
+<BaseLayout>
+  <title slot="title">
+    {company?.data.name} Case Studies
+  </title>
+
+  <header slot="header">
+    <a class="novisited" href="/">← All Frontend Case Studies</a>
+  </header>
+
+  <main slot="main">
+    <div class="company">
+      <h2>{company?.data.name}</h2>
+      <p class="subtitle">
+        {
+          [
+            <a href={company.data.websiteUrl}>{websiteUrlPreview}</a>,
+            company.data.blogUrl ? (
+              <a href={company.data.blogUrl}>Engineering blog</a>
+            ) : null,
+            <>
+              {caseStudies.length} case{" "}
+              {caseStudies.length > 1 ? "studies" : "study"}
+            </>,
+          ]
+            .filter(Boolean)
+            .reduce(
+              (result, item) =>
+                result === null ? (
+                  item
+                ) : (
+                  <>
+                    {result} • {item}
+                  </>
+                ),
+              null
+            )
+        }
+      </p>
+    </div>
+
+    <CaseStudiesList items={caseStudies} />
+  </main>
+
+  <Footer slot="footer" />
+</BaseLayout>
+
+<style>
+  h2 {
+    font-size: 3.5rem;
+  }
+
+  .company {
+    margin-block: 2rem;
+  }
+
+  .subtitle {
+    color: var(--color-muted);
+    font-size: 1.5rem;
+  }
+
+  @media (min-width: 60rem) {
+    main {
+      display: grid;
+      grid-template-columns: minmax(40px, max-content) 1fr;
+      gap: 1rem;
+    }
+
+    .company {
+      grid-column: 1 / -1;
+    }
+
+    h2 {
+      margin-block: 0.5rem;
+    }
+  }
+</style>

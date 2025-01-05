@@ -1,0 +1,65 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  items: CollectionEntry<"caseStudies">[];
+}
+
+const items = Astro.props.items.sort(
+  (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+);
+
+const dateFormatter = new Intl.DateTimeFormat("en-US", {
+  year: "numeric",
+  month: "long",
+});
+---
+
+<ul>
+  {
+    items.map((caseStudy) => (
+      <li>
+        <div>
+          <a href={caseStudy.id}>{caseStudy.data.title}</a>
+        </div>
+
+        <time datetime={caseStudy.data.publishedAt.toISOString()}>
+          {dateFormatter.format(caseStudy.data.publishedAt)}
+        </time>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  li {
+    margin-block: 1rem;
+  }
+
+  time {
+    color: var(--color-muted);
+  }
+
+  @media (min-width: 60rem) {
+    ul {
+      display: contents;
+    }
+
+    li {
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-column: 1 / -1;
+      margin: 0;
+    }
+
+    li > a {
+      grid-column: 2;
+    }
+
+    time {
+      text-align: right;
+      grid-column: 1 / 1;
+      grid-row: 1 / 1;
+    }
+  }
+</style>
