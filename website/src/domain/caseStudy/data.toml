@@ -761,7 +761,7 @@ publishedAt = "2018-02-07"
 language = "en"
 
 [[condenast]]
-id = "https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast"
+id = "https://blog.amp.dev/2017/09/08/the-why-and-how-of-accelerated-mobile-pages-at-conde-nast"
 title = "The Why and How of Google AMP at Condé Nast"
 publishedAt = "2017-08-29"
 language = "en"
@@ -2351,43 +2351,43 @@ publishedAt = "2019-03-13"
 language = "en"
 
 [[invision]]
-id = "https://engineering.invisionapp.com/post/sharing-eslint-across-teams/"
+id = "https://web.archive.org/web/20240930154734/https://engineering.invisionapp.com/post/sharing-eslint-across-teams/"
 title = "Sharing ESLint Across Teams"
 publishedAt = "2016-04-05"
 language = "en"
 
 [[invision]]
-id = "https://engineering.invisionapp.com/post/optimizing-webpack/"
+id = "https://web.archive.org/web/20240930155356/https://engineering.invisionapp.com/post/optimizing-webpack/"
 title = "Optimizing Webpack for Faster React Builds"
 publishedAt = "2016-04-12"
 language = "en"
 
 [[invision]]
-id = "https://engineering.invisionapp.com/post/persist-redux-state-by-using-sagas/"
+id = "https://web.archive.org/web/20240930154747/https://engineering.invisionapp.com/post/persist-redux-state-by-using-sagas/"
 title = "Persist Redux State by Using Sagas"
 publishedAt = "2016-04-26"
 language = "en"
 
 [[invision]]
-id = "https://engineering.invisionapp.com/post/testing-eslint/"
+id = "https://web.archive.org/web/20240930155237/https://engineering.invisionapp.com/post/testing-eslint/"
 title = "Testing Our Shared ESLint Configs"
 publishedAt = "2016-05-12"
 language = "en"
 
 [[invision]]
-id = "https://engineering.invisionapp.com/post/how-eslint-saved-our-soul/"
+id = "https://web.archive.org/web/20240930154708/https://engineering.invisionapp.com/post/how-eslint-saved-our-soul/"
 title = "How ESLint Saved Our Soul"
 publishedAt = "2016-08-12"
 language = "en"
 
 [[invision]]
-id = "https://engineering.invisionapp.com/post/react-performance-tune-up/"
+id = "https://web.archive.org/web/20240930155305/https://engineering.invisionapp.com/post/react-performance-tune-up/"
 title = "React Performance Tune-Up"
 publishedAt = "2016-09-23"
 language = "en"
 
 [[invision]]
-id = "https://engineering.invisionapp.com/post/building-the-inspect-measurement-engine"
+id = "https://web.archive.org/web/20240930154803/https://engineering.invisionapp.com/post/building-the-inspect-measurement-engine/"
 title = "Building the inspect measurement engine"
 publishedAt = "2019-07-17"
 language = "en"
@@ -2459,12 +2459,6 @@ publishedAt = "2017-11-20"
 language = "en"
 
 [[klarna]]
-id = "https://engineering.klarna.com/migrating-from-rails-asset-pipeline-to-node-s-webpack-684230e3a93a"
-title = "Migrating from Rails’ asset pipeline to Node’s webpack"
-publishedAt = "2016-01-02"
-language = "en"
-
-[[klarna]]
 id = "https://engineering.klarna.com/how-removing-caching-improved-mobile-performance-by-25-52a17cc339a2"
 title = "How removing caching improved mobile performance by 25%"
 publishedAt = "2017-01-10"
@@ -2483,15 +2477,81 @@ publishedAt = "2020-01-09"
 language = "en"
 
 [[line]]
-id = "https://engineering.linecorp.com/en/blog/detail/200"
+id = "https://engineering.linecorp.com/en/blog/line-manga-smooth-page-transition-with-page-stack/"
 title = "LINE MANGA: Smooth page transition with Page Stack"
 publishedAt = "2018-01-18"
 language = "en"
 
 [[line]]
-id = "https://engineering.linecorp.com/en/blog/detail/235"
+id = "https://engineering.linecorp.com/en/blog/easy-code-splitting-with-grow-loader"
 title = "Easy code-splitting with grow-loader"
 publishedAt = "2018-01-24"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/line-animation-sticker-checker-on-web-browser"
+title = "LINE Animation Sticker Checker on Web browser"
+publishedAt = "2018-06-04"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/page-stack-revisited"
+title = "LINE Securities: Page Stack revisited"
+publishedAt = "2020-06-15"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/how-and-what-front-end-developers-actually-do-at-line"
+title = "How and what front-end developers actually do at LINE?"
+publishedAt = "2019-06-19"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/line-web-services-technology"
+title = "LINE's Web-based services and technology. Isn't LINE an app developer?"
+publishedAt = "2019-09-30"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/line-developers-site-from-middleman-to-vuepress"
+title = "LINE Developers site: From Middleman to VuePress"
+publishedAt = "2020-03-10"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/create-figma-translation-plugin-with-vuejs"
+title = "How I made a Figma translation plugin with Vue.js after a couple of drinks"
+publishedAt = "2023-07-28"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/support-prettier-and-oss"
+title = "LINE has started to donate to Prettier - why companies should support OSS"
+publishedAt = "2022-02-15"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/web-styling-with-reactjs"
+title = "Web Styling with ReactJS"
+publishedAt = "2021-04-29"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/team-and-project-introducing-the-team-developing-web-frontend-for-line-user-services"
+title = "Introducing the Team Developing Web Front-end for LINE User Services"
+publishedAt = "2021-05-24"
+language = "en"
+
+[[line]]
+id = "https://engineering.linecorp.com/en/blog/floor-map-management-system-on-web-with-leaflet"
+title = "Floor map management system on web, with Leaflet"
+publishedAt = "2018-04-02"
+language = "en"
+
+[[line]]
+id = "https://techblog.lycorp.co.jp/en/20231005a"
+title = "How We Rearchitected A/B Testing at LINE NEWS"
+publishedAt = "2023-10-05"
 language = "en"
 
 [[linkedin]]
@@ -2528,6 +2588,30 @@ language = "en"
 id = "https://engineering.linkedin.com/blog/2020/automated-accessibility-testing"
 title = "LinkedIn’s approach to automated accessibility (A11y) testing"
 publishedAt = "2020-05-21"
+language = "en"
+
+[[linkedin]]
+id = "https://www.linkedin.com/blog/engineering/profile/leveraging-configurable-components-to-scale-linkedin-s-profile-e"
+title = "Leveraging configurable components to scale LinkedIn's Profile experience"
+publishedAt = "2022-04-05"
+language = "en"
+
+[[linkedin]]
+id = "https://www.linkedin.com/blog/engineering/member-customer-experience/building-a-next-generation-forms-framework-at-linkedin"
+title = "Building a next-generation forms framework at LinkedIn"
+publishedAt = "2022-03-31"
+language = "en"
+
+[[linkedin]]
+id = "https://www.linkedin.com/blog/engineering/product-design/updating-linkedins-ui"
+title = "Under the hood: Updating LinkedIn's UI"
+publishedAt = "2020-10-22"
+language = "en"
+
+[[linkedin]]
+id = "https://www.linkedin.com/blog/engineering/infrastructure/accelerating-code-delivery-by-97-with-yarn-workspaces"
+title = "Accelerating Code Delivery By 97% With Yarn Workspaces"
+publishedAt = "2022-12-15"
 language = "en"
 
 [[lucidchart]]
@@ -2783,15 +2867,27 @@ publishedAt = "2018-05-29"
 language = "en"
 
 [[mixpanel]]
-id = "https://engineering.mixpanel.com/2015/04/08/straightening-our-backbone-a-lesson-in-event-driven-ui-development/"
+id = "https://engineering.mixpanel.com/straightening-our-backbone-a-lesson-in-event-driven-ui-development-11894835604f"
 title = "Straightening our Backbone: A lesson in event-driven UI development"
 publishedAt = "2015-04-08"
 language = "en"
 
 [[mixpanel]]
-id = "https://engineering.mixpanel.com/2018/06/12/making-web-components-work/"
+id = "https://web.archive.org/web/20181022045420/https://engineering.mixpanel.com/2018/06/12/making-web-components-work/"
 title = "Making Web Components Work, or: How We Learned to Stop Worrying and Love the DOM"
 publishedAt = "2018-06-12"
+language = "en"
+
+[[mixpanel]]
+id = "https://engineering.mixpanel.com/how-does-css-grid-work-with-height-width-margin-and-padding-e3dc3afdea2b"
+title = "How does CSS Grid work with Height/Width, Margin and Padding?"
+publishedAt = "2023-08-24"
+language = "en"
+
+[[mixpanel]]
+id = "https://engineering.mixpanel.com/best-javascript-charting-libraries-72e30974fc88"
+title = "Best Javascript Charting Libraries"
+publishedAt = "2010-09-18"
 language = "en"
 
 [[monzo]]
@@ -2969,27 +3065,21 @@ publishedAt = "2018-06-27"
 language = "en"
 
 [[okgrow]]
-id = "https://www.okgrow.com/posts/flow-router-migration-guide"
+id = "https://web.archive.org/web/20191002194257/https://www.okgrow.com/posts/flow-router-migration-guide"
 title = "Migrating from Iron Router to FlowRouter (with Blaze)"
 publishedAt = "2015-09-17"
 language = "en"
 
 [[okgrow]]
-id = "https://www.okgrow.com/posts/where-does-redux-fit-in-meteor"
+id = "https://web.archive.org/web/20191003010638/https://www.okgrow.com/posts/where-does-redux-fit-in-meteor"
 title = "Where does Redux fit in Meteor?"
 publishedAt = "2016-07-15"
 language = "en"
 
 [[okgrow]]
-id = "https://www.okgrow.com/posts/real-world-unit-testing-with-meteor-and-jest"
+id = "https://blog.meteor.com/real-world-unit-tests-with-meteor-and-jest-3d557e84e84a"
 title = "Real-world Unit Testing with Meteor and Jest"
 publishedAt = "2017-10-17"
-language = "en"
-
-[[okgrow]]
-id = "https://www.okgrow.com/posts/optimizing-graphql-apollo-engine"
-title = "Optimizing a GraphQL app using Apollo Engine"
-publishedAt = "2019-02-12"
 language = "en"
 
 [[oyo]]

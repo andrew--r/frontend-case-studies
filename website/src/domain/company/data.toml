@@ -304,14 +304,17 @@ websiteUrl = "https://www.kickstarter.com/"
 [klarna]
 name = "Klarna"
 websiteUrl = "https://www.klarna.com"
+blogUrl = "https://engineering.klarna.com"
+rssUrl = "https://engineering.klarna.com/feed"
 
 [line]
 name = "Line"
-websiteUrl = "https://line.me"
+websiteUrl = "https://linecorp.com/en"
 
 [linkedin]
 name = "LinkedIn"
 websiteUrl = "https://www.linkedin.com"
+blogUrl = "https://www.linkedin.com/blog/engineering"
 
 [lucidchart]
 name = "Lucidchart"
@@ -395,7 +398,7 @@ websiteUrl = "https://www.npmjs.com"
 
 [okgrow]
 name = "OK GROW!"
-websiteUrl = "https://www.okgrow.com/"
+websiteUrl = "https://www.pauldowman.com/posts/shutting-down-okgrow"
 
 [oyo]
 name = "OYO"
