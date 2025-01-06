@@ -1,33 +1,20 @@
-import { defineCollection, z } from "astro:content";
-import { companySchema } from "./domain/company/schema";
-import { caseStudySchema } from "./domain/caseStudy/schema";
 import { file } from "astro/loaders";
-import { parse } from "smol-toml";
+import { defineCollection, z } from "astro:content";
+import { parseCaseStudiesFromTomlUnsafe } from "./domain/caseStudy/lib";
+import { caseStudySchema } from "./domain/caseStudy/schema";
+import { parseCompaniesFromTomlUnsafe } from "./domain/company/lib";
+import { companySchema } from "./domain/company/schema";
 
 const companies = defineCollection({
   loader: file("src/domain/company/data.toml", {
-    parser: (source) => {
-      return Object.entries(parse(source)).map(([id, company]) => ({
-        // @ts-expect-error
-        ...company,
-        id,
-      }));
-    },
+    parser: parseCompaniesFromTomlUnsafe,
   }),
   schema: companySchema,
 });
 
 const caseStudies = defineCollection({
   loader: file("src/domain/caseStudy/data.toml", {
-    parser: (source) => {
-      return Object.entries(parse(source)).flatMap(([company, entries]) =>
-        // @ts-expect-error
-        entries.map((entry) => ({
-          ...entry,
-          company,
-        }))
-      );
-    },
+    parser: parseCaseStudiesFromTomlUnsafe,
   }),
   schema: caseStudySchema,
 });
