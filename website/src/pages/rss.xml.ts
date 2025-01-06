@@ -20,7 +20,7 @@ export async function GET() {
       (item): RssItem => ({
         title: item.data.title,
         pubDate: item.data.publishedAt,
-        description: `Case stydy by ${companiesById[item.data.company].name}`,
+        description: `Case study by ${companiesById[item.data.company].name}`,
         link: item.data.id,
       })
     ),
