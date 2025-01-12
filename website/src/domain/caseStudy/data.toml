@@ -193,6 +193,26 @@ id = "https://blog.allegro.tech/2021/10/refactoring-opbox-search.html"
 title = "How we refactored the search form UI component"
 publishedAt = "2021-10-26"
 
+[[allegro]]
+title = "Why should we rewrite enzyme.js to react-testing-library and how to do that?"
+id = "https://blog.allegro.tech/2022/02/why-we-should-rewrite-enzymejs-to-rtl-and-how-to-do-that.html"
+publishedAt = "2022-02-10"
+
+[[allegro]]
+title = "Vanilla JS is not dead! Microfrontends without web performance issues."
+id = "https://blog.allegro.tech/2022/11/vanilla-js-is-not-dead.html"
+publishedAt = "2022-11-10"
+
+[[allegro]]
+title = "Embed multicolor icons using a single DOM element"
+id = "https://blog.allegro.tech/2024/01/embed-multicolor-icons-using-a-single-DOM-element.html"
+publishedAt = "2024-01-10"
+
+[[allegro]]
+title = "INP — what is the new Core Web Vitals metric and how do we work with it at Allegro."
+id = "https://blog.allegro.tech/2024/07/INP-new-core-web-vitals.html"
+publishedAt = "2024-07-01"
+
 [[amazon]]
 id = "https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular-aws-sdk-for-javascript-clients/"
 title = "How we halved the publish size of modular AWS SDK for JavaScript clients"
@@ -272,6 +292,76 @@ publishedAt = "2019-01-14"
 id = 'http://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/'
 title = "From TSLint to ESLint, or How I Learned to Lint GraphQL Code"
 publishedAt = "2019-01-29"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2019/03/05/custom-editorial-features/"
+title = "The Anatomy of an Editorial Feature"
+publishedAt = "2019-03-05"
+
+[[artsy]]
+title = "React Native at Artsy, 3 years later"
+id = "https://artsy.github.io/blog/2019/03/17/three-years-of-react-native/"
+publishedAt = "2019-03-17"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2019/04/05/omakase-typescript/"
+title = "What is TypeScript?"
+publishedAt = "2019-04-05"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2019/05/24/server-rendering-responsively/"
+title = "Server-Rendering Responsively"
+publishedAt = "2019-05-24"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2019/10/29/css-is-hard-and-vanguard-2019-learnings/"
+title = "CSS is Hard and Other Things I Learned Working on the 2019 Artsy Vanguard"
+publishedAt = "2019-10-29"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2020/01/21/graphql-relay-windowed-pagination/"
+title = "Effortless Pagination with GraphQL and Relay? Really!"
+publishedAt = "2020-01-21"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2020/08/31/relay-pagination-containers-demystified/"
+title = "Relay Pagination Containers Demystified"
+publishedAt = "2020-08-31"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2021/04/15/accessing-the-relay-store/"
+title = "Accessing the Relay Store Without a Mutation"
+publishedAt = "2021-04-15"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2021/04/15/testing-react-tracking-with-jest-and-enzyme/"
+title = "Testing React Tracking with Jest and Enzyme"
+publishedAt = "2021-04-15"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2022/02/01/using-context-to-simplify-a-react-form/"
+title = "Using Context to Simplify a VERY Large React Form"
+publishedAt = "2022-02-01"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2022/08/23/getting-around-7-day-cookie/"
+title = "Hacking Around Safari's 7-day Cookie Limit"
+publishedAt = "2022-08-23"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2022/09/07/quick-tips-to-speed-up-ci/"
+title = "Parallelizing Jest and Cypress.io Tests on CircleCI"
+publishedAt = "2022-09-07"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2023/03/01/typescript-magic/"
+title = "TypeScript magic"
+publishedAt = "2023-03-01"
+
+[[artsy]]
+id = "https://artsy.github.io/blog/2024/03/07/nextjs-at-artsy-retrospective/"
+title = "Two years of Next.js at Artsy: A Retrospective"
+publishedAt = "2024-03-07"
 
 [[nextroll]]
 id = "https://tech.nextroll.com/blog/web/2013/11/12/lazyloading-backbone-collection-with-promises.html"
@@ -362,6 +452,16 @@ publishedAt = "2019-10-23"
 id = "https://www.abc.net.au/digital-product/migrating-the-platform-that-powers-abc-sites-to-typescript/102209404"
 title = "Migrating the platform that powers ABC sites to TypeScript"
 publishedAt = "2021-09-30"
+
+[[abc]]
+id = "https://www.abc.net.au/digital-product/branding-for-abc-websites/102135092"
+title = "Branding for ABC Websites"
+publishedAt = "2021-12-08"
+
+[[abc]]
+id = "https://www.abc.net.au/digital-product/exploring-component-reuse-at-abc/103359474"
+title = "How we optimise front-end component reuse at the ABC"
+publishedAt = "2024-02-21"
 
 [[badoo]]
 id = "https://badootech.badoo.com/how-to-teach-a-web-app-to-speak-100-languages-the-specifics-of-localisation-514f13ed235c"
@@ -457,6 +557,26 @@ publishedAt = "2017-11-07"
 id = "https://www.smashingmagazine.com/2018/03/bbc-interactive-content-amp-apps-web/"
 title = "How BBC Interactive Content Works Across AMP, Apps, And The Web"
 publishedAt = "2018-03-15"
+
+[[bbc]]
+id = "https://medium.com/bbc-product-technology/optimising-bbc-onlines-code-splitting-strategy-eb17172dea44"
+title = "Optimising BBC Online’s Code Splitting Strategy"
+publishedAt = "2022-05-20"
+
+[[bbc]]
+id = "https://medium.com/bbc-product-technology/sounds-web-next-a-persistent-player-prototype-for-bbc-sounds-bf996ef0c332"
+title = "Sounds Web Next: a “persistent player” prototype for BBC Sounds"
+publishedAt = "2021-12-21"
+
+[[bbc]]
+id = "https://medium.com/bbc-product-technology/solving-the-problem-with-npm-link-and-react-hooks-266c832dd019"
+title = "Solving the problem with NPM Link and React Hooks"
+publishedAt = "2021-11-12"
+
+[[bbc]]
+id = "https://medium.com/bbc-product-technology/the-lessons-learnt-creating-a-design-system-for-bbc-online-38625885870e"
+title = "The lessons learnt creating a design system for BBC Online"
+publishedAt = "2020-11-20"
 
 [[bettycrocker]]
 id = "https://web.dev/betty-crocker/"
@@ -689,44 +809,49 @@ title = "App shell UX with service workers and streams"
 publishedAt = "2020-06-23"
 
 [[discord]]
-id = "https://blog.discordapp.com/using-react-native-one-year-later-91fd5e949933"
+id = "https://discord.com/blog/using-react-native-one-year-later"
 title = "Using React Native: One Year Later"
 publishedAt = "2016-06-07"
 
 [[discord]]
-id = "https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6"
+id = "https://discord.com/blog/lessons-from-migrating-a-large-codebase-to-react-16"
 title = "Lessons from migrating a large codebase to React 16"
 publishedAt = "2017-10-05"
 
 [[discord]]
-id = "https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427"
+id = "https://discord.com/blog/why-discord-is-sticking-with-react-native"
 title = "Why Discord is Sticking with React Native"
 publishedAt = "2018-07-26"
 
 [[discord]]
-id = "https://blog.discordapp.com/how-discord-maintains-performance-while-adding-features-28ddaf044333"
+id = "https://discord.com/blog/how-discord-maintains-performance-while-adding-features"
 title = "How Discord Maintains Performance While Adding Features"
 publishedAt = "2018-08-02"
 
 [[discord]]
-id = "https://blog.discordapp.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429"
+id = "https://discord.com/blog/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc"
 title = "How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC"
 publishedAt = "2018-09-10"
 
 [[discord]]
-id = "https://blog.discordapp.com/discord-react-memory-leak-565c89763e8"
+id = "https://discord.com/blog/investigating-discords-react-memory-leak"
 title = "Investigating Discord’s React Memory Leak"
 publishedAt = "2019-08-08"
 
 [[discord]]
-id = "https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502"
+id = "https://discord.com/blog/how-discord-achieves-native-ios-performance-with-react-native"
 title = "How Discord achieves native iOS performance with React Native"
 publishedAt = "2019-11-07"
 
 [[discord]]
-id = "https://blog.discord.com/how-discord-implemented-app-wide-keyboard-navigation-abf073fd71de"
+id = "https://discord.com/blog/how-discord-implemented-app-wide-keyboard-navigation"
 title = "How Discord Implemented App-Wide Keyboard Navigation"
 publishedAt = "2020-12-17"
+
+[[discord]]
+id = "https://discord.com/blog/how-discord-modernized-mfa-with-webauthn"
+title = "How Discord Modernized MFA with WebAuthn"
+publishedAt = "2023-12-12"
 
 [[divriots]]
 id = "https://divriots.com/blog/switching-to-pnpm"
@@ -734,47 +859,47 @@ title = "A story of how we migrated to pnpm"
 publishedAt = "2022-01-18"
 
 [[doordash]]
-id = "https://doordash.engineering/2020/09/11/integrating-a-map-feature-to-a-web-app/"
+id = "https://careersatdoordash.com/blog/integrating-a-map-feature-to-a-web-app/"
 title = "Things to Keep in Mind When Integrating a Map Feature to a Web App"
 publishedAt = "2020-09-11"
 
 [[doordash]]
-id = "https://doordash.engineering/2020/09/29/caviar-web-experience-react-components/"
+id = "https://careersatdoordash.com/blog/caviar-web-experience-react-components/"
 title = "Building the Caviar Web Experience Using Reusable React Components on the DoorDash Platform"
 publishedAt = "2020-09-29"
 
 [[doordash]]
-id = "https://doordash.engineering/2020/12/17/design-language-system-theming/"
+id = "https://careersatdoordash.com/blog/design-language-system-theming/"
 title = "Implementing Theming in DoorDash’s Design Language System"
 publishedAt = "2020-12-17"
 
 [[doordash]]
-id = "https://doordash.engineering/2021/02/09/serving-multiple-websites-and-business-logic-from-a-single-platform/"
+id = "https://careersatdoordash.com/blog/serving-multiple-websites-and-business-logic-from-a-single-platform/"
 title = "Serving Multiple Websites and Business Logic From a Single Platform"
 publishedAt = "2021-02-09"
 
 [[doordash]]
-id = "https://doordash.engineering/2021/04/21/managing-react-state-using-the-class-pattern/"
+id = "https://careersatdoordash.com/blog/managing-react-state-using-the-class-pattern/"
 title = "Managing React State on DoorDash’s Item Modal Using the Class Pattern"
 publishedAt = "2021-04-21"
 
 [[doordash]]
-id = "https://doordash.engineering/2022/02/22/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/"
+id = "https://careersatdoordash.com/blog/building-a-marketing-engineering-platform-using-next-js-cloudflare-and-contentful/"
 title = "Building a Marketing Engineering Platform using Next.js, Cloudflare, and Contentful"
 publishedAt = "2022-02-22"
 
 [[doordash]]
-id = "https://doordash.engineering/2022/03/29/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/"
+id = "https://careersatdoordash.com/blog/improving-web-page-performance-at-doordash-throughserver-side-rendering-with-next-js/"
 title = "Improving Web Page Performance at DoorDash Through Server-Side Rendering with Next.JS"
 publishedAt = "2022-03-29"
 
 [[doordash]]
-id = "https://doordash.engineering/2022/03/31/building-a-common-web-library-for-fast-implementations-of-risk-frictions/"
+id = "https://careersatdoordash.com/blog/building-a-common-web-library-for-fast-implementations-of-risk-frictions/"
 title = "Building a Common Web Library for Fast Implementations of Risk Frictions"
 publishedAt = "2022-03-31"
 
 [[doordash]]
-id = "https://doordash.engineering/2022/08/30/doordashs-lessons-on-improving-performance-on-high-traffic-web-pages/"
+id = "https://careersatdoordash.com/blog/doordashs-lessons-on-improving-performance-on-high-traffic-web-pages/"
 title = "DoorDash’s Lessons on Improving Performance on High-Traffic Web Pages"
 publishedAt = "2022-08-30"
 
@@ -1024,72 +1149,77 @@ title = "Upgrading Ele.me to Progressive Web App"
 publishedAt = "2017-05-06"
 
 [[etsy]]
-id = "https://codeascraft.com/2011/10/21/localizing-logically-for-a-global-marketplace/"
+id = "https://www.etsy.com/codeascraft/localizing-logically-for-a-global-marketplace/"
 title = "Localizing Logically for a Global Marketplace"
 publishedAt = "2011-10-21"
 
 [[etsy]]
-id = "https://codeascraft.com/2011/12/02/multilingual-user-generated-content-and-seo/"
+id = "https://www.etsy.com/codeascraft/multilingual-user-generated-content-and-seo/"
 title = "Multilingual User Generated Content and SEO"
 publishedAt = "2011-12-02"
 
 [[etsy]]
-id = "https://codeascraft.com/2012/11/29/measuring-front-end-performance-with-real-users/"
+id = "https://www.etsy.com/codeascraft/measuring-front-end-performance-with-real-users/"
 title = "Measuring Front-end Performance With Real Users"
 publishedAt = "2012-11-29"
 
 [[etsy]]
-id = "https://codeascraft.com/2014/03/13/responsive-emails-that-really-work/"
+id = "https://www.etsy.com/codeascraft/responsive-emails-that-really-work/"
 title = "Responsive emails that really work"
 publishedAt = "2014-03-13"
 
 [[etsy]]
-id = "https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/"
+id = "https://www.etsy.com/codeascraft/transitioning-to-scss-at-scale/"
 title = "Transitioning to SCSS at Scale"
 publishedAt = "2015-02-02"
 
 [[etsy]]
-id = "https://codeascraft.com/2015/02/05/rebuilding-the-foundation-of-etsy-seller-tools/"
+id = "https://www.etsy.com/codeascraft/rebuilding-the-foundation-of-etsy-seller-tools/"
 title = "Rebuilding the Foundation of Etsy’s Seller Tools"
 publishedAt = "2015-02-05"
 
 [[etsy]]
-id = "https://codeascraft.com/2016/04/19/how-etsy-formats-currency/"
+id = "https://www.etsy.com/codeascraft/how-etsy-formats-currency/"
 title = "How Etsy Formats Currency"
 publishedAt = "2016-04-19"
 
 [[etsy]]
-id = "https://codeascraft.com/2016/10/25/seo-title-tag-optimization/"
+id = "https://www.etsy.com/codeascraft/seo-title-tag-optimization/"
 title = "SEO Title Tag Optimization at Etsy: Experimental Design and Causal Inference"
 publishedAt = "2016-10-25"
 
 [[etsy]]
-id = "https://codeascraft.com/2017/01/25/optimizing-meta-descriptions-h1s-and-title-tags-lessons-from-multivariate-seo-testing-at-etsy/"
+id = "https://www.etsy.com/codeascraft/optimizing-meta-descriptions-h1s-and-title-tags-lessons-from-multivariate-seo-testing-at-etsy/"
 title = "Optimizing Meta Descriptions, H1s and Title Tags: Lessons from Multivariate SEO Testing at Etsy"
 publishedAt = "2017-01-25"
 
 [[etsy]]
-id = "https://codeascraft.com/2017/05/30/reducing-image-file-size-at-etsy/"
+id = "https://www.etsy.com/codeascraft/reducing-image-file-size-at-etsy/"
 title = "Reducing Image File Size at Etsy"
 publishedAt = "2017-05-30"
 
 [[etsy]]
-id = "https://codeascraft.com/2018/09/26/how-etsy-localizes-addresses/"
+id = "https://www.etsy.com/codeascraft/how-etsy-localizes-addresses/"
 title = "How Etsy Localizes Addresses"
 publishedAt = "2018-09-26"
 
 [[etsy]]
-id = "https://codeascraft.com/2020/04/06/developing-in-a-monorepo-while-still-using-webpack/"
+id = "https://www.etsy.com/codeascraft/developing-in-a-monorepo-while-still-using-webpack/"
 title = "Developing in a Monorepo While Still Using Webpack"
 publishedAt = "2020-04-06"
 
 [[etsy]]
-id = "https://codeascraft.com/2020/02/03/production-webpack-builds/"
+id = "https://www.etsy.com/codeascraft/production-webpack-builds/"
 title = "The journey to fast production asset builds with Webpack"
 publishedAt = "2020-02-03"
 
 [[etsy]]
-id = "https://codeascraft.com/2021/11/08/etsys-journey-to-typescript"
+id = "https://www.etsy.com/codeascraft/mobius-adopting-jsx-while-prioritizing-user-experience"
+title = "Mobius: Adopting JSX While Prioritizing User Experience"
+publishedAt = "2021-11-04"
+
+[[etsy]]
+id = "https://www.etsy.com/codeascraft/etsys-journey-to-typescript"
 title = "Etsy’s Journey to TypeScript"
 publishedAt = "2021-11-08"
 
@@ -1414,11 +1544,6 @@ title = "YES, your site too can (and should) be accessible"
 publishedAt = "2017-05-23"
 
 [[ft]]
-id = "https://jakechampion.name/posts/2017-06-09-improving-the-cache-performance-of-the-polyfill-service/"
-title = "Improving the cache performance of The Polyfill Service"
-publishedAt = "2017-06-09"
-
-[[ft]]
 id = "https://vimeo.com/226575101"
 title = "Can't You Just Make It More like Bootstrap?"
 publishedAt = "2017-07-22"
@@ -1447,11 +1572,6 @@ publishedAt = "2018-05-18"
 id = "https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f"
 title = "This one line of Javascript made FT.com 10 times slower"
 publishedAt = "2018-07-16"
-
-[[ft]]
-id = "https://jakechampion.name/posts/improving-the-cache-performance-of-the-polyfill-service-even-more/"
-title = "Improving the cache performance of The Polyfill Service even more"
-publishedAt = "2019-01-21"
 
 [[ft]]
 id = "https://medium.com/ft-product-technology/designing-a-sustainable-front-end-toolset-for-ft-com-f37c59d27eeb"
@@ -1794,34 +1914,44 @@ title = "Signals With @grammarly/focal"
 publishedAt = "2023-08-21"
 
 [[gusto]]
-id = "https://engineering.gusto.com/gusto-tech-talk-scaling-front-end-architecture/"
+id = "https://engineering.gusto.com/solving-the-double-click-in-backbone-js-41452da08169"
+title = "Solving the double-click in Backbone.js"
+publishedAt = "2014-04-02"
+
+[[gusto]]
+id = "https://engineering.gusto.com/gusto-tech-talk-41d221b12d9a"
 title = "Scaling Front-end Architecture"
 publishedAt = "2016-06-10"
 
 [[gusto]]
-id = "https://engineering.gusto.com/evolving-javascript-part-1-goodbye-backbone/"
+id = "https://engineering.gusto.com/evolving-javascript-478451d08793"
 title = "Evolving JavaScript Part 1: Goodbye Backbone"
 publishedAt = "2016-07-12"
 
 [[gusto]]
-id = "https://engineering.gusto.com/evolving-javascript-part-2-hello-react/"
+id = "https://engineering.gusto.com/evolving-javascript-7e3ffbd9819b"
 title = "Evolving JavaScript Part 2: Hello React"
 publishedAt = "2016-07-12"
 
 [[gusto]]
-id = "https://engineering.gusto.com/evolving-javascript-part-3-building-a-react-application/"
+id = "https://engineering.gusto.com/evolving-javascript-be0338eb0d38"
 title = "Evolving JavaScript Part 3: Building a React Application"
 publishedAt = "2016-07-12"
 
 [[gusto]]
-id = "https://engineering.gusto.com/taking-off-with-apollo/"
+id = "https://engineering.gusto.com/taking-off-with-apollo-5a0d5f11a2fc"
 title = "Taking off with Apollo"
 publishedAt = "2018-09-12"
 
 [[gusto]]
-id = "https://engineering.gusto.com/how-i-fell-out-of-love-with-hocs/"
+id = "https://engineering.gusto.com/how-i-fell-out-of-love-with-hocs-cc25e1ca65fd"
 title = "How I fell out of love with HOCs"
 publishedAt = "2018-12-09"
+
+[[gusto]]
+id = "https://engineering.gusto.com/how-we-made-gusto-page-loads-40-faster-245cea3d090e"
+title = "How We Made Gusto Page Loads 40% Faster"
+publishedAt = "2023-06-15"
 
 [[healthcaregov]]
 id = "https://blog.navapbc.com/building-a-design-system-for-healthcare-gov-20dc1a833ab3"
@@ -1829,34 +1959,39 @@ title = "Building a design system for HealthCare.gov"
 publishedAt = "2017-08-29"
 
 [[heap]]
-id = "https://heap.io/blog/engineering/goodbye-coffeescript-hello-typescript"
+id = "https://www.heap.io/blog/goodbye-coffeescript-hello-typescript"
 title = "Goodbye CoffeeScript, Hello TypeScript"
 publishedAt = "2015-10-07"
 
 [[heap]]
-id = "https://heap.io/blog/engineering/migrating-react-mobx-while-shipping-new-features"
+id = "https://www.heap.io/blog/migrating-react-mobx-while-shipping-new-features"
 title = "Migrating To React + MobX While Shipping New Features"
 publishedAt = "2017-08-16"
 
 [[heap]]
-id = "https://heap.io/blog/engineering/how-we-write-front-end-code"
+id = "https://www.heap.io/blog/how-we-write-front-end-code"
 title = "How We Write Front-end Code"
 publishedAt = "2018-02-20"
 
 [[heap]]
-id = "https://heap.io/blog/engineering/redesigning-heap-without-a-feature-branch"
+id = "https://www.heap.io/blog/redesigning-heap-without-a-feature-branch"
 title = "Redesigning Heap Without a Feature Branch"
 publishedAt = "2019-04-10"
 
 [[heap]]
-id = "https://heap.io/blog/engineering/migrating-to-typescript"
+id = "https://www.heap.io/blog/migrating-to-typescript"
 title = "How we failed, then succeeded, at migrating to TypeScript"
 publishedAt = "2019-10-10"
 
 [[heap]]
-id = "https://heap.io/blog/engineering/how-we-leveraged-asts-and-babel-to-capture-everything-on-react-native-apps"
-title = "How we leveraged ASTs and Babel to capture everything on React Native apps"
+id = "https://www.heap.io/blog/how-we-leveraged-asts-and-babel-to-capture-everything-on-react-native-apps"
+title = "Using Babel Transforms to Inject Analytics Code in React Native Apps"
 publishedAt = "2020-06-23"
+
+[[heap]]
+id = "https://www.heap.io/blog/turning-front-end-code-into-component-library"
+title = "We Turned Our Front-End Code Into a Component Library (and You Can, Too)"
+publishedAt = "2021-09-02"
 
 [[inderapotheke]]
 id = "https://www.inderapotheke.de/blog/farewell-google-maps"
@@ -2238,6 +2373,36 @@ id = "https://www.lucidchart.com/techblog/2019/01/03/javascriptcore-10-months-la
 title = "JavaScriptCore—10 Months Later"
 publishedAt = "2019-01-03"
 
+[[lucidchart]]
+id = "https://lucid.co/techblog/2019/01/22/what-you-should-know-before-making-a-service-worker"
+title = "What you should know before making a service worker"
+publishedAt = "2019-01-22"
+
+[[lucidchart]]
+id = "https://lucid.co/techblog/2019/09/17/angular-change-detection-challenge"
+title = "An Angular Change Detection Challenge"
+publishedAt = "2019-09-17"
+
+[[lucidchart]]
+id = "https://lucid.co/techblog/2023/08/25/design-for-canvas-based-applications"
+title = "Design for canvas-based applications"
+publishedAt = "2023-08-25"
+
+[[lucidchart]]
+id = "https://lucid.co/techblog/2019/04/18/internationalizing-software-part-one"
+title = "Internationalizing Your Software Part One: The Process"
+publishedAt = "2019-04-18"
+
+[[lucidchart]]
+id = "https://lucid.co/techblog/2019/05/29/internationalizing-your-software-part-two-handling-language-differences"
+title = "Internationalizing Your Software Part Two: Handling Language Differences"
+publishedAt = "2019-05-29"
+
+[[lucidchart]]
+id = "https://lucid.co/techblog/2019/06/17/internationalizing-software-part-three"
+title = "Internationalizing Your Software Part Three: Final Thoughts"
+publishedAt = "2019-06-17"
+
 [[lyft]]
 id = "https://eng.lyft.com/typescript-at-lyft-64f0702346ea"
 title = "TypeScript at Lyft"
@@ -2257,6 +2422,16 @@ publishedAt = "2020-11-30"
 id = "https://eng.lyft.com/frontend-at-lyft-an-overview-f934c1524370"
 title = "Frontend at Lyft: An Overview"
 publishedAt = "2021-03-09"
+
+[[lyft]]
+id = "https://eng.lyft.com/the-journey-to-server-driven-ui-at-lyft-bikes-and-scooters-c19264a0378e#1467"
+title = "The Journey to Server Driven UI At Lyft Bikes and Scooters"
+publishedAt = "2023-03-09"
+
+[[lyft]]
+id = "https://eng.lyft.com/speeding-ahead-with-a-systematic-approach-to-web-performance-282b6cf8ae2"
+title = "Speeding Ahead with a Systematic Approach to Web Performance"
+publishedAt = "2021-04-28"
 
 [[mailru]]
 id = "https://web.dev/mailru-cwv/"
@@ -2523,20 +2698,15 @@ id = "https://youtu.be/LtrXwX81CPE"
 title = "Architecting UI for Netflix Studio Technology"
 publishedAt = "2019-11-14"
 
-[[newrelic]]
-id = "https://blog.newrelic.com/engineering/javascript-perf-tips/"
-title = "Real-World JavaScript Performance Tips"
-publishedAt = "2014-11-14"
-
-[[newrelic]]
-id = "https://blog.newrelic.com/engineering/mobile-ui-react/"
-title = "How We Architected the New Relic Mobile Web UI in React"
-publishedAt = "2018-01-03"
-
 [[notion]]
 id = "https://www.notion.so/blog/migrating-notion-marketing-to-next-js"
 title = "Migrating Notion's marketing site to Next.js"
 publishedAt = "2021-08-12"
+
+[[notion]]
+id = "https://www.notion.com/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite"
+title = "How we sped up Notion in the browser with WASM SQLite"
+publishedAt = "2024-07-10"
 
 [[npm]]
 id = "http://blog.npmjs.org/post/172567815935/re-inventing-npmjscom"
@@ -2783,11 +2953,6 @@ id = "https://blog.plaid.com/securing-webviews-with-chrome-custom-tabs"
 title = "Securing WebViews with Chrome Custom Tabs"
 publishedAt = "2020-04-09"
 
-[[plotly]]
-id = "https://plot.ly/javascript/modularizing-monolithic-javascript-projects/"
-title = "Modularizing monolithic javascript projects in plotly.js"
-publishedAt = "2016-01-28"
-
 [[producthunt]]
 id = "https://youtu.be/F38nRMktS9Q"
 title = "React @ Product Hunt"
@@ -2949,27 +3114,27 @@ title = "Refactoring 30000 lines of JS with types"
 publishedAt = "2017-01-24"
 
 [[reddit]]
-id = "https://redditblog.com/2017/04/13/how-we-built-rplace/"
+id = "https://redditinc.com/blog/how-we-built-rplace"
 title = "How We Built r/Place"
 publishedAt = "2017-04-13"
 
 [[reddit]]
-id = "https://redditblog.com/2017/06/30/why-we-chose-typescript/"
+id = "https://web.archive.org/web/20210303213659/https://redditblog.com/2017/06/30/why-we-chose-typescript//"
 title = "Why We Chose Typescript"
 publishedAt = "2017-06-30"
 
 [[redmart]]
-id = "http://geeks.redmart.com/2015/04/22/angular-the-hard-way-1/"
+id = "https://web.archive.org/web/20200117171244/http://geeks.redmart.com/2015/04/22/angular-the-hard-way-1/"
 title = "Angular The Hard Way #1 Organise and manage domain data"
 publishedAt = "2015-04-22"
 
 [[redmart]]
-id = "http://geeks.redmart.com/2018/10/25/redmarts-experience-with-pwa/"
+id = "https://medium.com/redmart-engineering/redmarts-experience-with-pwa-6dfbbb482912"
 title = "RedMart's experience with PWA"
 publishedAt = "2018-10-25"
 
 [[redmart]]
-id = "http://geeks.redmart.com/2018/11/14/how-we-use-storybook-for-documentation-and-code-reviews/"
+id = "https://medium.com/redmart-engineering/how-we-use-storybook-for-documentation-and-code-reviews-550a522543f1"
 title = "How we use Storybook for documentation and code reviews"
 publishedAt = "2018-11-14"
 
@@ -3239,24 +3404,59 @@ title = "Spotify Wrapped 2018 — Technical Case Study"
 publishedAt = "2018-12-18"
 
 [[spotify]]
-id = "https://labs.spotify.com/2019/03/25/building-spotifys-new-web-player/"
+id = "https://engineering.atspotify.com/2019/03/building-spotifys-new-web-player/"
 title = "Building Spotify’s New Web Player"
 publishedAt = "2019-03-25"
 
 [[spotify]]
-id = "https://labs.spotify.com/2019/04/15/right-to-left-the-mirror-world/"
+id = "https://engineering.atspotify.com/2019/04/right-to-left-the-mirror-world/"
 title = "(Right to Left (The Mirror World"
 publishedAt = "2019-04-15"
 
 [[spotify]]
-id = "https://labs.spotify.com/2019/07/03/web-scripts-creating-npm-libraries-in-a-snap-at-spotify/"
+id = "https://engineering.atspotify.com/2019/07/web-scripts-creating-npm-libraries-in-a-snap-at-spotify/"
 title = "web-scripts – creating NPM libraries in a snap at Spotify"
 publishedAt = "2019-07-03"
 
 [[spotify]]
-id = "https://spotify.design/articles/2019-12-16/reimagining-design-systems-at-spotify/"
+id = "https://spotify.design/article/reimagining-design-systems-at-spotify"
 title = "Reimagining Design Systems at Spotify"
 publishedAt = "2019-12-16"
+
+[[spotify]]
+id = "https://engineering.atspotify.com/2019/09/techbytes-typescript-from-assess-to-use/"
+title = "Techbytes: TypeScript – from “Assess” to “Use”"
+publishedAt = "2019-09-26"
+
+[[spotify]]
+id = "https://engineering.atspotify.com/2021/04/building-the-future-of-our-desktop-apps/"
+title = "Building the Future of Our Desktop Apps"
+publishedAt = "2021-04-07"
+
+[[spotify]]
+id = "https://engineering.atspotify.com/2021/04/customization-vs-configuration-in-evolving-design-systems/"
+title = "Customization vs. Configuration in Evolving Design Systems"
+publishedAt = "2021-04-28"
+
+[[spotify]]
+id = "https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story/"
+title = "From Development to Real Users: How to Create a Web Performance Story"
+publishedAt = "2022-09-29"
+
+[[spotify]]
+id = "https://engineering.atspotify.com/2023/03/encore-x-accessibility-a-balancing-act/"
+title = "Encore x Accessibility: A Balancing Act"
+publishedAt = "2023-03-15"
+
+[[spotify]]
+id = "https://engineering.atspotify.com/2023/05/tv-spatial-navigation/"
+title = "TV Spatial Navigation"
+publishedAt = "2023-05-10"
+
+[[spotify]]
+id = "https://engineering.atspotify.com/2023/05/multiple-layers-of-abstraction-in-design-systems/"
+title = "Multiple Layers of Abstraction in Design Systems"
+publishedAt = "2023-05-25"
 
 [[stackoverflow]]
 id = "https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow"
@@ -3414,12 +3614,12 @@ title = "How We Adopted CSS Grid at Scale"
 publishedAt = "2018-03-01"
 
 [[thread]]
-id = "https://thread.engineering/dealing-with-legacy-code-in-react-18bc0c039e8b"
+id = "https://medium.com/thread-engineering/dealing-with-legacy-code-in-react-18bc0c039e8b"
 title = "Dealing with legacy code in React"
 publishedAt = "2018-05-10"
 
 [[thread]]
-id = "https://thread.engineering/searching-and-sorting-text-with-diacritical-marks-in-javascript-45afef20e7f2"
+id = "https://medium.com/thread-engineering/searching-and-sorting-text-with-diacritical-marks-in-javascript-45afef20e7f2"
 title = "Searching and sorting text with diacritical marks in JavaScript"
 publishedAt = "2018-08-29"
 
@@ -3778,11 +3978,6 @@ id = "https://vercel.com/blog/how-vercel-adopted-microfrontends"
 title = "How Vercel adopted microfrontends"
 publishedAt = "2024-10-22"
 
-[[verve]]
-id = "https://verve.co/engineering/graphql-a-retrospective/"
-title = "GraphQL: A Retrospective"
-publishedAt = "2018-11-28"
-
 [[walmartlabs]]
 id = "https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560"
 title = "React Native at WalmartLabs"
@@ -3839,7 +4034,7 @@ title = "Differential Serving — Food for latest browsers"
 publishedAt = "2020-06-23"
 
 [[wikimedia]]
-id = "https://vimeo.com/59916225"
+id = "https://upload.wikimedia.org/wikipedia/commons/7/7f/ResourceLoader_OSCON_2011.pdf"
 title = "Creative Techniques for Loading Web Pages Faster"
 publishedAt = "2012-01-17"
 
@@ -4114,9 +4309,19 @@ title = "React Native Stability Monitoring"
 publishedAt = "2019-05-14"
 
 [[18f]]
+id = "https://18f.gsa.gov/2016/04/01/developing-the-draft-us-web-design-standards-ui-components/"
+title = "Developing the Draft U.S. Web Design Standards’ UI components"
+publishedAt = "2016-04-01"
+
+[[18f]]
 id = "https://18f.gsa.gov/2017/10/03/building-a-large-scale-design-system/"
 title = "Building a large-scale design system: How we created a design system for the U.S. government"
 publishedAt = "2017-10-03"
+
+[[18f]]
+id = "https://18f.gsa.gov/2020/04/21/a-token-of-our-affection-uswds-2/"
+title = "A token of our affection - A field guide to USWDS 2"
+publishedAt = "2020-04-21"
 
 [[1password]]
 id = "https://blog.1password.com/from-dark-to-light-and-back-again/"

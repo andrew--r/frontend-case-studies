@@ -384,10 +384,6 @@ websiteUrl = "https://www.myntra.com"
 name = "Netflix"
 websiteUrl = "https://netflix.com"
 
-[newrelic]
-name = "New Relic"
-websiteUrl = "https://newrelic.com/"
-
 [notion]
 name = "Notion"
 websiteUrl = "https://www.notion.so"
@@ -431,10 +427,6 @@ websiteUrl = "https://www.pivotaltracker.com"
 [plaid]
 name = "Plaid"
 websiteUrl = "https://plaid.com"
-
-[plotly]
-name = "Plotly"
-websiteUrl = "https://plot.ly/"
 
 [producthunt]
 name = "Product Hunt"
@@ -636,10 +628,6 @@ websiteUrl = "https://unsplash.com"
 [vercel]
 name = "Vercel"
 websiteUrl = "https://vercel.com"
-
-[verve]
-name = "Verve"
-websiteUrl = "https://verve.co"
 
 [walmartlabs]
 name = "Walmart Labs"
