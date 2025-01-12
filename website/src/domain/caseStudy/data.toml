@@ -1224,7 +1224,7 @@ title = "Facebook has 30,000 react components. How do you manage large project d
 publishedAt = "2013-12-31"
 
 [[meta]]
-id = "https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/"
+id = "https://engineering.fb.com/2015/08/06/android/the-technology-behind-preview-photos/"
 title = "The technology behind preview photos"
 publishedAt = "2015-08-06"
 
@@ -1234,7 +1234,7 @@ title = "Improving CSS quality at Facebook and beyond"
 publishedAt = "2016-06-13"
 
 [[meta]]
-id = "https://code.facebook.com/posts/557147474482256"
+id = "https://engineering.fb.com/2017/01/26/web/this-browser-tweak-saved-60-of-requests-to-facebook/"
 title = "This browser tweak saved 60% of requests to Facebook"
 publishedAt = "2017-01-26"
 
@@ -1244,14 +1244,9 @@ title = "Building High-Quality JavaScript Tools"
 publishedAt = "2017-06-02"
 
 [[meta]]
-id = "https://code.facebook.com/posts/1716776591680069"
+id = "https://engineering.fb.com/2017/09/26/web/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/"
 title = "React 16: A look inside an API-compatible rewrite of our frontend UI library"
 publishedAt = "2017-09-26"
-
-[[meta]]
-id = "https://vimeo.com/242899818"
-title = "Design Systems & Tools at Facebook"
-publishedAt = "2017-11-15"
 
 [[meta]]
 id = "https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html"
@@ -2324,7 +2319,7 @@ title = "GraphQL Server Design @ Medium"
 publishedAt = "2018-11-02"
 
 [[memsql]]
-id = "http://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/"
+id = "https://davidgomes.com/porting-30k-lines-of-code-from-flow-to-typescript/"
 title = "Porting 30K lines of code from Flow to TypeScript"
 publishedAt = "2019-01-13"
 
@@ -2609,12 +2604,12 @@ title = "Migrating to webpack 5 to improve build time and reduce chunk sizes"
 publishedAt = "2021-06-30"
 
 [[oyster]]
-id = "http://tech.oyster.com/oyster-shots-on-the-front-end/"
+id = "https://web.archive.org/web/20230927214246/http://tech.oyster.com/oyster-shots-on-the-front-end/"
 title = "Oyster Shots on the Front End"
 publishedAt = "2011-07-29"
 
 [[oyster]]
-id = "http://tech.oyster.com/using-react-and-jquery-together/"
+id = "https://web.archive.org/web/20230131055805/http://tech.oyster.com/using-react-and-jquery-together/"
 title = "Using React and jQuery Together"
 publishedAt = "2016-03-22"
 
@@ -2839,24 +2834,114 @@ title = "Choosing Quora’s GraphQL client"
 publishedAt = "2020-07-22"
 
 [[reagroup]]
-id = "https://www.rea-group.com/blog/reactjs-real-world-examples-of-higher-order-components/"
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/loading-google-maps-with-requirejs/"
+title = "Loading Google Maps with RequireJS"
+publishedAt = "2012-10-15"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/are-you-responsive-to-your-users/"
+title = "Are you responsive to your users?"
+publishedAt = "2013-07-30"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/playing-with-flux/"
+title = "Playing with Flux"
+publishedAt = "2015-07-03"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/painless-javascript-testing-surely-you-jest/"
+title = "Painless JavaScript testing? Surely you Jest!"
+publishedAt = "2015-10-30"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/checking-deployments-visually-with-imagemagick/"
+title = "Automated visual checking of deployments with ImageMagick"
+publishedAt = "2016-01-22"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/reactjs-real-world-examples-of-higher-order-components/"
 title = "ReactJS – Real World Examples of Higher-Order Components"
 publishedAt = "2016-05-06"
 
 [[reagroup]]
-id = "https://www.rea-group.com/blog/singletons-suck-aka-flux-to-redux/"
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/singletons-suck-aka-flux-to-redux/"
 title = "Singletons Suck (aka Flux to Redux)"
 publishedAt = "2016-08-17"
 
 [[reagroup]]
-id = "https://www.rea-group.com/blog/reactjs-performance-debugging-aka-the-magic-of-reselect-selectors/"
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/reactjs-performance-debugging-aka-the-magic-of-reselect-selectors/"
 title = "ReactJS Performance Debugging (aka The Magic of Reselect Selectors)"
 publishedAt = "2016-09-09"
 
 [[reagroup]]
-id = "https://www.rea-group.com/blog/my-journey-in-a-ui-project-aka-front-end-is-the-new-back-end/"
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/functions-as-child-components-and-higher-order-components/"
+title = "Functions as Child Components and Higher Order Components"
+publishedAt = "2016-10-07"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/my-journey-in-a-ui-project-aka-front-end-is-the-new-back-end/"
 title = "My Journey in a UI Project (aka front-end is the new back-end)"
 publishedAt = "2017-06-23"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/static-assets-in-an-eventually-consistent-webapp-deployment/"
+title = "Static assets in an eventually consistent webapp deployment"
+publishedAt = "2017-08-11"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/measure-core-web-vitals-score-during-development/"
+title = "Measure Core Web Vitals Score During Development"
+publishedAt = "2021-04-23"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/the-value-of-reas-design-system/"
+title = "Saving 300k hours for teams with REA’s design system"
+publishedAt = "2023-01-23"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introduction-to-fp-ts-part-1/"
+title = "Introduction to fp-ts – Part 1"
+publishedAt = "2023-04-05"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introduction-to-fp-ts-part-2/"
+title = "Introduction to fp-ts – Part 2"
+publishedAt = "2023-04-26"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-one/"
+title = "Introducing Argonaut – Part One. The micro-frontend platform for building web experiences at REA Group"
+publishedAt = "2023-09-05T00:00:00.000Z"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-two/"
+title = "Introducing Argonaut – Part Two. A technical overview"
+publishedAt = "2023-09-05T00:00:01.000Z"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-three/"
+title = "Introducing Argonaut – Part Three. A deep dive into rendering a micro-frontend"
+publishedAt = "2023-09-05T00:00:02.000Z"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-four/"
+title = "Introducing Argonaut – Part Four. The developer experience"
+publishedAt = "2024-07-11T00:00:00.000Z"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-five/"
+title = "Introducing Argonaut – Part Five. Resilience"
+publishedAt = "2024-07-11T00:00:01.000Z"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-six/"
+title = "Introducing Argonaut: Part Six. Reflections"
+publishedAt = "2024-07-11T00:00:02.000Z"
+
+[[reagroup]]
+id = "https://www.rea-group.com/about-us/news-and-insights/blog/introducing-argonaut-part-seven/"
+title = "Introducing Argonaut: Part Seven. The future"
+publishedAt = "2024-07-11T00:00:03.000Z"
 
 [[reaktor]]
 id = "https://www.reaktor.com/blog/refactoring-30000-lines-js-types/"
