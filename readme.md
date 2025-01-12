@@ -2,6 +2,9 @@
 
 Articles like “Building a simple todo list with [framework or technology name]” won’t teach you how that framework or technology solves real-world problems and works at a large scale. This document is a curated list of technical talks and articles about real-world enterprise frontend development.
 
+> [!IMPORTANT]
+> As of January 2025, we've launched [a website](https://frontendcs.com) where you can browse case studies with a better UX! Please use the website for the latest updates. Entries in this README will no longer be updated and will eventually be removed completely.
+
 ## Table of contents
 
 - [English](#english)
