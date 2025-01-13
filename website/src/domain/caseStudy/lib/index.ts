@@ -25,3 +25,17 @@ export function parseCaseStudiesFromTomlUnsafe(
     }))
   );
 }
+
+export function getYearsRange(
+  entries: CollectionEntry<"caseStudies">[]
+): [number, number] {
+  const yearsSet = new Set<number>();
+
+  for (const entry of entries) {
+    yearsSet.add(entry.data.publishedAt.getFullYear());
+  }
+
+  const yearsList = Array.from(yearsSet);
+
+  return [Math.min(...yearsList), Math.max(...yearsList)];
+}

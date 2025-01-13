@@ -4,14 +4,22 @@ import Header from "../components/Header.astro";
 import InlineNavigation from "../components/InlineNavigation.astro";
 import Footer from "../components/Footer.astro";
 import { getAllCompanies } from "../domain/company/lib";
-import { getAllCaseStudiesByCompany } from "../domain/caseStudy/lib";
+import {
+  getAllCaseStudiesByCompany,
+  getYearsRange,
+} from "../domain/caseStudy/lib";
 import CaseStudiesList from "../components/CaseStudiesList.astro";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
+import Factoids from "../components/Factoids.astro";
 
 const companies = (await getAllCompanies()).sort((a, b) =>
   a.data.name.localeCompare(b.data.name)
 );
 const caseStudiesByCompany = await getAllCaseStudiesByCompany();
+const allCaseStudies = Object.values(caseStudiesByCompany).flatMap(
+  (item) => item ?? []
+);
+const yearsRange = getYearsRange(allCaseStudies);
 ---
 
 <BaseLayout title={SITE_NAME} description={SITE_DESCRIPTION}>
@@ -26,6 +34,11 @@ const caseStudiesByCompany = await getAllCaseStudiesByCompany();
   <Header slot="header" />
 
   <main slot="main">
+    <Factoids
+      companiesCount={companies.length}
+      caseStudiesCount={allCaseStudies.length}
+      yearsRange={yearsRange}
+    />
     <InlineNavigation items={companies} />
 
     <div class="companies">
