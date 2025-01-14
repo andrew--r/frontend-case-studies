@@ -1,5 +1,5 @@
 [[aha]]
-id = "https://blog.aha.io/coffescript-to-es6"
+id = "https://www.aha.io/blog/coffescript-to-es6"
 title = "How I Convinced Our CTO to Switch From CoffeeScript to ES6"
 publishedAt = "2017-09-07"
 
@@ -224,52 +224,52 @@ title = "How Prime Video updates its app for more than 8,000 device types: the s
 publishedAt = "2022-01-27"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2013/11/30/rendering-on-the-server-and-client-in-node-dot-js/"
+id = "https://artsy.github.io/blog/2013/11/30/rendering-on-the-server-and-client-in-node-dot-js/"
 title = "Rendering on the Server and Client in Node.js"
 publishedAt = "2013-11-30"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2016/08/09/the-tech-behind-live-auction-integration/"
+id = "https://artsy.github.io/blog/2016/08/09/the-tech-behind-live-auction-integration/"
 title = "The Tech Behind Live Auction Integration"
 publishedAt = "2016-08-09"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/"
+id = "https://artsy.github.io/blog/2016/08/15/React-Native-at-Artsy/"
 title = "React Native at Artsy"
 publishedAt = "2016-08-15"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2017/08/29/Making-Artsy-Editorial-Accessible/"
+id = "https://artsy.github.io/blog/2017/08/29/Making-Artsy-Editorial-Accessible/"
 title = "Making Artsy Editorial Accessible"
 publishedAt = "2017-08-29"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2016/09/06/Milestone-on-OSS-by-Default/"
+id = "https://artsy.github.io/blog/2016/09/06/Milestone-on-OSS-by-Default/"
 title = "Helping the Web Towards OSS by Default"
 publishedAt = "2016-09-06"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2016/10/26/jwt-artsy-journey/"
+id = "https://artsy.github.io/blog/2016/10/26/jwt-artsy-journey/"
 title = "JSON Web Tokens: Artsy's Journey"
 publishedAt = "2016-10-26"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2017/02/05/Front-end-JavaScript-at-Artsy-2017/"
+id = "https://artsy.github.io/blog/2017/02/05/Front-end-JavaScript-at-Artsy-2017/"
 title = "Exploration: Front-end JavaScript at Artsy in 2017"
 publishedAt = "2017-02-05"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2017/09/05/Modernizing-Force/"
+id = "https://artsy.github.io/blog/2017/09/05/Modernizing-Force/"
 title = "Modernizing Force"
 publishedAt = "2017-09-05"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2018/03/17/two-years-of-react-native/"
+id = "https://artsy.github.io/blog/2018/03/17/two-years-of-react-native/"
 title = "React Native, 2 years later"
 publishedAt = "2018-03-17"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2018/11/26/keeping-dependencies-updated/"
+id = "https://artsy.github.io/blog/2018/11/26/keeping-dependencies-updated/"
 title = "Keeping Artsy's dependencies up to date"
 publishedAt = "2018-11-26"
 
@@ -279,7 +279,7 @@ title = "Switch from Capybara Webkit to Chrome"
 publishedAt = "2018-11-27"
 
 [[artsy]]
-id = "http://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/"
+id = "https://artsy.github.io/blog/2018/12/11/GraphQL-Stitching/"
 title = "GraphQL Stitching 101"
 publishedAt = "2018-12-11"
 
@@ -289,7 +289,7 @@ title = "GraphQL: Union vs. Interface"
 publishedAt = "2019-01-14"
 
 [[artsy]]
-id = 'http://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/'
+id = "https://artsy.github.io/blog/2019/01/29/from-tslint-to-eslint/"
 title = "From TSLint to ESLint, or How I Learned to Lint GraphQL Code"
 publishedAt = "2019-01-29"
 
@@ -419,7 +419,7 @@ title = "Scaling React server-side rendering in Jira Cloud"
 publishedAt = "2020-02-04"
 
 [[atlassian]]
-id = "https://www.atlassian.com/engineering/react-resource-router-deep-dive"
+id = "https://www.atlassian.com/blog/atlassian-engineering/react-resource-router-deep-dive"
 title = "Improving performance through better architecture"
 publishedAt = "2020-06-23"
 
@@ -437,6 +437,26 @@ publishedAt = "2020-12-05"
 id = "https://www.atlassian.com/engineering/performance-in-jira-front-end-solving-bundle-duplicates-with-webpack-and-yarn"
 title = "Performance in Jira front-end: solving bundle duplicates with Webpack and yarn"
 publishedAt = "2020-12-22"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/atlassian-engineering/colorful-and-accessible-theming-in-trello"
+title = "Colorful and accessible theming in Trello with CSS custom properties"
+publishedAt = "2022-07-11"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/atlassian-engineering/fixing-trello-react-bug"
+title = "A Trello feature froze, but engineering didn’t: How we fixed an unreproducible React bug"
+publishedAt = "2022-07-28"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/atlassian-engineering/rendering-like-butter-a-confluence-whiteboards-story"
+title = "Rendering like Butter – a Confluence Whiteboards Story"
+publishedAt = "2023-08-08"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/design/designed-for-delight-built-for-performance"
+title = "Designed for delight, built for performance: The journey of pragmatic drag and drop"
+publishedAt = "2024-12-17"
 
 [[abc]]
 id = "https://www.abc.net.au/digital-product/composing-components/102183756"
@@ -463,85 +483,95 @@ id = "https://www.abc.net.au/digital-product/exploring-component-reuse-at-abc/10
 title = "How we optimise front-end component reuse at the ABC"
 publishedAt = "2024-02-21"
 
-[[badoo]]
-id = "https://badootech.badoo.com/how-to-teach-a-web-app-to-speak-100-languages-the-specifics-of-localisation-514f13ed235c"
+[[bumble]]
+id = "https://medium.com/bumble-tech/how-to-teach-a-web-app-to-speak-100-languages-the-specifics-of-localisation-514f13ed235c"
 title = "How to teach a web app to speak 100 languages: the specifics of localisation"
 publishedAt = "2017-03-08"
 
-[[badoo]]
-id = "https://badootech.badoo.com/the-painless-way-to-collect-statistics-from-a-web-site-cadc6aa67688"
+[[bumble]]
+id = "https://medium.com/bumble-tech/the-painless-way-to-collect-statistics-from-a-web-site-cadc6aa67688"
 title = "The painless way to collect statistics from a web-site"
 publishedAt = "2017-05-18"
 
-[[badoo]]
-id = "https://badootech.badoo.com/translating-interfaces-into-almost-fifty-languages-sketch-dc196cf23ee5"
+[[bumble]]
+id = "https://medium.com/bumble-tech/translating-interfaces-into-almost-fifty-languages-sketch-dc196cf23ee5"
 title = "Translating interfaces into almost fifty languages: Sketch"
 publishedAt = "2017-10-17"
 
-[[badoo]]
-id = "https://badootech.badoo.com/hot-localisations-update-part-1-86fc013d6327"
+[[bumble]]
+id = "https://medium.com/bumble-tech/hot-localisations-update-part-1-86fc013d6327"
 title = "Hot localisations update: part 1"
 publishedAt = "2017-11-01"
 
-[[badoo]]
-id = "https://badootech.badoo.com/part2-hot-localisations-update-12272511df0c"
+[[bumble]]
+id = "https://medium.com/bumble-tech/part2-hot-localisations-update-12272511df0c"
 title = "Hot localisations update: part 2"
 publishedAt = "2017-11-01"
 
-[[badoo]]
-id = "https://badootech.badoo.com/from-zero-to-cosmos-part-1-2d080fe35bf2"
+[[bumble]]
+id = "https://medium.com/bumble-tech/from-zero-to-cosmos-part-1-2d080fe35bf2"
 title = "From zero to Cosmos: part 1"
 publishedAt = "2018-02-01"
 
-[[badoo]]
-id = "https://badootech.badoo.com/from-zero-to-cosmos-part-2-97929e13f839"
+[[bumble]]
+id = "https://medium.com/bumble-tech/from-zero-to-cosmos-part-2-97929e13f839"
 title = "From zero to Cosmos: part 2"
 publishedAt = "2018-02-01"
 
-[[badoo]]
-id = "https://badootech.badoo.com/from-zero-to-cosmos-part-3-95e2c98c45a6"
+[[bumble]]
+id = "https://medium.com/bumble-tech/from-zero-to-cosmos-part-3-95e2c98c45a6"
 title = "From zero to Cosmos: part 3"
 publishedAt = "2018-02-01"
 
-[[badoo]]
-id = "https://badootech.badoo.com/translating-dust-templates-to-jsx-bed273ef41de"
+[[bumble]]
+id = "https://medium.com/bumble-tech/translating-dust-templates-to-jsx-bed273ef41de"
 title = "Translating Dust templates to JSX"
 publishedAt = "2018-05-16"
 
-[[badoo]]
+[[bumble]]
 id = "https://medium.com/@didoo/how-to-manage-your-design-tokens-with-style-dictionary-98c795b938aa"
 title = "How to manage your Design Tokens with Style Dictionary"
 publishedAt = "2018-09-27"
 
-[[badoo]]
-id = "https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-i-why-it-is-not-the-same-as-for-designers-a082ffca1d3b"
+[[bumble]]
+id = "https://medium.com/bumble-tech/optical-alignment-for-frontend-developers-part-i-why-it-is-not-the-same-as-for-designers-a082ffca1d3b"
 title = "Optical alignment for frontend developers: why is it not the same as it is for designers"
 publishedAt = "2018-11-22"
 
-[[badoo]]
-id = "https://badootech.badoo.com/optical-alignment-for-frontend-developers-part-ii-how-can-the-process-be-automated-e41d8de2b18f"
+[[bumble]]
+id = "https://medium.com/bumble-tech/optical-alignment-for-frontend-developers-part-ii-how-can-the-process-be-automated-e41d8de2b18f"
 title = "Optical alignment for frontend developers: how can the process be automated"
 publishedAt = "2018-11-22"
 
-[[badoo]]
-id = "https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part1-82f438c7e16c"
+[[bumble]]
+id = "https://medium.com/bumble-tech/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part1-82f438c7e16c"
 title = "Generating multi-brand multi-platform icons with Sketch and a Node.js script: from the idea to the assets Sketch files"
 publishedAt = "2018-12-01"
 
-[[badoo]]
-id = "https://badootech.badoo.com/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part2-8d02e8bb915a"
+[[bumble]]
+id = "https://medium.com/bumble-tech/generating-multi-brand-multi-platform-icons-with-sketch-and-a-node-js-script-part2-8d02e8bb915a"
 title = "Generating multi-brand multi-platform icons with Sketch and a Node.js script: the build script and the generation of the assets"
 publishedAt = "2018-12-01"
 
-[[badoo]]
-id = "https://badootech.badoo.com/covering-ab-tests-with-ui-testing-1df5401ff0e1"
+[[bumble]]
+id = "https://medium.com/bumble-tech/covering-ab-tests-with-ui-testing-1df5401ff0e1"
 title = "Covering A/B tests with UI tests: how to avoid getting tangled up in your own code"
 publishedAt = "2019-02-22"
 
-[[badoo]]
-id = "https://badootech.badoo.com/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228"
+[[bumble]]
+id = "https://medium.com/bumble-tech/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228"
 title = "Design Tokens beyond colors, typography, and spacing"
 publishedAt = "2019-11-12"
+
+[[bumble]]
+id = "https://medium.com/bumble-tech/interface-localisation-adapting-text-fields-for-rtl-languages-67a386006a17"
+title = "Interface localisation: adapting text fields for RTL languages"
+publishedAt = "2020-12-17"
+
+[[bumble]]
+id = "https://medium.com/bumble-tech/how-to-move-large-scale-react-ui-components-codebase-to-typescript-52e6f3ca1b55"
+title = "How to move large-scale React UI-components codebase to TypeScript"
+publishedAt = "2020-09-03"
 
 [[bbc]]
 id = "https://wildlyinaccurate.com/redefining-the-bcc-news-core-experience/"
@@ -1428,6 +1458,11 @@ id = "https://engineering.fb.com/2024/05/14/web/threads-for-web-behind-the-scene
 title = "Behind the scenes of Threads for web"
 publishedAt = "2024-05-14"
 
+[[meta]]
+id = "https://engineering.fb.com/2024/10/02/android/react-at-meta-connect-2024/"
+title = "React at Meta Connect 2024"
+publishedAt = "2024-10-02"
+
 [[farfetch]]
 id = "https://www.linkedin.com/pulse/need-speed-1-measuring-todays-web-performance-manuel-garcia/"
 title = "The need for speed — 1: measuring today’s web performance"
@@ -2124,54 +2159,74 @@ title = "Building the inspect measurement engine"
 publishedAt = "2019-07-17"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/i18n-babel-plugin.htm"
+id = "https://blog.khanacademy.org/babel-in-khan-academys-i18n-toolchain/"
 title = "Babel in Khan Academy's i18n Toolchain"
 publishedAt = "2015-06-22"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/fun-with-slopfields.htm"
+id = "https://blog.khanacademy.org/fun-with-slope-fields-css-and-react/"
 title = "Fun with slope fields, css and react"
 publishedAt = "2015-08-05"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/copy-pasting-more-than-just-text.htm"
+id = "https://blog.khanacademy.org/copy-pasting-more-than-just-text/"
 title = "Copy-pasting more than just text"
 publishedAt = "2015-08-31"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/i18nize-templates.htm"
+id = "https://blog.khanacademy.org/i18nize-templates-internationalization-after-the-fact/"
 title = "i18nize-templates: Internationalization After the Fact"
 publishedAt = "2015-09-28"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/translation-server.htm"
+id = "https://blog.khanacademy.org/schrodingers-deploys-no-more-how-we-update-translations/"
 title = "Schrödinger's deploys no more: how we update translations"
 publishedAt = "2015-10-12"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/js-packaging-http2.htm"
+id = "https://blog.khanacademy.org/forgo-js-packaging-not-so-fast/"
 title = "Forgo JS packaging? Not so fast"
 publishedAt = "2015-11-23"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm"
+id = "https://blog.khanacademy.org/inline-css-at-khan-academy-aphrodite/"
 title = "Inline CSS at Khan Academy: Aphrodite"
 publishedAt = "2016-03-29"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/react-native-monorepo.htm"
+id = "https://blog.khanacademy.org/migrating-to-a-mobile-monorepo-for-react-native/"
 title = "Migrating to a Mobile Monorepo for React Native"
 publishedAt = "2017-05-29"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/creating-query-components-with-apollo.htm"
+id = "https://blog.khanacademy.org/creating-query-components-with-apollo/"
 title = "Creating Query Components with Apollo"
 publishedAt = "2017-06-12"
 
 [[khanacademy]]
-id = "http://engineering.khanacademy.org/posts/tota11y.htm"
+id = "https://blog.khanacademy.org/tota11y-an-accessibility-visualization-toolkit/"
 title = "tota11y - an accessibility visualization toolkit"
 publishedAt = "2018-04-15"
+
+[[khanacademy]]
+title = "Making Websites Work with Windows High Contrast Mode"
+id = "https://blog.khanacademy.org/making-websites-work-with-windows-high-contrast-mode/"
+publishedAt = "2019-03-21"
+
+[[khanacademy]]
+title = "How to upgrade hundreds of React components without breaking production"
+id = "https://blog.khanacademy.org/how-to-upgrade-hundreds-of-react-components-without-breaking-production/"
+publishedAt = "2019-09-23"
+
+[[khanacademy]]
+title = "Overcoming a false sense of security when using Flow types"
+id = "https://blog.khanacademy.org/overcoming-a-false-sense-of-security-when-using-flow-types/"
+publishedAt = "2021-01-13"
+
+[[khanacademy]]
+title = "Communication for Custom Developer Tools"
+id = "https://blog.khanacademy.org/communication-for-custom-developer-tools/"
+publishedAt = "2024-01-04"
 
 [[kickstarter]]
 id = "https://kickstarter.engineering/namespacing-actions-for-redux-d9b55a88b1b1"
@@ -3653,15 +3708,30 @@ id = "https://www.tines.com/blog/using-backend-factories-during-frontend-testing
 title = "Using backend factories during frontend testing"
 publishedAt = "2021-04-21"
 
-[[tinymce]]
-id = "https://go.tinymce.com/blog/tinymce-is-going-mobile/"
-title = "TinyMCE is going mobile"
-publishedAt = "2017-03-31"
-
-[[tinymce]]
-id = "https://go.tinymce.com/blog/benefits-of-gradual-strong-typing-in-javascript/"
+[[tiny]]
+id = "https://www.tiny.cloud/blog/benefits-of-gradual-strong-typing-in-javascript/"
 title = "Benefits of gradual strong typing in JavaScript"
 publishedAt = "2019-01-25"
+
+[[tiny]]
+id = "https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/"
+title = "To OT or CRDT, that is the question"
+publishedAt = "2020-01-13"
+
+[[tiny]]
+title = "Collaboration needs a clean Slate"
+id = "https://www.tiny.cloud/blog/real-time-collaborative-editing-slate-js/"
+publishedAt = "2020-02-20"
+
+[[tiny]]
+title = "A Tiny road to Reason"
+id = "https://www.tiny.cloud/blog/tinymce-reasonml/"
+publishedAt = "2020-09-21"
+
+[[tiny]]
+title = "Continuously refactoring 100000 lines of code"
+id = "https://www.tiny.cloud/blog/modern-javascript-refactoring-tinymce/"
+publishedAt = "2020-04-28"
 
 [[tokopedia]]
 id = "https://medium.com/tokopedia-engineering/a-tokopedia-mobile-web-performance-case-study-48ee5c6e4d5c"
@@ -3874,7 +3944,7 @@ title = "How we built Twitter Lite"
 publishedAt = "2017-04-06"
 
 [[twitter]]
-id = "http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html"
+id = "https://itsze.ro/posts/infinite-list-and-react"
 title = "Infinite List and React"
 publishedAt = "2017-04-09"
 

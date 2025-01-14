@@ -58,11 +58,11 @@ name = "Australian Broadcasting Corporation"
 websiteUrl = "http://abc.net.au"
 blogUrl = "https://www.abc.net.au/digital-product"
 
-[badoo]
-name = "Badoo"
-websiteUrl = "https://badoo.com"
-blogUrl = "https://medium.com/@BadooTech"
-rssUrl = "https://medium.com/feed/@BadooTech"
+[bumble]
+name = "Bumble"
+websiteUrl = "https://bumble.com"
+blogUrl = "https://medium.com/bumble-tech"
+rssUrl = "https://medium.com/feed/bumble-tech"
 
 [bbc]
 name = "BBC"
@@ -581,9 +581,9 @@ name = "Tines"
 websiteUrl = "https://www.tines.com"
 blogUrl = "https://www.tines.com/blog/engineering"
 
-[tinymce]
-name = "TinyMCE"
-websiteUrl = "https://www.tinymce.com/"
+[tiny]
+name = "Tiny"
+websiteUrl = "https://www.tiny.cloud"
 
 [tokopedia]
 name = "Tokopedia"
