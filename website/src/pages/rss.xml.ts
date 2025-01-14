@@ -1,6 +1,6 @@
 import rss, { rssSchema } from "@astrojs/rss";
 import { getCollection, z } from "astro:content";
-import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/config";
 
 type RssItem = z.infer<typeof rssSchema>;
 
