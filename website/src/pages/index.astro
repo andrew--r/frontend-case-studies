@@ -1,16 +1,16 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
-import Header from "../components/Header.astro";
-import InlineNavigation from "../components/InlineNavigation.astro";
-import Footer from "../components/Footer.astro";
-import { getAllCompanies } from "../domain/company/lib";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Header from "@/components/Header.astro";
+import InlineNavigation from "@/components/InlineNavigation.astro";
+import Footer from "@/components/Footer.astro";
+import { getAllCompanies } from "@/domain/company/lib";
 import {
   getAllCaseStudiesByCompany,
   getYearsRange,
-} from "../domain/caseStudy/lib";
-import CaseStudiesList from "../components/CaseStudiesList.astro";
-import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "../config";
-import Factoids from "../components/Factoids.astro";
+} from "@/domain/caseStudy/lib";
+import CaseStudiesList from "@/components/CaseStudiesList.astro";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/config";
+import Factoids from "@/components/Factoids.astro";
 
 const companies = (await getAllCompanies()).sort((a, b) =>
   a.data.name.localeCompare(b.data.name)
@@ -27,7 +27,7 @@ const yearsRange = getYearsRange(allCaseStudies);
     slot="rss"
     rel="alternate"
     type="application/rss+xml"
-    title={SITE_NAME}
+    title="RSS Feed"
     href={new URL("rss.xml", SITE_URL)}
   />
 

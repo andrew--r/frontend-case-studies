@@ -1,10 +1,10 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import { getAllCompanies, getCompany } from "../../domain/company/lib";
-import { getAllCaseStudiesByCompany } from "../../domain/caseStudy/lib";
-import Footer from "../../components/Footer.astro";
-import CaseStudiesList from "../../components/CaseStudiesList.astro";
-import { SITE_DESCRIPTION } from "../../config";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getAllCompanies, getCompany } from "@/domain/company/lib";
+import { getAllCaseStudiesByCompany } from "@/domain/caseStudy/lib";
+import Footer from "@/components/Footer.astro";
+import CaseStudiesList from "@/components/CaseStudiesList.astro";
+import { SITE_DESCRIPTION, SITE_NAME } from "@/config";
 
 export async function getStaticPaths() {
   const pages = await getAllCompanies();
@@ -32,6 +32,14 @@ const title = `${company.data.name} Case Studies`;
   <title slot="title">
     {company?.data.name} Case Studies
   </title>
+
+  <link
+    slot="rss"
+    rel="alternate"
+    type="application/rss+xml"
+    title={`${company.data.name} case studies RSS feed`}
+    href={`${Astro.originPathname}/rss.xml`}
+  />
 
   <header slot="header">
     <a class="novisited" href="/">← All Frontend Case Studies</a>

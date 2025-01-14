@@ -1,4 +1,4 @@
-import { getCollection, getEntry, type CollectionEntry } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import type { CaseStudy } from "../schema";
 import { parse } from "smol-toml";
 
