@@ -5,6 +5,7 @@ import { getAllCaseStudiesByCompany } from "@/domain/caseStudy/lib";
 import Footer from "@/components/Footer.astro";
 import CaseStudiesList from "@/components/CaseStudiesList.astro";
 import { SITE_DESCRIPTION, SITE_NAME } from "@/config";
+import RssLink from "@/components/RssLink.astro";
 
 export async function getStaticPaths() {
   const pages = await getAllCompanies();
@@ -26,6 +27,7 @@ const websiteUrlPreview = new URL(company.data.websiteUrl).host.replace(
 );
 
 const title = `${company.data.name} Case Studies`;
+const rssFeedLink = `${Astro.originPathname}/rss.xml`;
 ---
 
 <BaseLayout title={title} description={SITE_DESCRIPTION}>
@@ -38,7 +40,7 @@ const title = `${company.data.name} Case Studies`;
     rel="alternate"
     type="application/rss+xml"
     title={`${company.data.name} case studies RSS feed`}
-    href={`${Astro.originPathname}/rss.xml`}
+    href={rssFeedLink}
   />
 
   <header slot="header">
@@ -57,7 +59,8 @@ const title = `${company.data.name} Case Studies`;
             ) : null,
             <>
               {caseStudies.length} case{" "}
-              {caseStudies.length > 1 ? "studies" : "study"}
+              {caseStudies.length > 1 ? "studies" : "study"}{" "}
+              <RssLink href={rssFeedLink} />
             </>,
           ]
             .filter(Boolean)
