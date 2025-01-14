@@ -29,7 +29,7 @@ export const GET: APIRoute<Props, Params> = async ({ params }) => {
   const caseStudiesByCompany = await getAllCaseStudiesByCompany();
 
   return rss({
-    title: `${company.data.name} — SITE_NAME`,
+    title: `${company.data.name} — ${SITE_NAME}`,
     description: SITE_DESCRIPTION,
     site: SITE_URL,
     customData: getCustomData(),
