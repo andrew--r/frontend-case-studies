@@ -1,0 +1,17 @@
+---
+import { SITE_URL } from "../config";
+
+interface Props {
+  title: string;
+  href: string;
+}
+
+const { title, href } = Astro.props;
+---
+
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title={title}
+  href={new URL(href, SITE_URL)}
+/>

@@ -1,20 +1,20 @@
 ---
-interface Props {
-  caseStudiesCount: number;
-  companiesCount: number;
-  yearsRange: [number, number];
-}
-const { caseStudiesCount, companiesCount, yearsRange } = Astro.props;
+import { getAllCaseStudies, getYearsRange } from "@/domain/caseStudy/lib";
+import { getAllCompanies } from "@/domain/company/lib";
+
+const companies = await getAllCompanies();
+const allCaseStudies = await getAllCaseStudies();
+const yearsRange = getYearsRange(allCaseStudies);
 ---
 
 <dl>
   <div>
     <dt>Companies</dt>
-    <dd>{companiesCount}</dd>
+    <dd>{companies.length}</dd>
   </div>
   <div>
     <dt>Case Studies</dt>
-    <dd>{caseStudiesCount}</dd>
+    <dd>{allCaseStudies.length}</dd>
   </div>
   <div>
     <dt>Period Covered</dt>
@@ -24,10 +24,11 @@ const { caseStudiesCount, companiesCount, yearsRange } = Astro.props;
 
 <style>
   dl {
+    grid-column: main;
     display: flex;
     flex-wrap: wrap;
     gap: 1rem 2rem;
-    margin-block: 1rem 2rem;
+    margin-block-start: 1.5rem;
   }
 
   div {

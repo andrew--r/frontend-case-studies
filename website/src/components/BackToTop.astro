@@ -1,0 +1,73 @@
+<a href="#top">↑ Back to Top</a>
+<div data-bt-reference></div>
+
+<style>
+  a {
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    z-index: 1;
+    position: sticky;
+    border-block-end: thin solid var(--color-border);
+    top: 0;
+    background: var(--color-bg);
+    opacity: 0;
+    transition: opacity 200ms;
+  }
+
+  a[data-visible="true"] {
+    opacity: 1;
+  }
+
+  @keyframes fadein {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    @supports (animation-range: entry 1cqh) {
+      a {
+        position: sticky;
+        animation: fadein linear both;
+        animation-timeline: view();
+        animation-range: entry 120cqh entry 125cqh;
+      }
+    }
+  }
+
+  @media (min-width: 66rem) {
+    a {
+      grid-column: full;
+    }
+  }
+</style>
+
+<script>
+  if (!CSS.supports("animation-range: entry 1cqh")) {
+    document.addEventListener("DOMContentLoaded", () => {
+      const linkNode = document.querySelector("a[href='#top']");
+      // Observe a sibling to avoid infinite loop caused by sticky positioning
+      const observedNode = document.querySelector("[data-bt-reference]");
+
+      if (!linkNode || !observedNode) {
+        return;
+      }
+
+      const observer = new IntersectionObserver(
+        ([entry]) => {
+          linkNode.setAttribute(
+            "data-visible",
+            !entry.isIntersecting ? "true" : "false"
+          );
+        },
+        { threshold: 0 }
+      );
+
+      observer.observe(observedNode);
+    });
+  }
+</script>

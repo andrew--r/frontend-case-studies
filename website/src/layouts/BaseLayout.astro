@@ -1,7 +1,11 @@
 ---
 import "@/styles/reset.css";
 import "@/styles/base.css";
+import "@/styles/links.css";
+import "@/styles/utility.css";
 import { SITE_NAME, SITE_URL } from "@/config";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
 
 interface Props {
   title: string;
@@ -52,13 +56,11 @@ const { title, description } = Astro.props;
   </head>
 
   <body>
-    <slot name="header" />
-
-    <div>
-      <slot name="main" />
-    </div>
-
-    <slot name="footer" />
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
   </body>
 </html>
 
@@ -66,10 +68,30 @@ const { title, description } = Astro.props;
   body {
     display: grid;
     grid-template-rows: min-content 1fr min-content;
+    grid-template-columns: 1fr;
+    gap: 1rem;
     border-top: none;
     border-bottom: none;
-    max-width: 60rem;
     margin: auto;
     padding: 1rem;
+  }
+
+  @media (min-width: 66rem) {
+    body {
+      display: grid;
+      grid-template-columns:
+        [full-start] minmax(min-content, 1fr)
+        [main-start] minmax(0, 60rem)
+        [main-end] minmax(min-content, 1fr)
+        [full-end];
+    }
+
+    main {
+      align-items: start;
+      grid-column: full;
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-auto-rows: max-content;
+    }
   }
 </style>

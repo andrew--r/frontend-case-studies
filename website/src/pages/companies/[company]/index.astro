@@ -2,10 +2,10 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getAllCompanies, getCompany } from "@/domain/company/lib";
 import { getAllCaseStudiesByCompany } from "@/domain/caseStudy/lib";
-import Footer from "@/components/Footer.astro";
 import CaseStudiesList from "@/components/CaseStudiesList.astro";
 import { SITE_DESCRIPTION, SITE_NAME } from "@/config";
 import RssLink from "@/components/RssLink.astro";
+import RssMetaLink from "@/components/RssMetaLink.astro";
 
 export async function getStaticPaths() {
   const pages = await getAllCompanies();
@@ -31,58 +31,46 @@ const rssFeedLink = `${Astro.originPathname}/rss.xml`;
 ---
 
 <BaseLayout title={title} description={SITE_DESCRIPTION}>
-  <title slot="title">
-    {company?.data.name} Case Studies
-  </title>
-
-  <link
+  <RssMetaLink
     slot="rss"
-    rel="alternate"
-    type="application/rss+xml"
     title={`${company.data.name} case studies RSS feed`}
     href={rssFeedLink}
   />
 
-  <header slot="header">
-    <a class="novisited" href="/">← All Frontend Case Studies</a>
-  </header>
-
-  <main slot="main">
-    <div class="company">
-      <h2>{company?.data.name}</h2>
-      <p class="subtitle">
-        {
-          [
-            <a href={company.data.websiteUrl}>{websiteUrlPreview}</a>,
-            company.data.blogUrl ? (
-              <a href={company.data.blogUrl}>Engineering blog</a>
-            ) : null,
-            <>
-              {caseStudies.length} case{" "}
-              {caseStudies.length > 1 ? "studies" : "study"}{" "}
+  <div class="company">
+    <h2>{company?.data.name}</h2>
+    <p class="subtitle">
+      {
+        [
+          <a href={company.data.websiteUrl}>{websiteUrlPreview}</a>,
+          company.data.blogUrl ? (
+            <a href={company.data.blogUrl}>Engineering blog</a>
+          ) : null,
+          <>
+            {caseStudies.length} case{" "}
+            <span class="nobr">
+              {caseStudies.length > 1 ? "studies" : "study"}
               <RssLink href={rssFeedLink} />
-            </>,
-          ]
-            .filter(Boolean)
-            .reduce(
-              (result, item) =>
-                result === null ? (
-                  item
-                ) : (
-                  <>
-                    {result} • {item}
-                  </>
-                ),
-              null
-            )
-        }
-      </p>
-    </div>
+            </span>
+          </>,
+        ]
+          .filter(Boolean)
+          .reduce(
+            (result, item) =>
+              result === null ? (
+                item
+              ) : (
+                <>
+                  {result} • {item}
+                </>
+              ),
+            null
+          )
+      }
+    </p>
+  </div>
 
-    <CaseStudiesList items={caseStudies} />
-  </main>
-
-  <Footer slot="footer" />
+  <CaseStudiesList items={caseStudies} />
 </BaseLayout>
 
 <style>
@@ -90,24 +78,14 @@ const rssFeedLink = `${Astro.originPathname}/rss.xml`;
     font-size: 3.5rem;
   }
 
-  .company {
-    margin-block: 2rem;
-  }
-
   .subtitle {
     color: var(--color-muted);
     font-size: 1.5rem;
   }
 
-  @media (min-width: 60rem) {
-    main {
-      display: grid;
-      grid-template-columns: minmax(40px, max-content) 1fr;
-      gap: 1rem;
-    }
-
+  @media (min-width: 66rem) {
     .company {
-      grid-column: 1 / -1;
+      grid-column: main;
     }
 
     h2 {
