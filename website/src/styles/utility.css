@@ -1,0 +1,7 @@
+.muted {
+  color: var(--color-muted);
+}
+
+.nobr {
+  white-space: nowrap;
+}

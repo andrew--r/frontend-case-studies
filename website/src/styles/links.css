@@ -1,0 +1,23 @@
+.raw {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:not([class~="raw"]) {
+  color: var(--color-link);
+  text-decoration: underline;
+  text-decoration-skip-ink: auto;
+  text-decoration-thickness: from-font;
+}
+
+a:not([href^="#"]):not([class~="raw"]):not([class~="novisited"]):visited {
+  color: var(--color-link-visited);
+}
+
+:is(a, a:visited):not([class~="raw"]):is(:hover, :focus-visible) {
+  color: var(--color-link-hover);
+}
+
+a[href^="#"] {
+  text-decoration-style: dotted;
+}

@@ -1,101 +1,99 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import Header from "@/components/Header.astro";
-import InlineNavigation from "@/components/InlineNavigation.astro";
-import Footer from "@/components/Footer.astro";
 import { getAllCompanies } from "@/domain/company/lib";
-import {
-  getAllCaseStudiesByCompany,
-  getYearsRange,
-} from "@/domain/caseStudy/lib";
+import { getAllCaseStudiesByCompany } from "@/domain/caseStudy/lib";
 import CaseStudiesList from "@/components/CaseStudiesList.astro";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/config";
-import Factoids from "@/components/Factoids.astro";
+import BackToTop from "@/components/BackToTop.astro";
+import RssMetaLink from "@/components/RssMetaLink.astro";
+import InlineNavigation from "@/components/InlineNavigation.astro";
 
-const companies = (await getAllCompanies()).sort((a, b) =>
-  a.data.name.localeCompare(b.data.name)
-);
 const caseStudiesByCompany = await getAllCaseStudiesByCompany();
 const allCaseStudies = Object.values(caseStudiesByCompany).flatMap(
   (item) => item ?? []
 );
-const yearsRange = getYearsRange(allCaseStudies);
+const allCaseStudiesByYear = Object.groupBy(allCaseStudies, (item) =>
+  item.data.publishedAt.getFullYear()
+);
 ---
 
 <BaseLayout title={SITE_NAME} description={SITE_DESCRIPTION}>
-  <link
-    slot="rss"
-    rel="alternate"
-    type="application/rss+xml"
-    title="RSS Feed"
-    href={new URL("rss.xml", SITE_URL)}
-  />
+  <RssMetaLink slot="rss" title="RSS Feed" href="/rss.xml" />
 
-  <Header slot="header" />
+  <BackToTop />
 
-  <main slot="main">
-    <Factoids
-      companiesCount={companies.length}
-      caseStudiesCount={allCaseStudies.length}
-      yearsRange={yearsRange}
+  <div class="content">
+    <span class="muted">By year /</span>
+    <a href="/companies" class="novisited">By company</a>
+    <h2>Latest Entries</h2>
+
+    <InlineNavigation
+      items={Object.keys(allCaseStudiesByYear)
+        .toSorted((a, b) => parseInt(b, 10) - parseInt(a, 10))
+        .map((year) => ({
+          id: year,
+          name: year,
+        }))}
     />
-    <InlineNavigation items={companies} />
+  </div>
 
-    <div class="companies">
-      {
-        companies.map((company) => {
-          const caseStudies = caseStudiesByCompany[company.id];
+  {
+    Object.entries(allCaseStudiesByYear)
+      .toSorted((a, b) => parseInt(b[0], 10) - parseInt(a[0], 10))
+      .map(([year, caseStudies]) => {
+        if (!caseStudies) {
+          return null;
+        }
 
-          if (!caseStudies) {
-            return null;
-          }
+        return (
+          <section>
+            <h3 id={year}>
+              {year}
+              <small>
+                {caseStudies.length} case{" "}
+                {caseStudies.length > 1 ? "studies" : "study"}
+              </small>
+            </h3>
 
-          return (
-            <section>
-              <h2 id={company.id}>
-                <a href={`/companies/${company.id}`}>{company.data.name}</a>
-                <sup>{caseStudies.length}</sup>
-              </h2>
-
-              <CaseStudiesList items={caseStudies} />
-            </section>
-          );
-        })
-      }
-    </div>
-  </main>
-
-  <Footer slot="footer" />
+            <CaseStudiesList items={caseStudies} showCompany />
+          </section>
+        );
+      })
+  }
 </BaseLayout>
 
 <style>
   h2 {
+    margin-block: 0.25rem 1rem;
+  }
+  h3 {
     margin-block-start: 2rem;
-    font-size: 2.5rem;
-    position: relative;
   }
 
-  h2 > a {
-    text-decoration: none;
-  }
-
-  h2 > sup {
+  h3 > small {
+    display: block;
+    font-weight: normal;
+    margin-top: 0.5em;
     color: var(--color-muted);
+    font-size: 1.25rem;
   }
 
-  @media (min-width: 60rem) {
+  section {
+    display: contents;
+  }
+
+  @media (min-width: 66rem) {
+    .content,
+    h3 {
+      grid-column: main;
+    }
+
     .companies {
+      grid-column: full;
       display: grid;
+      grid-template-columns: subgrid;
       grid-template-columns: minmax(40px, max-content) 1fr;
       gap: 1rem;
-    }
-
-    section {
-      display: contents;
-    }
-
-    h2 {
-      grid-column: 2 / -1;
     }
   }
 </style>

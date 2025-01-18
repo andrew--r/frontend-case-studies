@@ -1,12 +1,21 @@
 ---
+import { getAllCompanies } from "@/domain/company/lib";
 import type { CollectionEntry } from "astro:content";
 
 interface Props {
   items: CollectionEntry<"caseStudies">[];
+  showCompany?: boolean;
 }
+
+const { showCompany } = Astro.props;
 
 const items = Astro.props.items.sort(
   (a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()
+);
+
+const allCompanies = await getAllCompanies();
+const companiesById = Object.fromEntries(
+  allCompanies.map((item) => [item.id, item])
 );
 
 const dateFormatter = new Intl.DateTimeFormat("en-US", {
@@ -21,9 +30,17 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
       <li>
         <div>
           <a href={caseStudy.id}>{caseStudy.data.title}</a>
+          {showCompany ? (
+            <a
+              class="company novisited muted"
+              href={`/companies/${caseStudy.data.company}`}
+            >
+              {companiesById[caseStudy.data.company].data.name}
+            </a>
+          ) : null}
         </div>
 
-        <time datetime={caseStudy.data.publishedAt.toISOString()}>
+        <time class="muted" datetime={caseStudy.data.publishedAt.toISOString()}>
           {dateFormatter.format(caseStudy.data.publishedAt)}
         </time>
       </li>
@@ -32,33 +49,35 @@ const dateFormatter = new Intl.DateTimeFormat("en-US", {
 </ul>
 
 <style>
+  ul {
+    display: contents;
+  }
+
   li {
-    margin-block: 1rem;
+    margin-block: 1.5rem;
   }
 
-  time {
+  .company {
+    display: table;
     color: var(--color-muted);
+    text-decoration: none;
   }
 
-  @media (min-width: 60rem) {
-    ul {
-      display: contents;
-    }
-
+  @media (min-width: 66rem) {
     li {
       display: grid;
       grid-template-columns: subgrid;
-      grid-column: 1 / -1;
-      margin: 0;
+      grid-column: full;
+      margin-block: 1.5rem 0;
     }
 
     li > a {
-      grid-column: 2;
+      grid-column: main;
     }
 
     time {
       text-align: right;
-      grid-column: 1 / 1;
+      grid-column: full-start / main-start;
       grid-row: 1 / 1;
     }
   }
