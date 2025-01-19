@@ -1,0 +1,70 @@
+---
+import Factoids from "./Factoids.astro";
+import RssLink from "./RssLink.astro";
+
+const isRoot = Astro.originPathname === "/";
+const title = "Frontend Case Studies";
+---
+
+<header>
+  <h1 id="top" class:list={[{ root: isRoot }]}>
+    {
+      isRoot ? (
+        title
+      ) : (
+        <a href="/" class="raw">
+          ← Frontend Case Studies
+        </a>
+      )
+    }
+
+    {isRoot ? <RssLink href="/rss.xml" /> : null}
+  </h1>
+
+  {
+    isRoot ? (
+      <>
+        <p>
+          Go beyond basic tutorials. Explore real-world frontend challenges
+          and learn industry best practices.
+        </p>
+        <Factoids />
+      </>
+    ) : null
+  }
+</header>
+
+<style>
+  header {
+    padding-block: 1rem;
+  }
+
+  h1:not(.root) {
+    font-size: 1.25rem;
+    font-weight: normal;
+  }
+
+  .root {
+    font-size: 3.5rem;
+  }
+
+  p {
+    margin-block-start: 1rem;
+    font-size: 1.5rem;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  a:is(:hover, :focus-visible) {
+    color: var(--color-link-hover);
+  }
+
+  @media (min-width: 66rem) {
+    header {
+      grid-column: main;
+    }
+  }
+</style>

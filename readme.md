@@ -2,6 +2,9 @@
 
 Articles like “Building a simple todo list with [framework or technology name]” won’t teach you how that framework or technology solves real-world problems and works at a large scale. This document is a curated list of technical talks and articles about real-world enterprise frontend development.
 
+> [!IMPORTANT]
+> As of January 2025, we've launched [a website](https://frontendcs.com) where you can browse case studies with a better UX! Please use the website for the latest updates. Entries in this README will no longer be updated and will eventually be removed completely.
+
 ## Table of contents
 
 - [English](#english)
@@ -33,6 +36,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [CodeSandbox](#codesandbox)
   - [Condé Nast](#condé-nast)
   - [Conductor](#conductor)
+  - [Datadog](#datadog)
   - [DAZN](#dazn)
   - [De Voorhoede](#de-voorhoede)
   - [DEV](#dev)
@@ -41,6 +45,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [DoorDash](#doordash)
   - [Dropbox](#dropbox)
   - [eBay](#ebay)
+  - [EdgeDB](#edgedb)
   - [Electronic Arts](#electronic-arts)
   - [Ele.me](#eleme)
   - [Etsy](#etsy)
@@ -158,6 +163,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [Udacity](#udacity)
   - [Unity](#unity)
   - [Unsplash](#unsplash)
+  - [Vercel](#vercel)
   - [Verve](#verve)
   - [Walmart Labs](#walmart-labs)
   - [Wikimedia](#wikimedia)
@@ -248,6 +254,9 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f) (May 24, 2022)
 - [Airbnb’s Trip to Linaria](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12) (June 16, 2022)
 - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408) (May 17, 2023)
+- [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881) (May 16, 2024)
+- [How Airbnb Smoothly Upgrades React](https://medium.com/airbnb-engineering/how-airbnb-smoothly-upgrades-react-b1d772a565fd) (July 23, 2024)
+- [Adopting Bazel for Web at Scale](https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325) (Nov 12, 2024)
 
 ### [ALDO](https://www.aldogroup.com)
 
@@ -370,12 +379,6 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Better video previews for email](https://cm.engineering/better-video-previews-for-email-12432ce71846) (December 20, 2016)
 - [How to test accessibility of emails](https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4) (June 5, 2018)
 
-### [Carbon Five](https://www.carbonfive.com/)
-
-- [Cross-Domain Browser Window Messaging with HTML5 and Javascript](https://blog.carbonfive.com/2012/08/17/cross-domain-browser-window-messaging-with-html5-and-javascript/) (August 17, 2012)
-- [Composing Synchronous and Asynchronous Functions in JavaScript](https://blog.carbonfive.com/2015/01/29/composing-synchronous-and-asynchronous-functions-in-javascript/) (January 29, 2015)
-- [An AJAX Auto-Save Implementation](https://blog.carbonfive.com/2018/01/24/an-ajax-auto-save-implementation) (January 24, 2018)
-
 ### [Carousell](https://carousell.com)
 
 - [How we made Carousell’s mobile web experience 3x faster](https://medium.com/carousell-insider/how-we-made-carousells-mobile-web-experience-3x-faster-bbb3be93e006) (October 31, 2018)
@@ -384,7 +387,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [cars.com](https://www.cars.com)
 
-- [How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js](https://modernweb.com/cars-com-nodejs) (July 17, 2017)
+- [How Cars.com Developer Mac Heller-Ogden Convinced His Bosses to Adopt Node.js](https://modernweb.com/cars-nodejs) (July 17, 2017)
 
 ### [Checkbot](https://www.checkbot.io/)
 
@@ -423,6 +426,14 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 - [Painless Migration From Backbone to React/Redux](https://www.youtube.com/watch?v=d8oBIzIgVMA) (February 16, 2018)
 
+### [Datadog](https://www.datadoghq.com)
+
+- [Redux-Doghouse – Creating Reusable React-Redux Components Through Scoping](https://www.datadoghq.com/blog/engineering/redux-doghouse-reusable-react-redux-components-through-scoping/) (November 14, 2016)
+- [How Datadog uses Datadog to gain visibility into the Datadog user experience](https://www.datadoghq.com/blog/engineering/how-datadog-uses-datadog-to-gain-visibility-into-the-datadog-user-experience/) (February 22, 2022)
+- [DRUIDS, the Design System that Powers Datadog](https://www.datadoghq.com/blog/engineering/druids-the-design-system-that-powers-datadog/) (September 29, 2022)
+- [Making Fetch Happen - Building a General-purpose Query & Render Scheduler](https://www.datadoghq.com/blog/engineering/making-fetch-happen-building-a-general-purpose-query-and-render-scheduler/) (April 17, 2023)
+- [How We Migrated Our Acceptance Tests to Use Synthetic Monitoring](https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-synthetic-monitoring/) (June 30, 2023)
+
 ### [DAZN](https://dazn.com/)
 
 - [Testing MobX State Tree](https://medium.com/dazn-tech/testing-mobx-state-tree-c588f4bfc430) (December 7, 2018)
@@ -439,7 +450,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [DEV](https://dev.to)
 
-- [App shell UX with service workers and streams](https://web.dev/app-shell-ux-with-service-workers/) (June 23, 2020)
+- [App shell UX with service workers and streams](https://github.com/GoogleChrome/web.dev/blob/a64d870f59c25431bbedf0ef06aa635072c43a2e/src/site/content/en/reliable/app-shell-ux-with-service-workers/index.md) (June 23, 2020)
 
 ### [Discord](https://discordapp.com/)
 
@@ -517,6 +528,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Front End Debugging — Tips on Resolving Issues Quickly so You Can Move on to Better Things](https://tech.ebayinc.com/engineering/front-end-debugging-tips-on-resolving-issues-quickly-so-you-can-move-on-to-better-things/) (April 7, 2020)
 - [Auto Effect Pattern with Redux and React Hooks](https://tech.ebayinc.com/engineering/auto-effect-pattern-with-redux-and-react-hooks/) (April 15, 2020)
 
+### [EdgeDB](https://www.edgedb.com)
+
+- [An approach to optimizing TypeScript type checking performance](https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#the-next-generation-of-performance-tools) (August 8, 2024)
+
 ### [Electronic Arts](https://www.ea.com)
 
 - [Building UI at Enterprise Scale with Web Components](https://youtu.be/FJ2KEvzlyo4) (August 22, 2017)
@@ -593,12 +608,11 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [FARFETCH](https://www.farfetch.com)
 
-- [The need for speed — 1: measuring today’s web performance](https://www.farfetchtechblog.com/en/blog/post/the-need-for-speed-1-measuring-today-s-web-performance) (February 19, 2019)
-- [The need for speed — 2: call for metrics](https://farfetchtechblog.com/en/blog/post/the-need-for-speed-2-call-for-metrics) (February 19, 2019)
-- [How to build a performance culture at scale](https://www.farfetchtechblog.com/en/blog/post/how-to-build-a-performance-culture-at-scale) (September 11, 2019)
-- [One less second for the page, one giant leap for the business](https://farfetchtechblog.com/en/blog/post/one-less-second-for-the-page-one-giant-leap-for-the-business) (July 2, 2020)
-- [The art of failure II: graceful degradation](https://farfetchtechblog.com/en/blog/post/the-art-of-failure-ii-graceful-degradation) (September 20, 2021)
-- [GraphQL sessions: powering farfetch.com](https://www.farfetchtechblog.com/en/blog/post/graphql-sessions-powering-farfetch-com) (May 6, 2022)
+- [The need for speed — 1: measuring today’s web performance](https://www.linkedin.com/pulse/need-speed-1-measuring-todays-web-performance-manuel-garcia/) (February 19, 2019)
+- [The need for speed — 2: call for metrics](https://www.linkedin.com/pulse/need-speed-2-call-metrics-manuel-garcia/) (February 19, 2019)
+- [How to build a performance culture at scale](https://www.linkedin.com/pulse/how-build-performance-culture-scale-manuel-garcia/) (September 11, 2019)
+- [One less second for the page, one giant leap for the business](https://www.linkedin.com/pulse/one-less-second-page-giant-leap-business-manuel-garcia) (July 2, 2020)
+- [GraphQL sessions: powering farfetch.com](https://farfetchtech.medium.com/graphql-sessions-powering-farfetch-com-305e7c0901e7) (May 6, 2022)
 
 ### [fastq.bio](http://www.fastq.bio/)
 
@@ -616,6 +630,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [React at 60fps: improving scrolling comments in Figma](https://www.figma.com/blog/improving-scrolling-comments-in-figma/) (August 19, 2020)
 - [Inside Figma: a case study on strict null checks](https://www.figma.com/blog/inside-figma-a-case-study-on-strict-null-checks/#what-are-strict-null-checks) (December 17, 2020)
 - [Illuminating dark mode](https://www.figma.com/blog/illuminating-dark-mode) (July 21, 2022)
+- [The evolution of Figma’s mobile engine: Compiling away our custom programming language](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/) (May 1, 2024)
 
 ### [Financial Times](https://www.ft.com)
 
@@ -672,12 +687,12 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [GitHub](https://github.com)
 
-- [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) (July 23, 2014)
+- [GitHub's CSS](https://markdotto.com/blog/githubs-css/) (July 23, 2014)
 - [How GitHub is using Web Components in production](https://www.webcomponents.org/community/articles/interview-with-joshua-peek) (September 30, 2014)
 - [Browser Monitoring for GitHub.com](https://githubengineering.com/browser-monitoring-for-github-com/) (May 19, 2015)
 - [GitHub's CSP journey](https://githubengineering.com/githubs-csp-journey/) (April 12, 2016)
 - [GitHub's post-CSP journey](https://githubengineering.com/githubs-post-csp-journey/) (January 19, 2017)
-- [Shipping system fonts to GitHub.com](http://markdotto.com/2018/02/07/github-system-fonts/) (February 7, 2018)
+- [Shipping system fonts to GitHub.com](https://markdotto.com/blog/github-system-fonts/) (February 7, 2018)
 - [Design Systems at GitHub](https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542) (July 6, 2018)
 - [Removing jQuery from GitHub.com frontend](https://githubengineering.com/removing-jquery-from-github-frontend/) (September 6, 2018)
 - [From 48k lines of code to 10—the story of GitHub’s JavaScript SDK](https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk) (April 9, 2020)
@@ -713,6 +728,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Migrating Puppeteer to TypeScript](https://developers.google.com/web/updates/2021/01/puppeteer-typescript) (January 21, 2021)
 - [DevTools architecture refresh: migrating DevTools to TypeScript](https://developer.chrome.com/blog/migrating-to-typescript/) (April 8, 2021)
 - [Implementing CSP and Trusted Types debugging in Chrome DevTools](https://developer.chrome.com/en/blog/csp-issues/) (November 1, 2021)
+- [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc) (June 26, 2024)
 
 ### [GOV.UK](https://www.gov.uk)
 
@@ -724,10 +740,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [Accessibility lessons: dealing with a large amount of form inputs](https://accessibility.blog.gov.uk/2019/04/08/accessibility-lessons-dealing-with-a-large-amount-of-form-inputs) (April 8, 2019)
 - [Why the GOV.UK Design System team changed the input type for numbers](https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/) (February 24, 2020)
 - [Why videos on GOV.UK use the YouTube video player](https://accessibility.blog.gov.uk/2020/03/16/why-videos-on-gov-uk-use-the-youtube-video-player/) (March 16, 2020)
+- [How we reduced CSS size and improved performance across GOV.UK](https://gds.blog.gov.uk/2023/12/15/how-we-reduced-css-size-and-improved-performance-across-gov-uk/) (December 15, 2023)
 
 ### [grammarly](https://www.grammarly.com)
 
-- [Building Browser Extensions At Scale](https://tech.grammarly.com/blog/building-browser-extensions-at-scale) (October 6, 2017)
+- [Building Browser Extensions At Scale](https://web.archive.org/web/20190304201001/https://tech.grammarly.com/blog/building-browser-extensions-at-scale) (October 6, 2017)
+- [Introducing Embrace: A Framework for Building Declarative UIs](https://www.grammarly.com/blog/engineering/introducing-embrace/) (September 3, 2021)
+- Under the Hood of the Grammarly Editor: [Real-Time Collaborative Text Editing](https://www.grammarly.com/blog/engineering/real-time-collaborative-text-editing/) and [How Suggestions Work](https://www.grammarly.com/blog/engineering/how-suggestions-work-grammarly-editor/) (April 22, 2022)
+- [Making Grammarly Feel Native On Every Website](https://www.grammarly.com/blog/engineering/making-grammarly-feel-native-on-every-website/) (March 7, 2022)
+- How Grammarly Tackles Hidden Complexity in Front-End Applications: [part 1](https://www.grammarly.com/blog/engineering/part-1-how-grammarly-tackles-hidden-complexity-in-front-end-applications/) and [part 2](https://www.grammarly.com/blog/engineering/part-2-how-grammarly-tackles-hidden-complexity-in-front-end-applications/) (March 7, 2022)
+- [Signals With @grammarly/focal](https://www.grammarly.com/blog/engineering/signals-with-focal-library/) (August 21, 2023)
 
 ### [Gusto](https://gusto.com/)
 
@@ -1112,7 +1134,16 @@ Articles like “Building a simple todo list with [framework or technology name]
 
 ### [Sentry](https://sentry.io)
 
+- [Building Sentry: Source maps and their problems](https://sentry.engineering/blog/building-sentry-source-maps-and-their-problems) (July 16, 2019)
+- [Slow and Steady: Converting Sentry’s Entire Frontend to TypeScript](https://sentry.engineering/blog/slow-and-steady-converting-sentrys-entire-frontend-to-typescript) (April 12, 2021)
+- [How we trimmed the Sentry JavaScript SDK file size by 20%](https://sentry.engineering/blog/js-browser-sdk-bundle-size-matters) (February 28, 2022)
 - [JavaScript SDK “Package Size is Massive” - So we reduced it by 29%](https://blog.sentry.io/2022/07/19/javascript-sdk-package-reduced) (July 19, 2022)
+- [Understanding the Performance Impact of Generated JavaScript](https://sentry.engineering/blog/understanding-the-performance-impact-of-generated-javascript) (July 22, 2022)
+- [How We Made JavaScript Stack Traces Awesome](https://sentry.engineering/blog/how-we-made-javascript-stack-traces-awesome) (November 30, 2022)
+- [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library](https://sentry.engineering/blog/sentrys-frontend-tests-migrating-from-enzyme-to-react-testing-library) (February 23, 2023)
+- [How we reduced CI time by 35% with Nx Caching](https://sentry.engineering/blog/reduce-ci-time-with-nx-caching) (March 31, 2023)
+- [Measuring Session Replay Overhead](https://sentry.engineering/blog/measuring-session-replay-overhead) (July 5, 2023)
+- [How We Reduced Replay SDK Bundle Size by 35%](https://sentry.engineering/blog/session-replay-sdk-bundle-size-optimizations) (November 14, 2023)
 
 ### [Shopify](https://shopify.com)
 
@@ -1298,6 +1329,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 - [The First Prettier Plugin For Twig is Here](https://tech.trivago.com/2020/03/10/the-first-prettier-plugin-for-twig-is-here/) (March 10, 2020)
 - [Exploring the Page Visibility API for Detecting Page Background State](https://tech.trivago.com/2020/11/17/exploring-the-page-visibility-api-for-detecting-page-background-state/) (November 17, 2020)
 - [Rethinking the Next-gen Analytics Web App at trivago](https://tech.trivago.com/2021/02/09/rethinking-the-next-gen-analytics-web-app-at-trivago/) (February 9, 2021)
+- [Designing Marketing Emails via predefined Modules in Salesforce Email Studio](https://tech.trivago.com/post/2021-04-19-designingmarketingemailsviapredefinedmod) (April 19, 2021)
+- [WARP - A Web Application Rewrite Project](https://tech.trivago.com/post/2022-05-16-warp-a-web-application-rewrite-project) (May 16, 2022)
+- [3 Things We Learned When Switching to TypeScript](https://tech.trivago.com/post/2022-08-01-three-learnings-switching-to-typescript) (August 1, 2022)
+- [End-to-end tests retry strategies](https://tech.trivago.com/post/2023-09-27-end-to-end-tests-retry-strategies) (September 27, 2023)
 
 ### [Tumblr](https://www.tumblr.com/)
 
@@ -1348,6 +1383,13 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Unsplash](https://unsplash.com)
 
 - [How we gradually migrated to TypeScript at Unsplash](https://medium.com/unsplash/how-we-gradually-migrated-to-typescript-at-unsplash-7a34caa24ef1) (March 14, 2018)
+
+### [Vercel](https://vercel.com)
+
+- [How we made the Vercel Dashboard twice as fast](https://vercel.com/blog/how-we-made-the-vercel-dashboard-twice-as-fast) (August 9, 2022)
+- [Designing the Vercel virtual product tour](https://vercel.com/blog/designing-the-vercel-virtual-product-tour) (June 2, 2023)
+- [Design Engineering at Vercel](https://vercel.com/blog/design-engineering-at-vercel) (March 29, 2024)
+- [How Vercel adopted microfrontends](https://vercel.com/blog/how-vercel-adopted-microfrontends) (October 22, 2024)
 
 ### [Verve](https://verve.co)
 
@@ -1451,6 +1493,7 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [1Password](https://1password.com/)
 
 - [From dark to light and back again](https://blog.1password.com/from-dark-to-light-and-back-again/) (November 8, 2018)
+- [How we used esbuild to reduce our browser extension build times by 90%](https://blog.1password.com/new-extension-build-system/) (May 30, 2024)
 
 ### Miscellaneous
 

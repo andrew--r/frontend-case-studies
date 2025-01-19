@@ -1,0 +1,135 @@
+[amplifr]
+name = "Amplifr"
+websiteUrl = "https://amplifr.com"
+
+[aviasales]
+name = "Aviasales"
+websiteUrl = "https://www.aviasales.ru"
+
+[avito]
+name = "Avito"
+websiteUrl = "https://www.avito.ru/"
+
+[autoru]
+name = "auto.ru"
+websiteUrl = "https://auto.ru/"
+
+[deliveryclub]
+name = "Delivery Club"
+websiteUrl = "https://www.delivery-club.ru/"
+
+[directum]
+name = "DIRECTUM"
+websiteUrl = "https://www.directum.ru/"
+
+[headhunter]
+name = "HeadHunter"
+websiteUrl = "https://hh.ru/"
+
+[ispsystem]
+name = "ISPSystem"
+websiteUrl = "https://www.ispsystem.ru"
+
+[joom]
+name = "Joom"
+websiteUrl = "https://www.joom.com"
+
+[miro]
+name = "Miro"
+websiteUrl = "https://miro.com/"
+
+[netcracker]
+name = "Netcracker"
+websiteUrl = "https://www.netcracker.com/"
+
+[onetwotrip]
+name = "OneTwoTrip"
+websiteUrl = "https://www.onetwotrip.com/"
+
+[ramblergroup]
+name = "Rambler Group"
+websiteUrl = "https://rambler-co.ru/"
+
+[setka]
+name = "Setka"
+websiteUrl = "https://setka.io/"
+
+[skyeng]
+name = "Skyeng"
+websiteUrl = "https://skyeng.ru"
+
+[sportsru]
+name = "Sports.ru"
+websiteUrl = "https://www.sports.ru"
+
+[tinkoff]
+name = "Tinkoff"
+websiteUrl = "https://www.tinkoff.ru/"
+
+[wrike]
+name = "Wrike"
+websiteUrl = "https://www.wrike.com"
+
+[alfabank]
+name = "Альфа-Банк"
+websiteUrl = "https://alfabank.ru"
+
+[bureau]
+name = "Бюро Горбунова"
+websiteUrl = "https://bureau.ru"
+
+[vk]
+name = "ВКонтакте"
+websiteUrl = "https://vk.com"
+
+[dodobrands]
+name = "Додо Пицца"
+websiteUrl = "https://dodois.com"
+
+[leroymerlin]
+name = "Леруа Мерлен"
+websiteUrl = "https://leroymerlin.ru"
+
+[meduza]
+name = "Медуза"
+websiteUrl = "https://meduza.io/"
+
+[okru]
+name = "Одноклассники"
+websiteUrl = "https://ok.ru/"
+
+[sber]
+name = "Сбербанк"
+websiteUrl = "http://sberbank.ru/"
+
+[citymobil]
+name = "Ситимобил"
+websiteUrl = "https://city-mobil.ru"
+
+[sportmaster]
+name = "Спортмастер"
+websiteUrl = "https://www.sportmaster.ru"
+
+[uchiru]
+name = "Учи.ру"
+websiteUrl = "https://uchi.ru"
+
+[habr]
+name = "Хабр"
+websiteUrl = "https://habr.com/ru"
+
+[cian]
+name = "ЦИАН"
+websiteUrl = "https://cian.ru"
+
+[yoomoney]
+name = "ЮMoney (Яндекс.Деньги)"
+websiteUrl = "https://yoomoney.ru"
+
+[yandex]
+name = "Яндекс"
+websiteUrl = "https://www.yandex.ru/"
+
+[2gis]
+name = "2ГИС"
+websiteUrl = "https://2gis.ru"

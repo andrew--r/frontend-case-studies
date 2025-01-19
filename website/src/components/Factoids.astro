@@ -1,0 +1,50 @@
+---
+import { getAllCaseStudies, getYearsRange } from "@/domain/caseStudy/lib";
+import { getAllCompanies } from "@/domain/company/lib";
+
+const companies = await getAllCompanies();
+const allCaseStudies = await getAllCaseStudies();
+const yearsRange = getYearsRange(allCaseStudies);
+---
+
+<dl>
+  <div>
+    <dt>Companies</dt>
+    <dd>{companies.length}</dd>
+  </div>
+  <div>
+    <dt>Case Studies</dt>
+    <dd>{allCaseStudies.length}</dd>
+  </div>
+  <div>
+    <dt>Period Covered</dt>
+    <dd>{yearsRange[0]}–{yearsRange[1]}</dd>
+  </div>
+</dl>
+
+<style>
+  dl {
+    grid-column: main;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 2rem;
+    margin-block-start: 1.5rem;
+  }
+
+  div {
+    display: inline-flex;
+    flex-direction: column-reverse;
+    margin-inline-end: 2rem;
+  }
+
+  dt {
+    font-size: 1.25rem;
+    color: var(--color-muted);
+  }
+
+  dd {
+    line-height: 1;
+    font-weight: bold;
+    font-size: 2.5rem;
+  }
+</style>

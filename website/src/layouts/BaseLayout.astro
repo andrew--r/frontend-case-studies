@@ -1,0 +1,97 @@
+---
+import "@/styles/reset.css";
+import "@/styles/base.css";
+import "@/styles/links.css";
+import "@/styles/utility.css";
+import { SITE_NAME, SITE_URL } from "@/config";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+
+interface Props {
+  title: string;
+  description: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+
+    <link rel="icon" type="image/svg+xml" href="/s/images/favicon.svg" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="/s/images/favicon-96x96.png"
+      sizes="96x96"
+    />
+    <link rel="shortcut icon" href="/s/images/favicon.ico" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/s/images/apple-touch-icon.png"
+    />
+    <meta name="apple-mobile-web-app-title" content={title} />
+
+    <title>{title}</title>
+    <meta name="description" content={description} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={new URL(Astro.originPathname, SITE_URL)} />
+    <meta property="og:image" content="/s/images/social.png" />
+    <meta property="og:site_name" content={SITE_NAME} />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content="/s/images/social.png" />
+
+    <slot name="rss" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style>
+  body {
+    display: grid;
+    grid-template-rows: min-content 1fr min-content;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    border-top: none;
+    border-bottom: none;
+    margin: auto;
+    padding: 1rem;
+  }
+
+  @media (min-width: 66rem) {
+    body {
+      display: grid;
+      grid-template-columns:
+        [full-start] minmax(min-content, 1fr)
+        [main-start] minmax(0, 60rem)
+        [main-end] minmax(min-content, 1fr)
+        [full-end];
+    }
+
+    main {
+      align-items: start;
+      grid-column: full;
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-auto-rows: max-content;
+    }
+  }
+</style>

@@ -1,0 +1,100 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getAllCompanies } from "@/domain/company/lib";
+import { getAllCaseStudiesByCompany } from "@/domain/caseStudy/lib";
+import CaseStudiesList from "@/components/CaseStudiesList.astro";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/config";
+import BackToTop from "@/components/BackToTop.astro";
+import RssMetaLink from "@/components/RssMetaLink.astro";
+import InlineNavigation from "@/components/InlineNavigation.astro";
+
+const caseStudiesByCompany = await getAllCaseStudiesByCompany();
+const allCaseStudies = Object.values(caseStudiesByCompany).flatMap(
+  (item) => item ?? []
+);
+const allCaseStudiesByYear = Object.groupBy(allCaseStudies, (item) =>
+  item.data.publishedAt.getFullYear()
+);
+---
+
+<BaseLayout title={SITE_NAME} description={SITE_DESCRIPTION}>
+  <RssMetaLink slot="rss" title="RSS Feed" href="/rss.xml" />
+
+  <BackToTop />
+
+  <div class="content">
+    <span class="muted">By year /</span>
+    <a href="/companies" class="novisited">By company</a>
+    <h2>Latest Entries</h2>
+
+    <InlineNavigation
+      items={Object.keys(allCaseStudiesByYear)
+        .toSorted((a, b) => parseInt(b, 10) - parseInt(a, 10))
+        .map((year) => ({
+          id: year,
+          name: year,
+        }))}
+    />
+  </div>
+
+  {
+    Object.entries(allCaseStudiesByYear)
+      .toSorted((a, b) => parseInt(b[0], 10) - parseInt(a[0], 10))
+      .map(([year, caseStudies]) => {
+        if (!caseStudies) {
+          return null;
+        }
+
+        return (
+          <section>
+            <h3 id={year}>
+              {year}
+              <small>
+                {caseStudies.length} case{" "}
+                {caseStudies.length > 1 ? "studies" : "study"}
+              </small>
+            </h3>
+
+            <CaseStudiesList items={caseStudies} showCompany />
+          </section>
+        );
+      })
+  }
+</BaseLayout>
+
+<style>
+  h2 {
+    margin-block: 0.25rem 1rem;
+  }
+
+  h3 {
+    margin-block-start: 2rem;
+  }
+
+  h3 > small {
+    display: block;
+    font-weight: normal;
+    margin-top: 0.5em;
+    color: var(--color-muted);
+    font-size: 1.25rem;
+  }
+
+  section {
+    display: contents;
+  }
+
+  @media (min-width: 66rem) {
+    .content,
+    h3 {
+      grid-column: main;
+    }
+
+    .companies {
+      grid-column: full;
+      display: grid;
+      grid-template-columns: subgrid;
+      grid-template-columns: minmax(40px, max-content) 1fr;
+      gap: 1rem;
+    }
+  }
+</style>

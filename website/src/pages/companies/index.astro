@@ -1,0 +1,78 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import InlineNavigation from "@/components/InlineNavigation.astro";
+import { getAllCompanies } from "@/domain/company/lib";
+import {
+  getAllCaseStudiesByCompany,
+  getYearsRange,
+} from "@/domain/caseStudy/lib";
+import CaseStudiesList from "@/components/CaseStudiesList.astro";
+import { SITE_DESCRIPTION, SITE_NAME } from "@/config";
+import BackToTop from "@/components/BackToTop.astro";
+
+const companies = (await getAllCompanies()).sort((a, b) =>
+  a.data.name.localeCompare(b.data.name)
+);
+const caseStudiesByCompany = await getAllCaseStudiesByCompany();
+---
+
+<BaseLayout
+  title={`All Companies — ${SITE_NAME}`}
+  description={SITE_DESCRIPTION}
+>
+  <div class="content">
+    <h2>All Companies</h2>
+    <InlineNavigation
+      items={companies.map((item) => ({ id: item.id, name: item.data.name }))}
+    />
+  </div>
+
+  <BackToTop />
+
+  {
+    companies.map((company) => {
+      const caseStudies = caseStudiesByCompany[company.id];
+
+      if (!caseStudies) {
+        return null;
+      }
+
+      return (
+        <section>
+          <h3 id={company.id}>
+            <a href={`/companies/${company.id}`}>{company.data.name}</a>
+            <sup class="muted">{caseStudies.length}</sup>
+          </h3>
+
+          <CaseStudiesList items={caseStudies} showCompany />
+        </section>
+      );
+    })
+  }
+</BaseLayout>
+
+<style>
+  h2 {
+    margin-block-end: 2rem;
+    font-size: 3.5rem;
+  }
+
+  h3 {
+    margin-block-start: 3rem;
+  }
+
+  h3 > a {
+    text-decoration: none;
+  }
+
+  section {
+    display: contents;
+  }
+
+  @media (min-width: 66rem) {
+    .content,
+    h3 {
+      grid-column: main;
+    }
+  }
+</style>
