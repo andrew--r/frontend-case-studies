@@ -11,19 +11,22 @@
     border-block-end: thin solid var(--color-border);
     top: 0;
     background: var(--color-bg);
+    visibility: hidden;
     opacity: 0;
-    transition: opacity 200ms;
   }
 
   a[data-visible="true"] {
+    visibility: visible;
     opacity: 1;
   }
 
   @keyframes fadein {
     from {
+      visibility: hidden;
       opacity: 0;
     }
     to {
+      visibility: visible;
       opacity: 1;
     }
   }
