@@ -2788,6 +2788,46 @@ id = "https://youtu.be/LtrXwX81CPE"
 title = "Architecting UI for Netflix Studio Technology"
 publishedAt = "2019-11-14"
 
+[[netflix]]
+id = "https://netflixtechblog.medium.com/delightful-user-interfaces-easter-eggs-ae5e8107d09b"
+title = "Delightful User Interfaces: Easter Eggs"
+publishedAt = "2019-06-24"
+
+[[netflix]]
+id = "https://netflixtechblog.com/bringing-rich-experiences-to-memory-constrained-tv-devices-6de771eabb16"
+title = "Bringing Rich Experiences to Memory-Constrained TV Devices"
+publishedAt = "2019-07-02"
+
+[[netflix]]
+id = "https://youtu.be/WLqc0EX8Bmg"
+title = "Making Bandersnatch"
+publishedAt = "2019-02-01"
+
+[[netflix]]
+id = "https://youtu.be/5sETJs2_jwo"
+title = "React.js for TV UIs"
+publishedAt = "2016-03-17"
+
+[[netflix]]
+id = "https://netflixtechblog.com/hawkins-diving-into-the-reasoning-behind-our-design-system-964a7357547"
+title = "Hawkins: Diving into the Reasoning Behind our Design System"
+publishedAt = "2021-02-10"
+
+[[netflix]]
+id = "https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea"
+title = "How We Build Micro Frontends With Lattice"
+publishedAt = "2021-09-27"
+
+[[netflix]]
+id = "https://netflixtechblog.com/building-the-new-netflix-experience-for-tv-920d71d875de"
+title = "Building the New Netflix Experience for TV"
+publishedAt = "2013-11-18"
+
+[[netflix]]
+id = "https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front-end-testing-37f9f88c152d"
+title = "Introducing SafeTest: A Novel Approach to Front End Testing"
+publishedAt = "2024-02-13"
+
 [[notion]]
 id = "https://www.notion.so/blog/migrating-notion-marketing-to-next-js"
 title = "Migrating Notion's marketing site to Next.js"

@@ -381,6 +381,8 @@ websiteUrl = "https://www.myntra.com"
 [netflix]
 name = "Netflix"
 websiteUrl = "https://netflix.com"
+blogUrl = "https://netflixtechblog.medium.com"
+rssUrl = "https://netflixtechblog.medium.com/feed"
 
 [notion]
 name = "Notion"
