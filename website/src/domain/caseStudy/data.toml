@@ -4482,3 +4482,28 @@ publishedAt = "2018-11-08"
 id = "https://blog.1password.com/new-extension-build-system/"
 title = "How we used esbuild to reduce our browser extension build times by 90%"
 publishedAt = "2024-05-30"
+
+[[godaddy]]
+id = "https://www.godaddy.com/resources/news/higher-order-reducers"
+title = "Eliminating Boilerplate and Increasing Reusability with Higher-Order Reducers"
+publishedAt = "2018-08-24"
+
+[[godaddy]]
+id = "https://www.godaddy.com/resources/news/reduxful-manage-restful-data-with-redux"
+title = "Reduxful: Manage RESTful data with Redux"
+publishedAt = "2018-11-05"
+
+[[godaddy]]
+id = "https://www.godaddy.com/resources/news/announcing-exemplar"
+title = "Creating better examples with @exemplar/storybook"
+publishedAt = "2019-04-09"
+
+[[godaddy]]
+id = "https://web.dev/case-studies/godaddy"
+title = "How GoDaddy's Websites + Marketing service improved customer Core Web Vitals by 75%"
+publishedAt = "2022-07-14"
+
+[[godaddy]]
+id = "https://www.godaddy.com/resources/news/mobile-to-webview-bridge-with-rxjs-and-redux"
+title = "Building a robust mobile to webview bridge with RxJS and Redux"
+publishedAt = "2023-03-02"

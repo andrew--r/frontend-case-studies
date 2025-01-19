@@ -672,3 +672,8 @@ websiteUrl = "https://18f.gsa.gov/"
 [1password]
 name = "1Password"
 websiteUrl = "https://1password.com/"
+
+[godaddy]
+name = "GoDaddy"
+websiteUrl = "https://www.godaddy.com"
+blogUrl = "https://www.godaddy.com/resources/category/engineering"
