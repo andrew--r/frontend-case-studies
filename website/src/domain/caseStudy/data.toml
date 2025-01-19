@@ -2828,6 +2828,11 @@ id = "https://netflixtechblog.com/introducing-safetest-a-novel-approach-to-front
 title = "Introducing SafeTest: A Novel Approach to Front End Testing"
 publishedAt = "2024-02-13"
 
+[[netflix]]
+id = "https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9"
+title = "A Netflix Web Performance Case Study"
+publishedAt = "2018-11-05"
+
 [[notion]]
 id = "https://www.notion.so/blog/migrating-notion-marketing-to-next-js"
 title = "Migrating Notion's marketing site to Next.js"
