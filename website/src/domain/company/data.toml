@@ -348,13 +348,11 @@ websiteUrl = "https://www.memsql.com"
 name = "Mercado Libre"
 websiteUrl = "http://www.mercadolibre.com"
 
-[microsoftbing]
-name = "Microsoft Bing"
-websiteUrl = "https://bing.com"
-
-[microsofttodo]
-name = "Microsoft To-Do"
-websiteUrl = "https://to-do.microsoft.com/"
+[microsoft]
+name = "Microsoft"
+websiteUrl = "https://www.microsoft.com"
+blogUrl = "https://medium.com/web-on-the-edge"
+rssUrl = "https://medium.com/feed/web-on-the-edge"
 
 [mixmax]
 name = "Mixmax"

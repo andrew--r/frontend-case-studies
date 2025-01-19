@@ -2558,15 +2558,50 @@ id = "https://web.dev/how-mercadolibre-optimized-web-vitals/"
 title = "How Mercado Libre optimized for Web Vitals (TBT/FID)"
 publishedAt = "2020-09-21"
 
-[[microsoftbing]]
+[[microsoft]]
 id = "https://blogs.bing.com/search-quality-insights/august-2022/Fast-Front-End-Performance-for-Microsoft-Bing"
 title = "Fast Front-End Performance for Microsoft Bing"
 publishedAt = "2022-08-25"
 
-[[microsofttodo]]
+[[microsoft]]
 id = "https://youtu.be/CWxc3AYja1I"
 title = "How We React at Microsoft To-Do"
 publishedAt = "2018-01-05"
+
+[[microsoft]]
+id = "https://medium.com/web-on-the-edge/deminifying-javascript-call-stacks-ef600d01bd4a"
+title = "Deminifying JavaScript call stacks"
+publishedAt = "2017-03-30"
+
+[[microsoft]]
+id = "https://medium.com/web-on-the-edge/performance-gains-from-switching-to-closure-compiler-8b97b7e434e5"
+title = "Performance gains from switching to Closure Compiler"
+publishedAt = "2017-03-15"
+
+[[microsoft]]
+id = "https://medium.com/web-on-the-edge/thinking-in-typescript-cb7f8a6434c0"
+title = "Thinking in TypeScript"
+publishedAt = "2017-09-19"
+
+[[microsoft]]
+id = "https://medium.com/web-on-the-edge/modernizing-word-onlines-ux-platform-df1050344e3a"
+title = "Modernizing Word Online’s UX platform"
+publishedAt = "2018-08-29"
+
+[[microsoft]]
+id = "https://medium.com/web-on-the-edge/creating-the-microsoft-edge-devtools-3d-view-d27c7bdffc9d"
+title = "Creating the Microsoft Edge DevTools 3D View"
+publishedAt = "2020-03-03"
+
+[[microsoft]]
+id = "https://medium.com/web-on-the-edge/how-we-built-the-devtools-tooltips-4e9933abbd8a"
+title = "How we built the DevTools Tooltips"
+publishedAt = "2021-03-08"
+
+[[microsoft]]
+id = "https://blogs.bing.com/search-quality-insights/2019-03/Bing-and-React-on-Amazon-Tablets"
+title = "Bing and React on Amazon Tablets"
+publishedAt = "2019-03-18"
 
 [[mixmax]]
 id = "https://mixmax.com/blog/scaling-mixmax-front-end"
