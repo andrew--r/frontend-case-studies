@@ -123,6 +123,11 @@ id = "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784
 title = "Adopting Bazel for Web at Scale"
 publishedAt = "2024-11-12"
 
+[[airbnb]]
+id = "https://youtu.be/P-J9Eg7hJwE"
+title = "Adopting Typescript at Scale"
+publishedAt = "2019-06-16"
+
 [[aldo]]
 id = "https://simplified.dev/performance/impact-of-web-performance"
 title = "The Impact of Web Performance"
@@ -1824,6 +1829,11 @@ title = "TypeScript at Google"
 publishedAt = "2018-09-01"
 
 [[google]]
+id = "https://youtu.be/sjov1k5jexA"
+title = "TypeScript at Google (TSConf 2018)"
+publishedAt = "2018-05-01"
+
+[[google]]
 id = "https://dev.to/chromiumdev/the-chrome-dev-summit-site-case-study-15ng"
 title = "The Chrome Dev Summit site: case study"
 publishedAt = "March 12,2019"
@@ -1867,6 +1877,11 @@ publishedAt = "2021-11-01"
 id = "https://web.dev/case-studies/google-sheets-wasmgc"
 title = "Why Google Sheets ported its calculation worker from JavaScript to WasmGC"
 publishedAt = "2024-06-26"
+
+[[google]]
+id = "https://neugierig.org/software/blog/2020/10/scaling-typescript.html"
+title = "Scaling TypeScript compilation"
+publishedAt = "2020-10-28"
 
 [[govuk]]
 id = "https://frontendne.co.uk/talks/accessibility-for-developers-building-a-frontend-that-everyone-can-use"
