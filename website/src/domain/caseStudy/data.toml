@@ -3508,6 +3508,11 @@ id = "https://slack.engineering/building-background-effects-for-clips/"
 title = "Building Background Effects for Clips"
 publishedAt = "2022-06-07"
 
+[[slack]]
+id = "https://slack.engineering/automated-accessibility-testing-at-slack/"
+title = "Automated Accessibility Testing at Slack"
+publishedAt = "2025-01-08"
+
 [[snipcart]]
 id = "https://snipcart.com/blog/progressive-migration-backbone-vuejs-refactoring"
 title = "The Story of our Progressive Migration from Backbone to Vue.js"
