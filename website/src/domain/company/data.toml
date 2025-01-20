@@ -677,3 +677,8 @@ websiteUrl = "https://1password.com/"
 name = "GoDaddy"
 websiteUrl = "https://www.godaddy.com"
 blogUrl = "https://www.godaddy.com/resources/category/engineering"
+
+[booking]
+name = "Booking.com"
+websiteUrl = "https://www.booking.com"
+blogUrl = "https://blog.booking.com"

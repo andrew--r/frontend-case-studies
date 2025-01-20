@@ -4507,3 +4507,43 @@ publishedAt = "2022-07-14"
 id = "https://www.godaddy.com/resources/news/mobile-to-webview-bridge-with-rxjs-and-redux"
 title = "Building a robust mobile to webview bridge with RxJS and Redux"
 publishedAt = "2023-03-02"
+
+[[booking]]
+id = "https://medium.com/booking-com-development/custom-browser-extensions-for-front-end-developers-4e273a2722d8"
+title = "Custom Browser Extensions for Front End Developers"
+publishedAt = "2014-01-30"
+
+[[booking]]
+id = "https://booking.design/responsive-email-fdf63d001d00"
+title = "Responsive email"
+publishedAt = "2015-09-21"
+
+[[booking]]
+id = "https://booking.design/automating-css-sprites-for-large-organisations-538c3f2cbda0"
+title = "Automating CSS Sprites for Large Organisations"
+publishedAt = "2013-08-01"
+
+[[booking]]
+id = "https://booking.design/automating-css-sprites-for-large-organisations-538c3f2cbda0"
+title = "Automating CSS Sprites for Large Organisations"
+publishedAt = "2014-05-01"
+
+[[booking]]
+id = "https://medium.com/booking-com-development/progressive-web-apps-with-service-workers-887e80abf9ef"
+title = "Progressive Web Apps with Service Workers"
+publishedAt = "2016-04-21"
+
+[[booking]]
+id = "https://booking.design/implementing-system-fonts-on-booking-com-a-lesson-learned-bdc984df627f"
+title = "Implementing system fonts on Booking.com — A lesson learned."
+publishedAt = "2017-03-29"
+
+[[booking]]
+id = "https://booking.design/how-we-adapted-the-booking-com-mobile-site-for-the-iphone-x-notch-e880fa00e989"
+title = "How we adapted the Booking.com mobile site for the iPhone X notch."
+publishedAt = "2017-11-07"
+
+[[booking]]
+id = "https://booking.design/how-we-built-our-multi-platform-design-system-at-booking-com-d7b895399d40"
+title = "How we built our multi-platform design system at Booking.com"
+publishedAt = "2023-03-01"
