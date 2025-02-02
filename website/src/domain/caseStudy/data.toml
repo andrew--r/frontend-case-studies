@@ -1763,6 +1763,36 @@ id = "https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs
 title = "How GitHub Actions renders large-scale logs"
 publishedAt = "2021-03-25"
 
+[[github]]
+id = "https://github.blog/engineering/architecture-optimization/how-we-use-web-components-at-github/"
+title = "How we use Web Components at GitHub"
+publishedAt = "2021-05-04"
+
+[[github]]
+id = "https://github.blog/engineering/infrastructure/how-we-think-about-browsers/"
+title = "How we think about browsers"
+publishedAt = "2022-06-10"
+
+[[github]]
+id = "https://github.blog/engineering/user-experience/creating-an-accessible-search-experience-with-the-querybuilder-component/"
+title = "Creating an accessible search experience with the QueryBuilder component"
+publishedAt = "2022-12-13"
+
+[[github]]
+id = "https://github.blog/engineering/user-experience/accessibility-considerations-behind-code-search-and-code-view/"
+title = "Accessibility considerations behind code search and code view"
+publishedAt = "2023-07-06"
+
+[[github]]
+id = "https://github.blog/engineering/user-experience/exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/"
+title = "Exploring the challenges in creating an accessible sortable list (drag-and-drop)"
+publishedAt = "2024-07-09"
+
+[[github]]
+id = "https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/"
+title = "Considerations for making a tree view component accessible"
+publishedAt = "2025-01-28"
+
 [[gitlab]]
 id = "https://youtu.be/ioogrvs2Ejc"
 title = "Why We Chose Vue.js"
