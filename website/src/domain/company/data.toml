@@ -694,3 +694,9 @@ name = "Botify"
 websiteUrl = "https://www.botify.com"
 blogUrl = "https://medium.com/botify-labs"
 rssUrl = "https://medium.com/feed/botify-labs"
+
+[hootsuite]
+name = "Hootsuite"
+websiteUrl = "https://hootsuite.com"
+blogUrl = "https://medium.com/hootsuite-engineering"
+rssUrl = "https://medium.com/feed/hootsuite-engineering"

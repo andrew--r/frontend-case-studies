@@ -4632,3 +4632,93 @@ publishedAt = "2018-06-07"
 id = "https://medium.com/botify-labs/my-chart-will-go-on-4439101b5e2b"
 title = "My Chart Will Go On: How we built our in-house Visualization library at Botify"
 publishedAt = "2020-04-23"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/functional-testing-with-casperjs-e2d121c09ad6"
+title = "Functional testing with CasperJS"
+publishedAt = "2013-08-21"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/why-using-requirejs-as-is-could-hurt-your-web-performance-eeed781f897f"
+title = "Why Using RequireJS As-Is Could Hurt Your Web Performance"
+publishedAt = "2014-03-25"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/gridlist-building-responsive-dashboards-with-resizable-widgets-79612772af63"
+title = "GridList — building responsive dashboards with resizable widgets"
+publishedAt = "2014-07-06"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/css-at-hootsuite-94968ff7f3c1"
+title = "CSS at Hootsuite"
+publishedAt = "2014-08-05"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/mobile-photo-uploads-with-html5-f7ea174ef128"
+title = "Mobile Photo Uploads with HTML5"
+publishedAt = "2015-04-14"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/enhancing-hootsuite-with-react-and-flux-7636ab9289f7"
+title = "Enhancing Hootsuite with React and Flux"
+publishedAt = "2015-10-01"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/designing-global-application-state-for-functional-frontends-e179e5dbe8f2"
+title = "Designing Global Application State for Functional Frontends"
+publishedAt = "2016-06-23"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/resizing-react-components-6f911ba39b59"
+title = "Resizing React Components"
+publishedAt = "2016-08-25"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/designing-react-components-is-easier-with-cosmos-6a90f15f3242"
+title = "Designing React components is easier with Cosmos"
+publishedAt = "2016-09-29"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/step-by-step-vrt-with-mugshot-e761ef01ca46"
+title = "Step-by-Step VRT with Mugshot"
+publishedAt = "2016-10-06"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/the-coffee-threshold-for-javascript-compilation-7dce8d6744c3"
+title = "The Coffee Threshold for Javascript Compilation"
+publishedAt = "2017-04-04"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/react-theme-management-in-less-with-javascript-4b64cbd5eb15"
+title = "React Theme Management in Less with Javascript"
+publishedAt = "2017-04-25"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/javascript-modules-circular-dependencies-and-react-648c83584eb5"
+title = "Javascript Modules, Circular Dependencies and React"
+publishedAt = "2017-08-16"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/thoughts-on-migrating-to-typescript-5e1a04288202"
+title = "Thoughts on migrating to TypeScript"
+publishedAt = "2018-12-27"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/migrating-a-codebase-to-react-16-some-takeaways-d187018db8ca"
+title = "Migrating a codebase to React 16: some takeaways"
+publishedAt = "2019-12-17"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/react-re-render-optimization-7d369e0bf701"
+title = "React Re-render Optimization"
+publishedAt = "2020-04-24"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/inbox-powering-our-front-end-through-a-data-driven-model-716d3f636109"
+title = "Inbox: Powering our Front-End through a Data-Driven Model"
+publishedAt = "2020-04-24"
+
+[[hootsuite]]
+id = "https://medium.com/hootsuite-engineering/performance-regression-in-a-react-app-investigation-and-remediation-strategies-24d9cbe6fdb3"
+title = "Performance Regression in a React App: Investigation and Remediation Strategies"
+publishedAt = "2024-03-20"
