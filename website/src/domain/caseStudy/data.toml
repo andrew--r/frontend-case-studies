@@ -4622,3 +4622,13 @@ publishedAt = "2021-02-16"
 id = "https://engineering.salesforce.com/why-we-open-sourced-our-javascript-framework-4c706bd2e68a/"
 title = "Why We Open Sourced Our JavaScript Framework"
 publishedAt = "2019-07-17"
+
+[[botify]]
+id = "https://medium.com/botify-labs/lessons-learned-in-2-years-with-a-javascript-react-monorepo-526e2154d5f1"
+title = "Lessons learned in 2 years with a JavaScript/React Monorepo"
+publishedAt = "2018-06-07"
+
+[[botify]]
+id = "https://medium.com/botify-labs/my-chart-will-go-on-4439101b5e2b"
+title = "My Chart Will Go On: How we built our in-house Visualization library at Botify"
+publishedAt = "2020-04-23"

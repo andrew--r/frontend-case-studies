@@ -688,3 +688,9 @@ name = "Salesforce"
 websiteUrl = "https://www.salesforce.com"
 blogUrl = "https://engineering.salesforce.com"
 rssUrl = "https://engineering.salesforce.com/feed/"
+
+[botify]
+name = "Botify"
+websiteUrl = "https://www.botify.com"
+blogUrl = "https://medium.com/botify-labs"
+rssUrl = "https://medium.com/feed/botify-labs"
