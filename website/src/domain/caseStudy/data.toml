@@ -4597,3 +4597,28 @@ publishedAt = "2017-11-07"
 id = "https://booking.design/how-we-built-our-multi-platform-design-system-at-booking-com-d7b895399d40"
 title = "How we built our multi-platform design system at Booking.com"
 publishedAt = "2023-03-01"
+
+[[salesforce]]
+id = "https://engineering.salesforce.com/optimizing-performance-with-web-workers-612b48621d8d/"
+title = "Optimizing Performance with Web Workers"
+publishedAt = "2017-09-19"
+
+[[salesforce]]
+id = "https://engineering.salesforce.com/debugging-embedded-javascript-in-an-android-app-using-chrome-devtools-8553864ee09c/"
+title = "Debugging embedded JavaScript in an Android app using Chrome DevTools"
+publishedAt = "2020-05-19"
+
+[[salesforce]]
+id = "https://engineering.salesforce.com/debugging-webkit-in-hybrid-mobile-apps-2eee63a4c922/"
+title = "Debugging WebKit in Hybrid Mobile Apps"
+publishedAt = "2020-07-14"
+
+[[salesforce]]
+id = "https://engineering.salesforce.com/native-scrolling-in-salesforce-mobile-app-4f334b6ad96e/"
+title = "Native Scrolling in Salesforce mobile app"
+publishedAt = "2021-02-16"
+
+[[salesforce]]
+id = "https://engineering.salesforce.com/why-we-open-sourced-our-javascript-framework-4c706bd2e68a/"
+title = "Why We Open Sourced Our JavaScript Framework"
+publishedAt = "2019-07-17"

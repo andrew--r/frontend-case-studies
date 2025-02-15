@@ -682,3 +682,9 @@ blogUrl = "https://www.godaddy.com/resources/category/engineering"
 name = "Booking.com"
 websiteUrl = "https://www.booking.com"
 blogUrl = "https://blog.booking.com"
+
+[salesforce]
+name = "Salesforce"
+websiteUrl = "https://www.salesforce.com"
+blogUrl = "https://engineering.salesforce.com"
+rssUrl = "https://engineering.salesforce.com/feed/"
