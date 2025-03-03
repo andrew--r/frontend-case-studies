@@ -4748,17 +4748,7 @@ id = "https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js
 title = "How Preply improved INP on a Next.js application (without React Server Components and App Router)"
 publishedAt = "2025-02-20"
 
-[[preply]]
-id = ""
-title = ""
-publishedAt = ""
-
-[[preply]]
-id = ""
-title = ""
-publishedAt = ""
-
-[[preply]]
-id = ""
-title = ""
-publishedAt = ""
+[[notion]]
+id = "https://www.notion.com/blog/how-we-evolved-our-code-notions-ratcheting-system-using-custom-eslint-rules"
+title = "How we evolve code: Notion’s “ratcheting” system using custom ESLint rules"
+publishedAt = "2025-03-03"
