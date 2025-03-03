@@ -4722,3 +4722,43 @@ publishedAt = "2020-04-24"
 id = "https://medium.com/hootsuite-engineering/performance-regression-in-a-react-app-investigation-and-remediation-strategies-24d9cbe6fdb3"
 title = "Performance Regression in a React App: Investigation and Remediation Strategies"
 publishedAt = "2024-03-20"
+
+[[preply]]
+id = "https://medium.com/preply-engineering/migrating-from-backbone-js-to-react-js-without-losing-it-a8b383a102fe"
+title = "Migrating from Backbone.js to React.js without losing it"
+publishedAt = "2018-09-19"
+
+[[preply]]
+id = "https://medium.com/preply-engineering/how-to-debug-cumulative-layout-shift-by-adding-secret-visuals-to-hotjar-recordings-8de15b6308db"
+title = "How to debug cumulative layout shift by adding secret visuals to HotJar recordings"
+publishedAt = "2020-11-09"
+
+[[preply]]
+id = "https://medium.com/preply-engineering/visual-coverage-why-and-how-preply-measures-the-impact-of-the-design-system-1057115f4aff"
+title = "Visual coverage: Why and How Preply Measures the Impact of the Design System (part I)"
+publishedAt = "2024-09-19"
+
+[[preply]]
+id = "https://medium.com/preply-engineering/the-implementation-details-of-preplys-design-system-visual-coverage-86b4a78ad2bb"
+title = "The Implementation Details of Preply’s Design System Visual Coverage (part II)"
+publishedAt = "2024-09-30"
+
+[[preply]]
+id = "https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875"
+title = "How Preply improved INP on a Next.js application (without React Server Components and App Router)"
+publishedAt = "2025-02-20"
+
+[[preply]]
+id = ""
+title = ""
+publishedAt = ""
+
+[[preply]]
+id = ""
+title = ""
+publishedAt = ""
+
+[[preply]]
+id = ""
+title = ""
+publishedAt = ""

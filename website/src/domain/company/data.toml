@@ -700,3 +700,9 @@ name = "Hootsuite"
 websiteUrl = "https://hootsuite.com"
 blogUrl = "https://medium.com/hootsuite-engineering"
 rssUrl = "https://medium.com/feed/hootsuite-engineering"
+
+[preply]
+name = "Preply"
+websiteUrl = "https://preply.com"
+blogUrl = "https://medium.com/preply-engineering"
+rssUrl = "https://medium.com/feed/preply-engineering"
