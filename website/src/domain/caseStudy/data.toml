@@ -4752,3 +4752,33 @@ publishedAt = "2025-02-20"
 id = "https://www.notion.com/blog/how-we-evolved-our-code-notions-ratcheting-system-using-custom-eslint-rules"
 title = "How we evolve code: Notion’s “ratcheting” system using custom ESLint rules"
 publishedAt = "2025-03-03"
+
+[[carousell]]
+id = "https://medium.com/carousell-insider/assembling-robust-web-chat-applications-with-javascript-an-in-depth-guide-9f36685fc1bc"
+title = "Assembling Robust Web Chat Applications with JavaScript: An In-depth Guide"
+publishedAt = "2019-12-03"
+
+[[carousell]]
+id = "https://medium.com/carousell-insider/optimising-core-web-vitals-at-carousell-6adad284b9ff"
+title = "Optimising Core Web Vitals at Carousell"
+publishedAt = "2022-02-08"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/js-mutation-testing-our-sdks"
+title = "Mutation-testing our JavaScript SDKs"
+publishedAt = "2024-08-23"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/preact-or-svelte-an-embedded-widget-use-case"
+title = "Preact or Svelte? An Embedded Widget Use Case"
+publishedAt = "2024-09-06"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/perfectly-fitting-text-to-container-in-react"
+title = "Perfectly Fitting Text to Container in React"
+publishedAt = "2024-10-18"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/better-code-rendering-through-virtualization"
+title = "Better Code Rendering Through Virtualization"
+publishedAt = "2024-12-03"

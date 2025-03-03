@@ -91,6 +91,8 @@ websiteUrl = "https://www.campaignmonitor.com/"
 [carousell]
 name = "Carousell"
 websiteUrl = "https://carousell.com"
+blogUrl = "https://medium.com/carousell-insider"
+rssUrl = "https://medium.com/feed/carousell-insider"
 
 [carscom]
 name = "cars.com"
