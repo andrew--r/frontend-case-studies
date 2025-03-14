@@ -1,11 +1,8 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import InlineNavigation from "@/components/InlineNavigation.astro";
+import Navigation from "@/components/Navigation.astro";
 import { getAllCompanies } from "@/domain/company/lib";
-import {
-  getAllCaseStudiesByCompany,
-  getYearsRange,
-} from "@/domain/caseStudy/lib";
+import { getAllCaseStudiesByCompany } from "@/domain/caseStudy/lib";
 import CaseStudiesList from "@/components/CaseStudiesList.astro";
 import { SITE_DESCRIPTION, SITE_NAME } from "@/config";
 import BackToTop from "@/components/BackToTop.astro";
@@ -22,7 +19,8 @@ const caseStudiesByCompany = await getAllCaseStudiesByCompany();
 >
   <div class="content">
     <h2>All Companies</h2>
-    <InlineNavigation
+    <Navigation
+      layout="column"
       items={companies.map((item) => ({ id: item.id, name: item.data.name }))}
     />
   </div>

@@ -1,12 +1,11 @@
 ---
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import { getAllCompanies } from "@/domain/company/lib";
 import { getAllCaseStudiesByCompany } from "@/domain/caseStudy/lib";
 import CaseStudiesList from "@/components/CaseStudiesList.astro";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/config";
 import BackToTop from "@/components/BackToTop.astro";
 import RssMetaLink from "@/components/RssMetaLink.astro";
-import InlineNavigation from "@/components/InlineNavigation.astro";
+import Navigation from "@/components/Navigation.astro";
 
 const caseStudiesByCompany = await getAllCaseStudiesByCompany();
 const allCaseStudies = Object.values(caseStudiesByCompany).flatMap(
@@ -27,7 +26,8 @@ const allCaseStudiesByYear = Object.groupBy(allCaseStudies, (item) =>
     <a href="/companies" class="novisited">By company</a>
     <h2>Latest Entries</h2>
 
-    <InlineNavigation
+    <Navigation
+      layout="inline"
       items={Object.keys(allCaseStudiesByYear)
         .toSorted((a, b) => parseInt(b, 10) - parseInt(a, 10))
         .map((year) => ({

@@ -1,12 +1,13 @@
 ---
 interface Props {
   items: { id: string; name: string }[];
+  layout: "inline" | "column";
 }
 
-const { items } = Astro.props;
+const { items, layout } = Astro.props;
 ---
 
-<nav>
+<nav class:list={[layout]}>
   <ul>
     {
       items.map((item) => (
@@ -19,7 +20,12 @@ const { items } = Astro.props;
 </nav>
 
 <style>
-  nav li {
+  .column {
+    columns: 8.75rem auto;
+    column-gap: 1rem;
+  }
+
+  .inline li {
     display: inline-block;
     margin-inline-end: 1.25rem;
   }
