@@ -4782,3 +4782,38 @@ publishedAt = "2024-10-18"
 id = "https://sentry.engineering/blog/better-code-rendering-through-virtualization"
 title = "Better Code Rendering Through Virtualization"
 publishedAt = "2024-12-03"
+
+[[intercom]]
+id = "https://www.intercom.com/blog/bringing-visibility-to-technical-performance/"
+title = "How we convinced everyone to care about technical performance"
+publishedAt = "2017-05-09"
+
+[[intercom]]
+id = "https://www.intercom.com/blog/messenger-accessibility/"
+title = "Building for everyone: How we made the Intercom Messenger accessible"
+publishedAt = "2018-12-05"
+
+[[intercom]]
+id = "https://www.intercom.com/blog/intercom-homepage-cms/"
+title = "Rebuilding Intercom’s homepage with a new CMS"
+publishedAt = "2019-06-07"
+
+[[intercom]]
+id = "https://www.intercom.com/blog/accessibility-buttons-messenger/"
+title = "Hot button issue: Improving accessibility in the Messenger"
+publishedAt = "2019-06-25"
+
+[[intercom]]
+id = "https://www.intercom.com/blog/reducing-intercom-messenger-bundle-size/"
+title = "Reducing the Intercom Messenger bundle size by 65%"
+publishedAt = "2019-07-08"
+
+[[intercom]]
+id = "https://www.intercom.com/blog/building-interactive-data-visualizations-with-ember/"
+title = "How we built a component API for interactive data visualizations with Ember"
+publishedAt = "2019-09-03"
+
+[[intercom]]
+id = "https://www.intercom.com/blog/evolution-of-ember-at-intercom/"
+title = "The evolution of Ember at Intercom"
+publishedAt = "2020-02-18"

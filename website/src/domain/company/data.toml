@@ -708,3 +708,9 @@ name = "Preply"
 websiteUrl = "https://preply.com"
 blogUrl = "https://medium.com/preply-engineering"
 rssUrl = "https://medium.com/feed/preply-engineering"
+
+[intercom]
+name = "Intercom"
+websiteUrl = "https://www.intercom.com"
+blogUrl = "https://www.intercom.com/blog/engineering"
+rssUrl = "https://www.intercom.com/blog/engineering/feed/"
