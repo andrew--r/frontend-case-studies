@@ -714,3 +714,9 @@ name = "Intercom"
 websiteUrl = "https://www.intercom.com"
 blogUrl = "https://www.intercom.com/blog/engineering"
 rssUrl = "https://www.intercom.com/blog/engineering/feed/"
+
+[coursera]
+name = "Coursera"
+websiteUrl = "https://www.coursera.org"
+blogUrl = "https://medium.com/coursera-engineering"
+rssUrl = "https://medium.com/feed/coursera-engineering"

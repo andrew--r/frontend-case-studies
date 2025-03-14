@@ -4817,3 +4817,64 @@ publishedAt = "2019-09-03"
 id = "https://www.intercom.com/blog/evolution-of-ember-at-intercom/"
 title = "The evolution of Ember at Intercom"
 publishedAt = "2020-02-18"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/improving-site-performance-with-tree-shaking-491b6a7e0708"
+title = "Improving Site Performance With Webpack Tree Shaking"
+publishedAt = "2020-01-10"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/efficient-front-end-development-at-coursera-3ed8c376f277"
+title = "Efficient Front-end Development at Coursera"
+publishedAt = "2014-11-07"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/source-maps-are-great-when-you-get-it-right-b65644685a82"
+title = "Source Maps are Great … When You Get It Right"
+publishedAt = "2015-03-30"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/rapidash-faster-frontend-development-7dc0635be944"
+title = "Rapidash: Faster frontend development"
+publishedAt = "2015-05-12"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/improving-coursera-global-site-performance-a-head-to-head-cdn-battle-with-production-traffic-7bbc87b3445c"
+title = "Improving Coursera Global Site Performance: A Head to Head CDN Battle with Production Traffic"
+publishedAt = "2015-07-09"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/why-and-how-coursera-does-isomorphic-javascript-a-fast-and-snappy-quiz-a42acdd59ef8"
+title = "Why and How Coursera Does Isomorphic Javascript: A Fast and Snappy Quiz"
+publishedAt = "2015-08-18"
+
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/how-to-migrate-react-to-isomorphic-rendering-ecb9df06deab"
+title = "How to Migrate React to Isomorphic Rendering"
+publishedAt = "2015-10-01"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/6-steps-to-i18n-success-for-your-web-app-b5702a221860"
+title = "6 Steps to i18n Success for Your Web App"
+publishedAt = "2016-01-20"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/breaking-up-our-javascript-monolith-with-rapidos-86d94e5e9040"
+title = "Breaking Up Our JavaScript Monolith with Rapidos"
+publishedAt = "2016-12-15"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/best-practices-for-flow-typing-react-components-5af62a82b4df"
+title = "Best Practices for Flow Typing React Components"
+publishedAt = "2017-06-01"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/webpack-3-to-4-facing-the-known-unknowns-and-unknown-unknowns-cdfeb817faf8"
+title = "Webpack 3 to 4: Facing the known unknowns and unknown unknowns"
+publishedAt = "2018-10-11"
+
+[[coursera]]
+id = "https://medium.com/coursera-engineering/improving-end-to-end-testing-at-coursera-using-puppeteer-and-jest-5f1bac9cd176"
+title = "Improving End-to-End Testing at Coursera using Puppeteer and Jest"
+publishedAt = "2019-06-26"
