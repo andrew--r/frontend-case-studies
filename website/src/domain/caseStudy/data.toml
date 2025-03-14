@@ -4878,3 +4878,8 @@ publishedAt = "2018-10-11"
 id = "https://medium.com/coursera-engineering/improving-end-to-end-testing-at-coursera-using-puppeteer-and-jest-5f1bac9cd176"
 title = "Improving End-to-End Testing at Coursera using Puppeteer and Jest"
 publishedAt = "2019-06-26"
+
+[[airbnb]]
+id = "https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b"
+title = "Accelerating Large-Scale Test Migration with LLMs"
+publishedAt = "2025-03-13"
