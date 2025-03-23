@@ -4883,3 +4883,18 @@ publishedAt = "2019-06-26"
 id = "https://medium.com/airbnb-engineering/accelerating-large-scale-test-migration-with-llms-9565c208023b"
 title = "Accelerating Large-Scale Test Migration with LLMs"
 publishedAt = "2025-03-13"
+
+[[nytimes]]
+id = "https://open.nytimes.com/expanding-our-front-end-testing-frameworks-dad1265e98db"
+title = "Expanding our Front End Testing Frameworks"
+publishedAt = "2022-12-13"
+
+[[nytimes]]
+id = "https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8"
+title = "Enhancing The New York Times Web Performance with React 18"
+publishedAt = "2024-06-26"
+
+[[nytimes]]
+id = "https://open.nytimes.com/how-the-new-york-times-systematically-migrated-from-enzyme-into-react-testing-library-b3ea538d001c"
+title = "How The New York Times systematically migrated from Enzyme into React Testing Library"
+publishedAt = "2025-03-03"
