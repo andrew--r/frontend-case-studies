@@ -4898,3 +4898,8 @@ publishedAt = "2024-06-26"
 id = "https://open.nytimes.com/how-the-new-york-times-systematically-migrated-from-enzyme-into-react-testing-library-b3ea538d001c"
 title = "How The New York Times systematically migrated from Enzyme into React Testing Library"
 publishedAt = "2025-03-03"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/formatting-sql-on-the-frontend"
+title = "Formatting SQL in the Browser Using PEG"
+publishedAt = "2025-04-08"
