@@ -1168,6 +1168,11 @@ id = "https://tech.ebayinc.com/engineering/auto-effect-pattern-with-redux-and-re
 title = "Auto Effect Pattern with Redux and React Hooks"
 publishedAt = "2020-04-15"
 
+[[ebay]]
+id = "https://innovation.ebayinc.com/stories/rethink-modals-management-in-react/"
+title = "Rethink Modals Management in React"
+publishedAt = "2021-11-19"
+
 [[edgedb]]
 id = "https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#the-next-generation-of-performance-tools"
 title = "An approach to optimizing TypeScript type checking performance"
@@ -4933,3 +4938,8 @@ publishedAt = "2023-04-07"
 id = "https://product.hubspot.com/blog/treating-frontend-performance-as-a-feature"
 title = "How We Started Treating Frontend Performance as a Feature"
 publishedAt = "2020-01-22"
+
+[[carousell]]
+id = "https://medium.com/carousell-insider/automated-ui-testing-for-carousell-web-a01e6f5b8faf"
+title = "Automated UI testing for Carousell Web"
+publishedAt = "2022-04-07"
