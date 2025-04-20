@@ -459,6 +459,11 @@ title = "Rendering like Butter – a Confluence Whiteboards Story"
 publishedAt = "2023-08-08"
 
 [[atlassian]]
+id = "https://www.atlassian.com/blog/atlassian-engineering/gpu-rendering-shapes-and-connectors-in-confluence-whiteboards"
+title = "Triangles at work: GPU rendering shapes and connectors in Confluence whiteboards"
+publishedAt = "2023-11-13"
+
+[[atlassian]]
 id = "https://www.atlassian.com/blog/design/designed-for-delight-built-for-performance"
 title = "Designed for delight, built for performance: The journey of pragmatic drag and drop"
 publishedAt = "2024-12-17"
@@ -4943,3 +4948,13 @@ publishedAt = "2020-01-22"
 id = "https://medium.com/carousell-insider/automated-ui-testing-for-carousell-web-a01e6f5b8faf"
 title = "Automated UI testing for Carousell Web"
 publishedAt = "2022-04-07"
+
+[[discord]]
+id = "https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif"
+title = "Modern Image Formats at Discord: Supporting WebP and AVIF"
+publishedAt = "2025-03-12"
+
+[[sentry]]
+id = "https://sentry.engineering/blog/building-a-product-tour-in-react"
+title = "Building a Product Tour in React"
+publishedAt = "2025-04-11"
