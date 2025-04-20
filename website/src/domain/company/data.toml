@@ -720,3 +720,9 @@ name = "Coursera"
 websiteUrl = "https://www.coursera.org"
 blogUrl = "https://medium.com/coursera-engineering"
 rssUrl = "https://medium.com/feed/coursera-engineering"
+
+[hubspot]
+name = "Hubspot"
+websiteUrl = "https://www.hubspot.com"
+blogUrl = "https://product.hubspot.com/blog/"
+rssUrl = "https://product.hubspot.com/blog/rss.xml"

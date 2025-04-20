@@ -4903,3 +4903,33 @@ publishedAt = "2025-03-03"
 id = "https://sentry.engineering/blog/formatting-sql-on-the-frontend"
 title = "Formatting SQL in the Browser Using PEG"
 publishedAt = "2025-04-08"
+
+[[hubspot]]
+id = "https://product.hubspot.com/blog/frontend-development-at-scale-1"
+title = "HubSpot's Approach to Front-End Development at Scale"
+publishedAt = "2013-03-19"
+
+[[hubspot]]
+id = "https://product.hubspot.com/blog/front-end-development-2"
+title = "HubSpot's approach to front-end development: Part 2"
+publishedAt = "2013-04-15"
+
+[[hubspot]]
+id = "https://product.hubspot.com/blog/frontend-platform"
+title = "Making Hundreds of Developers More Efficient by Creating a Frontend Platform Team"
+publishedAt = "2019-12-16"
+
+[[hubspot]]
+id = "https://product.hubspot.com/blog/ci-cd-deliver-value-customers"
+title = "How Our Frontend Teams Use CI/CD to Deliver Value to Customers"
+publishedAt = "2022-12-19"
+
+[[hubspot]]
+id = "https://product.hubspot.com/blog/immutability-and-performance"
+title = "Immutability and Its (Potential) Impact on Performance"
+publishedAt = "2023-04-07"
+
+[[hubspot]]
+id = "https://product.hubspot.com/blog/treating-frontend-performance-as-a-feature"
+title = "How We Started Treating Frontend Performance as a Feature"
+publishedAt = "2020-01-22"
