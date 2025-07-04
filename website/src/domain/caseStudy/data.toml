@@ -28,6 +28,11 @@ id = "https://www.datadoghq.com/blog/engineering/migrating-acceptance-tests-to-s
 title = "How We Migrated Our Acceptance Tests to Use Synthetic Monitoring"
 publishedAt = "2023-06-30"
 
+[[datadog]]
+id = "https://dev.to/datadog-frontend-dev/why-scaling-typescript-became-a-necessity-at-datadog-1nmn"
+title = "Why Scaling TypeScript Became a Necessity at Datadog"
+publishedAt = "2025-07-04"
+
 [[airbnb]]
 id = "https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9"
 title = "Turbocharged JavaScript Refactoring with Codemods"
