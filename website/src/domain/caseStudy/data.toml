@@ -4078,6 +4078,21 @@ id = "https://blog.twitch.tv/en/2019/12/03/beyond-purple/"
 title = "Beyond Purple"
 publishedAt = "2019-12-03"
 
+[[twitch]]
+id = "https://blog.twitch.tv/en/2021/09/07/guiding-a-monolith-with-a-gentle-touch-the-power-of-pairing-codeowners-and-lint-rules/"
+title = "Guiding a monolith with a gentle touch: pairing codeowners and lint rules"
+publishedAt = "2021-09-07"
+
+[[twitch]]
+id = "https://blog.twitch.tv/en/2021/11/30/using-algorithms-to-meet-accessibility-requirements-for-color-contrast/"
+title = "Using Algorithms to Meet Accessibility Requirements for Color Contrast"
+publishedAt = "2021-11-30"
+
+[[twitch]]
+id = "https://blog.twitch.tv/en/2022/01/10/automated-chaos-testing-on-the-front-end/"
+title = "Automated Chaos Testing on the Front-end"
+publishedAt = "2022-01-10"
+
 [[twitter]]
 id = "https://pusher.com/sessions/meetup/viennajs/view-source-twittercom"
 title = "View Source: Twitter.com"
