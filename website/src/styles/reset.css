@@ -47,14 +47,6 @@ label {
   line-height: 1.1;
 }
 
-/* Balance text wrapping on headings */
-h1,
-h2,
-h3,
-h4 {
-  text-wrap: balance;
-}
-
 /* Make images easier to work with */
 img,
 picture {
