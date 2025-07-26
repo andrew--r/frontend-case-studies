@@ -473,6 +473,16 @@ id = "https://www.atlassian.com/blog/design/designed-for-delight-built-for-perfo
 title = "Designed for delight, built for performance: The journey of pragmatic drag and drop"
 publishedAt = "2024-12-17"
 
+[[atlassian]]
+id = "https://www.atlassian.com/blog/design/implementing-typography-at-scale-the-journey-behind-the-screens"
+title = "Implementing typography at scale: the journey behind the screens"
+publishedAt = "2025-04-10"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/atlassian-engineering/faster-builds-when-removing-barrel-files"
+title = "How We Achieved 75% Faster Builds by Removing Barrel Files"
+publishedAt = "2025-06-26"
+
 [[abc]]
 id = "https://www.abc.net.au/digital-product/composing-components/102183756"
 title = "Composing Components"
@@ -948,6 +958,11 @@ id = "https://careersatdoordash.com/blog/doordashs-lessons-on-improving-performa
 title = "DoorDash’s Lessons on Improving Performance on High-Traffic Web Pages"
 publishedAt = "2022-08-30"
 
+[[doordash]]
+id = "https://careersatdoordash.com/blog/revamping-dasher-faq-hub-through-server-driven-content-and-webview/"
+title = "Revamping Dasher FAQ Hub Through Server-Driven Content and WebView"
+publishedAt = "2023-10-24"
+
 [[dropbox]]
 id = "https://blogs.dropbox.com/tech/2011/04/hello-world/"
 title = "Translating Dropbox"
@@ -1037,6 +1052,26 @@ publishedAt = "2020-05-13"
 id = "https://dropbox.tech/application/jquery-to-react--how-we-rewrote-the-hellosign-editor"
 title = "JQuery to React: How we rewrote the HelloSign Editor"
 publishedAt = "2020-09-30"
+
+[[dropbox]]
+id = "https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent"
+title = "How we reduced the size of our JavaScript bundles by 33%"
+publishedAt = "2023-08-16"
+
+[[dropbox]]
+id = "https://dropbox.tech/frontend/measuring-ttvc-web-performance-metric-open-source-library"
+title = "We’re using TTVC to measure performance on the web—and now you can too"
+publishedAt = "2022-08-31"
+
+[[dropbox]]
+id = "https://dropbox.tech/frontend/edison-webserver-a-faster-more-powerful-dropbox-on-the-web"
+title = "How Edison is helping us build a faster, more powerful Dropbox on the web"
+publishedAt = "2023-04-11"
+
+[[dropbox]]
+id = "https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search"
+title = "Investigating the impact of HTTP3 on network latency for search"
+publishedAt = "2023-05-16"
 
 [[ebay]]
 id = "https://tech.ebayinc.com/engineering/data-uri-sprites/"
@@ -1182,6 +1217,11 @@ publishedAt = "2020-04-15"
 id = "https://innovation.ebayinc.com/stories/rethink-modals-management-in-react/"
 title = "Rethink Modals Management in React"
 publishedAt = "2021-11-19"
+
+[[ebay]]
+id = "https://innovation.ebayinc.com/stories/introducing-an-accessibility-linter-for-marko-shortening-the-accessibility-testing-pipeline/"
+title = "Introducing an Accessibility Linter for Marko: Shortening the Accessibility Testing Pipeline"
+publishedAt = "2023-11-27"
 
 [[edgedb]]
 id = "https://www.edgedb.com/blog/an-approach-to-optimizing-typescript-type-checking-performance#the-next-generation-of-performance-tools"
@@ -4208,6 +4248,11 @@ id = "https://vercel.com/blog/how-vercel-adopted-microfrontends"
 title = "How Vercel adopted microfrontends"
 publishedAt = "2024-10-22"
 
+[[vercel]]
+id = "https://vercel.com/blog/migrating-grep-from-create-react-app-to-next-js"
+title = "Migrating Grep from Create React App to Next.js"
+publishedAt = "2025-04-14"
+
 [[walmartlabs]]
 id = "https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560"
 title = "React Native at WalmartLabs"
@@ -4408,6 +4453,46 @@ id = "https://engineering.wingify.com/posts/automated-heatmap-verification/"
 title = "Automated Heatmap Verification E2E using Selenium and Canvas"
 publishedAt = "2018-04-03"
 
+[[wingify]]
+id = "https://engineering.wingify.com/posts/how-we-writing-modern-javascript-with-angularjs-1-x/"
+title = "How we are writing modern Javascript with AngularJs"
+publishedAt = "2023-03-22"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/playwright-the-rightful-heir/"
+title = "Playwright – The Rightful Heir"
+publishedAt = "2022-09-21"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/Cypress-a-worthy-replacement-for-protractor/"
+title = "Cypress - A worthy replacement for Protractor?"
+publishedAt = "2022-03-24"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/handling-shadow-dom-in-protractor/"
+title = "Handling Shadow DOM in Protractor Tests"
+publishedAt = "2021-09-17"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/performance-improvements-in-vwo-smart-code/"
+title = "Performance improvements in VWO SmartCode"
+publishedAt = "2020-01-08"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/shift-to-atomic-css/"
+title = "Shift to Atomic CSS"
+publishedAt = "2018-08-31"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/demystifying-split-chunks-plugin/"
+title = "Demystifying Webpack 4 Split Chunks Plugin"
+publishedAt = "2018-08-10"
+
+[[wingify]]
+id = "https://engineering.wingify.com/posts/dom-manipulation-for-react-sites/"
+title = "VWO Editor: Seamless DOM Manipulations for React-based Websites"
+publishedAt = "2025-07-03"
+
 [[wix]]
 id = "https://www.wix.engineering/blog/taking-css-to-scale-a-pragmatic-approach"
 title = "Taking CSS To Scale: A Pragmatic Approach"
@@ -4443,6 +4528,11 @@ id = "https://medium.com/wix-ux/when-life-gives-you-lemons-write-better-error-me
 title = "When life gives you lemons, write better error messages"
 publishedAt = "2022-09-12"
 
+[[wix]]
+id = "https://www.wix.engineering/post/how-wix-applied-multi-threading-to-node-js-and-cut-thousands-of-ssr-pods-and-money"
+title = "How Wix Applied Multi-threading to Node.js and Cut Thousands of SSR Pods and Money"
+publishedAt = "2022-09-21"
+
 [[yelp]]
 id = "https://engineeringblog.yelp.com/2013/11/whoa-that-embedded-web-view-looks-hot-in-your-ios-app.html"
 title = "Whoa! That Embedded Web View Looks Hot in Your iOS App!"
@@ -4477,6 +4567,11 @@ publishedAt = "2022-07-20"
 id = "https://engineeringblog.yelp.com/2023/03/gondola-an-internal-paas-architecture-for-frontend-app-deployment.html"
 title = "Gondola: an internal PaaS architecture for frontend app deployment"
 publishedAt = "2023-03-03"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2024/03/chaos-yelps-unified-framework-for-server-driven-ui.html"
+title = "CHAOS: Yelp's Unified Framework for Server-Driven UI"
+publishedAt = "2024-03-14"
 
 [[ynab]]
 id = "https://dev.to/ynab/progressive-conversion-of-typescript-namespaces-to-modules-3f1j"
