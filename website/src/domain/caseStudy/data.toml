@@ -3633,6 +3633,11 @@ id = "https://developers.soundcloud.com/blog/playback-on-web-at-soundcloud"
 title = "Playback on Web at SoundCloud"
 publishedAt = "2019-05-03"
 
+[[soundcloud]]
+id = "https://developers.soundcloud.com/blog/open-sourcing-intervene"
+title = "Open Sourcing Intervene"
+publishedAt = "2020-05-05"
+
 [[spectrum]]
 id = "https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/"
 title = "Tech Choices I Regret at Spectrum"
