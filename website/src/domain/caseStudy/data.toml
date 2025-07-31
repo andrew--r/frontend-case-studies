@@ -1848,6 +1848,16 @@ id = "https://github.blog/engineering/user-experience/considerations-for-making-
 title = "Considerations for making a tree view component accessible"
 publishedAt = "2025-01-28"
 
+[[github]]
+id = "https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/"
+title = "Design system annotations, part 1: How accessibility gets left out of components"
+publishedAt = "2025-05-09"
+
+[[github]]
+id = "https://github.blog/engineering/user-experience/design-system-annotations-part-2-advanced-methods-of-annotating-components/"
+title = "Design system annotations, part 2: Advanced methods of annotating components"
+publishedAt = "2025-05-09"
+
 [[gitlab]]
 id = "https://youtu.be/ioogrvs2Ejc"
 title = "Why We Chose Vue.js"
