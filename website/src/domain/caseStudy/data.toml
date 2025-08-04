@@ -5128,3 +5128,18 @@ publishedAt = "2025-03-12"
 id = "https://sentry.engineering/blog/building-a-product-tour-in-react"
 title = "Building a Product Tour in React"
 publishedAt = "2025-04-11"
+
+[[mercedes-benz]]
+id = "https://www.mercedes-benz.io/blog/2022-02-15-running-multiple-versions-of-a-stencil-design-system-without-conflicts"
+title = "Running multiple versions of a stencil design system without conflicts"
+publishedAt = "2022-02-15"
+
+[[mercedes-benz]]
+id = "https://www.mercedes-benz.io/blog/2023-01-05-you-might-not-need-module-federation-orchestrate-your-microfrontends-at-runtime-with-import-maps"
+title = "You might not need module federation: orchestrate your microfrontends at runtime with import maps"
+publishedAt = "2023-01-05"
+
+[[mercedes-benz]]
+id = "https://www.mercedes-benz.io/blog/2025-05-16-how-can-modern-tooling-save-mercedes-benz-io-engineering-time"
+title = "How can modern tooling save mercedes-benz.io engineering time?"
+publishedAt = "2025-05-16"

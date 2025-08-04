@@ -726,3 +726,8 @@ name = "Hubspot"
 websiteUrl = "https://www.hubspot.com"
 blogUrl = "https://product.hubspot.com/blog/"
 rssUrl = "https://product.hubspot.com/blog/rss.xml"
+
+[mercedes-benz]
+name = "Mercedes-Benz"
+websiteUrl = "https://www.mercedes-benz.com"
+blogUrl = "https://www.mercedes-benz.io/blog"
