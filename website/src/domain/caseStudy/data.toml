@@ -3493,6 +3493,46 @@ id = "https://shopify.engineering/how-we-built-hydrogen"
 title = "How We Built Hydrogen: A React Framework for Building Custom Storefronts"
 publishedAt = "2022-06-22"
 
+[[shopify]]
+id = "https://shopify.engineering/internationalization-i18n-best-practices-front-end-developers"
+title = "Lessons From Linguistics: i18n Best Practices for Front-End Developers"
+publishedAt = "2023-03-16"
+
+[[shopify]]
+id = "https://shopify.engineering/supporting-passkeys-in-shop-authentication-flows"
+title = "Supporting Passkeys in Shop's Authentication Flows"
+publishedAt = "2023-03-24"
+
+[[shopify]]
+id = "https://shopify.engineering/react-redux-toolkit-migration"
+title = "How Migrating from Vanilla Redux to Redux Toolkit Improved State Management in Shopify POS"
+publishedAt = "2023-03-31"
+
+[[shopify]]
+id = "https://shopify.engineering/building-a-shopifyql-code-editor"
+title = "Building a ShopifyQL Code Editor"
+publishedAt = "2023-09-11"
+
+[[shopify]]
+id = "https://shopify.engineering/shipping-support-for-module-script-integrity-in-chrome-safari"
+title = "Shipping support for module script integrity in Chrome & Safari"
+publishedAt = "2024-08-02"
+
+[[shopify]]
+id = "https://shopify.engineering/mobilebridge-native-webviews"
+title = "Mobile Bridge: Making WebViews Feel Native"
+publishedAt = "2025-04-25"
+
+[[shopify]]
+id = "https://shopify.engineering/resilient-import-maps"
+title = "Resilient Import Maps - Better Theme Development and Beyond"
+publishedAt = "2025-05-28"
+
+[[shopify]]
+id = "https://shopify.engineering/remixing-admin"
+title = "Remixing Shopify's Admin: How We Made It 30% Faster and AI-Ready"
+publishedAt = "2025-06-30"
+
 [[skillshare]]
 id = "https://medium.com/skillshare-team/how-we-ditched-redux-for-mobx-a05442279a2b"
 title = "How We Ditched Redux for MobX"
