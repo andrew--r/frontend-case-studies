@@ -5143,3 +5143,13 @@ publishedAt = "2023-01-05"
 id = "https://www.mercedes-benz.io/blog/2025-05-16-how-can-modern-tooling-save-mercedes-benz-io-engineering-time"
 title = "How can modern tooling save mercedes-benz.io engineering time?"
 publishedAt = "2025-05-16"
+
+[[voidzero]]
+id = "https://voidzero.dev/posts/announcing-voidzero-inc"
+title = "Announcing VoidZero - Next Generation Toolchain for JavaScript"
+publishedAt = "2024-10-01"
+
+[[voidzero]]
+id = "https://www.youtube.com/watch?v=EKvvptbTx6k&list=PLqGQbXn_GDmnObDzgjUF4Krsfl6OUKxtp&index=2"
+title = "Vite and the Future of JavaScript Tooling"
+publishedAt = "2024-10-04"

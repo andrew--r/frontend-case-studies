@@ -731,3 +731,8 @@ rssUrl = "https://product.hubspot.com/blog/rss.xml"
 name = "Mercedes-Benz"
 websiteUrl = "https://www.mercedes-benz.com"
 blogUrl = "https://www.mercedes-benz.io/blog"
+
+[voidzero]
+name = "VoidZero"
+websiteUrl = "https://voidzero.dev/"
+blogUrl = "https://voidzero.dev/blog"
