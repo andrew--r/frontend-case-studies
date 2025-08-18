@@ -4548,6 +4548,11 @@ id = "https://engineering.wingify.com/posts/dom-manipulation-for-react-sites/"
 title = "VWO Editor: Seamless DOM Manipulations for React-based Websites"
 publishedAt = "2025-07-03"
 
+[[wingify]]
+id = "https://engineering.wingify.com/posts/ai-powered-translation-workflow/"
+title = "Breaking the Translation Bottleneck: How AI-Powered i18n Transformed Our Development Workflow"
+publishedAt = "2025-08-12"
+
 [[wix]]
 id = "https://www.wix.engineering/blog/taking-css-to-scale-a-pragmatic-approach"
 title = "Taking CSS To Scale: A Pragmatic Approach"
