@@ -736,3 +736,9 @@ blogUrl = "https://www.mercedes-benz.io/blog"
 name = "Patreon"
 websiteUrl = "https://www.patreon.com"
 blogUrl = "https://www.patreon.com/cw/engineering/posts"
+
+[calm]
+name = "Calm"
+websiteUrl = "https://www.calm.com"
+blogUrl = "https://blog.calm.com/engineering"
+rssUrl = "https://blog.calm.com/engineering?format=rss"

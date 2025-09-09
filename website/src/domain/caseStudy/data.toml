@@ -5158,3 +5158,18 @@ publishedAt = "2024-09-23"
 id = "https://www.patreon.com/posts/133137028"
 title = "4 Untranslatable Words Behind Patreon’s Internationalization Overhaul"
 publishedAt = "2025-07-03"
+
+[[calm]]
+id = "https://www.calm.com/blog/engineering/d49ac5cpg96haxlxlw8zmzzz2y98lc"
+title = "Internationalization With React-Intl"
+publishedAt = "2018-10-18"
+
+[[calm]]
+id = "https://www.calm.com/blog/engineering/using-ai-to-script-code-modifications"
+title = "Using AI to Script Code Modifications"
+publishedAt = "2025-01-22"
+
+[[calm]]
+id = "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-node-type-stripping"
+title = "How we migrated our Rush.js monorepo to Node type stripping"
+publishedAt = "2025-08-21"
