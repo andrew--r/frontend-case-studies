@@ -84,6 +84,10 @@ websiteUrl = "https://www.bloomberg.com/"
 name = "BuzzFeed"
 websiteUrl = "https://www.buzzfeed.com"
 
+[cabify]
+name = "Cabify"
+websiteUrl = "https://www.cabify.com/"
+
 [campaignmonitor]
 name = "Campaign Monitor"
 websiteUrl = "https://www.campaignmonitor.com/"
