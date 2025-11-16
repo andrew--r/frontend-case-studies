@@ -963,6 +963,11 @@ id = "https://careersatdoordash.com/blog/revamping-dasher-faq-hub-through-server
 title = "Revamping Dasher FAQ Hub Through Server-Driven Content and WebView"
 publishedAt = "2023-10-24"
 
+[[doordash]]
+id = "https://careersatdoordash.com/blog/how-doordash-slashed-web-developer-build-times/"
+title = "How DoorDash slashed web developer build times"
+publishedAt = "2025-10-20"
+
 [[dropbox]]
 id = "https://blogs.dropbox.com/tech/2011/04/hello-world/"
 title = "Translating Dropbox"
@@ -1313,6 +1318,11 @@ id = "https://www.etsy.com/codeascraft/etsys-journey-to-typescript"
 title = "Etsy’s Journey to TypeScript"
 publishedAt = "2021-11-08"
 
+[[etsy]]
+id = "https://www.etsy.com/codeascraft/search-prefetching-performance"
+title = "Improving performance by prefetching product pages from Etsy Search"
+publishedAt = "2025-10-29"
+
 [[evilmartians]]
 id = "https://evilmartians.com/chronicles/is-react-native-podium-ready"
 title = "Is React Native podium-ready?"
@@ -1522,6 +1532,11 @@ publishedAt = "2024-05-14"
 id = "https://engineering.fb.com/2024/10/02/android/react-at-meta-connect-2024/"
 title = "React at Meta Connect 2024"
 publishedAt = "2024-10-02"
+
+[[meta]]
+id = "https://engineering.fb.com/2025/11/11/web/stylex-a-styling-library-for-css-at-scale/"
+title = "StyleX: A Styling Library for CSS at Scale"
+publishedAt = "2025-11-11"
 
 [[farfetch]]
 id = "https://www.linkedin.com/pulse/need-speed-1-measuring-todays-web-performance-manuel-garcia/"
@@ -2057,6 +2072,11 @@ publishedAt = "2022-03-07"
 id = "https://www.grammarly.com/blog/engineering/signals-with-focal-library/"
 title = "Signals With @grammarly/focal"
 publishedAt = "2023-08-21"
+
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/reducing-text-input-lag/"
+title = "How We Reduced Text Input Lag to Improve Web Performance"
+publishedAt = "2025-02-12"
 
 [[gusto]]
 id = "https://engineering.gusto.com/solving-the-double-click-in-backbone-js-41452da08169"
@@ -2777,6 +2797,11 @@ publishedAt = "2023-08-24"
 id = "https://engineering.mixpanel.com/best-javascript-charting-libraries-72e30974fc88"
 title = "Best Javascript Charting Libraries"
 publishedAt = "2010-09-18"
+
+[[mixpanel]]
+id = "https://mixpanel.substack.com/p/building-heatmaps-at-scale"
+title = "Building Heatmaps at Scale"
+publishedAt = "2025-08-19"
 
 [[monzo]]
 id = "https://youtu.be/UXpY3-DlZ9c"
@@ -5118,6 +5143,11 @@ publishedAt = "2023-04-07"
 id = "https://product.hubspot.com/blog/treating-frontend-performance-as-a-feature"
 title = "How We Started Treating Frontend Performance as a Feature"
 publishedAt = "2020-01-22"
+
+[[hubspot]]
+id = "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library"
+title = "Moving Mountains: How We Migrated from Enzyme to React Testing Library"
+publishedAt = "2025-11-23"
 
 [[carousell]]
 id = "https://medium.com/carousell-insider/automated-ui-testing-for-carousell-web-a01e6f5b8faf"

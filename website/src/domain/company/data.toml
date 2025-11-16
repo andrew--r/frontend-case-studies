@@ -489,6 +489,7 @@ websiteUrl = "https://sentry.io"
 [shopify]
 name = "Shopify"
 websiteUrl = "https://shopify.com"
+blogUrl = "https://shopify.engineering"
 
 [skillshare]
 name = "Skillshare"
@@ -497,6 +498,7 @@ websiteUrl = "https://skillshare.com/"
 [slack]
 name = "Slack"
 websiteUrl = "https://slack.com"
+blogUrl = "https://slack.engineering"
 
 [snipcart]
 name = "Snipcart"
