@@ -3428,6 +3428,16 @@ id = "https://medium.com/revolut/the-fundamentals-of-web-development-at-revolut-
 title = "The fundamentals of web development at Revolut"
 publishedAt = "2021-01-04"
 
+[[revolut]]
+id = "https://medium.com/revolut/canvas-based-javascript-blur-detection-b92ab1075acf"
+title = "Canvas-based JavaScript Blur detection"
+publishedAt = "2024-01-22"
+
+[[revolut]]
+id = "https://medium.com/revolut/building-the-web-that-moves-money-inside-web-engineering-at-revolut-3dd4fb78fbfa"
+title = "Building the Web that Moves Money: inside Web engineering at Revolut"
+publishedAt = "2025-10-16"
+
 [[roompact]]
 id = "https://charukiewi.cz/posts/elm/"
 title = "Elm In Production: 25,000 Lines Later"
