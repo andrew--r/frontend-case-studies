@@ -5213,3 +5213,8 @@ publishedAt = "2025-01-22"
 id = "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-node-type-stripping"
 title = "How we migrated our Rush.js monorepo to Node type stripping"
 publishedAt = "2025-08-21"
+
+[[cabify]]
+id = "https://tech.cabify.com/blog/engineering/data-driven-help-in-app-optimization"
+title = "How we improved our web view performance using a data-driven approach"
+publishedAt = "2025-10-27"
