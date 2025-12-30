@@ -5213,3 +5213,28 @@ publishedAt = "2025-01-22"
 id = "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-node-type-stripping"
 title = "How we migrated our Rush.js monorepo to Node type stripping"
 publishedAt = "2025-08-21"
+
+[[framer]]
+id = "https://www.framer.com/blog/fit-text-feature/"
+title = "Advanced responsive typography: technical implementation of Fit Text"
+publishedAt = "2023-05-30"
+
+[[framer]]
+id = "https://www.framer.com/blog/introducing-avif-support/"
+title = "How Framer does AVIF"
+publishedAt = "2024-05-30"
+
+[[framer]]
+id = "https://www.framer.com/blog/sites-interactive-faster/"
+title = "Sites now become interactive 50% faster"
+publishedAt = "2024-11-08"
+
+[[framer]]
+id = "https://www.framer.com/blog/react-code-boundaries/"
+title = "Rabbit hole of React error handling"
+publishedAt = "2025-03-18"
+
+[[framer]]
+id = "https://www.framer.com/blog/framer-rolldown/"
+title = "Bundling at Framer: Rolldown for faster sites"
+publishedAt = "2025-11-20"

@@ -744,3 +744,8 @@ name = "Calm"
 websiteUrl = "https://www.calm.com"
 blogUrl = "https://blog.calm.com/engineering"
 rssUrl = "https://blog.calm.com/engineering?format=rss"
+
+[framer]
+name = "Framer"
+websiteUrl = "https://www.framer.com"
+blogUrl = "https://www.framer.com/blog/engineering"
