@@ -3823,6 +3823,11 @@ id = "https://stripe.com/blog/migrating-to-typescript"
 title = "Migrating millions of lines of code to TypeScript"
 publishedAt = "2022-05-20"
 
+[[stripe]]
+id = "https://stripe.com/blog/markdoc"
+title = "How Stripe builds interactive docs with Markdoc"
+publishedAt = "2022-09-13"
+
 [[sumup]]
 id = "https://medium.com/sumup-engineering/10-lessons-learned-building-sumups-design-system-577af292ae56"
 title = "10 lessons learned building SumUp’s design system"
