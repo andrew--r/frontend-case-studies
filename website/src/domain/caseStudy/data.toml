@@ -3838,6 +3838,11 @@ id = "https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/"
 title = "Why we switched from Yarn to pnpm"
 publishedAt = "2020-06-09"
 
+[[tailscale]]
+id = "https://tailscale.com/blog/heart-of-dark-mode"
+title = "Heart of dark mode: done, and still in progress"
+publishedAt = "2024-08-29"
+
 [[theguardian]]
 id = "https://www.theguardian.com/info/developer-blog/2016/dec/18/what-we-learnt-from-our-mistakes-in-2016"
 title = "What we learnt from our mistakes in 2016"

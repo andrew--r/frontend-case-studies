@@ -536,6 +536,12 @@ websiteUrl = "https://superhuman.com"
 name = "TakeShape"
 websiteUrl = "https://www.takeshape.io"
 
+[tailscale]
+name = "Tailscale"
+websiteUrl = "https://tailscale.com"
+blogUrl = "https://tailscale.com/blog"
+rssUrl = "https://tailscale.com/blog/index.xml"
+
 [theguardian]
 name = "The Guardian"
 websiteUrl = "https://www.theguardian.com/"
