@@ -3584,8 +3584,18 @@ title = "How We Ditched Redux for MobX"
 publishedAt = "2018-07-02"
 
 [[slack]]
+id = "https://slack.engineering/build-better-software-to-build-software-better/"
+title = "Build better software to build software better"
+publishedAt = "2025-11-06"
+
+[[slack]]
+id = "https://slack.engineering/speedup-e2e-testing/"
+title = "Optimizing Our E2E Pipeline"
+publishedAt = "2025-04-14"
+
+[[slack]]
 id = "https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb"
-title = "Reducing Slack’s memory footprint"
+title = "Reducing Slack's memory footprint"
 publishedAt = "2017-03-03"
 
 [[slack]]
@@ -3932,6 +3942,11 @@ publishedAt = "2019-02-08"
 id = "https://tech.xogrp.com/react-native-at-the-knot-a-designers-perspective-d3d3fe41ada1"
 title = "React Native @ The Knot: A Designer’s Perspective"
 publishedAt = "2019-02-13"
+
+[[nytimes]]
+id = "https://open.nytimes.com/how-the-new-york-times-is-scaling-unit-test-coverage-using-ai-tools-fa796bf9b8d2"
+title = "How The New York Times is scaling Unit Test Coverage using AI Tools"
+publishedAt = "2026-01-13"
 
 [[nytimes]]
 id = "https://open.nytimes.com/the-technology-behind-the-nytimes-com-redesign-3d3d3da70b9c"
