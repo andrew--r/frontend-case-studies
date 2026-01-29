@@ -2443,6 +2443,16 @@ id = "https://techblog.lycorp.co.jp/en/20231005a"
 title = "How We Rearchitected A/B Testing at LINE NEWS"
 publishedAt = "2023-10-05"
 
+[[line]]
+id = "https://techblog.lycorp.co.jp/en/20250321a"
+title = "State of LY Frontend 2024 report: Unveiling LY Corporation's frontend technology"
+publishedAt = "2025-03-21"
+
+[[line]]
+id = "https://techblog.lycorp.co.jp/en/improve-development-experience-with-flutter-web"
+title = "Improving the product development environment using Flutter Web"
+publishedAt = "2025-05-21"
+
 [[linkedin]]
 id = "https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith"
 title = "Bringing a Modern Javascript Build Pipeline to LinkedIn"
@@ -3832,6 +3842,21 @@ publishedAt = "2022-09-13"
 id = "https://medium.com/sumup-engineering/10-lessons-learned-building-sumups-design-system-577af292ae56"
 title = "10 lessons learned building SumUp’s design system"
 publishedAt = "2019-08-15"
+
+[[superhuman]]
+id = "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/"
+title = "How to build a remarkable command palette"
+publishedAt = "2021-10-12"
+
+[[superhuman]]
+id = "https://blog.superhuman.com/how-to-eliminate-regular-expression-denial-of-service/"
+title = "How to eliminate regular expression denial of service"
+publishedAt = "2020-02-19"
+
+[[superhuman]]
+id = "https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps/"
+title = "Performance metrics for blazingly fast web apps"
+publishedAt = "2019-09-24"
 
 [[superhuman]]
 id = "https://blog.superhuman.com/delightful-search-more-than-meets-the-eye-d3fa2e3ef3b6"
