@@ -3863,6 +3863,36 @@ id = "https://www.theguardian.com/info/2019/dec/08/migrating-the-guardian-websit
 title = "Migrating the Guardian website to React"
 publishedAt = "2019-12-08"
 
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2019-dec-22-async-failure-handling-in-typescript.html"
+title = "Async Failure handling in Typescript"
+publishedAt = "2019-12-22"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2021-jan-26-how-we-made-typerighter-the-guardians-style-guide-checker.html"
+title = "How we made Typerighter, the Guardian's style guide checker"
+publishedAt = "2021-01-26"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2022-mar-25-react-islands-on-theguardiancom.html"
+title = "React islands on theguardian.com"
+publishedAt = "2022-03-25"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2022-oct-06-how-we-built-the-guardians-tor-onion-service.html"
+title = "How we built the Guardian's Tor Onion service"
+publishedAt = "2022-10-06"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2023-dec-11-making-typerighter-work-harder-engineering-blog.html"
+title = "Making Typerighter work harder"
+publishedAt = "2023-12-11"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-article-2024-jul-26-parsing-the-merit-of-strictly-typed-json.html"
+title = "Parsing: the merit of strictly typed JSON"
+publishedAt = "2024-07-26"
+
 [[theknotww]]
 id = "https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571"
 title = "Rebuilding the Guest List Manager with React + MobX at The Knot"
