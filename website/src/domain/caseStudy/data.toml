@@ -1323,6 +1323,61 @@ id = "https://www.etsy.com/codeascraft/search-prefetching-performance"
 title = "Improving performance by prefetching product pages from Etsy Search"
 publishedAt = "2025-10-29"
 
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/building-elbow-arrows-part-two"
+title = "Building Elbow Arrows in Excalidraw (Part 2)"
+publishedAt = "2025-12-18"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/building-elbow-arrows-part-one"
+title = "Building Elbow Arrows in Excalidraw (Part 1)"
+publishedAt = "2025-10-06"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/excalidraw-soc2"
+title = "Excalidraw+ is SOC 2 compliant"
+publishedAt = "2025-06-18"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/adding-hand-drawn-font-for-chinese-japanese-korean"
+title = "Adding hand-drawn font for Chinese, Japanese and Korean"
+publishedAt = "2024-11-07"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/redesigning-editor-api"
+title = "Rethinking the Component API"
+publishedAt = "2023-01-13"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/excalidraw-and-fugu"
+title = "Excalidraw and Fugu: Improving Core User Journeys"
+publishedAt = "2021-05-21"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/deprecating-excalidraw-electron"
+title = "Deprecating Excalidraw Electron in favor of the Web version"
+publishedAt = "2020-12-17"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/browser-fs-access"
+title = "Reading and writing files and directories with the browser-fs-access library"
+publishedAt = "2020-12-09"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/enabling-translations"
+title = "Enabling Translations"
+publishedAt = "2020-04-16"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/building-excalidraw-p2p-collaboration-feature"
+title = "Building Excalidraw's P2P Collaboration Feature"
+publishedAt = "2020-03-29"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/end-to-end-encryption"
+title = "End-to-End Encryption in the Browser"
+publishedAt = "2020-03-21"
+
 [[evilmartians]]
 id = "https://evilmartians.com/chronicles/is-react-native-podium-ready"
 title = "Is React Native podium-ready?"

@@ -174,6 +174,11 @@ websiteUrl = "https://www.ele.me"
 name = "Etsy"
 websiteUrl = "https://www.etsy.com"
 
+[excalidraw]
+name = "Excalidraw"
+websiteUrl = "https://excalidraw.com"
+blogUrl = "https://plus.excalidraw.com/blog"
+
 [evilmartians]
 name = "Evil Martians"
 websiteUrl = "https://evilmartians.com/"
