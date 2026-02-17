@@ -139,6 +139,7 @@ Articles like “Building a simple todo list with [framework or technology name]
   - [stripe](#stripe)
   - [SumUp](#sumup)
   - [Superhuman](#superhuman)
+  - [Stimatckey](#stimatckey)
   - [TakeShape](#takeshape)
   - [The Guardian](#the-guardian)
   - [The Knot Worldwide](#the-knot-worldwide)
@@ -1222,6 +1223,10 @@ Articles like “Building a simple todo list with [framework or technology name]
 ### [Superhuman](https://superhuman.com)
 
 - [Delightful search: more than meets the eye](https://blog.superhuman.com/delightful-search-more-than-meets-the-eye-d3fa2e3ef3b6) (May 5, 2017)
+
+### [Stimatckey](https://www.steimatzky.co.il/)
+
+- [Analyzing Core web vitals: A Case Study](https://www.liranify.com/posts/case-study-stimatckey) (Jul 13, 2023)
 
 ### [TakeShape](https://www.takeshape.io)
 
