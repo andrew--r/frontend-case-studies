@@ -798,6 +798,16 @@ id = "https://blog.cloudflare.com/dark-mode/"
 title = "Dark Mode for the Cloudflare Dashboard"
 publishedAt = "2021-09-29"
 
+[[cloudflare]]
+id = "https://blog.cloudflare.com/cloudflare-radar-localization-journey/"
+title = "Internationalization and localization: bringing Cloudflare Radar to a global audience"
+publishedAt = "2024-12-16"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/vinext/"
+title = "How we rebuilt Next.js with AI in one week"
+publishedAt = "2026-02-24"
+
 [[cloudfour]]
 id = "https://cloudfour.com/thinks/all-mixed-up-isomorphic-sorting-gone-wrong/"
 title = "All Mixed Up: Isomorphic Sorting Gone Wrong"
