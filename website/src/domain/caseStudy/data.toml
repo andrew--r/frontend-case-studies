@@ -808,6 +808,11 @@ id = "https://blog.cloudflare.com/vinext/"
 title = "How we rebuilt Next.js with AI in one week"
 publishedAt = "2026-02-24"
 
+[[cloudflare]]
+id = "https://blog.cloudflare.com/workflow-diagrams/"
+title = "How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams"
+publishedAt = "2026-03-27"
+
 [[cloudfour]]
 id = "https://cloudfour.com/thinks/all-mixed-up-isomorphic-sorting-gone-wrong/"
 title = "All Mixed Up: Isomorphic Sorting Gone Wrong"
@@ -2262,6 +2267,36 @@ publishedAt = "2019-02-13"
 id = "https://medium.com/insider-inc-engineering/delightful-ways-to-write-reusable-css-using-subclasses-903e90c9cf87"
 title = "Delightful ways to write reusable CSS using subclasses"
 publishedAt = "March 1 , 2019"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit"
+title = "Building a real-time websocket app using SvelteKit"
+publishedAt = "2022-02-22"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/building-educational-typescript-tooling"
+title = "Building educational TypeScript tooling"
+publishedAt = "2022-09-28"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production"
+title = "5 Lessons Learned From Taking Next.js App Router to Production"
+publishedAt = "2023-05-05"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/migrating-from-vite-to-nextjs"
+title = "Migrating from Vite to Next.js"
+publishedAt = "2023-07-20"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/migrating-off-nextjs-tanstack-start"
+title = "Reducing local dev time by 83%: Why we migrated off Next.js"
+publishedAt = "2026-01-30"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/typescript-types-as-api"
+title = "Typescript For Apps Vs Typescript For SDKs"
+publishedAt = "2026-03-13"
 
 [[instagram]]
 id = "https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7"
@@ -4303,6 +4338,11 @@ id = "https://tech.trivago.com/post/2023-09-27-end-to-end-tests-retry-strategies
 title = "End-to-end tests retry strategies"
 publishedAt = "2023-09-27"
 
+[[trivago]]
+id = "https://tech.trivago.com/post/2026-03-13-from-a-long-list-to-a-clear-signal-baseline-driven-accessibility-reporting"
+title = "From a long list to a clear signal: baseline-driven accessibility reporting"
+publishedAt = "2026-03-13"
+
 [[tumblr]]
 id = "https://javascript.tumblr.com/post/139610473242/moving-things-out-of-critical-rendering-path"
 title = "Moving things out of critical rendering path"
@@ -5343,6 +5383,11 @@ publishedAt = "2024-09-23"
 id = "https://www.patreon.com/posts/133137028"
 title = "4 Untranslatable Words Behind Patreon’s Internationalization Overhaul"
 publishedAt = "2025-07-03"
+
+[[patreon]]
+id = "https://www.patreon.com/posts/seven-years-to-typescript-152144830"
+title = "Seven Years to TypeScript: Migrating 11,000 Files at Patreon"
+publishedAt = "2026-03-03"
 
 [[calm]]
 id = "https://www.calm.com/blog/engineering/d49ac5cpg96haxlxlw8zmzzz2y98lc"

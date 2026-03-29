@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.patreon.com)",
+      "WebFetch(domain:tech.trivago.com)",
+      "WebFetch(domain:blog.cloudflare.com)",
+      "WebFetch(domain:www.inngest.com)"
+    ]
+  }
+}

@@ -284,6 +284,12 @@ websiteUrl = "https://infinite.red/"
 name = "Insider Inc."
 websiteUrl = "https://www.insider-inc.com/"
 
+[inngest]
+name = "Inngest"
+websiteUrl = "https://www.inngest.com"
+blogUrl = "https://www.inngest.com/blog"
+rssUrl = "https://www.inngest.com/api/rss.xml"
+
 [instagram]
 name = "Instagram"
 websiteUrl = "https://www.instagram.com/"
