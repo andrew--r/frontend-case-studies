@@ -2743,6 +2743,11 @@ id = "https://hacks.mozilla.org/2019/02/refactoring-mdn-macros-with-async-await-
 title = "Refactoring MDN macros with async, await, and Object.freeze()"
 publishedAt = "2019-02-07"
 
+[[mdn]]
+id = "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/"
+title = "Under the hood of MDN's new frontend"
+publishedAt = "2026-04-08"
+
 [[medium]]
 id = "https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480"
 title = "Why ContentEditable is Terrible"
