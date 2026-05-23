@@ -306,6 +306,12 @@ websiteUrl = "https://www.intuit.com"
 name = "InVision"
 websiteUrl = "https://www.invisionapp.com"
 
+[janestreet]
+name = "Jane Street"
+websiteUrl = "https://www.janestreet.com/"
+blogUrl = "https://blog.janestreet.com"
+rssUrl = "https://blog.janestreet.com/feed.xml"
+
 [khanacademy]
 name = "Khan Academy"
 websiteUrl = "http://khanacademy.org/"

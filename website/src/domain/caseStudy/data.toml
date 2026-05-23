@@ -2388,6 +2388,36 @@ id = "https://web.archive.org/web/20240930154803/https://engineering.invisionapp
 title = "Building the inspect measurement engine"
 publishedAt = "2019-07-17"
 
+[[janestreet]]
+id = "https://blog.janestreet.com/incrementality-and-the-web/"
+title = "Incremental computation and the web"
+publishedAt = "2016-01-30"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/self-adjusting-dom/"
+title = "Self Adjusting DOM"
+publishedAt = "2016-02-06"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/self-adjusting-dom-and-diffable-data/"
+title = "Self Adjusting DOM and Diffable Data"
+publishedAt = "2016-02-10"
+
+[[janestreet]]
+id = "https://www.janestreet.com/tech-talks/intro-to-incr-dom/"
+title = "Introduction to Incr dom: Writing Dynamic Web Apps in OCaml"
+publishedAt = "2018-08-24"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/chrome-extensions-finding-the-missing-proof/"
+title = "Chrome extensions: Finding the missing proof"
+publishedAt = "2020-04-17"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/"
+title = "I design with Claude more than Figma now"
+publishedAt = "2026-02-05"
+
 [[khanacademy]]
 id = "https://blog.khanacademy.org/babel-in-khan-academys-i18n-toolchain/"
 title = "Babel in Khan Academy's i18n Toolchain"
