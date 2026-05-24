@@ -3443,6 +3443,16 @@ id = "https://www.quora.com/q/quoraengineering/Choosing-Quora-s-GraphQL-client"
 title = "Choosing Quora’s GraphQL client"
 publishedAt = "2020-07-22"
 
+[[railway]]
+id = "https://blog.railway.com/p/moving-railways-frontend-off-nextjs"
+title = "Moving Railway's Frontend Off Next.js"
+publishedAt = "2026-04-03"
+
+[[railway]]
+id = "https://blog.railway.com/p/twin-macro-tailwind-migration"
+title = "Why We Ripped Twin out of 400+ Components"
+publishedAt = "2023-05-04"
+
 [[reagroup]]
 id = "https://www.rea-group.com/about-us/news-and-insights/blog/loading-google-maps-with-requirejs/"
 title = "Loading Google Maps with RequireJS"

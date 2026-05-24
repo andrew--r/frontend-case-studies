@@ -463,6 +463,12 @@ websiteUrl = "https://quizlet.com/"
 name = "Quora"
 websiteUrl = "https://www.quora.com/"
 
+[railway]
+name = "Railway"
+websiteUrl = "https://railway.com"
+blogUrl = "https://blog.railway.com/engineering"
+rssUrl = "https://blog.railway.com/rss.xml"
+
 [reagroup]
 name = "REA Group"
 websiteUrl = "https://www.rea-group.com/"
