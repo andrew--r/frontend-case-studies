@@ -983,6 +983,11 @@ id = "https://careersatdoordash.com/blog/how-doordash-slashed-web-developer-buil
 title = "How DoorDash slashed web developer build times"
 publishedAt = "2025-10-20"
 
+[[doordash]]
+id = "https://careersatdoordash.com/blog/doordash-supporting-passkeys-to-create-a-secure-and-seamless-login-experience/"
+title = "Supporting passkeys to create a secure and seamless login experience"
+publishedAt = "2026-04-15"
+
 [[dropbox]]
 id = "https://blogs.dropbox.com/tech/2011/04/hello-world/"
 title = "Translating Dropbox"
@@ -4887,6 +4892,16 @@ publishedAt = "2023-03-03"
 id = "https://engineeringblog.yelp.com/2024/03/chaos-yelps-unified-framework-for-server-driven-ui.html"
 title = "CHAOS: Yelp's Unified Framework for Server-Driven UI"
 publishedAt = "2024-03-14"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2026/04/keeping-server-driven-ui-consistent-across-platforms.html"
+title = "How Yelp Keeps Server-Driven UI Consistent Across Four Platforms"
+publishedAt = "2026-04-22"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2026/05/optimizing-our-build-times-by-migrating-from-webpack-to-rspack.html"
+title = "Optimizing Our Build Times by Migrating from Webpack to Rspack"
+publishedAt = "2026-05-20"
 
 [[ynab]]
 id = "https://dev.to/ynab/progressive-conversion-of-typescript-namespaces-to-modules-3f1j"
