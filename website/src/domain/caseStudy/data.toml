@@ -1403,6 +1403,26 @@ id = "https://evilmartians.com/chronicles/is-react-native-podium-ready"
 title = "Is React Native podium-ready?"
 publishedAt = "2018-05-14"
 
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/how-to-make-complex-chrome-plugins-a-zero-gravity-guide"
+title = "How to make complex Chrome extensions: a zero gravity guide"
+publishedAt = "2024-07-16"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms"
+title = "Making your site visible to LLMs: 6 techniques that work, 8 that don't"
+publishedAt = "2026-04-15"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/from-react-to-native-web-with-nanotags-a-migration-that-saved-100kb"
+title = "From React to native web with nanotags: a migration that saved 100 KB"
+publishedAt = "2026-05-06"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/600-million-people-write-right-to-left-2-fixes-your-app-needs"
+title = "600+ million people write right-to-left: 2 fixes your app needs"
+publishedAt = "2026-05-18"
+
 [[expediagroup]]
 id = "https://medium.com/expedia-group-tech/a-b-testing-and-the-cloak-of-invisibility-a-better-way-to-scope-variant-code-in-your-react-app-902a68a0c2c3"
 title = "Scoping A/B Test Code in React"
@@ -2302,6 +2322,11 @@ publishedAt = "2026-01-30"
 id = "https://www.inngest.com/blog/typescript-types-as-api"
 title = "Typescript For Apps Vs Typescript For SDKs"
 publishedAt = "2026-03-13"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/hanging-promises-for-control-flow"
+title = "You can't cancel a JavaScript promise (except sometimes you can)"
+publishedAt = "2026-04-07"
 
 [[instagram]]
 id = "https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7"
