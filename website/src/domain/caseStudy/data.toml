@@ -708,6 +708,11 @@ id = "https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4"
 title = "How to test accessibility of emails"
 publishedAt = "2018-06-05"
 
+[[calibre]]
+id = "https://calibreapp.com/blog/building-our-beloved-hex-map"
+title = "Delivering a dynamic hexagonal world map in just 10kb"
+publishedAt = "2026-04-22"
+
 [[carousell]]
 id = "https://medium.com/carousell-insider/how-we-made-carousells-mobile-web-experience-3x-faster-bbb3be93e006"
 title = "How we made Carousell’s mobile web experience 3x faster"
@@ -3397,6 +3402,16 @@ publishedAt = "2018-02-01"
 id = "https://blog.plaid.com/securing-webviews-with-chrome-custom-tabs"
 title = "Securing WebViews with Chrome Custom Tabs"
 publishedAt = "2020-04-09"
+
+[[plaid]]
+id = "https://plaid.com/blog/handlebars-to-react-migration/"
+title = "How we migrated our website from Handlebars to React in 12 weeks"
+publishedAt = "2020-06-09"
+
+[[plaidinc]]
+id = "https://tech.plaid.co.jp/perf-server-build"
+title = "Achieving 87x Faster Server-Side Action Builds: Migrating from Rollup to Rolldown"
+publishedAt = "2025-08-25"
 
 [[producthunt]]
 id = "https://youtu.be/F38nRMktS9Q"

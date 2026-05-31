@@ -88,6 +88,12 @@ websiteUrl = "https://www.buzzfeed.com"
 name = "Campaign Monitor"
 websiteUrl = "https://www.campaignmonitor.com/"
 
+[calibre]
+name = "Calibre"
+websiteUrl = "https://calibreapp.com"
+blogUrl = "https://calibreapp.com/blog/category/inside-calibre"
+rssUrl = "https://calibreapp.com/blog/rss.xml"
+
 [carousell]
 name = "Carousell"
 websiteUrl = "https://carousell.com"
@@ -446,6 +452,12 @@ websiteUrl = "https://www.pivotaltracker.com"
 [plaid]
 name = "Plaid"
 websiteUrl = "https://plaid.com"
+
+[plaidinc]
+name = "PLAID, Inc."
+websiteUrl = "https://plaid.co.jp"
+blogUrl = "https://tech.plaid.co.jp"
+rssUrl = "https://tech.plaid.co.jp/rss.xml"
 
 [producthunt]
 name = "Product Hunt"
