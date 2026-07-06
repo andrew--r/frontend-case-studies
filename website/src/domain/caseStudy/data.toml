@@ -3413,6 +3413,11 @@ id = "https://tech.plaid.co.jp/perf-server-build"
 title = "Achieving 87x Faster Server-Side Action Builds: Migrating from Rollup to Rolldown"
 publishedAt = "2025-08-25"
 
+[[polar]]
+id = "https://polar.sh/blog/orbit-llm-safe-design-system"
+title = "Building an LLM safe design system"
+publishedAt = "2026-06-16"
+
 [[producthunt]]
 id = "https://youtu.be/F38nRMktS9Q"
 title = "React @ Product Hunt"

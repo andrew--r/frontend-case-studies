@@ -459,6 +459,11 @@ websiteUrl = "https://plaid.co.jp"
 blogUrl = "https://tech.plaid.co.jp"
 rssUrl = "https://tech.plaid.co.jp/rss.xml"
 
+[polar]
+name = "Polar"
+websiteUrl = "https://polar.sh"
+blogUrl = "https://polar.sh/blog"
+
 [producthunt]
 name = "Product Hunt"
 websiteUrl = "https://www.producthunt.com"
