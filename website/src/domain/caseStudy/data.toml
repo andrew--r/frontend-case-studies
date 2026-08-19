@@ -5533,3 +5533,68 @@ publishedAt = "2025-03-18"
 id = "https://www.framer.com/blog/framer-rolldown/"
 title = "Bundling at Framer: Rolldown for faster sites"
 publishedAt = "2025-11-20"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2026/squarespace-and-web-standards-how-we-helped-bring-html-video-and-audio-lazy-loading-to-todays-browsers"
+title = "Squarespace & Web Standards: How We Helped Bring HTML Video & Audio Lazy Loading to Today’s Browsers"
+publishedAt = "2026-03-30"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2022/developing-fluid-engine"
+title = "Developing Fluid Engine"
+publishedAt = "2022-08-31"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2022/a-better-way-to-upload-images"
+title = "A Better Way to Upload Images"
+publishedAt = "2022-08-10"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw"
+title = "How we use WebGL at Squarespace"
+publishedAt = "2022-04-08"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2021/collaborating-to-build-an-uncertain-layout"
+title = "Collaborating to Build an Uncertain Layout"
+publishedAt = "2021-09-22"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2021/synchronizing-application-state-across-browser-frames"
+title = "Synchronizing Application State Across Browser Frames"
+publishedAt = "2021-07-29"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2019/building-the-squarespace-image-filters"
+title = "Building the Squarespace Image Filters"
+publishedAt = "2019-03-28"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations"
+title = "Building a System for Front-End Translations"
+publishedAt = "2018-08-15"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2018/continuous-localization-at-squarespace"
+title = "Continuous Localization at Squarespace"
+publishedAt = "2018-03-05"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-ii"
+title = "UI Testing at Squarespace: Part II"
+publishedAt = "2017-10-18"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-i"
+title = "UI Testing at Squarespace: Part I"
+publishedAt = "2017-10-04"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2016/forum-fronting"
+title = "Forum Fronting"
+publishedAt = "2016-11-23"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2016/turbocharging-our-ui-tests"
+title = "Turbocharging Our UI Tests"
+publishedAt = "2016-09-01"
