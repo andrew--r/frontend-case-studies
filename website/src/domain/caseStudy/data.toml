@@ -149,6 +149,16 @@ title = "Using NetInfo API to Improve Algolia’s JavaScript Client"
 publishedAt = "2019-07-30"
 
 [[allegro]]
+id = "https://blog.allegro.tech/2026/08/how-we-achieved-independent-deployments-in-a-micro-frontend-architecture.html"
+title = "How we achieved independent deployments in a micro-frontend architecture"
+publishedAt = "2026-08-03"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html"
+title = "Battle-testing Lynx at Allegro"
+publishedAt = "2026-02-05"
+
+[[allegro]]
 id = "https://blog.allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html"
 title = "Managing Frontend in the Microservices Architecture"
 publishedAt = "2016-03-12"
@@ -407,6 +417,46 @@ publishedAt = "2016-07-29"
 id = "https://tech.nextroll.com/blog/frontend/2017/08/29/how-to-run-a-front-end-infrastructure-team.html"
 title = "How to Run a Front-End Infrastructure Team"
 publishedAt = "2017-08-29"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/ai-at-work/giving-ai-agents-design-system-context-from-the-terminal-what-we-learned-building-a-cli"
+title = "Giving AI agents design system context from the terminal: what we learned building a CLI"
+publishedAt = "2026-09-16"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/building-real-time-pwa-atlassians-own-stack"
+title = "Building a real-time PWA on Atlassian’s own stack"
+publishedAt = "2026-08-06"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/atlassians-design-md-is-here-what-we-learned-testing-portable-design-context-in-practice"
+title = "Atlassian’s DESIGN.md is here: what we learned testing portable design context in practice"
+publishedAt = "2026-06-15"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/streaming-server-side-rendering-in-confluence"
+title = "Streaming Server-Side Rendering in Confluence"
+publishedAt = "2026-04-15"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/development/rovo-dev-frontend-platform-engineering"
+title = "Rovo Dev in Frontend Platform Engineering – AI for small tasks, AI for big tasks"
+publishedAt = "2026-04-15"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/rovo-creation-canvas"
+title = "Creating with Rovo: How We Built a Collaborative AI Canvas"
+publishedAt = "2026-04-06"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/under-the-hood-of-confluence-race-mode"
+title = "Under the Hood of Confluence Race Mode"
+publishedAt = "2025-12-01"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/behind-the-screens-building-atlassians-new-icon-system"
+title = "Behind the screens: Building Atlassian’s new icon system"
+publishedAt = "2025-09-09"
 
 [[atlassian]]
 id = "https://www.atlassian.com/engineering/trellisheets-how-we-spin-up-css-for-trello-sites-with-ease"
@@ -5508,6 +5558,11 @@ publishedAt = "2025-01-22"
 id = "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-node-type-stripping"
 title = "How we migrated our Rush.js monorepo to Node type stripping"
 publishedAt = "2025-08-21"
+
+[[framer]]
+id = "https://www.framer.com/blog/selecting-the-unselectable/"
+title = "Selecting the unselectable, how we rebuilt block selection in Framer’s rich-text editor"
+publishedAt = "2026-07-21"
 
 [[framer]]
 id = "https://www.framer.com/blog/fit-text-feature/"
