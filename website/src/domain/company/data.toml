@@ -112,6 +112,11 @@ websiteUrl = "https://www.checkbot.io/"
 name = "Clearleft"
 websiteUrl = "https://clearleft.com"
 
+[clickhouse]
+name = "ClickHouse"
+websiteUrl = "https://clickhouse.com"
+blogUrl = "https://clickhouse.com/blog"
+
 [cloudflare]
 name = "Cloudflare"
 websiteUrl = "https://www.cloudflare.com/"

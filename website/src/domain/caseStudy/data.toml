@@ -808,6 +808,11 @@ id = "https://clearleft.com/posts/a-framework-for-web-performance"
 title = "A framework for web performance"
 publishedAt = "2018-09-20"
 
+[[clickhouse]]
+id = "https://clickhouse.com/blog/observability-ui-is-dead-whats-next"
+title = "The observability UI as we know it is dead. So what comes next?"
+publishedAt = "2026-11-09"
+
 [[cloudflare]]
 id = "https://blog.cloudflare.com/how-we-built-origin-ca-web-crypto/"
 title = "How we built Origin CA: Web Crypto"
