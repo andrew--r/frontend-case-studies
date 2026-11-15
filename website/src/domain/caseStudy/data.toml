@@ -5658,3 +5658,123 @@ publishedAt = "2016-11-23"
 id = "https://engineering.squarespace.com/blog/2016/turbocharging-our-ui-tests"
 title = "Turbocharging Our UI Tests"
 publishedAt = "2016-09-01"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/sheet"
+title = "Scrolling is All You Need: Building a Swipeable Sheet"
+publishedAt = "2026-10-08"
+
+[[adobe]]
+id = "https://blog.developer.adobe.com/en/publish/2026/10/build-time-wasm-module-splitting-ship-more-features-without-growing-your-startup-bundle"
+title = "Build-Time Wasm Module Splitting: Ship More Features Without Growing Your Startup Bundle"
+publishedAt = "2026-10-01"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/rtl-date-time"
+title = "Improving Internationalization Support in Our Date and Time Components"
+publishedAt = "2025-06-06"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/accessible-color-descriptions"
+title = "Accessible Color Descriptions for Improved Color Pickers"
+publishedAt = "2024-10-02"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/creating-a-pointer-friendly-submenu-experience"
+title = "Creating a pointer-friendly submenu experience"
+publishedAt = "2024-05-01"
+
+[[adobe]]
+id = "https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a"
+title = "Photoshop is now on the web!"
+publishedAt = "2023-09-30"
+
+[[adobe]]
+id = "https://medium.com/adobetech/split-javascript-packages-chunk-based-on-locale-a-step-by-step-guide-1a98700d65e0"
+title = "Split JavaScript Packages’ Chunk Based on Locale: A Step-by-Step Guide"
+publishedAt = "2023-08-02"
+
+[[adobe]]
+id = "https://medium.com/adobetech/stop-loading-all-locale-strings-a-step-by-step-guide-to-reducing-bundle-size-with-webpack-d052dece4693"
+title = "Stop Loading All Locale Strings: A Step-by-Step Guide to Reducing Bundle Size with Webpack"
+publishedAt = "2023-06-29"
+
+[[adobe]]
+id = "https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory"
+title = "How Photoshop solved working with files larger than can fit into memory"
+publishedAt = "2023-06-05"
+
+[[adobe]]
+id = "https://blog.tensorflow.org/2023/03/how-adobe-used-web-ml-with-tensorflowjs-to-enhance-photoshop-for-web.html"
+title = "How Adobe used Web ML with TensorFlow.js to enhance Photoshop for web"
+publishedAt = "2023-03-30"
+
+[[adobe]]
+id = "https://medium.com/adobetech/improve-jest-runner-performance-a8f56708ba94"
+title = "Improve Jest Runner Performance"
+publishedAt = "2022-12-19"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/drag-and-drop"
+title = "Taming the dragon: Accessible drag and drop"
+publishedAt = "2022-11-16"
+
+[[adobe]]
+id = "https://medium.com/adobetech/transforming-a-huge-monolith-to-micro-frontends-5fdd4179c44f"
+title = "Transforming a Huge Monolith into Micro Frontends"
+publishedAt = "2022-10-26"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/date-and-time-pickers-for-all"
+title = "Date and Time Pickers for All"
+publishedAt = "2022-06-21"
+
+[[adobe]]
+id = "https://web.dev/articles/ps-on-the-web"
+title = "Photoshop's journey to the web"
+publishedAt = "2021-10-26"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-combobox"
+title = "Creating an accessible autocomplete experience"
+publishedAt = "2021-07-13"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/how-we-internationalized-our-numberfield"
+title = "How we internationalized our number field"
+publishedAt = "2021-05-05"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-button-part-3"
+title = "Building a Button Part 3: Keyboard Focus Behavior"
+publishedAt = "2020-09-09"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-button-part-2"
+title = "Building a Button Part 2: Hover Interactions"
+publishedAt = "2020-08-25"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-button-part-1"
+title = "Building a Button Part 1: Press Events"
+publishedAt = "2020-08-12"
+
+[[adobe]]
+id = "https://medium.com/adobetech/acrobat-on-the-web-powered-by-webassembly-782385e4947e"
+title = "Introducing Acrobat on the Web, Powered by WebAssembly"
+publishedAt = "2020-02-21"
+
+[[adobe]]
+id = "https://medium.com/adobetech/an-http-caching-strategy-for-static-assets-testing-the-implementation-b142d97176bf"
+title = "An HTTP Caching Strategy for Static Assets: Testing the Implementation"
+publishedAt = "2019-02-21"
+
+[[adobe]]
+id = "https://medium.com/adobetech/an-http-caching-strategy-for-static-assets-configuring-the-server-1192452ce06a"
+title = "An HTTP Caching Strategy for Static Assets: Configuring the Server"
+publishedAt = "2019-02-15"
+
+[[adobe]]
+id = "https://medium.com/adobetech/an-http-caching-strategy-for-static-assets-generating-static-assets-feab2bd9bd9b"
+title = "An HTTP Caching Strategy for Static Assets: Generating Static Assets"
+publishedAt = "2019-02-08"
