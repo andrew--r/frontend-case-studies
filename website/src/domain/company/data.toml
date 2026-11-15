@@ -806,3 +806,8 @@ name = "Squarespace"
 websiteUrl = "https://www.squarespace.com"
 blogUrl = "https://engineering.squarespace.com"
 rssUrl = "https://engineering.squarespace.com/blog?format=rss"
+
+[adobe]
+name = "Adobe"
+websiteUrl = "https://www.adobe.com"
+blogUrl = "https://blog.developer.adobe.com"
