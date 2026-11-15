@@ -87,10 +87,17 @@ websiteUrl = "https://www.buzzfeed.com"
 [cabify]
 name = "Cabify"
 websiteUrl = "https://www.cabify.com/"
+blogUrl = "https://tech.cabify.com/blog/engineering/"
 
 [campaignmonitor]
 name = "Campaign Monitor"
 websiteUrl = "https://www.campaignmonitor.com/"
+
+[calibre]
+name = "Calibre"
+websiteUrl = "https://calibreapp.com"
+blogUrl = "https://calibreapp.com/blog/category/inside-calibre"
+rssUrl = "https://calibreapp.com/blog/rss.xml"
 
 [carousell]
 name = "Carousell"
@@ -109,6 +116,11 @@ websiteUrl = "https://www.checkbot.io/"
 [clearleft]
 name = "Clearleft"
 websiteUrl = "https://clearleft.com"
+
+[clickhouse]
+name = "ClickHouse"
+websiteUrl = "https://clickhouse.com"
+blogUrl = "https://clickhouse.com/blog"
 
 [cloudflare]
 name = "Cloudflare"
@@ -177,6 +189,11 @@ websiteUrl = "https://www.ele.me"
 [etsy]
 name = "Etsy"
 websiteUrl = "https://www.etsy.com"
+
+[excalidraw]
+name = "Excalidraw"
+websiteUrl = "https://excalidraw.com"
+blogUrl = "https://plus.excalidraw.com/blog"
 
 [evilmartians]
 name = "Evil Martians"
@@ -283,6 +300,12 @@ websiteUrl = "https://infinite.red/"
 name = "Insider Inc."
 websiteUrl = "https://www.insider-inc.com/"
 
+[inngest]
+name = "Inngest"
+websiteUrl = "https://www.inngest.com"
+blogUrl = "https://www.inngest.com/blog"
+rssUrl = "https://www.inngest.com/api/rss.xml"
+
 [instagram]
 name = "Instagram"
 websiteUrl = "https://www.instagram.com/"
@@ -298,6 +321,12 @@ websiteUrl = "https://www.intuit.com"
 [invision]
 name = "InVision"
 websiteUrl = "https://www.invisionapp.com"
+
+[janestreet]
+name = "Jane Street"
+websiteUrl = "https://www.janestreet.com/"
+blogUrl = "https://blog.janestreet.com"
+rssUrl = "https://blog.janestreet.com/feed.xml"
 
 [khanacademy]
 name = "Khan Academy"
@@ -434,6 +463,17 @@ websiteUrl = "https://www.pivotaltracker.com"
 name = "Plaid"
 websiteUrl = "https://plaid.com"
 
+[plaidinc]
+name = "PLAID, Inc."
+websiteUrl = "https://plaid.co.jp"
+blogUrl = "https://tech.plaid.co.jp"
+rssUrl = "https://tech.plaid.co.jp/rss.xml"
+
+[polar]
+name = "Polar"
+websiteUrl = "https://polar.sh"
+blogUrl = "https://polar.sh/blog"
+
 [producthunt]
 name = "Product Hunt"
 websiteUrl = "https://www.producthunt.com"
@@ -449,6 +489,12 @@ websiteUrl = "https://quizlet.com/"
 [quora]
 name = "Quora"
 websiteUrl = "https://www.quora.com/"
+
+[railway]
+name = "Railway"
+websiteUrl = "https://railway.com"
+blogUrl = "https://blog.railway.com/engineering"
+rssUrl = "https://blog.railway.com/rss.xml"
 
 [reagroup]
 name = "REA Group"
@@ -493,6 +539,7 @@ websiteUrl = "https://sentry.io"
 [shopify]
 name = "Shopify"
 websiteUrl = "https://shopify.com"
+blogUrl = "https://shopify.engineering"
 
 [skillshare]
 name = "Skillshare"
@@ -501,6 +548,7 @@ websiteUrl = "https://skillshare.com/"
 [slack]
 name = "Slack"
 websiteUrl = "https://slack.com"
+blogUrl = "https://slack.engineering"
 
 [snipcart]
 name = "Snipcart"
@@ -537,6 +585,12 @@ websiteUrl = "https://superhuman.com"
 [takeshape]
 name = "TakeShape"
 websiteUrl = "https://www.takeshape.io"
+
+[tailscale]
+name = "Tailscale"
+websiteUrl = "https://tailscale.com"
+blogUrl = "https://tailscale.com/blog"
+rssUrl = "https://tailscale.com/blog/index.xml"
 
 [theguardian]
 name = "The Guardian"
@@ -746,3 +800,19 @@ name = "Calm"
 websiteUrl = "https://www.calm.com"
 blogUrl = "https://blog.calm.com/engineering"
 rssUrl = "https://blog.calm.com/engineering?format=rss"
+
+[framer]
+name = "Framer"
+websiteUrl = "https://www.framer.com"
+blogUrl = "https://www.framer.com/blog/engineering"
+
+[squarespace]
+name = "Squarespace"
+websiteUrl = "https://www.squarespace.com"
+blogUrl = "https://engineering.squarespace.com"
+rssUrl = "https://engineering.squarespace.com/blog?format=rss"
+
+[adobe]
+name = "Adobe"
+websiteUrl = "https://www.adobe.com"
+blogUrl = "https://blog.developer.adobe.com"

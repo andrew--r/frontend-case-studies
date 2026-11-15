@@ -149,6 +149,16 @@ title = "Using NetInfo API to Improve Algolia’s JavaScript Client"
 publishedAt = "2019-07-30"
 
 [[allegro]]
+id = "https://blog.allegro.tech/2026/08/how-we-achieved-independent-deployments-in-a-micro-frontend-architecture.html"
+title = "How we achieved independent deployments in a micro-frontend architecture"
+publishedAt = "2026-08-03"
+
+[[allegro]]
+id = "https://blog.allegro.tech/2026/02/battle-testing-lynx-js-at-allegro.html"
+title = "Battle-testing Lynx at Allegro"
+publishedAt = "2026-02-05"
+
+[[allegro]]
 id = "https://blog.allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html"
 title = "Managing Frontend in the Microservices Architecture"
 publishedAt = "2016-03-12"
@@ -407,6 +417,46 @@ publishedAt = "2016-07-29"
 id = "https://tech.nextroll.com/blog/frontend/2017/08/29/how-to-run-a-front-end-infrastructure-team.html"
 title = "How to Run a Front-End Infrastructure Team"
 publishedAt = "2017-08-29"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/ai-at-work/giving-ai-agents-design-system-context-from-the-terminal-what-we-learned-building-a-cli"
+title = "Giving AI agents design system context from the terminal: what we learned building a CLI"
+publishedAt = "2026-09-16"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/building-real-time-pwa-atlassians-own-stack"
+title = "Building a real-time PWA on Atlassian’s own stack"
+publishedAt = "2026-08-06"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/atlassians-design-md-is-here-what-we-learned-testing-portable-design-context-in-practice"
+title = "Atlassian’s DESIGN.md is here: what we learned testing portable design context in practice"
+publishedAt = "2026-06-15"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/streaming-server-side-rendering-in-confluence"
+title = "Streaming Server-Side Rendering in Confluence"
+publishedAt = "2026-04-15"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/development/rovo-dev-frontend-platform-engineering"
+title = "Rovo Dev in Frontend Platform Engineering – AI for small tasks, AI for big tasks"
+publishedAt = "2026-04-15"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/rovo-creation-canvas"
+title = "Creating with Rovo: How We Built a Collaborative AI Canvas"
+publishedAt = "2026-04-06"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/under-the-hood-of-confluence-race-mode"
+title = "Under the Hood of Confluence Race Mode"
+publishedAt = "2025-12-01"
+
+[[atlassian]]
+id = "https://www.atlassian.com/blog/how-we-build/behind-the-screens-building-atlassians-new-icon-system"
+title = "Behind the screens: Building Atlassian’s new icon system"
+publishedAt = "2025-09-09"
 
 [[atlassian]]
 id = "https://www.atlassian.com/engineering/trellisheets-how-we-spin-up-css-for-trello-sites-with-ease"
@@ -708,6 +758,11 @@ id = "https://cm.engineering/how-to-test-accessibility-of-emails-b68fed03f5f4"
 title = "How to test accessibility of emails"
 publishedAt = "2018-06-05"
 
+[[calibre]]
+id = "https://calibreapp.com/blog/building-our-beloved-hex-map"
+title = "Delivering a dynamic hexagonal world map in just 10kb"
+publishedAt = "2026-04-22"
+
 [[carousell]]
 id = "https://medium.com/carousell-insider/how-we-made-carousells-mobile-web-experience-3x-faster-bbb3be93e006"
 title = "How we made Carousell’s mobile web experience 3x faster"
@@ -753,6 +808,11 @@ id = "https://clearleft.com/posts/a-framework-for-web-performance"
 title = "A framework for web performance"
 publishedAt = "2018-09-20"
 
+[[clickhouse]]
+id = "https://clickhouse.com/blog/observability-ui-is-dead-whats-next"
+title = "The observability UI as we know it is dead. So what comes next?"
+publishedAt = "2026-11-09"
+
 [[cloudflare]]
 id = "https://blog.cloudflare.com/how-we-built-origin-ca-web-crypto/"
 title = "How we built Origin CA: Web Crypto"
@@ -797,6 +857,21 @@ publishedAt = "2020-04-08"
 id = "https://blog.cloudflare.com/dark-mode/"
 title = "Dark Mode for the Cloudflare Dashboard"
 publishedAt = "2021-09-29"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/cloudflare-radar-localization-journey/"
+title = "Internationalization and localization: bringing Cloudflare Radar to a global audience"
+publishedAt = "2024-12-16"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/vinext/"
+title = "How we rebuilt Next.js with AI in one week"
+publishedAt = "2026-02-24"
+
+[[cloudflare]]
+id = "https://blog.cloudflare.com/workflow-diagrams/"
+title = "How we use Abstract Syntax Trees (ASTs) to turn Workflows code into visual diagrams"
+publishedAt = "2026-03-27"
 
 [[cloudfour]]
 id = "https://cloudfour.com/thinks/all-mixed-up-isomorphic-sorting-gone-wrong/"
@@ -962,6 +1037,16 @@ publishedAt = "2022-08-30"
 id = "https://careersatdoordash.com/blog/revamping-dasher-faq-hub-through-server-driven-content-and-webview/"
 title = "Revamping Dasher FAQ Hub Through Server-Driven Content and WebView"
 publishedAt = "2023-10-24"
+
+[[doordash]]
+id = "https://careersatdoordash.com/blog/how-doordash-slashed-web-developer-build-times/"
+title = "How DoorDash slashed web developer build times"
+publishedAt = "2025-10-20"
+
+[[doordash]]
+id = "https://careersatdoordash.com/blog/doordash-supporting-passkeys-to-create-a-secure-and-seamless-login-experience/"
+title = "Supporting passkeys to create a secure and seamless login experience"
+publishedAt = "2026-04-15"
 
 [[dropbox]]
 id = "https://blogs.dropbox.com/tech/2011/04/hello-world/"
@@ -1313,10 +1398,90 @@ id = "https://www.etsy.com/codeascraft/etsys-journey-to-typescript"
 title = "Etsy’s Journey to TypeScript"
 publishedAt = "2021-11-08"
 
+[[etsy]]
+id = "https://www.etsy.com/codeascraft/search-prefetching-performance"
+title = "Improving performance by prefetching product pages from Etsy Search"
+publishedAt = "2025-10-29"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/building-elbow-arrows-part-two"
+title = "Building Elbow Arrows in Excalidraw (Part 2)"
+publishedAt = "2025-12-18"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/building-elbow-arrows-part-one"
+title = "Building Elbow Arrows in Excalidraw (Part 1)"
+publishedAt = "2025-10-06"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/excalidraw-soc2"
+title = "Excalidraw+ is SOC 2 compliant"
+publishedAt = "2025-06-18"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/adding-hand-drawn-font-for-chinese-japanese-korean"
+title = "Adding hand-drawn font for Chinese, Japanese and Korean"
+publishedAt = "2024-11-07"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/redesigning-editor-api"
+title = "Rethinking the Component API"
+publishedAt = "2023-01-13"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/excalidraw-and-fugu"
+title = "Excalidraw and Fugu: Improving Core User Journeys"
+publishedAt = "2021-05-21"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/deprecating-excalidraw-electron"
+title = "Deprecating Excalidraw Electron in favor of the Web version"
+publishedAt = "2020-12-17"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/browser-fs-access"
+title = "Reading and writing files and directories with the browser-fs-access library"
+publishedAt = "2020-12-09"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/enabling-translations"
+title = "Enabling Translations"
+publishedAt = "2020-04-16"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/building-excalidraw-p2p-collaboration-feature"
+title = "Building Excalidraw's P2P Collaboration Feature"
+publishedAt = "2020-03-29"
+
+[[excalidraw]]
+id = "https://plus.excalidraw.com/blog/end-to-end-encryption"
+title = "End-to-End Encryption in the Browser"
+publishedAt = "2020-03-21"
+
 [[evilmartians]]
 id = "https://evilmartians.com/chronicles/is-react-native-podium-ready"
 title = "Is React Native podium-ready?"
 publishedAt = "2018-05-14"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/how-to-make-complex-chrome-plugins-a-zero-gravity-guide"
+title = "How to make complex Chrome extensions: a zero gravity guide"
+publishedAt = "2024-07-16"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/how-to-make-your-website-visible-to-llms"
+title = "Making your site visible to LLMs: 6 techniques that work, 8 that don't"
+publishedAt = "2026-04-15"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/from-react-to-native-web-with-nanotags-a-migration-that-saved-100kb"
+title = "From React to native web with nanotags: a migration that saved 100 KB"
+publishedAt = "2026-05-06"
+
+[[evilmartians]]
+id = "https://evilmartians.com/chronicles/600-million-people-write-right-to-left-2-fixes-your-app-needs"
+title = "600+ million people write right-to-left: 2 fixes your app needs"
+publishedAt = "2026-05-18"
 
 [[expediagroup]]
 id = "https://medium.com/expedia-group-tech/a-b-testing-and-the-cloak-of-invisibility-a-better-way-to-scope-variant-code-in-your-react-app-902a68a0c2c3"
@@ -1522,6 +1687,11 @@ publishedAt = "2024-05-14"
 id = "https://engineering.fb.com/2024/10/02/android/react-at-meta-connect-2024/"
 title = "React at Meta Connect 2024"
 publishedAt = "2024-10-02"
+
+[[meta]]
+id = "https://engineering.fb.com/2025/11/11/web/stylex-a-styling-library-for-css-at-scale/"
+title = "StyleX: A Styling Library for CSS at Scale"
+publishedAt = "2025-11-11"
 
 [[farfetch]]
 id = "https://www.linkedin.com/pulse/need-speed-1-measuring-todays-web-performance-manuel-garcia/"
@@ -2058,6 +2228,11 @@ id = "https://www.grammarly.com/blog/engineering/signals-with-focal-library/"
 title = "Signals With @grammarly/focal"
 publishedAt = "2023-08-21"
 
+[[grammarly]]
+id = "https://www.grammarly.com/blog/engineering/reducing-text-input-lag/"
+title = "How We Reduced Text Input Lag to Improve Web Performance"
+publishedAt = "2025-02-12"
+
 [[gusto]]
 id = "https://engineering.gusto.com/solving-the-double-click-in-backbone-js-41452da08169"
 title = "Solving the double-click in Backbone.js"
@@ -2178,6 +2353,41 @@ id = "https://medium.com/insider-inc-engineering/delightful-ways-to-write-reusab
 title = "Delightful ways to write reusable CSS using subclasses"
 publishedAt = "March 1 , 2019"
 
+[[inngest]]
+id = "https://www.inngest.com/blog/building-a-realtime-websocket-app-using-sveltekit"
+title = "Building a real-time websocket app using SvelteKit"
+publishedAt = "2022-02-22"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/building-educational-typescript-tooling"
+title = "Building educational TypeScript tooling"
+publishedAt = "2022-09-28"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/5-lessons-learned-from-taking-next-js-app-router-to-production"
+title = "5 Lessons Learned From Taking Next.js App Router to Production"
+publishedAt = "2023-05-05"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/migrating-from-vite-to-nextjs"
+title = "Migrating from Vite to Next.js"
+publishedAt = "2023-07-20"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/migrating-off-nextjs-tanstack-start"
+title = "Reducing local dev time by 83%: Why we migrated off Next.js"
+publishedAt = "2026-01-30"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/typescript-types-as-api"
+title = "Typescript For Apps Vs Typescript For SDKs"
+publishedAt = "2026-03-13"
+
+[[inngest]]
+id = "https://www.inngest.com/blog/hanging-promises-for-control-flow"
+title = "You can't cancel a JavaScript promise (except sometimes you can)"
+publishedAt = "2026-04-07"
+
 [[instagram]]
 id = "https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7"
 title = "React Native at Instagram"
@@ -2267,6 +2477,36 @@ publishedAt = "2016-09-23"
 id = "https://web.archive.org/web/20240930154803/https://engineering.invisionapp.com/post/building-the-inspect-measurement-engine/"
 title = "Building the inspect measurement engine"
 publishedAt = "2019-07-17"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/incrementality-and-the-web/"
+title = "Incremental computation and the web"
+publishedAt = "2016-01-30"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/self-adjusting-dom/"
+title = "Self Adjusting DOM"
+publishedAt = "2016-02-06"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/self-adjusting-dom-and-diffable-data/"
+title = "Self Adjusting DOM and Diffable Data"
+publishedAt = "2016-02-10"
+
+[[janestreet]]
+id = "https://www.janestreet.com/tech-talks/intro-to-incr-dom/"
+title = "Introduction to Incr dom: Writing Dynamic Web Apps in OCaml"
+publishedAt = "2018-08-24"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/chrome-extensions-finding-the-missing-proof/"
+title = "Chrome extensions: Finding the missing proof"
+publishedAt = "2020-04-17"
+
+[[janestreet]]
+id = "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/"
+title = "I design with Claude more than Figma now"
+publishedAt = "2026-02-05"
 
 [[khanacademy]]
 id = "https://blog.khanacademy.org/babel-in-khan-academys-i18n-toolchain/"
@@ -2422,6 +2662,16 @@ publishedAt = "2018-04-02"
 id = "https://techblog.lycorp.co.jp/en/20231005a"
 title = "How We Rearchitected A/B Testing at LINE NEWS"
 publishedAt = "2023-10-05"
+
+[[line]]
+id = "https://techblog.lycorp.co.jp/en/20250321a"
+title = "State of LY Frontend 2024 report: Unveiling LY Corporation's frontend technology"
+publishedAt = "2025-03-21"
+
+[[line]]
+id = "https://techblog.lycorp.co.jp/en/improve-development-experience-with-flutter-web"
+title = "Improving the product development environment using Flutter Web"
+publishedAt = "2025-05-21"
 
 [[linkedin]]
 id = "https://engineering.linkedin.com/blog/2016/01/smashing-the-monolith"
@@ -2613,6 +2863,11 @@ id = "https://hacks.mozilla.org/2019/02/refactoring-mdn-macros-with-async-await-
 title = "Refactoring MDN macros with async, await, and Object.freeze()"
 publishedAt = "2019-02-07"
 
+[[mdn]]
+id = "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/"
+title = "Under the hood of MDN's new frontend"
+publishedAt = "2026-04-08"
+
 [[medium]]
 id = "https://medium.engineering/why-contenteditable-is-terrible-122d8a40e480"
 title = "Why ContentEditable is Terrible"
@@ -2777,6 +3032,11 @@ publishedAt = "2023-08-24"
 id = "https://engineering.mixpanel.com/best-javascript-charting-libraries-72e30974fc88"
 title = "Best Javascript Charting Libraries"
 publishedAt = "2010-09-18"
+
+[[mixpanel]]
+id = "https://mixpanel.substack.com/p/building-heatmaps-at-scale"
+title = "Building Heatmaps at Scale"
+publishedAt = "2025-08-19"
 
 [[monzo]]
 id = "https://youtu.be/UXpY3-DlZ9c"
@@ -3198,6 +3458,21 @@ id = "https://blog.plaid.com/securing-webviews-with-chrome-custom-tabs"
 title = "Securing WebViews with Chrome Custom Tabs"
 publishedAt = "2020-04-09"
 
+[[plaid]]
+id = "https://plaid.com/blog/handlebars-to-react-migration/"
+title = "How we migrated our website from Handlebars to React in 12 weeks"
+publishedAt = "2020-06-09"
+
+[[plaidinc]]
+id = "https://tech.plaid.co.jp/perf-server-build"
+title = "Achieving 87x Faster Server-Side Action Builds: Migrating from Rollup to Rolldown"
+publishedAt = "2025-08-25"
+
+[[polar]]
+id = "https://polar.sh/blog/orbit-llm-safe-design-system"
+title = "Building an LLM safe design system"
+publishedAt = "2026-06-16"
+
 [[producthunt]]
 id = "https://youtu.be/F38nRMktS9Q"
 title = "React @ Product Hunt"
@@ -3242,6 +3517,16 @@ publishedAt = "2016-08-18"
 id = "https://www.quora.com/q/quoraengineering/Choosing-Quora-s-GraphQL-client"
 title = "Choosing Quora’s GraphQL client"
 publishedAt = "2020-07-22"
+
+[[railway]]
+id = "https://blog.railway.com/p/moving-railways-frontend-off-nextjs"
+title = "Moving Railway's Frontend Off Next.js"
+publishedAt = "2026-04-03"
+
+[[railway]]
+id = "https://blog.railway.com/p/twin-macro-tailwind-migration"
+title = "Why We Ripped Twin out of 400+ Components"
+publishedAt = "2023-05-04"
 
 [[reagroup]]
 id = "https://www.rea-group.com/about-us/news-and-insights/blog/loading-google-maps-with-requirejs/"
@@ -3403,6 +3688,16 @@ id = "https://medium.com/revolut/the-fundamentals-of-web-development-at-revolut-
 title = "The fundamentals of web development at Revolut"
 publishedAt = "2021-01-04"
 
+[[revolut]]
+id = "https://medium.com/revolut/canvas-based-javascript-blur-detection-b92ab1075acf"
+title = "Canvas-based JavaScript Blur detection"
+publishedAt = "2024-01-22"
+
+[[revolut]]
+id = "https://medium.com/revolut/building-the-web-that-moves-money-inside-web-engineering-at-revolut-3dd4fb78fbfa"
+title = "Building the Web that Moves Money: inside Web engineering at Revolut"
+publishedAt = "2025-10-16"
+
 [[roompact]]
 id = "https://charukiewi.cz/posts/elm/"
 title = "Elm In Production: 25,000 Lines Later"
@@ -3539,8 +3834,18 @@ title = "How We Ditched Redux for MobX"
 publishedAt = "2018-07-02"
 
 [[slack]]
+id = "https://slack.engineering/build-better-software-to-build-software-better/"
+title = "Build better software to build software better"
+publishedAt = "2025-11-06"
+
+[[slack]]
+id = "https://slack.engineering/speedup-e2e-testing/"
+title = "Optimizing Our E2E Pipeline"
+publishedAt = "2025-04-14"
+
+[[slack]]
 id = "https://slack.engineering/reducing-slacks-memory-footprint-4480fec7e8eb"
-title = "Reducing Slack’s memory footprint"
+title = "Reducing Slack's memory footprint"
 publishedAt = "2017-03-03"
 
 [[slack]]
@@ -3788,10 +4093,30 @@ id = "https://stripe.com/blog/migrating-to-typescript"
 title = "Migrating millions of lines of code to TypeScript"
 publishedAt = "2022-05-20"
 
+[[stripe]]
+id = "https://stripe.com/blog/markdoc"
+title = "How Stripe builds interactive docs with Markdoc"
+publishedAt = "2022-09-13"
+
 [[sumup]]
 id = "https://medium.com/sumup-engineering/10-lessons-learned-building-sumups-design-system-577af292ae56"
 title = "10 lessons learned building SumUp’s design system"
 publishedAt = "2019-08-15"
+
+[[superhuman]]
+id = "https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/"
+title = "How to build a remarkable command palette"
+publishedAt = "2021-10-12"
+
+[[superhuman]]
+id = "https://blog.superhuman.com/how-to-eliminate-regular-expression-denial-of-service/"
+title = "How to eliminate regular expression denial of service"
+publishedAt = "2020-02-19"
+
+[[superhuman]]
+id = "https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps/"
+title = "Performance metrics for blazingly fast web apps"
+publishedAt = "2019-09-24"
 
 [[superhuman]]
 id = "https://blog.superhuman.com/delightful-search-more-than-meets-the-eye-d3fa2e3ef3b6"
@@ -3802,6 +4127,11 @@ publishedAt = "2017-05-05"
 id = "https://www.takeshape.io/articles/why-we-switched-from-yarn-to-pnpm/"
 title = "Why we switched from Yarn to pnpm"
 publishedAt = "2020-06-09"
+
+[[tailscale]]
+id = "https://tailscale.com/blog/heart-of-dark-mode"
+title = "Heart of dark mode: done, and still in progress"
+publishedAt = "2024-08-29"
 
 [[theguardian]]
 id = "https://www.theguardian.com/info/developer-blog/2016/dec/18/what-we-learnt-from-our-mistakes-in-2016"
@@ -3818,6 +4148,36 @@ id = "https://www.theguardian.com/info/2019/dec/08/migrating-the-guardian-websit
 title = "Migrating the Guardian website to React"
 publishedAt = "2019-12-08"
 
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2019-dec-22-async-failure-handling-in-typescript.html"
+title = "Async Failure handling in Typescript"
+publishedAt = "2019-12-22"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2021-jan-26-how-we-made-typerighter-the-guardians-style-guide-checker.html"
+title = "How we made Typerighter, the Guardian's style guide checker"
+publishedAt = "2021-01-26"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2022-mar-25-react-islands-on-theguardiancom.html"
+title = "React islands on theguardian.com"
+publishedAt = "2022-03-25"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2022-oct-06-how-we-built-the-guardians-tor-onion-service.html"
+title = "How we built the Guardian's Tor Onion service"
+publishedAt = "2022-10-06"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-2023-dec-11-making-typerighter-work-harder-engineering-blog.html"
+title = "Making Typerighter work harder"
+publishedAt = "2023-12-11"
+
+[[theguardian]]
+id = "https://theguardian.engineering/blog/info-article-2024-jul-26-parsing-the-merit-of-strictly-typed-json.html"
+title = "Parsing: the merit of strictly typed JSON"
+publishedAt = "2024-07-26"
+
 [[theknotww]]
 id = "https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571"
 title = "Rebuilding the Guest List Manager with React + MobX at The Knot"
@@ -3832,6 +4192,11 @@ publishedAt = "2019-02-08"
 id = "https://tech.xogrp.com/react-native-at-the-knot-a-designers-perspective-d3d3fe41ada1"
 title = "React Native @ The Knot: A Designer’s Perspective"
 publishedAt = "2019-02-13"
+
+[[nytimes]]
+id = "https://open.nytimes.com/how-the-new-york-times-is-scaling-unit-test-coverage-using-ai-tools-fa796bf9b8d2"
+title = "How The New York Times is scaling Unit Test Coverage using AI Tools"
+publishedAt = "2026-01-13"
 
 [[nytimes]]
 id = "https://open.nytimes.com/the-technology-behind-the-nytimes-com-redesign-3d3d3da70b9c"
@@ -4122,6 +4487,11 @@ publishedAt = "2022-08-01"
 id = "https://tech.trivago.com/post/2023-09-27-end-to-end-tests-retry-strategies"
 title = "End-to-end tests retry strategies"
 publishedAt = "2023-09-27"
+
+[[trivago]]
+id = "https://tech.trivago.com/post/2026-03-13-from-a-long-list-to-a-clear-signal-baseline-driven-accessibility-reporting"
+title = "From a long list to a clear signal: baseline-driven accessibility reporting"
+publishedAt = "2026-03-13"
 
 [[tumblr]]
 id = "https://javascript.tumblr.com/post/139610473242/moving-things-out-of-critical-rendering-path"
@@ -4633,6 +5003,16 @@ id = "https://engineeringblog.yelp.com/2024/03/chaos-yelps-unified-framework-for
 title = "CHAOS: Yelp's Unified Framework for Server-Driven UI"
 publishedAt = "2024-03-14"
 
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2026/04/keeping-server-driven-ui-consistent-across-platforms.html"
+title = "How Yelp Keeps Server-Driven UI Consistent Across Four Platforms"
+publishedAt = "2026-04-22"
+
+[[yelp]]
+id = "https://engineeringblog.yelp.com/2026/05/optimizing-our-build-times-by-migrating-from-webpack-to-rspack.html"
+title = "Optimizing Our Build Times by Migrating from Webpack to Rspack"
+publishedAt = "2026-05-20"
+
 [[ynab]]
 id = "https://dev.to/ynab/progressive-conversion-of-typescript-namespaces-to-modules-3f1j"
 title = "Progressive Conversion of TypeScript Namespaces to Modules"
@@ -5119,6 +5499,11 @@ id = "https://product.hubspot.com/blog/treating-frontend-performance-as-a-featur
 title = "How We Started Treating Frontend Performance as a Feature"
 publishedAt = "2020-01-22"
 
+[[hubspot]]
+id = "https://product.hubspot.com/blog/migrated-from-enzyme-to-react-testing-library"
+title = "Moving Mountains: How We Migrated from Enzyme to React Testing Library"
+publishedAt = "2025-11-23"
+
 [[carousell]]
 id = "https://medium.com/carousell-insider/automated-ui-testing-for-carousell-web-a01e6f5b8faf"
 title = "Automated UI testing for Carousell Web"
@@ -5159,6 +5544,11 @@ id = "https://www.patreon.com/posts/133137028"
 title = "4 Untranslatable Words Behind Patreon’s Internationalization Overhaul"
 publishedAt = "2025-07-03"
 
+[[patreon]]
+id = "https://www.patreon.com/posts/seven-years-to-typescript-152144830"
+title = "Seven Years to TypeScript: Migrating 11,000 Files at Patreon"
+publishedAt = "2026-03-03"
+
 [[calm]]
 id = "https://www.calm.com/blog/engineering/d49ac5cpg96haxlxlw8zmzzz2y98lc"
 title = "Internationalization With React-Intl"
@@ -5174,7 +5564,232 @@ id = "https://blog.calm.com/engineering/how-we-migrated-our-rushjs-monorepo-to-n
 title = "How we migrated our Rush.js monorepo to Node type stripping"
 publishedAt = "2025-08-21"
 
+[[framer]]
+id = "https://www.framer.com/blog/selecting-the-unselectable/"
+title = "Selecting the unselectable, how we rebuilt block selection in Framer’s rich-text editor"
+publishedAt = "2026-07-21"
+
+[[framer]]
+id = "https://www.framer.com/blog/fit-text-feature/"
+title = "Advanced responsive typography: technical implementation of Fit Text"
+publishedAt = "2023-05-30"
+
+[[framer]]
+id = "https://www.framer.com/blog/introducing-avif-support/"
+title = "How Framer does AVIF"
+publishedAt = "2024-05-30"
+
+[[framer]]
+id = "https://www.framer.com/blog/sites-interactive-faster/"
+title = "Sites now become interactive 50% faster"
+publishedAt = "2024-11-08"
+
+[[framer]]
+id = "https://www.framer.com/blog/react-code-boundaries/"
+title = "Rabbit hole of React error handling"
+publishedAt = "2025-03-18"
+
+[[framer]]
+id = "https://www.framer.com/blog/framer-rolldown/"
+title = "Bundling at Framer: Rolldown for faster sites"
+publishedAt = "2025-11-20"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2026/squarespace-and-web-standards-how-we-helped-bring-html-video-and-audio-lazy-loading-to-todays-browsers"
+title = "Squarespace & Web Standards: How We Helped Bring HTML Video & Audio Lazy Loading to Today’s Browsers"
+publishedAt = "2026-03-30"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2022/developing-fluid-engine"
+title = "Developing Fluid Engine"
+publishedAt = "2022-08-31"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2022/a-better-way-to-upload-images"
+title = "A Better Way to Upload Images"
+publishedAt = "2022-08-10"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw"
+title = "How we use WebGL at Squarespace"
+publishedAt = "2022-04-08"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2021/collaborating-to-build-an-uncertain-layout"
+title = "Collaborating to Build an Uncertain Layout"
+publishedAt = "2021-09-22"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2021/synchronizing-application-state-across-browser-frames"
+title = "Synchronizing Application State Across Browser Frames"
+publishedAt = "2021-07-29"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2019/building-the-squarespace-image-filters"
+title = "Building the Squarespace Image Filters"
+publishedAt = "2019-03-28"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2018/building-a-system-for-front-end-translations"
+title = "Building a System for Front-End Translations"
+publishedAt = "2018-08-15"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2018/continuous-localization-at-squarespace"
+title = "Continuous Localization at Squarespace"
+publishedAt = "2018-03-05"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-ii"
+title = "UI Testing at Squarespace: Part II"
+publishedAt = "2017-10-18"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2017/ui-testing-at-squarespace-part-i"
+title = "UI Testing at Squarespace: Part I"
+publishedAt = "2017-10-04"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2016/forum-fronting"
+title = "Forum Fronting"
+publishedAt = "2016-11-23"
+
+[[squarespace]]
+id = "https://engineering.squarespace.com/blog/2016/turbocharging-our-ui-tests"
+title = "Turbocharging Our UI Tests"
+publishedAt = "2016-09-01"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/sheet"
+title = "Scrolling is All You Need: Building a Swipeable Sheet"
+publishedAt = "2026-10-08"
+
+[[adobe]]
+id = "https://blog.developer.adobe.com/en/publish/2026/10/build-time-wasm-module-splitting-ship-more-features-without-growing-your-startup-bundle"
+title = "Build-Time Wasm Module Splitting: Ship More Features Without Growing Your Startup Bundle"
+publishedAt = "2026-10-01"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/rtl-date-time"
+title = "Improving Internationalization Support in Our Date and Time Components"
+publishedAt = "2025-06-06"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/accessible-color-descriptions"
+title = "Accessible Color Descriptions for Improved Color Pickers"
+publishedAt = "2024-10-02"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/creating-a-pointer-friendly-submenu-experience"
+title = "Creating a pointer-friendly submenu experience"
+publishedAt = "2024-05-01"
+
+[[adobe]]
+id = "https://medium.com/@addyosmani/photoshop-is-now-on-the-web-38d70954365a"
+title = "Photoshop is now on the web!"
+publishedAt = "2023-09-30"
+
+[[adobe]]
+id = "https://medium.com/adobetech/split-javascript-packages-chunk-based-on-locale-a-step-by-step-guide-1a98700d65e0"
+title = "Split JavaScript Packages’ Chunk Based on Locale: A Step-by-Step Guide"
+publishedAt = "2023-08-02"
+
+[[adobe]]
+id = "https://medium.com/adobetech/stop-loading-all-locale-strings-a-step-by-step-guide-to-reducing-bundle-size-with-webpack-d052dece4693"
+title = "Stop Loading All Locale Strings: A Step-by-Step Guide to Reducing Bundle Size with Webpack"
+publishedAt = "2023-06-29"
+
+[[adobe]]
+id = "https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory"
+title = "How Photoshop solved working with files larger than can fit into memory"
+publishedAt = "2023-06-05"
+
+[[adobe]]
+id = "https://blog.tensorflow.org/2023/03/how-adobe-used-web-ml-with-tensorflowjs-to-enhance-photoshop-for-web.html"
+title = "How Adobe used Web ML with TensorFlow.js to enhance Photoshop for web"
+publishedAt = "2023-03-30"
+
+[[adobe]]
+id = "https://medium.com/adobetech/improve-jest-runner-performance-a8f56708ba94"
+title = "Improve Jest Runner Performance"
+publishedAt = "2022-12-19"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/drag-and-drop"
+title = "Taming the dragon: Accessible drag and drop"
+publishedAt = "2022-11-16"
+
+[[adobe]]
+id = "https://medium.com/adobetech/transforming-a-huge-monolith-to-micro-frontends-5fdd4179c44f"
+title = "Transforming a Huge Monolith into Micro Frontends"
+publishedAt = "2022-10-26"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/date-and-time-pickers-for-all"
+title = "Date and Time Pickers for All"
+publishedAt = "2022-06-21"
+
+[[adobe]]
+id = "https://web.dev/articles/ps-on-the-web"
+title = "Photoshop's journey to the web"
+publishedAt = "2021-10-26"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-combobox"
+title = "Creating an accessible autocomplete experience"
+publishedAt = "2021-07-13"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/how-we-internationalized-our-numberfield"
+title = "How we internationalized our number field"
+publishedAt = "2021-05-05"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-button-part-3"
+title = "Building a Button Part 3: Keyboard Focus Behavior"
+publishedAt = "2020-09-09"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-button-part-2"
+title = "Building a Button Part 2: Hover Interactions"
+publishedAt = "2020-08-25"
+
+[[adobe]]
+id = "https://react-aria.adobe.com/blog/building-a-button-part-1"
+title = "Building a Button Part 1: Press Events"
+publishedAt = "2020-08-12"
+
+[[adobe]]
+id = "https://medium.com/adobetech/acrobat-on-the-web-powered-by-webassembly-782385e4947e"
+title = "Introducing Acrobat on the Web, Powered by WebAssembly"
+publishedAt = "2020-02-21"
+
+[[adobe]]
+id = "https://medium.com/adobetech/an-http-caching-strategy-for-static-assets-testing-the-implementation-b142d97176bf"
+title = "An HTTP Caching Strategy for Static Assets: Testing the Implementation"
+publishedAt = "2019-02-21"
+
+[[adobe]]
+id = "https://medium.com/adobetech/an-http-caching-strategy-for-static-assets-configuring-the-server-1192452ce06a"
+title = "An HTTP Caching Strategy for Static Assets: Configuring the Server"
+publishedAt = "2019-02-15"
+
+[[adobe]]
+id = "https://medium.com/adobetech/an-http-caching-strategy-for-static-assets-generating-static-assets-feab2bd9bd9b"
+title = "An HTTP Caching Strategy for Static Assets: Generating Static Assets"
+publishedAt = "2019-02-08"
+
+[[cabify]]
+id = "https://tech.cabify.com/blog/engineering/migration-from-webpack-jest-to-vite-vitest"
+title = "From Webpack/Jest to Vite/Vitest: Data-Driven Approach"
+publishedAt = "2025-11-11"
+
 [[cabify]]
 id = "https://tech.cabify.com/blog/engineering/data-driven-help-in-app-optimization"
-title = "How we improved our web view performance using a data-driven approach"
+title = "Data-driven web performance optimization"
 publishedAt = "2025-10-27"
+
+[[cabify]]
+id = "https://tech.cabify.com/blog/engineering/our-frontend-stack"
+title = "Our Frontend Stack"
+publishedAt = "2022-04-05"
