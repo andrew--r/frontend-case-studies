@@ -5778,3 +5778,18 @@ publishedAt = "2019-02-15"
 id = "https://medium.com/adobetech/an-http-caching-strategy-for-static-assets-generating-static-assets-feab2bd9bd9b"
 title = "An HTTP Caching Strategy for Static Assets: Generating Static Assets"
 publishedAt = "2019-02-08"
+
+[[cabify]]
+id = "https://tech.cabify.com/blog/engineering/migration-from-webpack-jest-to-vite-vitest"
+title = "From Webpack/Jest to Vite/Vitest: Data-Driven Approach"
+publishedAt = "2025-11-11"
+
+[[cabify]]
+id = "https://tech.cabify.com/blog/engineering/data-driven-help-in-app-optimization"
+title = "Data-driven web performance optimization"
+publishedAt = "2025-10-27"
+
+[[cabify]]
+id = "https://tech.cabify.com/blog/engineering/our-frontend-stack"
+title = "Our Frontend Stack"
+publishedAt = "2022-04-05"
